@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head><meta charset="UTF-8"><title>Mobile Telemetry Blocklist</title>
+<style>body{font-family:system-ui;max-width:640px;margin:40px auto;padding:0 20px;color:#222}</style>
+</head>
+<body>
+<h1>Mobile Telemetry Blocklist</h1>
+<p>Blocks crash reporters, analytics SDKs, session replay, and device fingerprinting endpoints.</p>
+<p><strong>7337</strong> domains &mdash; updated 2026-07-01 16:49 UTC</p>
+<h2>Import to NextDNS</h2>
+<pre>pip install nextdnsctl
+nextdnsctl auth YOUR_API_KEY
+nextdnsctl denylist import YOUR_PROFILE_ID https://csdznwrk.github.io/telemetry-blocklist/domains.txt</pre>
+<p><a href="domains.txt">domains.txt</a></p>
+</body>
+</html>

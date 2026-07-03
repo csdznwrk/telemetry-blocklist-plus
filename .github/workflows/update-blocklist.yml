@@ -1,0 +1,61 @@
+name: Update Telemetry Blocklist
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # every 6 hours
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run updater
+        run: python scripts/update.py
+
+      - name: Commit and push if changed
+        run: |
+          git diff --quiet docs/ && exit 0
+          git config user.name  "blocklist-bot"
+          git config user.email "blocklist-bot@users.noreply.github.com"
+          COUNT=$(python -c "import json; print(json.load(open('docs/metadata.json'))['domain_count'])")
+          git add docs/
+          git commit -m "chore: update blocklist — ${COUNT} domains [$(date -u '+%Y-%m-%d %H:%M UTC')]"
+          git push
+
+  deploy-pages:
+    needs: update
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs/
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

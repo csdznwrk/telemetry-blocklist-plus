@@ -1,0 +1,1145 @@
+# ============================================================
+# MOBILE TELEMETRY & DEVICE STATE REPORTING BLOCKLIST
+# Focus: crash reporters, analytics SDKs, session replay,
+#        device fingerprinting, background beacons
+# ============================================================
+
+# --- Sentry (error/crash reporting) ---
+sentry.io
+ingest.sentry.io
+ingest.us.sentry.io
+ingest.de.sentry.io
+o1.ingest.sentry.io
+browser.sentry-cdn.com
+sentry-cdn.com
+getsentry.com
+ravenjs.com
+cdn.ravenjs.com
+
+# --- Datadog (RUM, crash, APM) ---
+browser-intake-datadoghq.com
+rum.browser-intake-datadoghq.com
+logs.browser-intake-datadoghq.com
+session-replay.browser-intake-datadoghq.com
+mobile-http-intake.logs.datadoghq.com
+trace.agent.datadoghq.com
+browser-intake-us5-datadoghq.com
+browser-intake-eu1-datadoghq.com
+
+# --- Segment (event pipeline) ---
+api.segment.io
+cdn.segment.com
+cdn.segment.io
+analytics.segment.io
+events.segment.io
+eventdelivery.segment.io
+
+# --- Amplitude ---
+api.amplitude.com
+api2.amplitude.com
+cdn.amplitude.com
+analytics.amplitude.com
+regionconfig.amplitude.com
+
+# --- Mixpanel ---
+api.mixpanel.com
+api-js.mixpanel.com
+decide.mixpanel.com
+
+# --- Firebase / Crashlytics / Google Analytics ---
+firebaselogging-pa.googleapis.com
+app-measurement.com
+firebase-settings.crashlytics.com
+settings.crashlytics.com
+crash.firebase.google.com
+e.crashlytics.com
+api.crashlytics.com
+firebase.google.com
+firebaseapp.com
+firebaseinstallations.googleapis.com
+firebasedynamiclinks.googleapis.com
+cloudfunctions.net
+
+# --- AppsFlyer (mobile attribution) ---
+appsflyer.com
+t.appsflyer.com
+conversion.appsflyer.com
+inappevent.appsflyer.com
+
+# --- Adjust (mobile attribution) ---
+app.adjust.com
+adjust.com
+s2s.adjust.com
+t.adjust.com
+
+# --- Branch (deep links + attribution) ---
+api2.branch.io
+cdn.branch.io
+branch.io
+
+# --- Kochava ---
+control.kochava.com
+track.kochava.com
+kochava.com
+
+# --- Braze (engagement + analytics) ---
+sdk.iad-01.braze.com
+sdk.iad-02.braze.com
+sdk.iad-03.braze.com
+sdk.iad-05.braze.com
+sdk.iad-06.braze.com
+sdk.iad-07.braze.com
+sdk.iad-08.braze.com
+sdk.fra-01.braze.eu
+sdk.fra-02.braze.eu
+braze.com
+
+# --- Intercom (in-app messaging + analytics) ---
+api.intercom.io
+js.intercom.io
+nexus-websocket-a.intercom.io
+nexus-websocket-b.intercom.io
+via.intercom.io
+intercom.io
+
+# --- Heap Analytics ---
+heapanalytics.com
+cdn.heapanalytics.com
+
+# --- FullStory (session replay) ---
+fullstory.com
+rs.fullstory.com
+edge.fullstory.com
+
+# --- LogRocket (session replay) ---
+logrocket.com
+r.lr-ingest.io
+lr-ingest.io
+cdn.logrocket.io
+
+# --- Hotjar (heatmaps + session replay) ---
+hotjar.com
+static.hotjar.com
+vars.hotjar.com
+api.hotjar.com
+insights.hotjar.com
+
+# --- New Relic ---
+bam.nr-data.net
+bam-cell.nr-data.net
+js-agent.newrelic.com
+mobile-collector.newrelic.com
+crash-upload.newrelic.com
+newrelic.com
+
+# --- Dynatrace ---
+bf17671ydi.bf.dynatrace.com
+dynatrace.com
+
+# --- Instabug (mobile crash + feedback) ---
+instabug.com
+api.instabug.com
+
+# --- Rollbar ---
+api.rollbar.com
+rollbar.com
+
+# --- Bugsnag ---
+notify.bugsnag.com
+sessions.bugsnag.com
+bugsnag.com
+
+# --- Statsig (feature flags + experimentation) ---
+api.statsig.com
+statsigapi.net
+featuregates.org
+
+# --- LaunchDarkly (feature flags) ---
+clientsdk.launchdarkly.com
+events.launchdarkly.com
+stream.launchdarkly.com
+app.launchdarkly.com
+launchdarkly.com
+
+# --- Optimizely ---
+logx.optimizely.com
+cdn.optimizely.com
+optimizely.com
+
+# --- Split.io ---
+sdk.split.io
+events.split.io
+auth.split.io
+split.io
+
+# --- Arkose Labs (device fingerprinting) ---
+api.arkoselabs.com
+arkoselabs.com
+funcaptcha.com
+
+# --- ThreatMetrix / LexisNexis (device fingerprinting) ---
+h.online-metrix.net
+online-metrix.net
+device.threatmetrix.com
+threatmetrix.com
+
+# --- Appsee / Glassbox (session replay) ---
+reports.appsee.com
+appsee.com
+glassbox.com
+api.glassbox.com
+
+# --- Countly ---
+stats.wp.com
+countly.com
+
+# --- Pendo (product analytics) ---
+cdn.pendo.io
+data.pendo.io
+pendo.io
+
+# --- PostHog ---
+us.i.posthog.com
+eu.i.posthog.com
+app.posthog.com
+posthog.com
+
+# --- Google APIs (analytics, tagging, measurement) ---
+googletagmanager.com
+googletagservices.com
+googleanalytics.com
+analytics.google.com
+ssl.google-analytics.com
+www.google-analytics.com
+stats.g.doubleclick.net
+tagmanager.google.com
+firebaseremoteconfig.googleapis.com
+firebasedynamiclinks-ipv6.googleapis.com
+firebaseinstallations.googleapis.com
+firebaseapp.com
+regionconfig.amplitude.com
+clientconfig.googleapis.com
+playintegrity.googleapis.com
+dataform.googleapis.com
+mobilesdkm.googleapis.com
+
+# --- App store / install attribution beacons ---
+app.link
+rncdn1.com
+install.branch.io
+click.google-analytics.com
+
+# --- OpenTelemetry / vendor collectors ---
+otelcol.aspecto.io
+otel.nr-data.net
+ingest.lightstep.com
+otelcol.honeycomb.io
+api.honeycomb.io
+api.datadoghq.com
+agent-intake.logs.datadoghq.com
+trace.agent.datadoghq.com
+process.agent.datadoghq.com
+
+# --- Rudderstack (data pipeline / analytics) ---
+rudderlabs.com
+api.rudderstack.com
+cdn.rudderlabs.com
+rs.rudderstack.com
+dataplane.rudderstack.com
+
+# --- Plausible / self-hosted analytics beacons ---
+plausible.io
+
+# --- Sumo Logic ---
+collectors.sumologic.com
+open-collectors.sumologic.com
+sumologic.com
+
+# --- Elastic APM ---
+apm.elastic.co
+telemetry.elastic.co
+
+# --- Coralogix ---
+api.coralogix.com
+ingress.coralogix.com
+
+# --- Snowplow (event analytics) ---
+snowplow.io
+snowplowanalytics.com
+sp.analytics.yahoo.com
+
+# --- Tealium (tag manager + analytics) ---
+tags.tiqcdn.com
+collect.tealiumiq.com
+tealiumiq.com
+visit.tealiumiq.com
+
+# --- Chartbeat ---
+static.chartbeat.com
+ping.chartbeat.net
+chartbeat.com
+
+# --- Quantcast ---
+cm.quantserve.com
+quantserve.com
+quantcount.com
+
+# --- Comscore ---
+scorecardresearch.com
+sb.scorecardresearch.com
+beacon.scorecardresearch.com
+
+# --- Splunk Observability / SignalFx RUM ---
+rum-ingest.us1.signalfx.com
+rum-ingest.eu0.signalfx.com
+rum-ingest.us0.signalfx.com
+rum-ingest.us1.observability.splunkcloud.com
+rum-ingest.eu0.observability.splunkcloud.com
+rum-ingest.us0.observability.splunkcloud.com
+ingest.us1.signalfx.com
+ingest.eu0.signalfx.com
+cd.signalfx.com
+cdn.signalfx.com
+signalfx.com
+observability.splunkcloud.com
+
+# --- AppDynamics / Cisco Cloud Observability ---
+pdx.saasgw.appdynamics.com
+syd.saasgw.appdynamics.com
+fra.saasgw.appdynamics.com
+iad.saasgw.appdynamics.com
+appdynamics.com
+cisco-appdynamics.com
+
+# --- Grafana Cloud (telemetry ingest) ---
+otlp-gateway-prod-us-east-0.grafana.net
+otlp-gateway-prod-eu-west-0.grafana.net
+logs-prod-us-central1.grafana.net
+logs-prod-eu-west-0.grafana.net
+tempo-prod-04-prod-us-east-0.grafana.net
+grafana.net
+
+# --- Telematics / insurance driving SDKs ---
+api-crash-assist-snapshot.gotruemotion.com
+gotruemotion.com
+api.telematicssdk.com
+telematicssdk.com
+damoov.com
+api.damoov.com
+arity.com
+api.arity.com
+cambridgemobiletelematicsdata.com
+cmtelematics.com
+zendrive.com
+api.zendrive.com
+
+# --- Contentsquare (session replay + experience analytics) ---
+contentsquare.net
+tagcommander.com
+tag.commander.com
+api.contentsquare.net
+cs-repl.com
+
+# --- Quantum Metric ---
+quantummetric.com
+logger.quantummetric.com
+api.quantummetric.com
+
+# --- Medallia (experience + voice of customer) ---
+medallia.com
+api.medallia.com
+surveys.medallia.com
+collect.medallia.com
+
+# --- Acoustic (IBM marketing analytics) ---
+acoustic.com
+mtpak.acoustic.com
+
+# --- Mixpanel (additional ingest endpoints) ---
+api-js.mixpanel.com
+cdp.mixpanel.com
+
+# --- Amplitude (additional regions) ---
+api.eu.amplitude.com
+api.lab.amplitude.com
+
+# --- Mobile engagement / push SDKs (heavy behavioral tracking) ---
+# OneSignal
+onesignal.com
+api.onesignal.com
+cdn.onesignal.com
+log.onesignal.com
+# Airship / Urban Airship
+airship.com
+urbanairship.com
+device-api.urbanairship.com
+aswpush.com
+go.urbanairship.com
+# CleverTap
+clevertap.com
+api.clevertap.com
+stats.clevertap.com
+wrs.clevertap.com
+# Leanplum
+leanplum.com
+api.leanplum.com
+cdn.leanplum.com
+# MoEngage
+moengage.com
+api-01.moengage.com
+api-02.moengage.com
+api-03.moengage.com
+api-04.moengage.com
+# Iterable
+api.iterable.com
+links.iterable.com
+iterable.com
+# WebEngage
+webengage.com
+api.webengage.com
+# Pushwoosh
+pushwoosh.com
+api.pushwoosh.com
+cp.pushwoosh.com
+# Insider
+useinsider.com
+api.useinsider.com
+# Customer.io
+customer.io
+api.customer.io
+track.customer.io
+# Klaviyo
+klaviyo.com
+static.klaviyo.com
+a.klaviyo.com
+# Swrve
+swrve.com
+api.swrve.com
+# Localytics
+localytics.com
+api.localytics.com
+
+# --- UXCam / mobile session replay ---
+sdkhub.com
+api.uxcam.com
+uxcam.com
+
+# --- Appcues (in-app onboarding + behavior) ---
+appcues.com
+api.appcues.com
+fast.appcues.com
+
+# --- Mixpanel / Amplitude ingestion (disguised subdomains) ---
+api.mixpanel.com
+cdp.mixpanel.com
+
+# --- Customer Data Platforms (CDP) ---
+# Segment (already in list, adding CDP-specific)
+segmentapis.com
+# mParticle
+mparticle.com
+nativesdks.mparticle.com
+identity.mparticle.com
+# Treasure Data
+treasuredata.com
+in.treasuredata.com
+# Lytics
+lytics.com
+api.lytics.com
+# BlueConic
+blueconic.com
+api.blueconic.com
+# ActionIQ
+actioniq.com
+# Tealium AudienceStream (already has tealium)
+collect.tealiumiq.com
+
+# --- Voice-of-customer / in-app surveys (harvest opinions + behavior) ---
+surveymonkey.com
+smsurvey.com
+usabilla.com
+api.usabilla.com
+delighted.com
+api.delighted.com
+typeform.com
+api.typeform.com
+getfeedback.com
+
+# --- Performance / APM (additional) ---
+# Catchpoint
+catchpoint.com
+# Atatus
+atatus.com
+api.atatus.com
+# Raygun
+api.raygun.com
+raygun.com
+# TrackJS
+errors.trackjs.com
+trackjs.com
+# Airbrake
+airbrake.io
+api.airbrake.io
+# Honeybadger
+api.honeybadger.io
+honeybadger.io
+
+# --- Advertising measurement (disguised as app infrastructure) ---
+# Singular (MMP)
+api.singular.net
+singular.net
+# Kochava (additional)
+control.kochava.com
+track.kochava.com
+# SKAdNetwork postback receivers
+postbacks.appsflyer.com
+skadnetwork.apple.com
+
+# --- Chinese surveillance SDKs (found in many global apps) ---
+# Umeng (Alibaba analytics)
+stat.umeng.com
+alog.umeng.com
+utdid.taobao.com
+umeng.com
+# TalkingData
+talkingdata.com
+api.talkingdata.com
+# iQIYI analytics
+bd.api.iqiyi.com
+# Igexin (known spyware SDK)
+api.igexin.com
+igexin.com
+
+# --- Location data brokers feeding law enforcement (Fog, Venntel, X-Mode pipeline) ---
+# X-Mode / Outlogic (FTC banned Jan 2024, still collecting)
+xmode.io
+outlogic.io
+api.xmode.io
+data.xmode.io
+# Venntel / Gravy Analytics (FTC banned Dec 2024)
+venntel.com
+gravyanalytics.com
+api.gravyanalytics.com
+# Mobilewalla (FTC banned Dec 2024)
+mobilewalla.com
+api.mobilewalla.com
+# InMarket (FTC banned Jan 2024)
+inmarket.com
+tracking.inmarket.com
+# Babel Street (federal agency intelligence platform)
+babelstreet.com
+api.babelstreet.com
+# Penlink / Webloc (ICE contract 2025)
+penlink.com
+webloc.com
+# Fog Data Science (pattern-of-life law enforcement tool)
+fogdatascience.com
+# Digital Envoy / Neustar location
+digitalenvoy.net
+# Cuebiq (already in profiling list, adding ingest subdomain)
+collect.cuebiq.com
+ingest.cuebiq.com
+# Placed / Snap attribution (location)
+placed.com
+snapplace.com
+# Near Intelligence
+near.co
+near.com
+api.near.co
+# Precisely / Targeting (formerly Pitney Bowes location data)
+precisely.com
+# GroundTruth (formerly xAd — location data broker)
+groundtruth.com
+api.groundtruth.com
+xad.com
+# Foursquare Pilgrim SDK (background location harvesting)
+pilgrim.foursquare.com
+api.foursquare.com
+foursquare.com
+# Adsquare (location data marketplace)
+adsquare.com
+api.adsquare.com
+# Outbrain location data
+locationdata.outbrain.com
+# Veraset (mobility data sold to government)
+veraset.com
+api.veraset.com
+# SafeGraph (already in profiling list, adding API)
+api.safegraph.com
+# Kochava (sells location to brokers)
+kochava.com
+mpmetrics.kochava.com
+# Complementics / location intelligence
+complementics.com
+# Unacast (location analytics)
+unacast.com
+api.unacast.com
+# Predicio (European location broker)
+predicio.com
+# Tamoco (location SDK)
+tamoco.com
+api.tamoco.com
+
+# --- Fingerprinting-as-a-Service (canvas, WebGL, AudioContext, battery, screen) ---
+# FingerprintJS Pro / Fingerprint.com
+fingerprint.com
+fpjscdn.net
+api.fpjs.io
+api.fpjs.pro
+fptls.com
+eu.api.fpjs.io
+ap.api.fpjs.io
+openfpcdn.io
+fingerprintjs.com
+# BioCatch (behavioral biometrics — tap/swipe/hold patterns)
+biocatch.com
+api.biocatch.com
+cd.biocatch.com
+# iovation / TransUnion (device reputation + fingerprinting)
+iovation.com
+mpsnare.com
+iovation.mpsnare.com
+client.iesnare.com
+mpsnare.iesnare.com
+# HUMAN Security / White Ops (deep device fingerprinting)
+humanity.com
+humanab.com
+px.ads.linkedin.com
+human.security
+api.human.security
+whiteops.com
+sensor.pxi.pub
+pxi.pub
+# 51Degrees (device detection / hardware profiling)
+51degrees.com
+device-detection.51degrees.com
+cloud.51degrees.com
+# DeviceAtlas
+deviceatlas.com
+api.deviceatlas.com
+# WURFL (device classification)
+wurfl.io
+api.wurfl.io
+scientiamobile.com
+# TrustDecision (device fingerprinting, Asia-Pacific)
+tdos.io
+api.trustdevice.ai
+trustdevice.ai
+# Seon (device fingerprinting + fraud)
+cdn.deviceintelligence.io
+deviceintelligence.io
+seon.io
+api.seon.io
+# Sardine (device + behavioral fingerprinting, fintech)
+sardine.ai
+api.sardine.ai
+# Castle (account security + device fingerprinting)
+castle.io
+api.castle.io
+d.castle.io
+# Transmit Security / BindID
+transmitsecurity.com
+api.transmitsecurity.com
+# Incognia (location + device fingerprinting, fintech)
+incognia.com
+api.incognia.com
+
+# --- ACR (Automated Content Recognition) — Smart TV / cross-device correlation ---
+inscape.tv
+data.inscape.tv
+samba.tv
+api.samba.tv
+gracenote.com
+tmsapi.com
+cdn2.gracenote.com
+ip-api.gracenote.com
+acr.conviva.com
+conviva.com
+api.conviva.com
+stats.conviva.com
+lg.conviva.com
+samsung.conviva.com
+roku.conviva.com
+ads.roku.com
+ad.roku.com
+scif.roku.com
+track.roku.com
+ads.samsungads.com
+config.samsungads.com
+deltas.samsungads.com
+us.info.lgsmartad.com
+info.lgsmartad.com
+ad.lgsmartad.com
+vizio.com
+smartcast.vizio.com
+api.vizio.com
+
+# --- Financial data brokers (transaction + purchase data sold to advertisers) ---
+# Verisk Marketing / Argus
+verisk.com
+veriskmarketing.com
+argusinformation.com
+# TransUnion TruAudience
+truaudience.com
+transunion.com
+marketing.transunion.com
+# Equifax Data-driven Marketing
+equifax.com
+kbmgroup.com
+edigitalresearch.com
+# IRI / Circana (purchase data + location)
+circana.com
+iri.com
+infores.com
+# NCSolutions (CPG purchase targeting)
+ncsolutions.com
+nielseniq.com
+api.nielseniq.com
+# Epsilon / Publicis PeopleCloud
+epsilonpeoplecloud.com
+peoplecloud.epsilon.com
+epsilonpersonalizedmedia.com
+publicismedia.com
+# Acxiom InfoBase (financial extension)
+infoacxiom.com
+recognition.acxiom.com
+
+# --- Clean room feed tags (client-side data collection feeding identity clean rooms) ---
+# LiveRamp ATS / RampID
+rampid.com
+ats.rlcdn.com
+authenticated-traffic-solution.rlcdn.com
+connect.liveramp.com
+# Google PAIR / Ads Data Hub
+pair.google.com
+adsdatahub.google.com
+# AWS Clean Rooms (client-side tags)
+ads.amazon.com
+assoc-amazon.com
+# Habu (clean room SaaS)
+habu.com
+api.habu.com
+# InfoSum
+infosum.com
+api.infosum.com
+
+# --- Sensor / activity inference SDKs (motion, screen wake, typing inference) ---
+# Inrix (mobility + activity inference)
+inrix.com
+api.inrix.com
+data.inrix.com
+# Sense360 / Medallia (activity inference)
+sense360.com
+api.sense360.com
+# Reveal Mobile (geofence + activity)
+revealmobile.com
+api.revealmobile.com
+# Verve Group (motion + activity)
+vervegroup.com
+ads.vervegroup.com
+# Killi (consent + activity data marketplace)
+killi.io
+api.killi.io
+
+# --- Prebid.js / header bidding auction infrastructure ---
+# These fire 20-40 simultaneous RTB calls on every page load
+prebid.org
+prebid.adnxs.com
+files.prebid.org
+prebid-server.rubiconproject.com
+exapi-us-east.rubiconproject.com
+exapi-us-west.rubiconproject.com
+exapi-eu.rubiconproject.com
+exapi-apac.rubiconproject.com
+prebid.a-mo.net
+ams1.b.adnxs.com
+europe.nym1.b.adnxs.com
+prebid.media.net
+pb.yieldlab.net
+prebid.districtm.io
+rtb.openx.net
+bidder.criteo.com
+prebid.smartadserver.com
+slotbid.a-mo.net
+prebid.smaato.net
+orthb.adtelligent.com
+bidder.sharethrough.com
+prebid.a-ads.com
+# PulsePoint (contextual + programmatic)
+context.bidswitch.net
+orthb.pulsepoint.com
+
+# --- Retail media network tracking ---
+# Target Roundel
+roundel.com
+ads.target.com
+target.demdex.net
+# Walmart Connect
+walmartconnect.com
+advertising.walmart.com
+wmt.com
+# Kroger / 84.51
+84-51.com
+krogerads.com
+advertising.kroger.com
+# Instacart Ads
+ads.instacart.com
+instacart.com
+# CVS Media Exchange
+cvspharmacy.com
+advertising.cvs.com
+# Walgreens Advertising Group
+advertising.walgreens.com
+# Home Depot Retail Media+
+retailmedia.homedepot.com
+# Best Buy Ads
+ads.bestbuy.com
+# Albertsons Media Collective
+albertsonsmediagroup.com
+# Dollar General Media Network
+media.dollargeneral.com
+# Gopuff Ads
+ads.gopuff.com
+# Ulta Beauty Media Network
+media.ulta.com
+
+# --- IoT / Smart home telemetry ---
+# Amazon Alexa / Echo / Ring
+device-metrics-us.amazon.com
+device-metrics-us-2.amazon.com
+alex.a2z.com
+alexaresponse.amazon.com
+push.amazon.com
+api.push.amazon.com
+kinesis.us-east-1.amazonaws.com
+telemetry.ring.com
+analytics.ring.com
+log.ring.com
+# Google Nest / Home
+analytics.nest.com
+telemetry.nest.com
+stats.nest.com
+homearea.googleapis.com
+devices.nest.com
+# Samsung SmartThings
+stats.samsungsmarthome.com
+telemetry.samsungsmarthome.com
+log.smartthings.com
+# Philips Hue
+telemetry.meethue.com
+# Ecobee
+stats.ecobee.com
+telemetry.ecobee.com
+# iRobot / Roomba
+telemetry.irobot.com
+analytics.irobot.com
+# Wyze
+telemetry.wyze.com
+analytics.wyze.com
+# Roborock
+logs.roborock.com
+telemetry.roborock.com
+
+# --- Long-tail MMPs (mobile measurement partners) ---
+# Sensor Tower (app intelligence + attribution)
+sensortower.com
+api.sensortower.com
+# Appsumer
+appsumer.com
+# Airbridge
+airbridge.io
+api.airbridge.io
+static.airbridge.io
+# Adbrix
+adbrix.io
+api.adbrix.io
+# Remerge (retargeting MMP)
+remerge.io
+api.remerge.io
+# Adikteev
+adikteev.com
+# Jampp (programmatic retargeting)
+jampp.com
+trk.jampp.com
+# Digital Turbine / Appreciate
+digitalturbine.com
+appreciateapp.com
+trk.dtignite.com
+# Verizon Media MMP (Oath/Yahoo)
+flurry.com
+data.flurry.com
+api.flurry.com
+log.flurry.com
+
+# --- Stalkerware C2 domains (commercial intimate partner surveillance) ---
+# mSpy
+mspy.com
+mspyonline.com
+install.mspy.com
+api.mspy.com
+# FlexiSPY
+flexispy.com
+mobilefonex.com
+digitalendpoint.com
+svlogin.asia
+spyphonereview.com
+# Hoverwatch / Refog
+hoverwatch.com
+hover.watch
+hws.icu
+my.hws.icu
+refog.com
+refog.net
+refog.de
+refog.org
+highstermobi.com
+prospybubble.com
+# TheTruthSpy cluster (Jexpa Framework — dozens of clone apps share infrastructure)
+thetruthspy.com
+copy9.com
+mxspy.com
+spyfone.com
+guestspy.com
+trackview.net
+spymaster-pro.com
+spyapp.com
+# Spyic / Cocospy / iSpyoo / ClevGuard cluster
+spyic.com
+cocospy.com
+ispyoo.com
+clevguard.com
+kidsguard.com
+kidsguard.pro
+api.clevguard.com
+# iKeyMonitor
+ikeymonitor.com
+api.ikeymonitor.com
+# Cerberus
+cerberus-app.com
+# Spyera
+spyera.com
+api.spyera.com
+# Spy24
+spy24.app
+spy24.net
+# Spapp Monitoring
+spappmonitoring.com
+# uMobix
+umobix.com
+api.umobix.com
+# Eyezy
+eyezy.com
+api.eyezy.com
+# Spynger
+spynger.com
+# KidLogger
+kidlogger.net
+api.kidlogger.net
+# Haqerra
+haqerra.com
+# Minspy / Spyier / Safespy cluster
+minspy.com
+spyier.com
+safespy.com
+# Xnore
+xnore.com
+# SpyHuman
+spyhuman.com
+api.spyhuman.com
+# iSpyoo
+ispyoo.com
+# Ino Spy
+inobram.com
+# Spytrac
+spytrac.com
+# OwnSpy
+ownseeking.com
+ownspy.com
+# PhoneSpector
+phonespector.com
+# Hoverspy
+hoverspy.com
+# Spyrix
+spyrix.com
+api.spyrix.com
+
+# --- Bossware / employee monitoring agent endpoints ---
+# Teramind
+teramind.co
+agent.teramind.co
+api.teramind.co
+cloud.teramind.co
+# ActivTrak
+activtrak.com
+agent.activtrak.com
+api.activtrak.com
+logs.activtrak.com
+# Veriato / Cerebral
+veriato.com
+agent.veriato.com
+api.veriato.com
+collect.veriato.com
+# Hubstaff (GPS tracks off-hours)
+hubstaff.com
+telemetry.hubstaff.com
+api.hubstaff.com
+agent.hubstaff.com
+# Time Doctor
+timedoctor.com
+agent.timedoctor.com
+api.timedoctor.com
+# Controlio
+controlio.net
+agent.controlio.net
+# InterGuard
+interguard.com
+# Kickidler
+kickidler.com
+agent.kickidler.com
+# DeskTime
+desktime.com
+api.desktime.com
+# WorkTime
+worktime.com
+# Staffcop
+staffcop.com
+# CurrentWare
+currentware.com
+agent.currentware.com
+# Insightful (formerly Workpuls)
+insightful.io
+api.insightful.io
+# Monitask
+monitask.com
+api.monitask.com
+
+# --- Adware / bundleware / PUA (potentially unwanted applications) ---
+# InstallCore
+installcore.com
+cdn.installcore.com
+# OpenCandy
+opencandy.com
+cdn.opencandy.com
+# Conduit / ClientConnect
+conduit.com
+clientconnect.com
+tb.ask.com
+# Babylon Toolbar
+babylon.com
+babylontoolbar.com
+# DealPly
+dealply.com
+update.dealply.com
+# Mindspark / IAC
+mindspark.com
+ap.ask.com
+hpapp.mywebsearch.com
+mywebsearch.com
+funmoodsearch.com
+# SnackArcin / OfferCore (active 2025)
+snackmedia.com
+snackarcincdn.com
+sncmedia.net
+mediasncr.com
+offercoremedia.com
+ocmetrics.net
+occdn.services
+ocservices.net
+offercorestats.com
+# Superfish / Komodia
+superfish.com
+komodia.com
+# Reimage / PC repair adware
+reimage.com
+api.reimage.com
+# Driver Update adware
+driverupdate.net
+drivertuner.com
+winzipdriverupdater.com
+# MyCleanPC
+mycleanpc.com
+# YourPhone adware
+getmycleanpc.com
+# Spigot adware
+spigot.com
+application.com
+# Ask.com toolbar
+ask.com
+search.tb.ask.com
+
+# --- Proxyware / bandwidth theft (installed without disclosure) ---
+honeygain.com
+api.honeygain.com
+packetstream.io
+api.packetstream.io
+iproyal.com
+pawns.app
+peer2profit.com
+p2p.peer2profit.com
+earnapp.com
+brightdata.com
+lum-res31.luminati.io
+luminati.io
+iproyal.com
+traffic.iproyal.com
+reproxy.io
+reproxy.net
+ipv6.reproxy.io
+
+# --- Cryptojacking scripts / browser miners ---
+coinhive.com
+coin-hive.com
+crypto-loot.com
+jsecoin.com
+deepminer.com
+minero.cc
+coinimp.com
+wasm.web.mine.tf
+politicalsciencestudent.com
+webminepool.com
+cryptonotepool.com
+minergates.com
+xmrig.com
+coinblind.com
+reasonsecurityrealtime.com
+coin-have.com
+afjcoins.com
+cryptoloot.pro
+
+# --- Infostealer / RAT known distribution and panel domains ---
+# LummaC2 (most deployed infostealer 2025)
+lummastealer.com
+lumma5b6r.com
+lummac2.com
+# Vidar stealer
+vidarstealer.com
+# RedLine stealer
+redline-stealer.com
+# Raccoon stealer
+raccoonstealer.com
+# Atomic Stealer (AMOS — macOS)
+amos-stealer.com
+atomicstealer.com
+# MetaStealer (macOS)
+metastealer.org
+# BTMOB RAT (Android, active 2025)
+btmob.net
+# AsyncRAT panels
+asyncrat.com
+# Known RAT distribution sites (fake software)
+trustsoftware.net
+trustsystemguard.com
+trustbastion.com
+au-club.top
+# Cobalt Strike C2 (pentest tool abused for malware)
+cobaltstrike.com
+cs.cobaltstrike.com
+
+# --- Apple device telemetry ---
+metrics.apple.com
+xp.apple.com
+feedbackws.apple.com
+iphone-ld.apple.com
+diagnostics.apple.com
+swscan.apple.com
+radarsubmissions.apple.com
