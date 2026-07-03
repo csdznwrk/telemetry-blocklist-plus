@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-07-03 09:53 UTC
-# Domains: 7338
+# Updated: 2026-07-03 17:02 UTC
+# Domains: 7339
 
 0--foodwarez.da.ru
 0-0-0-0-0-0proxy.tserv.se
@@ -5101,6 +5101,7 @@ amon.android-monitor.ru
 amon1.android-monitor.ru
 amos-stealer.com
 ams1.b.adnxs.com
+analytics-fe.digital-cloud-prem.medallia.eu
 analytics-production.hapyak.com
 analytics.adpost.org
 analytics.algoepico.net
