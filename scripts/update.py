@@ -36,7 +36,7 @@ PLAIN_SOURCES = [
     # AssoEchap stalkerware C2 indicators (172 apps, maintained by security researchers)
     "https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts",
     # Blocklist Project malware domains
-    "https://blocklistproject.github.io/Lists/malware.txt",
+    "https://raw.githubusercontent.com/blocklistproject/Lists/master/malware.txt",
 ]
 
 # Telemetry-specific keywords — only keep lines matching these
@@ -44,7 +44,7 @@ PLAIN_SOURCES = [
 # Cap these at MAX_UNFILTERED_DOMAINS to prevent bloat (Blocklist Project is 400k+)
 UNFILTERED_SOURCES = {
     "https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts",
-    "https://blocklistproject.github.io/Lists/malware.txt",
+    "https://raw.githubusercontent.com/blocklistproject/Lists/master/malware.txt",
 }
 MAX_UNFILTERED_DOMAINS = 5000
 
