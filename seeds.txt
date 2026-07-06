@@ -1335,3 +1335,51 @@ epsilon.com
 conversantmedia.com
 mediamath.com
 apis.mediamathapis.com
+
+# ── App Lifecycle / Foreground-Background State Reporting ─────────────────────
+
+# Embrace.io — mobile APM, explicitly tracks foreground/background transitions
+a.emb.app
+api.embrace.io
+embrace.io
+data.embrace.io
+sdk.embrace.io
+
+# Smartlook — mobile + web session replay with app lifecycle hooks
+api.smartlook.com
+web-sdk.smartlook.com
+smartlook.com
+recorder.smartlook.com
+
+# RevenueCat — fires on every app open, session start, purchase event
+api.revenuecat.com
+revenuecat.com
+sdk.revenuecat.com
+
+# Firebase lifecycle endpoints — app state reporting on launch/background
+firebaseremoteconfig.googleapis.com
+firebaseappcheck.googleapis.com
+firebaseinstallations.googleapis.com
+firebase-settings.crashlytics.com
+
+# Sensor Tower SDK — hidden in thousands of apps, reports every app open/session
+api.sensortower.com
+data.sensortower.com
+sensortower.com
+
+# AppsFlyer lifecycle S2S endpoints — fire on background resume
+is.gd.appsflyer.com
+launches.appsflyer.com
+gcdsdk.appsflyer.com
+mobiletracking.appsflyer.com
+
+# Heap Autocapture — captures every tap/swipe/screen transition + bg/fg events
+heapanalytics.com
+api.heapanalytics.com
+cdn.heapanalytics.com
+
+# Instana Mobile — IBM APM SDK, tracks app lifecycle at OS level
+eum-us.instana.io
+eum-eu.instana.io
+instana.io
+apm.instana.io
