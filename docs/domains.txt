@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-07-06 14:05 UTC
-# Domains: 12533
+# Updated: 2026-07-06 22:44 UTC
+# Domains: 12556
 
 -084-gls-223-www-9-k-0brasil.net.daraz.com
 -access-logs-1.net.daraz.com
@@ -10021,6 +10021,7 @@
 97.logger.mobi
 a-qa3.thd.cc
 a-spy.com
+a.emb.app
 a.hw.cab
 a.hwa.cab
 a.klaviyo.com
@@ -10216,6 +10217,7 @@ api.datadoghq.com
 api.delighted.com
 api.desktime.com
 api.deviceatlas.com
+api.embrace.io
 api.eu.amplitude.com
 api.eyezy.com
 api.findmykids.org
@@ -10229,6 +10231,7 @@ api.glassbox.com
 api.gravyanalytics.com
 api.groundtruth.com
 api.habu.com
+api.heapanalytics.com
 api.honeybadger.io
 api.honeycomb.io
 api.honeygain.com
@@ -10273,6 +10276,7 @@ api.raygun.com
 api.reimage.com
 api.remerge.io
 api.revealmobile.com
+api.revenuecat.com
 api.rollbar.com
 api.rudderstack.com
 api.safegraph.com
@@ -10284,6 +10288,7 @@ api.sense360.com
 api.sensortower.com
 api.seon.io
 api.singular.net
+api.smartlook.com
 api.snoopza.com
 api.spyera.com
 api.spyhuman.com
@@ -10331,6 +10336,7 @@ apk03.spytoapp.com
 apk04.spytoapp.com
 apk7.biz
 apm.elastic.co
+apm.instana.io
 apollospy.com
 app-analytics-v2.snapchat.com
 app-analytics.snapchat.com
@@ -10613,6 +10619,7 @@ data-api.phonedata.me
 data-api.spyzie.com
 data-webwatcherdata-alb-1451089636.us-west-2.elb.amazonaws.com
 data.api.spyzie.wondershare.cn
+data.embrace.io
 data.flurry.com
 data.inrix.com
 data.inscape.tv
@@ -10620,6 +10627,7 @@ data.pendo.io
 data.permutive.com
 data.qa.webwatcherdata.com
 data.reptilicus.net
+data.sensortower.com
 data.webwatcherdata.com
 data.xmode.io
 data.zeotap.com
@@ -10694,6 +10702,7 @@ edvdafc.prozhe.vip
 einformatiks.com
 elcore-api.azurewebsites.net
 em.awsapi.io
+embrace.io
 emcpanel.com
 enterprise.cerberusapp.com
 epsilon.com
@@ -10704,6 +10713,8 @@ errors.trackjs.com
 eu.api.fpjs.io
 eu.i.posthog.com
 euid.eu
+eum-eu.instana.io
+eum-us.instana.io
 europe.nym1.b.adnxs.com
 evadav.com
 eventdelivery.segment.io
@@ -10733,6 +10744,7 @@ fingerprintjs.com
 firebase-settings.crashlytics.com
 firebase.google.com
 firebaseapp.com
+firebaseappcheck.googleapis.com
 firebasedynamiclinks-ipv6.googleapis.com
 firebasedynamiclinks.googleapis.com
 firebaseinstallations.googleapis.com
@@ -10768,6 +10780,7 @@ fullstory.com
 funcaptcha.com
 funmoodsearch.com
 g.appjiagu.com
+gcdsdk.appsflyer.com
 get.snoopza.com
 getfeedback.com
 getmspy.net
@@ -10901,6 +10914,7 @@ instacart.com
 install.branch.io
 install.mspy.com
 installcore.com
+instana.io
 integ.euid.eu
 intercom-clicks.com
 intercom.io
@@ -10916,6 +10930,7 @@ iproyal.com
 ipv6.reproxy.io
 iri.com
 is-tracking-pixel-api-prod.appspot.com
+is.gd.appsflyer.com
 ispyoo.com
 it.imonitorsoft.com
 iterable.com
@@ -10959,6 +10974,7 @@ l.servidor.in
 labrador.ua
 laucass.forumactif.org
 launchdarkly.com
+launches.appsflyer.com
 lb.gmslb.net
 lb.id5-sync.com
 lb.theonespy.com
@@ -11108,6 +11124,7 @@ mobilenannylogs.com
 mobilerecorder-1277.firebaseio.com
 mobilesdkm.googleapis.com
 mobiletool.ru
+mobiletracking.appsflyer.com
 mobilewalla.com
 moengage.com
 monitask.com
@@ -11465,6 +11482,7 @@ realtracker.com
 reasonsecurityrealtime.com
 rec.hw.cab
 recognition.acxiom.com
+recorder.smartlook.com
 redline-stealer.com
 refog.com
 refog.de
@@ -11489,6 +11507,7 @@ reproxy.net
 reptilicus.net
 retailmedia.homedepot.com
 revealmobile.com
+revenuecat.com
 richpush.co
 rlcdn.com
 rncdn1.com
@@ -11547,6 +11566,7 @@ scientiamobile.com
 scif.roku.com
 scorecardresearch.com
 screentimelabs.appspot.com
+sdk.embrace.io
 sdk.fra-01.braze.eu
 sdk.fra-02.braze.eu
 sdk.iad-01.braze.com
@@ -11557,6 +11577,7 @@ sdk.iad-06.braze.com
 sdk.iad-07.braze.com
 sdk.iad-08.braze.com
 sdk.netnut.io
+sdk.revenuecat.com
 sdk.split.io
 sdk.zeotap.com
 sdkhub.com
@@ -11643,6 +11664,7 @@ slotbid.a-mo.net
 smartback-12d60.appspot.com
 smartback-12d60.firebaseio.com
 smartcast.vizio.com
+smartlook.com
 smetrics.10daily.com.au
 smetrics.bestbuy.com
 smetrics.ctv.ca
@@ -11982,6 +12004,7 @@ walmartconnect.com
 wasm.web.mine.tf
 waws-prod-blu-247-e7b3.eastus.cloudapp.azure.com
 waws-prod-blu-247.sip.azurewebsites.windows.net
+web-sdk.smartlook.com
 web.chyldmonitor.com
 webanalytics.zohodcm.com
 webdisk.spymasterpro.com
