@@ -37,6 +37,10 @@ PLAIN_SOURCES = [
     "https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts",
     # Blocklist Project malware domains
     "https://raw.githubusercontent.com/blocklistproject/Lists/master/malware.txt",
+    # Shreshta Labs DNS Watchtower stalkerware IOCs
+    "https://raw.githubusercontent.com/shreshta-labs/stalkerware-iocs/main/stalkerware",
+    # AdGuard CNAME cloaking tracker list
+    "https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/data/combined_disguised_trackers_justdomains.txt",
 ]
 
 # Telemetry-specific keywords — only keep lines matching these
@@ -45,6 +49,8 @@ PLAIN_SOURCES = [
 UNFILTERED_SOURCES = {
     "https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts",
     "https://raw.githubusercontent.com/blocklistproject/Lists/master/malware.txt",
+    "https://raw.githubusercontent.com/shreshta-labs/stalkerware-iocs/main/stalkerware",
+    "https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/data/combined_disguised_trackers_justdomains.txt",
 }
 MAX_UNFILTERED_DOMAINS = 5000
 

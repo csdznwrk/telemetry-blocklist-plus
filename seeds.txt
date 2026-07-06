@@ -1182,3 +1182,156 @@ cyberprotector.online
 nice-protect.com
 alarum.io
 alarum.com
+
+# ── ClearFake / Fake Browser Update C2 (active July 2026) ────────────────────
+psd.markets
+prozhe.vip
+edvdafc.prozhe.vip
+clearfake.net
+updatebrowser.net
+chromeupdatenow.com
+safaribrowserupdate.com
+browsersecurityupdate.net
+fakeupdate.net
+
+# ── Pushpaganda Ad Fraud / Scareware Push Network ────────────────────────────
+# HUMAN Security / Satori Threat Intel — invalid traffic push notification fraud
+pushpaganda.com
+pushnotificationads.net
+allowpush.net
+pushmonitor.net
+pushsubscribe.com
+notifyme.network
+pushcampaigns.net
+allownotification.net
+megapush.com
+pushhouse.net
+push.house
+onclicka.com
+onclick.io
+adsterra.com
+propellerads.com
+pushground.com
+richpush.co
+evadav.com
+kadam.net
+
+# ── QakBot 2026 Resurgence C2 Infrastructure ─────────────────────────────────
+# CircleID confirmed active new wave — distinct from 2023 takedown domains
+qakbot.net
+qbot-c2.net
+qakbot-update.com
+obliquity.top
+ternate.top
+semaphoric.top
+belowground.top
+bilineate.top
+carboniferous.top
+chondritic.top
+disenthral.top
+flibbertigibbet.top
+gormandize.top
+hippocratic.top
+immunosuppressant.top
+
+# ── Ad Surveillance Infrastructure — Cookie Replacement / Identity Graphs ─────
+
+# UID2 / Unified ID 2.0 (The Trade Desk) — email-based identity spine
+global.uidapi.com
+prod.uidapi.com
+uid2.prebid.org
+operator-integ.uidapi.com
+core.uidapi.com
+optout.uidapi.com
+euid.eu
+prod.euid.eu
+integ.euid.eu
+
+# ID5 Universal ID — cookie replacement at 35,000+ publisher sites
+id5-sync.com
+api.id5-sync.com
+lb.id5-sync.com
+sync.id5-sync.com
+id5.io
+id5api.com
+
+# Permutive — publisher DMP replacing third-party cookies (Guardian, Vox, Condé Nast)
+edge.permutive.app
+cdn.permutive.app
+permutive.app
+permutive.com
+api.permutive.com
+data.permutive.com
+
+# Amazon DSP off-site tracking — distinct from shopping/checkout
+fls.amazon.com
+unagi.amazon.com
+mads.amazon.com
+s.amazon-adsystem.com
+aax.amazon-adsystem.com
+aax-us-east.amazon-adsystem.com
+c.amazon-adsystem.com
+z-na.amazon-adsystem.com
+d.amazon-adsystem.com
+
+# LiveRamp ATS (Authenticated Traffic Solution) — email-to-RampID at login
+ats.rlcdn.com
+tag.rlcdn.com
+rlcdn.com
+insight.adsrvr.org
+rampid.com
+liveramp.net
+authentication.liveramp.com
+
+# Audigent / Hadron ID — identity DMP in Prebid.js
+seg.audigent.com
+h.audigent.com
+audigent.com
+hadronid.net
+cdn.hadronid.net
+
+# Salesforce DMP / Krux — legacy audience platform still widely deployed
+beacon.krux.com
+cdn.krux.com
+krux.com
+kruxdigital.com
+cms.krux.com
+
+# Criteo cross-site sync endpoints (not ad serving — identity sync only)
+gum.criteo.com
+sslwidget.criteo.com
+widget.criteo.com
+rtax.criteo.com
+dis.criteo.com
+bidder.criteo.com
+hlk.criteo.com
+
+# InfoSum clean room / identity resolution
+b.infosum.net
+cdn.infosum.net
+infosum.net
+infosum.com
+
+# Google PAIR — Publisher Advertiser Identity Reconciliation
+pair-api.google.com
+adservice.google.com
+pagead2.googlesyndication.com
+tpc.googlesyndication.com
+
+# Additional cookie-replacement / universal ID infrastructure
+panorama.io
+panoramadb.com
+zeotap.com
+sdk.zeotap.com
+data.zeotap.com
+lotame.com
+bcp.crwdcntrl.net
+ad.crwdcntrl.net
+cmd.crwdcntrl.net
+4info.com
+tapad.com
+sync.tapad.com
+epsilon.com
+conversantmedia.com
+mediamath.com
+apis.mediamathapis.com
