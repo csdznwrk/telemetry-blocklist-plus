@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-07-06 22:44 UTC
-# Domains: 12556
+# Updated: 2026-07-07 11:21 UTC
+# Domains: 12566
 
 -084-gls-223-www-9-k-0brasil.net.daraz.com
 -access-logs-1.net.daraz.com
@@ -10185,6 +10185,7 @@ api-crash-assist-snapshot.gotruemotion.com
 api-js.mixpanel.com
 api-project-285519687053.firebaseio.com
 api-project-999803017449.firebaseio.com
+api-spotlight-ause2c.smoot.apple.com
 api.activtrak.com
 api.adbrix.io
 api.adsquare.com
@@ -10578,6 +10579,7 @@ conviva.com
 cool-horizon.com
 copy9.com
 copy9db.com
+core.mqtt.iot-prod.xfinity.com
 core.uidapi.com
 coremetrics.com
 corn-cob.com
@@ -10805,6 +10807,7 @@ grid-push.com
 groundtruth.com
 guestspy.com
 gum.criteo.com
+gw.api.dh.comcast.com
 h.appjiagu.com
 h.audigent.com
 h.online-metrix.net
@@ -11209,6 +11212,7 @@ node3.theonespy.com
 node4.theonespy.com
 node5.theonespy.com
 nodejs.spyhuman.com
+notifications-pa.googleapis.com
 notify.bugsnag.com
 notifyme.network
 noujx.s9gxw8.com
@@ -11436,6 +11440,7 @@ protocol.ispyoo.com
 protocol.mxspy.com
 protocol.systemserviceprovider.com
 protocol.thetruthspy.com
+proxy-blue.apigw-east.api.dh.comcast.com
 proxy.reptilicus.net
 prozhe.vip
 ps97mailer.logger.mobi
@@ -11539,6 +11544,7 @@ runaki-support.appspot.com
 s.amazon-adsystem.com
 s.appjiagu.com
 s.servidor.in
+s.youtube.com
 s1.panspy.com
 s1.spylive360.com
 s2.spylive360.com
@@ -11672,6 +11678,9 @@ smetrics.fedex.com
 smetrics.foxnews.com
 smetrics.walgreens.com
 smetrics.washingtonpost.com
+smoot-api-spotlight-ause1a.v.aaplimg.com
+smoot-api-spotlight-ause2c.v.aaplimg.com
+smoot-searchv2-ause1a.v.aaplimg.com
 smsandcalltracker.firebaseio.com
 smsurvey.com
 snackarcincdn.com
@@ -11756,6 +11765,7 @@ stream.launchdarkly.com
 studio11-7e288.firebaseio.com
 stupendoussleet.com
 stupendoussnow.com
+suggestqueries.google.com
 sumologic.com
 superfish.com
 support.mtoolapp.biz
