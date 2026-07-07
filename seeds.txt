@@ -1383,3 +1383,25 @@ eum-us.instana.io
 eum-eu.instana.io
 instana.io
 apm.instana.io
+
+# ── Domains observed active on user devices (NextDNS logs July 2026) ──────────
+
+# Comcast/Xfinity device telemetry + IoT reporting
+core.mqtt.iot-prod.xfinity.com
+proxy-blue.apigw-east.api.dh.comcast.com
+gw.api.dh.comcast.com
+
+# Google device state reporting
+notifications-pa.googleapis.com
+
+# Google Search keystroke telemetry (autocomplete)
+suggestqueries.google.com
+
+# YouTube playback state telemetry
+s.youtube.com
+
+# Apple Spotlight search suggestions (sends queries to Apple)
+smoot-api-spotlight-ause2c.v.aaplimg.com
+smoot-api-spotlight-ause1a.v.aaplimg.com
+smoot-searchv2-ause1a.v.aaplimg.com
+api-spotlight-ause2c.smoot.apple.com
