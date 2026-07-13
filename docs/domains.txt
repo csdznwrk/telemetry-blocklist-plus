@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-07-12 20:26 UTC
-# Domains: 12567
+# Updated: 2026-07-13 11:42 UTC
+# Domains: 12568
 
 -084-gls-223-www-9-k-0brasil.net.daraz.com
 -access-logs-1.net.daraz.com
@@ -12177,6 +12177,7 @@ zion-telemetry.api.cnn.io
 ||analytics.gooogol.com^
 ||analytics.growthphysics.com^
 ||analytics.gtflixtv.com^
+||analytics.infraloods.nl^
 ||analytics.iss.one^
 ||analytics.jslib.win^
 ||analytics.jst.ai^$third-party
