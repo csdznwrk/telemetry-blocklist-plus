@@ -1,5 +1,5 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-07-15 16:52 UTC
+# Updated: 2026-07-15 21:31 UTC
 # Domains: 12568
 
 -084-gls-223-www-9-k-0brasil.net.daraz.com
