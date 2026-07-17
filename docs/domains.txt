@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-07-17 07:34 UTC
-# Domains: 12568
+# Updated: 2026-07-17 16:36 UTC
+# Domains: 12569
 
 -084-gls-223-www-9-k-0brasil.net.daraz.com
 -access-logs-1.net.daraz.com
@@ -12024,6 +12024,7 @@ webminepool.com
 webrtc.thd.cc
 webseoanalytics.com
 webservicesdb.mobiispy.com
+webtrackerplus.com
 webwatcher-child-app.firebaseio.com
 webwatcherdata.com
 webwatchernow.com
