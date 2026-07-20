@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-07-20 17:07 UTC
-# Domains: 13478
+# Updated: 2026-07-20 21:49 UTC
+# Domains: 13526
 
 -084-gls-223-www-9-k-0brasil.net.daraz.com
 -access-logs-1.net.daraz.com
@@ -10602,6 +10602,8 @@
 16:44:00,patialavii,domain,wekash.net,
 16:44:00,patialavii,url,https://biltonuglimited2.screenconnect.com/bin/screenconnect.clientsetup.msi?e=access&y=guest,
 16:44:00,patialavii,url,https://wekash.net/ftx/,
+16:45:00,huntio,ip,165.154.236.93,
+16:45:00,huntio,url,http://165.154.236.93,
 17:01:00,malwarehunterr,domain,manager-area-wordpress-automattic.tornieri.eu,
 17:01:00,malwarehunterr,domain,ope1.marconimpianti.it,
 17:01:00,malwarehunterr,domain,tableautieridf.com,
@@ -10622,14 +10624,24 @@
 17:36:00,blinkzsec,ip,185.132.53.171,
 17:38:00,malwarehunterr,domain,claspopclicktodayinstantly.monster,
 17:38:00,malwarehunterr,domain,gov.in.indexs.cloud,
+17:38:00,malwarehunterr,domain,t43wmtq3rv5rs.kimi.page,
 17:38:00,malwarehunterr,url,http://claspopclicktodayinstantly.monster,
 17:38:00,malwarehunterr,url,http://gov.in.indexs.cloud,
+17:38:00,malwarehunterr,url,http://t43wmtq3rv5rs.kimi.page,
+17:38:00,malwarehunterr,url,https://t43wmtq3rv5rs.kimi.page,
+17:38:00,malwarehunterr,url,https://t43wmtq3rv5rs.kimi.page/auth/recovery.hta,
+17:44:00,muha2xmad,domain,auth-id-browser.info,
+17:44:00,muha2xmad,url,http://auth-id-browser.info/a165e6de98d386b7,
 17:49:00,coolcarlos17,domain,eletroshopoficial.com,
 17:49:00,coolcarlos17,url,https://eletroshopoficial.com,
 17:59:00,skocherhan,domain,偽の7zip.com,,https://x.com/skocherhan/status/2077452892613599242
 17:59:00,skocherhan,domain,正規は7-zip.org,,https://x.com/skocherhan/status/2077452892613599242
 17:59:00,skocherhan,url,http://偽の7zip.com,,https://x.com/skocherhan/status/2077452892613599242
 17:59:00,skocherhan,url,http://正規は7-zip.org,,https://x.com/skocherhan/status/2077452892613599242
+18:00:00,phatomcandle,domain,tourvisorserver.com,
+18:00:00,phatomcandle,ip,103.31.250.253,
+18:00:00,phatomcandle,url,http://103.31.250.253,
+18:00:00,phatomcandle,url,http://tourvisorserver.com,
 18:07:00,spiderlabs,domain,absolutdmc.com,
 18:07:00,spiderlabs,domain,apexvistaventures.com,
 18:07:00,spiderlabs,domain,aurellefashion.com,
@@ -10686,6 +10698,10 @@
 18:48:00,huntio,ip,192.142.51.51,,https://x.com/huntio/status/2077102991207723235
 18:48:00,huntio,url,http://192.142.51.51,,https://x.com/huntio/status/2077102991207723235
 18:48:00,huntio,url,https://adodb.stream,,https://x.com/huntio/status/2077102991207723235
+18:53:00,smica83,sha256,1ed821fcc96cd12b94a7d4ab486d718416164e0ef8b607821b02b34c38f02674,,https://x.com/smica83/status/2079278466558574886
+18:56:00,smica83,domain,file.garden,,https://x.com/smica83/status/2079279236502692071
+18:56:00,smica83,sha256,974ec0c700b15d10bc0c00b18a6f60334763675e0481aa7bdbe0215353f7c889,,https://x.com/smica83/status/2079279236502692071
+18:56:00,smica83,url,https://file.garden/aljib1uihbyxg4u5/nigg.bat,,https://x.com/smica83/status/2079279236502692071
 18:58:00,malwarehunterr,domain,gooqlemeet-now.live,
 18:58:00,malwarehunterr,domain,gooqlemeetnow.com,
 18:58:00,malwarehunterr,url,http://gooqlemeet-now.live,
@@ -10696,6 +10712,14 @@
 19:01:00,coolcarlos17,url,https://multcoisasferragens.com,
 19:02:00,malwarehunterr,domain,meet-webconnect.com,
 19:02:00,malwarehunterr,url,http://meet-webconnect.com,
+19:03:00,smica83,ip,13.140.8.25,,https://x.com/smica83/status/2079281011905491211
+19:03:00,smica83,ip,195.133.53.98,,https://x.com/smica83/status/2079281011905491211
+19:03:00,smica83,ip,78.153.149.152,,https://x.com/smica83/status/2079281011905491211
+19:03:00,smica83,sha256,7745290182b09c243b344b7d96511ff03d4638348be38865b926913c21cf0c21,,https://x.com/smica83/status/2079281011905491211
+19:03:00,smica83,url,http://13.140.8.25,,https://x.com/smica83/status/2079281011905491211
+19:03:00,smica83,url,http://195.133.53.98,,https://x.com/smica83/status/2079281011905491211
+19:03:00,smica83,url,http://78.153.149.152,,https://x.com/smica83/status/2079281011905491211
+19:10:00,smica83,sha256,194742d59dacc09a04a398be2f1de1403b65e2ab7028a5125bd1b3d4f55f31c0,,https://x.com/smica83/status/2079282779704156331
 19:15:00,malwarehunterr,domain,1.232323.eu.org,
 19:15:00,malwarehunterr,domain,232323.eu.org,
 19:15:00,malwarehunterr,domain,5001.zip,
@@ -10729,10 +10753,32 @@
 19:27:00,teamcymru_s2,ip,27.124.40.10,,https://x.com/teamcymru_s2/status/2078199955047543181
 19:27:00,teamcymru_s2,ip,27.124.40.11,,https://x.com/teamcymru_s2/status/2078199955047543181
 19:27:00,teamcymru_s2,ip,27.124.40.9,,https://x.com/teamcymru_s2/status/2078199955047543181
+19:28:00,malwarehunterr,domain,relay.computer-tech.net,
+19:28:00,malwarehunterr,domain,relay.computer-tech.net:8041,
+19:28:00,malwarehunterr,ip,138.124.93.26,
+19:28:00,malwarehunterr,url,http://138.124.93.26,
+19:28:00,malwarehunterr,url,http://138.124.93.26/client.hta,
+19:28:00,malwarehunterr,url,http://138.124.93.26/connectwisecontrol.client.exe,
+19:28:00,malwarehunterr,url,http://relay.computer-tech.net,
+19:28:00,malwarehunterr,url,http://relay.computer-tech.net:8041,
 19:33:00,smica83,sha256,f62519453afb691de16b4674927332cc8b28b4325c4e19892d31813b691652d0,,https://x.com/smica83/status/2077114376323023094
+19:37:00,fabo97662188,domain,fbuytf67.click,
+19:37:00,fabo97662188,ip,62.60.226.50,
+19:37:00,fabo97662188,url,http://62.60.226.50/upload.php,
+19:37:00,fabo97662188,url,http://fbuytf67.click,
+19:38:00,malwrhunterteam,ip,78.17.93.76,,https://x.com/malwrhunterteam/status/2079289940945383810
+19:38:00,malwrhunterteam,url,http://78.17.93.76,,https://x.com/malwrhunterteam/status/2079289940945383810
 19:38:00,smica83,domain,rtsinternationals.screenconnect.com,,https://x.com/smica83/status/2078202658821665091
 19:38:00,smica83,sha256,ac84c6bb36d2d145a76989b1f6e94455456903fea62787ee85ecd3fc35f4c08a,,https://x.com/smica83/status/2078202658821665091
 19:38:00,smica83,url,https://rtsinternationals.screenconnect.com/bin/screenconnect.clientsetup.msi?e=access&y=guest,,https://x.com/smica83/status/2078202658821665091
+19:43:00,smica83,domain,xintongss.s3.ap-east-1.amazonaws.com,,https://x.com/smica83/status/2079291245168374100
+19:43:00,smica83,ip,103.215.77.48,,https://x.com/smica83/status/2079291245168374100
+19:43:00,smica83,sha256,af9a6dacb2a9618866cf398d615b2fe1c1c98ec7254d38a01c7c2d6869821bbe,,https://x.com/smica83/status/2079291245168374100
+19:43:00,smica83,url,http://103.215.77.48,,https://x.com/smica83/status/2079291245168374100
+19:43:00,smica83,url,https://xintongss.s3.ap-east-1.amazonaws.com/moshou-xinshouhezi.zip,,https://x.com/smica83/status/2079291245168374100
+19:46:00,smica83,sha256,84d07f96725bc87d56f68936dd3879ffe67f1f8d694be9fbc4edd4a6d9a44615,,https://x.com/smica83/status/2079291969424306432
+19:48:00,smica83,domain,initiatives-interfaces-impossible-illustration.trycloudflare.com,
+19:48:00,smica83,url,https://initiatives-interfaces-impossible-illustration.trycloudflare.com,
 19:49:00,smica83,domain,midns-dist.b-cdn.net,,https://x.com/smica83/status/2078205560348938405
 19:49:00,smica83,sha256,da50eb6030b8760f13c2e1fbd9d325b15f06e5c6f015b38c2c2ffde870b7ac0c,,https://x.com/smica83/status/2078205560348938405
 19:49:00,smica83,url,https://midns-dist.b-cdn.net/20260713/asset_kgisbi.jpg,,https://x.com/smica83/status/2078205560348938405
@@ -10744,6 +10790,8 @@
 19:49:00,thekn0ck0ut,url,http://xgencreative.com,,https://x.com/thekn0ck0ut/status/2077842977377193994
 19:50:00,l0psec,ip,54.39.43.117,,https://x.com/l0psec/status/2077480912271327448
 19:50:00,l0psec,url,http://54.39.43.117:1224,,https://x.com/l0psec/status/2077480912271327448
+19:51:00,malwarehunterr,ip,159.198.44.67,
+19:51:00,malwarehunterr,url,http://159.198.44.67:5000,
 19:54:00,skocherhan,ip,26.1.1.36,,https://x.com/skocherhan/status/2077481987921547359
 19:54:00,skocherhan,ip,26.1.1.70,,https://x.com/skocherhan/status/2077481987921547359
 19:57:00,phishstats,ip,93.186.225.194,
