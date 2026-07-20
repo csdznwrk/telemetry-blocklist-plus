@@ -41,6 +41,9 @@ PLAIN_SOURCES = [
     "https://raw.githubusercontent.com/shreshta-labs/stalkerware-iocs/main/stalkerware",
     # AdGuard CNAME cloaking tracker list
     "https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/data/combined_disguised_trackers_justdomains.txt",
+    # Montysecurity C2-Tracker — live C2 domain feed (Cobalt Strike, Sliver, RATs, stealers)
+    # TweetFeed live malicious domains — refreshed every 15min from 95 security researchers
+    "https://raw.githubusercontent.com/0xDanielLopez/TweetFeed/master/week.csv",
 ]
 
 # Telemetry-specific keywords — only keep lines matching these
@@ -51,6 +54,7 @@ UNFILTERED_SOURCES = {
     "https://raw.githubusercontent.com/blocklistproject/Lists/master/malware.txt",
     "https://raw.githubusercontent.com/shreshta-labs/stalkerware-iocs/main/stalkerware",
     "https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/data/combined_disguised_trackers_justdomains.txt",
+    "https://raw.githubusercontent.com/0xDanielLopez/TweetFeed/master/week.csv",
 }
 MAX_UNFILTERED_DOMAINS = 5000
 

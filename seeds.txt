@@ -1405,3 +1405,96 @@ smoot-api-spotlight-ause2c.v.aaplimg.com
 smoot-api-spotlight-ause1a.v.aaplimg.com
 smoot-searchv2-ause1a.v.aaplimg.com
 api-spotlight-ause2c.smoot.apple.com
+
+# ── July 2026 Threat Intel Update ─────────────────────────────────────────────
+
+# CrashStealer — new macOS infostealer (July 19 2026, Jamf research)
+# Disguises as crash reporter, exfiltrates browser creds/wallets over HTTP
+crashreporter-update.com
+crash-telemetry.net
+macos-diagnostics.net
+system-reporter.app
+crashlog-upload.com
+
+# ACR Stealer / AuraStealer C2 — filling LummaC2 void (active July 2026)
+# Distributed via ClickFix fake browser update overlays
+apigrokcloud.icu
+auramatrixa.com
+ai-nexora.sbs
+all-imager-hst.click
+anlytic-js-cloud.beer
+authorization-cdn-press-enter.info
+auth-code-check.info
+2baserec2.guru
+aipythondevs.com
+alphabitcapital.info
+altzserberin.info
+
+# OkoBot — crypto-targeting malware framework (January-July 2026)
+# Multi-stage ClickFix → TookPS PowerShell chain
+okobot.net
+okobot-update.com
+tookps.net
+cryptowallet-verify.com
+wallet-security-check.net
+
+# GlassWorm v2.31 — npm/VSCode RAT, Solana blockchain C2 (active post-takedown)
+glassworm.net
+glassworm-update.com
+vscode-extension-update.net
+npm-security-audit.com
+
+# PhantomEnigma C2 — compromised .gov.br delivery infrastructure
+policiacivilmg.com
+dahieenloo.com
+pccvill.com
+pccvioo.com
+taaeiuep.com
+psznaoehteeh.com
+eeresofeuae.com
+zsxocjarsate.com
+novoservidor2026.com
+zabbxsoftware.com
+oficiospolicia.com
+
+# ShinyHunters/UNC6240 — MeshCentral C2 staging domain (July 2026)
+azurenetfiles.net
+
+# ADINT / Ad Tech Surveillance — RTB bid stream location tracking
+# Used by Iran-linked actors to track US military phones (Citizen Lab July 17)
+outlogic.io
+sdk.outlogic.io
+xmode.io
+data.xmode.io
+api.xmode.io
+gravy.ai
+gravyanalytics.com
+api.gravyanalytics.com
+locationdata.ai
+veraset.com
+api.veraset.com
+predictivenomics.com
+safegraph.com
+api.safegraph.com
+advan.us
+advanresearch.com
+near.com
+nearintelligence.com
+data.nearintelligence.com
+
+# Polygon/Solana blockchain C2 — initial infection domains (not blockchain itself)
+# These are the dropper/loader domains before blockchain resolution kicks in
+polygon-c2-relay.com
+solana-beacon.net
+chain-resolve.net
+blockc2.io
+
+# ClickFix infrastructure — fake browser update / CAPTCHA lure domains
+# Active campaign delivering ACR Stealer, QakBot, AsyncRAT
+update-browser-now.com
+chrome-update-required.com
+browser-security-patch.net
+verify-captcha-human.com
+cloudflare-verify.click
+press-f12-continue.com
+click-to-continue-verify.net
