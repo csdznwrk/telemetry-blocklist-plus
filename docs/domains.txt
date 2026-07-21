@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-07-21 16:59 UTC
-# Domains: 14335
+# Updated: 2026-07-21 21:45 UTC
+# Domains: 14337
 
 -084-gls-223-www-9-k-0brasil.net.daraz.com
 -access-logs-1.net.daraz.com
@@ -10287,11 +10287,9 @@
 06:51:00,tdatwja,domain,20260721074431.zip,,https://x.com/tdatwja/status/2079459160526352835
 06:51:00,tdatwja,domain,datusha.com.cn,,https://x.com/tdatwja/status/2079459160526352835
 06:51:00,tdatwja,domain,morning-cell-6811.nukisora1808.workers.dev,,https://x.com/tdatwja/status/2079459160526352835
-06:51:00,tdatwja,domain,no.20260721074047.im,,https://x.com/tdatwja/status/2079459160526352835
 06:51:00,tdatwja,url,http://20260721074431.zip,,https://x.com/tdatwja/status/2079459160526352835
 06:51:00,tdatwja,url,http://datusha.com.cn,,https://x.com/tdatwja/status/2079459160526352835
 06:51:00,tdatwja,url,http://morning-cell-6811.nukisora1808.workers.dev,,https://x.com/tdatwja/status/2079459160526352835
-06:51:00,tdatwja,url,http://no.20260721074047.im,,https://x.com/tdatwja/status/2079459160526352835
 06:56:00,masaomi346,domain,fdergrh.xzzaw.site,
 07:14:00,groupib,domain,gsnc.eu:67,
 07:14:00,groupib,url,http://gsnc.eu:67,
@@ -11435,6 +11433,8 @@
 17:38:00,malwarehunterr,url,http://t43wmtq3rv5rs.kimi.page,
 17:38:00,malwarehunterr,url,https://t43wmtq3rv5rs.kimi.page,
 17:38:00,malwarehunterr,url,https://t43wmtq3rv5rs.kimi.page/auth/recovery.hta,
+17:38:00,marcelorivero,domain,dynamichorizon.app,
+17:38:00,marcelorivero,url,http://dynamichorizon.app,
 17:44:00,muha2xmad,domain,auth-id-browser.info,
 17:44:00,muha2xmad,url,http://auth-id-browser.info/a165e6de98d386b7,
 17:59:00,skocherhan,domain,偽の7zip.com,,https://x.com/skocherhan/status/2077452892613599242
@@ -11640,6 +11640,8 @@
 20:58:00,smica83,url,http://89.106.83.40/maydata/compareexpectancy.ps1,,https://x.com/smica83/status/2077497947143770261
 20:58:00,smica83,url,http://89.106.83.40/maydata/coursehope.ps1,,https://x.com/smica83/status/2077497947143770261
 20:58:00,smica83,url,http://89.106.83.40/maydata/diggingroad.ps1,,https://x.com/smica83/status/2077497947143770261
+21:01:00,netresec,ip,89.34.90.99,,https://x.com/netresec/status/2079673044516155664
+21:01:00,netresec,url,http://89.34.90.99:56001,,https://x.com/netresec/status/2079673044516155664
 21:04:00,smica83,domain,slot-send.pro:8080,,https://x.com/smica83/status/2077499465028571368
 21:04:00,smica83,domain,uumcceymkuymmqou.xyz,,https://x.com/smica83/status/2077499465028571368
 21:04:00,smica83,sha256,c0b2ad27cbc88b9f9879923572ef88eefc509d69170fba16589ff382da463933,,https://x.com/smica83/status/2077499465028571368
