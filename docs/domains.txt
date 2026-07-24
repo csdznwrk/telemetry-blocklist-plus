@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-07-24 17:13 UTC
-# Domains: 15985
+# Updated: 2026-07-24 21:44 UTC
+# Domains: 16009
 
 -084-gls-223-www-9-k-0brasil.net.daraz.com
 -access-logs-1.net.daraz.com
@@ -12528,6 +12528,16 @@
 16:53:00,patialavii,domain,djflslfjflslfikrorie.blogspot.com,
 16:53:00,patialavii,url,https://djflslfjflslfikrorie.blogspot.com,
 16:53:00,patialavii,url,https://formsubmit.co/ajax/gabriel5657@proton.me,
+17:02:00,teamcymru_s2,ip,101.126.23.91,,https://x.com/teamcymru_s2/status/2080700147294511214
+17:02:00,teamcymru_s2,ip,101.200.34.196,,https://x.com/teamcymru_s2/status/2080700147294511214
+17:02:00,teamcymru_s2,ip,142.93.48.137,,https://x.com/teamcymru_s2/status/2080700147294511214
+17:02:00,teamcymru_s2,ip,143.20.149.57,,https://x.com/teamcymru_s2/status/2080700147294511214
+17:02:00,teamcymru_s2,ip,188.239.22.26,,https://x.com/teamcymru_s2/status/2080700147294511214
+17:02:00,teamcymru_s2,ip,54.173.210.5,,https://x.com/teamcymru_s2/status/2080700147294511214
+17:02:00,teamcymru_s2,ip,54.179.87.129,,https://x.com/teamcymru_s2/status/2080700147294511214
+17:02:00,teamcymru_s2,ip,54.218.111.116,,https://x.com/teamcymru_s2/status/2080700147294511214
+17:02:00,teamcymru_s2,ip,57.129.100.65,,https://x.com/teamcymru_s2/status/2080700147294511214
+17:02:00,teamcymru_s2,ip,57.129.119.130,,https://x.com/teamcymru_s2/status/2080700147294511214
 17:05:00,skocherhan,domain,dtdtrtrdtr.blogspot.com,
 17:05:00,skocherhan,domain,owa-outgfgfhfhh.blogspot.com,
 17:05:00,skocherhan,url,http://dtdtrtrdtr.blogspot.com,
@@ -12545,6 +12555,10 @@
 17:38:00,marcelorivero,url,http://dynamichorizon.app,
 17:44:00,muha2xmad,domain,auth-id-browser.info,
 17:44:00,muha2xmad,url,http://auth-id-browser.info/a165e6de98d386b7,
+17:45:00,patialavii,domain,dcsafrica.kebabiya.top,
+17:45:00,patialavii,url,https://dcsafrica.kebabiya.top/kshg9m/,
+17:47:00,l0psec,sha256,188bd4fc222c9615540884920caf37ea88bcbea7488e1fb98709e357dd096666,,https://x.com/l0psec/status/2080711424167362654
+17:47:00,l0psec,sha256,451b586ec9d3c997b319986a1177829653e8ae641c953c05ede6a38616f2da97,,https://x.com/l0psec/status/2080711442685128965
 17:48:00,skocherhan,domain,softpeak.live,,https://x.com/skocherhan/status/2079986951441051744
 17:48:00,skocherhan,url,http://softpeak.live,,https://x.com/skocherhan/status/2079986951441051744
 17:52:00,patialavii,url,https://ijexgroup.com.br//wp-admin/images/screenconnect.clientsetup.msi,
@@ -12553,6 +12567,7 @@
 17:53:00,skocherhan,sha256,4750c67455431d01ac505041e0e439c73afe57bd955ac323a51c96439fb4a748,,https://x.com/skocherhan/status/2079988294150951250
 17:53:00,skocherhan,url,http://185.95.156.75/wiss1g4/footatm.ps1,,https://x.com/skocherhan/status/2079988294150951250
 17:55:00,skocherhan,domain,ijexgroup.com.br,
+17:55:00,skocherhan,sha256,3c254614de8c1a2f213c526b0e5072d43ffeb7cc340d9a4a6ebaa16592b3bbe0,,https://x.com/skocherhan/status/2080713383301574861
 17:55:00,skocherhan,url,https://ijexgroup.com.br//wp-admin/images/screenconnect.clientsetup.msisha256,
 17:55:00,skocherhan,url,https://ijexgroup.com.br/ftx/msi,
 17:55:00,smica83,domain,eye-cardiovascular-biological-fruit.trycloudflare.com,
@@ -12595,6 +12610,7 @@
 18:11:00,fabo97662188,domain,okekjaiw.click,
 18:11:00,fabo97662188,url,http://8jdjpwka.baby,
 18:11:00,fabo97662188,url,http://okekjaiw.click,
+18:13:00,rakeshkrish12,ip,178.20.41.208,
 18:14:00,patialavii,domain,martincristal.com.ar,
 18:14:00,patialavii,domain,serv.therapasqualis.com,
 18:14:00,patialavii,ip,74.207.198.32,
@@ -12613,6 +12629,12 @@
 18:26:00,skocherhan,url,http://serv.therapasqualis.com
 18:26:00,skocherhan,url,https://martincristal.com.ar/wp-admin/jcp/download.phpsha256,
 18:26:00,skocherhan,url,https://martincristal.com.ar/wp-admin/jcp/zip,
+18:27:00,skocherhan,domain,isensys.duckdns.org,,https://x.com/skocherhan/status/2080721469089181981
+18:27:00,skocherhan,domain,oilpetro.duckdns.org,,https://x.com/skocherhan/status/2080721469089181981
+18:27:00,skocherhan,url,http://isensys.duckdns.org,,https://x.com/skocherhan/status/2080721469089181981
+18:27:00,skocherhan,url,http://oilpetro.duckdns.org,,https://x.com/skocherhan/status/2080721469089181981
+18:29:00,socketsecurity,domain,corepack.org,,https://x.com/socketsecurity/status/2080721955913597086
+18:29:00,socketsecurity,url,http://corepack.org,,https://x.com/socketsecurity/status/2080721955913597086
 18:53:00,smica83,sha256,1ed821fcc96cd12b94a7d4ab486d718416164e0ef8b607821b02b34c38f02674,,https://x.com/smica83/status/2079278466558574886
 18:56:00,smica83,domain,file.garden,,https://x.com/smica83/status/2079279236502692071
 18:56:00,smica83,sha256,974ec0c700b15d10bc0c00b18a6f60334763675e0481aa7bdbe0215353f7c889,,https://x.com/smica83/status/2079279236502692071
@@ -12722,6 +12744,8 @@
 20:54:00,skocherhan,url,http://zmctqosqlqccayhq.dropboxx.us,,https://x.com/skocherhan/status/2080396099043348746
 21:01:00,netresec,ip,89.34.90.99,,https://x.com/netresec/status/2079673044516155664
 21:01:00,netresec,url,http://89.34.90.99:56001,,https://x.com/netresec/status/2079673044516155664
+21:06:00,skocherhan,domain,gstatic-analysis.beijing-cn1.oo0.be,
+21:06:00,skocherhan,url,http://gstatic-analysis.beijing-cn1.oo0.be,
 21:17:00,malwarehunterr,domain,ajvcu.cn,
 21:17:00,malwarehunterr,domain,bitbrarwser.com,
 21:17:00,malwarehunterr,domain,ndiewh.com,
