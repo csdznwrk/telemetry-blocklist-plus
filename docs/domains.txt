@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-07-26 07:59 UTC
-# Domains: 16125
+# Updated: 2026-07-26 13:00 UTC
+# Domains: 16134
 
 -084-gls-223-www-9-k-0brasil.net.daraz.com
 -access-logs-1.net.daraz.com
@@ -11218,6 +11218,8 @@
 08:45:00,skocherhan,ip,172.94.53.34,,https://x.com/skocherhan/status/2079487857991823493
 08:45:00,skocherhan,url,http://172.94.53.34:19700,,https://x.com/skocherhan/status/2079487857991823493
 08:45:00,skocherhan,url,http://yougi2894hamors34.duckdns.org,,https://x.com/skocherhan/status/2079487857991823493
+08:46:00,banthisguy9349,domain,legal-andlaw.com,,https://x.com/banthisguy9349/status/2081300221024166173
+08:46:00,banthisguy9349,url,http://legal-andlaw.com,,https://x.com/banthisguy9349/status/2081300221024166173
 08:51:00,solostalking,ip,108.165.230.212,,https://x.com/solostalking/status/2080214185611608170
 08:51:00,solostalking,sha256,fa87f6cf9e97dfbb3c87ed228ef03eea52bf561b3f8ae0bbf432427e865ab312,,https://x.com/solostalking/status/2080214185611608170
 09:04:00,skocherhan,sha256,e097f3b445b63b07afacde8d6a67f0be654dd51e228a3610fb0710a1f7e29a69,,https://x.com/skocherhan/status/2079855169588629836
@@ -11425,6 +11427,8 @@
 10:35:00,smica83,url,https://64.89.162.162/adobe_reader_setup.msi,,https://x.com/smica83/status/2079153299446534642
 10:35:00,smica83,url,https://extensionscover.xyz/netlock_rmm_agent_installer_win-x64.exe,,https://x.com/smica83/status/2079153299446534642
 10:35:00,smica83,url,https://extensionscover.xyz/s.ps1,,https://x.com/smica83/status/2079153299446534642
+10:36:00,masaomi346,domain,claude-ai.cyou,
+10:36:00,masaomi346,url,https://www.claude-ai.cyou,
 10:37:00,patialavii,domain,agfgpyc.com,
 10:37:00,patialavii,domain,agfgpycp.com,
 10:37:00,patialavii,domain,docsz42.zip,
@@ -11549,6 +11553,7 @@
 11:34:00,kb4threatlabs,url,http://obafash.vu/invitation/adobe.html,,https://x.com/kb4threatlabs/status/2080617700129419660
 11:34:00,kb4threatlabs,url,http://olveria.vu/col,,https://x.com/kb4threatlabs/status/2080617700129419660
 11:34:00,kb4threatlabs,url,http://opsdn.vu/trea,,https://x.com/kb4threatlabs/status/2080617700129419660
+11:35:00,skocherhan,md5,55f8d660ce1161e4c41e7e35293b60c1,,https://x.com/skocherhan/status/2081342627459248376
 11:37:00,farghlymal,sha256,821da79d727351dd67ce5df7950e9a3de6647a3cf474bb3a093f67507fed92a6,,https://x.com/farghlymal/status/2079531309756518640
 11:38:00,fact_finder03,ip,103.106.66.147,
 11:39:00,skocherhan,ip,154.29.74.158,,https://x.com/skocherhan/status/2080981156929953809
@@ -11578,6 +11583,9 @@
 11:57:00,malwrhunterteam,url,http://107.189.24.181:8080/bot_staged.sh,,https://x.com/malwrhunterteam/status/2079898664080703668
 11:58:00,c9lab_soc,domain,volkswagenfinancialservicesbrasil.com,
 11:58:00,c9lab_soc,url,http://www.volkswagenfinancialservicesbrasil.com,
+12:00:00,phishunt_io,domain,facebook.alheekmah.edu.pk,
+12:00:00,phishunt_io,ip,109.236.92.46,
+12:00:00,phishunt_io,url,http://facebook.alheekmah.edu.pk,
 12:01:00,malwrhunterteam,domain,deme.stanford.edu,,https://x.com/malwrhunterteam/status/2080624443647299878
 12:01:00,malwrhunterteam,url,http://deme.stanford.edu/static/filedocument/2026/07/23/,,https://x.com/malwrhunterteam/status/2080624443647299878
 12:03:00,smica83,ip,80.76.49.90,,https://x.com/smica83/status/2080262473765081105
@@ -11585,6 +11593,7 @@
 12:03:00,smica83,url,http://80.76.49.90:8040/bin/screenconnect.clientsetup.msi?e=access&y=guest,,https://x.com/smica83/status/2080262473765081105
 12:05:00,suyog41,md5,98c185174e9f659b91b9f82250546ab3,,https://x.com/suyog41/status/2080263076595814880
 12:05:00,suyog41,md5,dec873fd811d43f9860fcd33ab637ab4,,https://x.com/suyog41/status/2080263076595814880
+12:06:00,coolcarlos17,domain,paraticenter.com,
 12:06:00,smica83,ip,89.34.90.50,,https://x.com/smica83/status/2080263161517642213
 12:06:00,smica83,sha256,3cbc4be157777afb8f4a38673a1910fe7a615135e4819069818e590f4b82f717,,https://x.com/smica83/status/2080263161517642213
 12:06:00,smica83,url,http://89.34.90.50/ab3swjtr/fdaldgag.msi,,https://x.com/smica83/status/2080263161517642213
