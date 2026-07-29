@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-07-29 13:48 UTC
-# Domains: 16796
+# Updated: 2026-07-29 18:59 UTC
+# Domains: 16819
 
 -084-gls-223-www-9-k-0brasil.net.daraz.com
 -access-logs-1.net.daraz.com
@@ -12243,6 +12243,11 @@
 13:55:00,skocherhan,domain,service-onlineauth-ausgov.com,
 13:55:00,skocherhan,url,http://service-onlineauth-ausgov.com,
 13:56:00,vinceakrapovic,url,http://taplink.cc/wikileaksv2,
+13:57:00,nextronresearch,domain,litterbox.catbox.moe,,https://x.com/nextronresearch/status/2082465509560266820
+13:57:00,nextronresearch,ip,217.60.77.63,,https://x.com/nextronresearch/status/2082465509560266820
+13:57:00,nextronresearch,sha256,4537b1189ce419f1a595cf47216c03f80e9170ce80dad8d9227a1e52f9cb3466,,https://x.com/nextronresearch/status/2082465509560266820
+13:57:00,nextronresearch,url,http://217.60.77.63,,https://x.com/nextronresearch/status/2082465509560266820
+13:57:00,nextronresearch,url,http://litterbox.catbox.moe,,https://x.com/nextronresearch/status/2082465509560266820
 13:57:00,skocherhan,domain,agoras.hopto.org,,https://x.com/skocherhan/status/2081740805962637573
 13:57:00,skocherhan,domain,agoras.zapto.org,,https://x.com/skocherhan/status/2081740805962637573
 13:57:00,skocherhan,ip,211.4.0.103,,https://x.com/skocherhan/status/2081740805962637573
@@ -12658,6 +12663,14 @@
 16:12:00,patialavii,domain,ticxqjl.com,
 16:12:00,patialavii,url,https://cold5.gofile.io/download/direct/38c5a60f-2017-4ede-ae11-cbb79b2022a9/screenconnect.clientsetup.msi,
 16:12:00,patialavii,url,https://ticxqjl.com/teamsa/teams10/windows/invite.php,
+16:15:00,teamcymru_s2,ip,1.117.77.166,,https://x.com/teamcymru_s2/status/2082500314125451750
+16:15:00,teamcymru_s2,ip,1.14.103.5,,https://x.com/teamcymru_s2/status/2082500314125451750
+16:15:00,teamcymru_s2,ip,1.14.126.124,,https://x.com/teamcymru_s2/status/2082500314125451750
+16:15:00,teamcymru_s2,ip,1.14.43.163,,https://x.com/teamcymru_s2/status/2082500314125451750
+16:15:00,teamcymru_s2,ip,1.14.75.122,,https://x.com/teamcymru_s2/status/2082500314125451750
+16:15:00,teamcymru_s2,ip,1.94.184.17,,https://x.com/teamcymru_s2/status/2082500314125451750
+16:15:00,teamcymru_s2,ip,101.42.239.7,,https://x.com/teamcymru_s2/status/2082500314125451750
+16:15:00,teamcymru_s2,ip,101.43.107.222,,https://x.com/teamcymru_s2/status/2082500314125451750
 16:20:00,patialavii,domain,kpptgup.s3.us-east-1.amazonaws.com,
 16:20:00,patialavii,domain,ukfxtpgbhaedeihch.ablereloadingfiles.top,
 16:20:00,patialavii,url,https://kpptgup.s3.us-east-1.amazonaws.com/equium.html,
@@ -12698,10 +12711,13 @@
 16:53:00,patialavii,url,https://formsubmit.co/ajax/gabriel5657@proton.me,
 17:00:00,phishunt_io,domain,amazon-ae-relay.apps.prov.cx,
 17:00:00,phishunt_io,domain,facebook-0-facebook.blogspot.com,
+17:00:00,phishunt_io,domain,fedexxl.deliverys.online,
+17:00:00,phishunt_io,ip,185.158.133.1,
 17:00:00,phishunt_io,ip,192.178.183.132,
 17:00:00,phishunt_io,ip,79.124.58.150,
 17:00:00,phishunt_io,url,http://amazon-ae-relay.apps.prov.cx,
 17:00:00,phishunt_io,url,http://facebook-0-facebook.blogspot.com,
+17:00:00,phishunt_io,url,http://fedexxl.deliverys.online,
 17:00:00,skocherhan,ip,124.198.132.5,,https://x.com/skocherhan/status/2081062135308693722
 17:00:00,skocherhan,url,http://124.198.132.5,,https://x.com/skocherhan/status/2081062135308693722
 17:02:00,teamcymru_s2,ip,101.126.23.91,,https://x.com/teamcymru_s2/status/2080700147294511214
@@ -13372,6 +13388,10 @@
 17:07:00,tial_cl,url,http://woist-appleid.com,
 17:07:00,tial_cl,url,http://www-findmydevice.online,
 17:07:00,tial_cl,url,http://zh2-icloud.top,
+17:16:00,patialavii,domain,forumdeenergias.com.br,
+17:16:00,patialavii,domain,secure-document-review-c3l30u.pagefile.workers.dev,
+17:16:00,patialavii,url,https://forumdeenergias.com.br/futuremastics/11.php/,
+17:16:00,patialavii,url,https://secure-document-review-c3l30u.pagefile.workers.dev/app,
 17:16:00,skocherhan,md5,d210c6ecc4061ad0aac193d892c4fbfd,,https://x.com/skocherhan/status/2081065972606108014
 17:20:00,l0psec,sha256,1df83d6dfdef90cea886bd033806feba236f42382cd3cf003567df91f43463ce,,https://x.com/l0psec/status/2080342325109178437
 17:20:00,l0psec,sha256,479a988674554f518eed16b3ffa1ef23dc6189aa6950fc8725ef1343596c3652,,https://x.com/l0psec/status/2080342325109178437
@@ -13385,6 +13405,9 @@
 17:45:00,patialavii,url,https://dcsafrica.kebabiya.top/kshg9m/,
 17:47:00,l0psec,sha256,188bd4fc222c9615540884920caf37ea88bcbea7488e1fb98709e357dd096666,,https://x.com/l0psec/status/2080711424167362654
 17:47:00,l0psec,sha256,451b586ec9d3c997b319986a1177829653e8ae641c953c05ede6a38616f2da97,,https://x.com/l0psec/status/2080711442685128965
+17:51:00,netresec,domain,v0hkpadr04mbz5lkearqa.com,,https://x.com/netresec/status/2082524480299991451
+17:51:00,netresec,ip,85.239.149.178,,https://x.com/netresec/status/2082524480299991451
+17:51:00,netresec,url,http://v0hkpadr04mbz5lkearqa.com,,https://x.com/netresec/status/2082524480299991451
 17:52:00,skocherhan,sha256,ea505bd54c3ce4b4640b80220057fbb88d28a62cb5edbbf53cf3caf4dc123a8f,,https://x.com/skocherhan/status/2081437414229200970
 17:55:00,skocherhan,sha256,3c254614de8c1a2f213c526b0e5072d43ffeb7cc340d9a4a6ebaa16592b3bbe0,,https://x.com/skocherhan/status/2080713383301574861
 18:00:00,phatomcandle,domain,tremorcrest.click,
