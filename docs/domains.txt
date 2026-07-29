@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-07-29 01:48 UTC
-# Domains: 16723
+# Updated: 2026-07-29 08:23 UTC
+# Domains: 16747
 
 -084-gls-223-www-9-k-0brasil.net.daraz.com
 -access-logs-1.net.daraz.com
@@ -7394,6 +7394,10 @@
 01:36:00,skocherhan,url,http://96.44.169.124,
 01:36:00,skocherhan,url,http://fnxxcl.com/ocoss,
 01:36:00,skocherhan,url,http://manyishw.com/ucifotql,
+01:45:00,metemcyber,domain,hair.qqeoa.asia,
+01:45:00,metemcyber,ip,43.165.168.4,
+01:45:00,metemcyber,url,http://43.165.168.4,
+01:45:00,metemcyber,url,https://hair.qqeoa.asia/vrkoaqex/login_index/,
 01:45:00,romonlyht,domain,bioevhealthcare.com,
 01:45:00,romonlyht,ip,202.69.74.130,
 01:45:00,romonlyht,url,https://bioevhealthcare.com/x1wjep/?uid=aaaa@example.jp,
@@ -10365,6 +10369,10 @@
 04:30:00,scanmalware,url,http://dae-mul-17.com,
 04:31:00,scanmalware,domain,urlshort-linkmrrwjc0kdzql.esu2n5lwqi.workers.dev,
 04:31:00,scanmalware,url,http://urlshort-linkmrrwjc0kdzql.esu2n5lwqi.workers.dev,
+04:33:00,metemcyber,domain,gecnlxpwzds.top,
+04:33:00,metemcyber,ip,43.155.174.59,
+04:33:00,metemcyber,url,http://43.155.174.59,
+04:33:00,metemcyber,url,https://gecnlxpwzds.top/jp,
 04:33:00,tial_cl,domain,29578-icloud.com,
 04:33:00,tial_cl,domain,731892-binance.com,
 04:33:00,tial_cl,domain,813751-binance.com,
@@ -10762,6 +10770,11 @@
 05:37:00,goldenjackel12,url,http://esevasecurefile.store,
 05:37:00,goldenjackel12,url,http://monitorondomainwintgt.store,
 05:37:00,goldenjackel12,url,http://monitorondomainwintgt2.store,
+05:44:00,harugasumi,domain,thedigitalvibe.com,
+05:44:00,harugasumi,domain,uggxposclps.top,
+05:44:00,harugasumi,ip,43.163.207.119,
+05:44:00,harugasumi,url,https://thedigitalvibe.com/page/agbqxryteq,
+05:44:00,harugasumi,url,https://uggxposclps.top/jp,
 06:01:00,patialavii,url,https://github.com/sean100496,
 06:01:00,patialavii,url,https://invitparrties.top,
 06:01:00,patialavii,url,https://raw.githubusercontent.com/sean100496/bnb/refs/heads/main/screenconnect.clientsetup.exe,
@@ -10770,6 +10783,11 @@
 06:07:00,patialavii,domain,punchbowl.cyou,
 06:07:00,patialavii,url,https://punchbowl.cyou,
 06:07:00,patialavii,url,https://punchbowl.cyou/screenconnect.clientsetup.msi,
+06:10:00,metemcyber,domain,czaldeylkrn.top,
+06:10:00,metemcyber,url,https://czaldeylkrn.top/jp,
+06:11:00,romonlyht,domain,bioevhealthcare.com,
+06:11:00,romonlyht,ip,202.69.74.130,
+06:11:00,romonlyht,url,https://bioevhealthcare.com/x1wjep?uid=aaaa@example.jp,
 06:13:00,abuse_ch,sha256,32a962439ec0fb5559e494fe1ea6be039815d3c4c1cceb95b16dc123e5abde61,,https://x.com/abuse_ch/status/2080174484154204529
 06:16:00,metemcyber,domain,mzrtkb.cfd,
 06:16:00,metemcyber,url,https://mzrtkb.cfd/grb0qs,
@@ -10778,10 +10796,14 @@
 06:45:00,abuse_ch,url,http://axes.endl.site/adv2.php,,https://x.com/abuse_ch/status/2080182533447184651
 06:45:00,fact_finder03,ip,178.128.100.171,
 07:00:00,phishunt_io,domain,facebooksecurepage.blogspot.com,
+07:00:00,phishunt_io,domain,paypal.myproccesing.com,
 07:00:00,phishunt_io,domain,trustwallet.com-two-factor-authentication12.ao.yesixrq.com,
 07:00:00,phishunt_io,ip,77.68.5.178,
 07:00:00,phishunt_io,url,http://facebooksecurepage.blogspot.com,
+07:00:00,phishunt_io,url,http://paypal.myproccesing.com,
 07:00:00,phishunt_io,url,http://trustwallet.com-two-factor-authentication12.ao.yesixrq.com,
+07:01:00,masaomi346,domain,ppz0y9a6grw3veoqwz.live,
+07:01:00,masaomi346,url,https://ppz0y9a6grw3veoqwz.live,
 07:06:00,masaomi346,domain,kalorexivakena.net,
 07:06:00,masaomi346,url,https://kalorexivakena.net/jp,
 07:25:00,etugenio,ip,176.124.207.93,
@@ -10791,6 +10813,8 @@
 07:30:00,fact_finder03,ip,67.217.228.244,
 07:33:00,metemcyber,ip,43.155.174.59,
 07:33:00,metemcyber,url,http://43.155.174.59,
+07:36:00,metemcyber,domain,sgximmzqmqi.top,
+07:36:00,metemcyber,url,https://sgximmzqmqi.top/jp,
 07:45:00,skocherhan,domain,centivote.org,
 07:45:00,skocherhan,domain,centvote.org,
 07:45:00,skocherhan,domain,guestpod.org,
