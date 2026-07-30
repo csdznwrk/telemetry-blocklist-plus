@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-07-30 01:40 UTC
-# Domains: 16659
+# Updated: 2026-07-30 08:09 UTC
+# Domains: 16723
 
 -084-gls-223-www-9-k-0brasil.net.daraz.com
 -access-logs-1.net.daraz.com
@@ -7095,6 +7095,48 @@
 019gvfn88n0.top
 019www11w.top
 019www22w.top
+01:15:00,skocherhan,domain,2.mvuianh.cn,
+01:15:00,skocherhan,domain,3.mvuianh.cn,
+01:15:00,skocherhan,domain,bitbbank.com,
+01:15:00,skocherhan,domain,bodinaicha.com,
+01:15:00,skocherhan,domain,catoynan.top,
+01:15:00,skocherhan,domain,classicvintagedecor.com,
+01:15:00,skocherhan,domain,elettronicaessenziale.com,
+01:15:00,skocherhan,domain,jreseivce.jiwlec.cn,
+01:15:00,skocherhan,domain,littlelearnerstoys.com,
+01:15:00,skocherhan,domain,luxuryhomedecoruk.com,
+01:15:00,skocherhan,domain,my-docomo.excitinggamesandfun.com,
+01:15:00,skocherhan,domain,nataese.com,
+01:15:00,skocherhan,domain,prodottiinterni.com,
+01:15:00,skocherhan,domain,rakuten-bank.artforhomedecor.com,
+01:15:00,skocherhan,domain,rakuten-bank.csyuante.com,
+01:15:00,skocherhan,domain,rakuten-bank.tzwylo.com,
+01:15:00,skocherhan,domain,rakuten-bank.xl-kuailian.com,
+01:15:00,skocherhan,domain,resona-bank.aochz.com,
+01:15:00,skocherhan,domain,vipking.top,
+01:15:00,skocherhan,domain,xinzeruich.top,
+01:15:00,skocherhan,domain,zqgenqu.cn,
+01:15:00,skocherhan,url,http://2.mvuianh.cn,
+01:15:00,skocherhan,url,http://3.mvuianh.cn,
+01:15:00,skocherhan,url,http://bitbbank.com,
+01:15:00,skocherhan,url,http://bodinaicha.com,
+01:15:00,skocherhan,url,http://catoynan.top,
+01:15:00,skocherhan,url,http://classicvintagedecor.com,
+01:15:00,skocherhan,url,http://elettronicaessenziale.com,
+01:15:00,skocherhan,url,http://jreseivce.jiwlec.cn,
+01:15:00,skocherhan,url,http://littlelearnerstoys.com,
+01:15:00,skocherhan,url,http://luxuryhomedecoruk.com,
+01:15:00,skocherhan,url,http://my-docomo.excitinggamesandfun.com,
+01:15:00,skocherhan,url,http://nataese.com,
+01:15:00,skocherhan,url,http://prodottiinterni.com,
+01:15:00,skocherhan,url,http://rakuten-bank.artforhomedecor.com,
+01:15:00,skocherhan,url,http://rakuten-bank.csyuante.com,
+01:15:00,skocherhan,url,http://rakuten-bank.tzwylo.com,
+01:15:00,skocherhan,url,http://rakuten-bank.xl-kuailian.com,
+01:15:00,skocherhan,url,http://resona-bank.aochz.com,
+01:15:00,skocherhan,url,http://vipking.top,
+01:15:00,skocherhan,url,http://xinzeruich.top,
+01:15:00,skocherhan,url,http://zqgenqu.cn,
 01:19:00,patialavii,domain,aidlifempowerment.com,
 01:19:00,patialavii,url,https://aidlifempowerment.com/r/irstranscripviewer/,
 01:19:00,patialavii,url,https://aidlifempowerment.com/r/irstranscripviewer/screenconnect.clientsetup.msi,
@@ -7406,6 +7448,8 @@
 01:45:00,romonlyht,url,https://bioevhealthcare.com/x1wjep/fibber.php,
 01:45:00,romonlyht,url,https://bioevhealthcare.com/x1wjep?uid=aaaa@example.jp,
 01:51:00,skocherhan,md5,4daf288ff0e5aabc3c0c7e4654c317d9,,https://x.com/skocherhan/status/2080833294627656094
+01:53:00,coolcarlos17,domain,validacaoexpirado.click,
+01:53:00,coolcarlos17,url,http://validacaoexpirado.click,
 01:54:00,masaomi346,domain,zoravikenara.info,
 01:54:00,masaomi346,url,https://zoravikenara.info/jp,
 01:55:00,romonlyht,domain,ljbss.com,
@@ -8721,6 +8765,7 @@
 029www11w.top
 029www22w.top
 029yt.com
+02:01:00,byrne_emmy12099,ip,103.81.116.10,
 02:06:00,phishstats,url,https://whop.com/checkout/plan_tqmohup7azujs/?session=ch_vzzkxzrmilurjwm,
 02:20:00,metemcyber,domain,aeon.pehfkmt.cn,
 02:20:00,metemcyber,ip,43.167.15.126,
@@ -8730,6 +8775,8 @@
 02:25:00,masaomi346,url,http://tampareroofing.com,
 02:40:00,masaomi346,domain,xcllgnb.cn,
 02:40:00,masaomi346,url,https://xcllgnb.cn/login,
+02:42:00,skocherhan,md5,527729054da74abbc65749de14008236,,https://x.com/skocherhan/status/2082658080278339723
+02:42:00,skocherhan,md5,99ddd4f40eac2cec7fcdfc74c63a2480,,https://x.com/skocherhan/status/2082658080278339723
 02a169af111011.beer
 02a1a1ec23b8564d37d2f451f1db9dad.info
 02a2e259fd91062a.com
@@ -10780,16 +10827,24 @@
 06:11:00,romonlyht,url,https://bioevhealthcare.com/x1wjep?uid=aaaa@example.jp,
 06:16:00,metemcyber,domain,mzrtkb.cfd,
 06:16:00,metemcyber,url,https://mzrtkb.cfd/grb0qs,
+06:39:00,d1v35hresearch,ip,94.16.122.201,
+06:39:00,d1v35hresearch,url,http://94.16.122.201:8080,
 06:45:00,fact_finder03,ip,178.128.100.171,
+06:48:00,d1v35hresearch,ip,208.76.221.223,
+06:48:00,d1v35hresearch,url,http://208.76.221.223:8080,
+07:00:00,phishunt_io,domain,dhlexpressline.weebly.com,
 07:00:00,phishunt_io,domain,facebooksecurepage.blogspot.com,
 07:00:00,phishunt_io,domain,paypal.myproccesing.com,
 07:00:00,phishunt_io,domain,trustwallet.com-two-factor-authentication12.ao.yesixrq.com,
+07:00:00,phishunt_io,ip,74.115.51.8,
 07:00:00,phishunt_io,ip,77.68.5.178,
+07:00:00,phishunt_io,url,http://dhlexpressline.weebly.com,
 07:00:00,phishunt_io,url,http://facebooksecurepage.blogspot.com,
 07:00:00,phishunt_io,url,http://paypal.myproccesing.com,
 07:00:00,phishunt_io,url,http://trustwallet.com-two-factor-authentication12.ao.yesixrq.com,
 07:01:00,masaomi346,domain,ppz0y9a6grw3veoqwz.live,
 07:01:00,masaomi346,url,https://ppz0y9a6grw3veoqwz.live,
+07:06:00,fact_finder03,ip,2.26.99.25,
 07:06:00,masaomi346,domain,kalorexivakena.net,
 07:06:00,masaomi346,url,https://kalorexivakena.net/jp,
 07:25:00,etugenio,ip,176.124.207.93,
@@ -10799,8 +10854,16 @@
 07:30:00,fact_finder03,ip,67.217.228.244,
 07:33:00,metemcyber,ip,43.155.174.59,
 07:33:00,metemcyber,url,http://43.155.174.59,
+07:35:00,thantzin_ron,domain,fizsolution.com,,https://x.com/thantzin_ron/status/2082731683435188295
+07:35:00,thantzin_ron,domain,passmobileapp.com,,https://x.com/thantzin_ron/status/2082731683435188295
+07:35:00,thantzin_ron,url,https://fizsolution.com,,https://x.com/thantzin_ron/status/2082731683435188295
+07:35:00,thantzin_ron,url,https://passmobileapp.com/ftx/fe92zg-1785395387-f69b742ac74c/?redir=6u3dwgxdop6jo6zljo94dl8jvoyswpxmgqgmokmk1ng5slf5w491umrdvr0qr0yc,,https://x.com/thantzin_ron/status/2082731683435188295
 07:36:00,metemcyber,domain,sgximmzqmqi.top,
 07:36:00,metemcyber,url,https://sgximmzqmqi.top/jp,
+07:41:00,d1v35hresearch,domain,elitemarketstrategies.com,
+07:41:00,d1v35hresearch,ip,161.97.99.1,
+07:41:00,d1v35hresearch,url,http://161.97.99.1,
+07:41:00,d1v35hresearch,url,http://elitemarketstrategies.com,
 07:45:00,skocherhan,domain,centivote.org,
 07:45:00,skocherhan,domain,centvote.org,
 07:45:00,skocherhan,domain,guestpod.org,
@@ -10894,6 +10957,7 @@
 07:46:00,fact_finder03,ip,108.165.12.143,
 07:50:00,tdatwja,domain,drive.careernetwork.co.nz,,https://x.com/tdatwja/status/2082010812324131039
 07:50:00,tdatwja,url,http://drive.careernetwork.co.nz/download.php/,,https://x.com/tdatwja/status/2082010812324131039
+07:51:00,fact_finder03,ip,158.51.78.251,
 08:00:00,tdatwja,domain,j-a20260727022544.zip,,https://x.com/tdatwja/status/2081650901660647436
 08:00:00,tdatwja,domain,withered-lake-8596.krzakanna172.workers.dev,,https://x.com/tdatwja/status/2081650901660647436
 08:00:00,tdatwja,url,http://j-a20260727022544.zip,,https://x.com/tdatwja/status/2081650901660647436
