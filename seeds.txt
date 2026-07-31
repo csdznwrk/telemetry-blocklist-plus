@@ -1498,3 +1498,122 @@ verify-captcha-human.com
 cloudflare-verify.click
 press-f12-continue.com
 click-to-continue-verify.net
+
+# ── July 31 2026 Threat Intel Update ──────────────────────────────────────────
+
+# CrashStealer — macOS infostealer, signed app, bypasses Gatekeeper (July 2026)
+# C2 confirmed by Jamf + MalwareHunterTeam + Security Affairs
+werkbit.io
+endpoint-api-v1.com
+cohezo.io
+cohezo.com
+cordinex.io
+
+# TELEPUZ — modular MaaS malware via ClickFix (Elastic Security Labs, July 16)
+# Uses Telegram/Steam/Polygon blockchain as dead-drop C2 resolvers
+hurgadatour.shop
+codebasecode.com
+
+# AuraStealer — 48 confirmed C2 domains (Intrinsec research)
+# Russian-speaking MaaS, fills Lumma void, shifted .SHOP → .CFD TLDs
+mscloud.cfd
+magicupdate.cfd
+searchagent.cfd
+connupdate.cfd
+gamedb.shop
+browsertools.shop
+unknowntool.shop
+opencamping.shop
+mushub.cfd
+searchservice.cfd
+armydevice.shop
+glossmagazine.shop
+calibrated.cfd
+clocktok.cfd
+techupdate.cfd
+auracorp.cfd
+auracorp.shop
+aurastealer.shop
+panel-aura.shop
+aurapanel.cfd
+ai-nexora.sbs
+apigrokcloud.icu
+auramatrixa.com
+
+# BusySnake Stealer / Armored Likho APT (July 6 2026)
+# Russian-aligned APT targeting government + energy sectors
+winupdate.live
+arvax.xyz
+varenie.live
+lvl99.store
+onetoken.ink
+
+# BlueNoroff (North Korea) — fake Zoom/Teams typosquat infrastructure
+# Targeting Web3/crypto workers (Arctic Wolf April 2026)
+uu01webzoom.us
+uu03webzoom.us
+livesmeet.us
+livesmeets.us
+check02id.com
+thriddata.com
+nexsnield.com
+
+# ClickFix expanded delivery infrastructure (Malwarebytes July 2026)
+# API-driven payload servers + SyncTDS/TrafficTDS distribution panels
+comicstar.lat
+babybon.cfd
+merkantalolol.asia
+onegeekworld.com
+thefirmos.com
+antibotv3.com
+centralwildcats.com
+cloud.antibotv3.com
+cloudautosolutions.com
+generator-qrcode.online
+regdev-google.com
+dasdasdikasjdas.click
+maskingofking.xyz
+synctds.com
+traffictds.com
+
+# ClickFix macOS loaders — fake macOS utilities (Microsoft Security Blog)
+cleanmymacos.org
+domenpozh.net
+rapidfilevault4.sbs
+coco-fun2.com
+nitlebuf.com
+yablochnisok.com
+mentaorb.com
+
+# CrashFix variant — crashes browser then deploys RAT (Microsoft Jan 2026)
+nexsnield.com
+
+# GitHub-hosted infostealer campaign — brand impersonation (Arctic Wolf July 15)
+# Routes through .github.io → distribution domain → C2
+# C2 hardcoded IP 193.143.1.131 — block the domains in their chain
+
+# Thomson Reuters CLEAR — law enforcement surveillance platform
+# ICE $25M/yr contract, real-time monitoring of 1M people (July 22 2026)
+clear.thomsonreuters.com
+api.clear.thomsonreuters.com
+cabs.thomsonreuters.com
+rapid.thomsonreuters.com
+vigilantsolutions.com
+api.vigilantsolutions.com
+motorolasolutions.com
+plateagency.com
+
+# Vidar Stealer 2.0 — post-Lumma surge, dead-drop C2 via Telegram
+# 24 new domains activated April 24 2026 (FalconFeeds)
+vidar-panel.shop
+vidarstealer.shop
+vidar2.cfd
+vidarupdate.cfd
+
+# DriveSurge — initial access broker, pay-per-install ClickFix/FakeUpdates TDS
+drivesurge.net
+drive-surge.com
+
+# SCMBANKER — second known ClickFix-spread threat actor
+scmbanker.com
+scmbank.shop
