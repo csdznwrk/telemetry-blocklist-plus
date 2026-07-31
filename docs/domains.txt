@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-07-31 01:58 UTC
-# Domains: 15798
+# Updated: 2026-07-31 08:36 UTC
+# Domains: 15807
 
 -084-gls-223-www-9-k-0brasil.net.daraz.com
 -access-logs-1.net.daraz.com
@@ -8756,6 +8756,7 @@
 029www22w.top
 029yt.com
 02:01:00,byrne_emmy12099,ip,103.81.116.10,
+02:03:00,masaomi346,domain,shtedsa.qrbyw.xyz,
 02:06:00,phishstats,url,https://whop.com/checkout/plan_tqmohup7azujs/?session=ch_vzzkxzrmilurjwm,
 02:20:00,metemcyber,domain,aeon.pehfkmt.cn,
 02:20:00,metemcyber,ip,43.167.15.126,
@@ -10781,8 +10782,11 @@
 05:09:00,metemcyber,url,http://43.167.15.126,
 05:09:00,metemcyber,url,https://aeon.punwxbf.cn/gipxpzuysu,
 05:25:00,0xburgers,url,https://github.com/microsoft-services/,,https://x.com/0xburgers/status/2081974180040622426
+05:29:00,masaomi346,domain,linglingmiao.top,
+05:29:00,masaomi346,url,https://linglingmiao.top/jp,
 05:32:00,metemcyber,domain,aeon.aymmejx.cn,
 05:32:00,metemcyber,url,https://aeon.aymmejx.cn/efa0jdtdv1,
+05:37:00,dixit_404,ip,103.77.242.187,,https://x.com/dixit_404/status/2083064367080435953
 05:44:00,harugasumi,domain,thedigitalvibe.com,
 05:44:00,harugasumi,domain,uggxposclps.top,
 05:44:00,harugasumi,ip,43.163.207.119,
@@ -10797,17 +10801,21 @@
 06:16:00,metemcyber,url,https://mzrtkb.cfd/grb0qs,
 06:39:00,d1v35hresearch,ip,94.16.122.201,
 06:39:00,d1v35hresearch,url,http://94.16.122.201:8080,
+06:41:00,fact_finder03,ip,45.83.179.102,
 06:45:00,fact_finder03,ip,178.128.100.171,
+06:47:00,fact_finder03,ip,34.139.85.106,
 06:48:00,d1v35hresearch,ip,208.76.221.223,
 06:48:00,d1v35hresearch,url,http://208.76.221.223:8080,
 07:00:00,phishunt_io,domain,dhlexpressline.weebly.com,
 07:00:00,phishunt_io,domain,facebooksecurepage.blogspot.com,
+07:00:00,phishunt_io,domain,meta-facebook-pro.blogspot.com,
 07:00:00,phishunt_io,domain,paypal.myproccesing.com,
 07:00:00,phishunt_io,domain,trustwallet.com-two-factor-authentication12.ao.yesixrq.com,
 07:00:00,phishunt_io,ip,74.115.51.8,
 07:00:00,phishunt_io,ip,77.68.5.178,
 07:00:00,phishunt_io,url,http://dhlexpressline.weebly.com,
 07:00:00,phishunt_io,url,http://facebooksecurepage.blogspot.com,
+07:00:00,phishunt_io,url,http://meta-facebook-pro.blogspot.com,
 07:00:00,phishunt_io,url,http://paypal.myproccesing.com,
 07:00:00,phishunt_io,url,http://trustwallet.com-two-factor-authentication12.ao.yesixrq.com,
 07:01:00,masaomi346,domain,ppz0y9a6grw3veoqwz.live,
@@ -10836,6 +10844,7 @@
 07:50:00,tdatwja,domain,drive.careernetwork.co.nz,,https://x.com/tdatwja/status/2082010812324131039
 07:50:00,tdatwja,url,http://drive.careernetwork.co.nz/download.php/,,https://x.com/tdatwja/status/2082010812324131039
 07:51:00,fact_finder03,ip,158.51.78.251,
+07:59:00,tdatwja,domain,cloudflare.carriernetworks.top,,https://x.com/tdatwja/status/2083100203834568782
 08:00:00,tdatwja,domain,j-a20260727022544.zip,,https://x.com/tdatwja/status/2081650901660647436
 08:00:00,tdatwja,domain,withered-lake-8596.krzakanna172.workers.dev,,https://x.com/tdatwja/status/2081650901660647436
 08:00:00,tdatwja,url,http://j-a20260727022544.zip,,https://x.com/tdatwja/status/2081650901660647436
