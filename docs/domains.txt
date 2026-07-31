@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-07-31 13:43 UTC
-# Domains: 15860
+# Updated: 2026-07-31 19:10 UTC
+# Domains: 15987
 
 -084-gls-223-www-9-k-0brasil.net.daraz.com
 -access-logs-1.net.daraz.com
@@ -11392,6 +11392,12 @@
 13:30:00,skocherhan,url,http://ritazaf.sbs,
 13:30:00,skocherhan,url,http://srbposta.top,
 13:30:00,skocherhan,url,http://tigo-sv.cyou,
+13:35:00,harugasumi,domain,apxjjqtsxsf.top,
+13:35:00,harugasumi,domain,galaxytx.com,
+13:35:00,harugasumi,ip,43.155.174.59,
+13:35:00,harugasumi,ip,43.163.207.119,
+13:35:00,harugasumi,url,https://apxjjqtsxsf.top/jp,
+13:35:00,harugasumi,url,https://galaxytx.com/page/gvtsvqqvag,
 13:41:00,teamcymru_s2,ip,101.37.210.236,,https://x.com/teamcymru_s2/status/2082823983141916889
 13:41:00,teamcymru_s2,ip,103.194.106.229,,https://x.com/teamcymru_s2/status/2082823983141916889
 13:41:00,teamcymru_s2,ip,124.222.164.176,,https://x.com/teamcymru_s2/status/2082823983141916889
@@ -11417,6 +11423,27 @@
 13:48:00,knight0x07,url,http://telemetry-conf.com,
 13:49:00,nextronresearch,sha256,0bae4acd83015b8447e90aec97efa2e81d136bfd512a69301d6187fed2e45c74,,https://x.com/nextronresearch/status/2081738627613114590
 13:49:00,nextronresearch,sha256,9130d7d2271e9cb118dd83907d9865cba547304a1f6c72743973efd59813df18,,https://x.com/nextronresearch/status/2081738627613114590
+13:53:00,kb4threatlabs,domain,advantageously821.promotix.com.de,,https://x.com/kb4threatlabs/status/2083189203773649137
+13:53:00,kb4threatlabs,domain,bruedergemeinde-schwarzenberg.de,,https://x.com/kb4threatlabs/status/2083189203773649137
+13:53:00,kb4threatlabs,domain,cloudplatinumdrive.com,,https://x.com/kb4threatlabs/status/2083189203773649137
+13:53:00,kb4threatlabs,domain,kstergmbuuzh.vu,,https://x.com/kb4threatlabs/status/2083189203773649137
+13:53:00,kb4threatlabs,domain,rebvomaxpremier.vu,,https://x.com/kb4threatlabs/status/2083189203773649137
+13:53:00,kb4threatlabs,domain,remaxadvisdbgors.vu,,https://x.com/kb4threatlabs/status/2083189203773649137
+13:53:00,kb4threatlabs,domain,rpmstitutfi.vu,,https://x.com/kb4threatlabs/status/2083189203773649137
+13:53:00,kb4threatlabs,domain,sharepoint-site0456.futureinsight.icu,,https://x.com/kb4threatlabs/status/2083189203773649137
+13:53:00,kb4threatlabs,domain,unitedstatesdressagefedercvgation.vu,,https://x.com/kb4threatlabs/status/2083189203773649137
+13:53:00,kb4threatlabs,url,http://advantageously821.promotix.com.de,,https://x.com/kb4threatlabs/status/2083189203773649137
+13:53:00,kb4threatlabs,url,http://bruedergemeinde-schwarzenberg.de,,https://x.com/kb4threatlabs/status/2083189203773649137
+13:53:00,kb4threatlabs,url,http://cloudplatinumdrive.com,,https://x.com/kb4threatlabs/status/2083189203773649137
+13:53:00,kb4threatlabs,url,http://kstergmbuuzh.vu,,https://x.com/kb4threatlabs/status/2083189203773649137
+13:53:00,kb4threatlabs,url,http://login.microsoftonline.com/common/oauth2/v2.0/authorize?scope=openid&prompt=none&client_id=<malicious_clientid>&state=<useremail,
+13:53:00,kb4threatlabs,url,http://rebvomaxpremier.vu,,https://x.com/kb4threatlabs/status/2083189203773649137
+13:53:00,kb4threatlabs,url,http://remaxadvisdbgors.vu,,https://x.com/kb4threatlabs/status/2083189203773649137
+13:53:00,kb4threatlabs,url,http://rpmstitutfi.vu,,https://x.com/kb4threatlabs/status/2083189203773649137
+13:53:00,kb4threatlabs,url,http://sharepoint-site0456.futureinsight.icu,,https://x.com/kb4threatlabs/status/2083189203773649137
+13:53:00,kb4threatlabs,url,http://unitedstatesdressagefedercvgation.vu,,https://x.com/kb4threatlabs/status/2083189203773649137
+13:56:00,fbgwls245,domain,gammax6w3dkfdjfrjthtmqzsioue52vzy6lz54qy6jcvmogfpubutjyd.onion,
+13:56:00,fbgwls245,url,http://gammax6w3dkfdjfrjthtmqzsioue52vzy6lz54qy6jcvmogfpubutjyd.onion,
 13:57:00,nextronresearch,domain,litterbox.catbox.moe,,https://x.com/nextronresearch/status/2082465509560266820
 13:57:00,nextronresearch,ip,217.60.77.63,,https://x.com/nextronresearch/status/2082465509560266820
 13:57:00,nextronresearch,sha256,4537b1189ce419f1a595cf47216c03f80e9170ce80dad8d9227a1e52f9cb3466,,https://x.com/nextronresearch/status/2082465509560266820
@@ -11481,6 +11508,7 @@
 14:53:00,500mk500,url,http://144.31.106.200:8080,,https://x.com/500mk500/status/2081029980260044833
 14:53:00,500mk500,url,http://144.31.48.144:8080,,https://x.com/500mk500/status/2081029980260044833
 14:53:00,500mk500,url,http://151.243.218.132:8080,,https://x.com/500mk500/status/2081029980260044833
+15:02:00,momomopas,sha256,169586b6eb36b17520ef5afd206da86c4de89eb01d6294ba9631414271ba752f,,https://x.com/momomopas/status/2083206761155305483
 15:08:00,skocherhan,domain,pmdc.gov.pk-hq.cc,,https://x.com/skocherhan/status/2082121070585283062
 15:08:00,skocherhan,url,http://www.pmdc.gov.pk-hq.cc,,https://x.com/skocherhan/status/2082121070585283062
 15:16:00,tial_cl,domain,1-800-495-2277-scotiabank.com,
@@ -11742,6 +11770,12 @@
 15:16:00,tial_cl,url,http://wuhatsapp.com,
 15:16:00,tial_cl,url,http://wyhatsapp.com,
 15:22:00,vinceakrapovic,url,http://taplink.cc/wikileaksv2,
+15:27:00,malwarehunterr,domain,abreathofzen.com,
+15:27:00,malwarehunterr,domain,akxstudio.es,
+15:27:00,malwarehunterr,url,http://akxstudio.es/speakexclude/catalogbrief,
+15:27:00,malwarehunterr,url,http://akxstudio.es/speakexclude/fabricwing,
+15:27:00,malwarehunterr,url,https://abreathofzen.com,
+15:27:00,malwarehunterr,url,https://abreathofzen.com/cap/,
 15:30:00,shadowopcode,sha256,0da0e50360469d64558e6de818b57f966126400d0b1e4b50cd50acd6cde86ae1,,https://x.com/shadowopcode/status/2081764112648884246
 15:30:00,shadowopcode,sha256,5cae7777da045d7c7d9b921e83a92e3703e39c0d489204564d037c3634170537,,https://x.com/shadowopcode/status/2081764112648884246
 15:32:00,skocherhan,ip,204.44.93.88,,https://x.com/skocherhan/status/2081764707321385003
@@ -11780,6 +11814,7 @@
 16:05:00,skocherhan,url,http://94.249.203.150:8080/getcmd,
 16:05:00,skocherhan,url,http://94.249.203.150:8080/status,
 16:05:00,skocherhan,url,https://94.249.203.150:8080/clientfurther,
+16:08:00,fact_finder03,ip,31.76.241.232,
 16:10:00,scanmalware,domain,sp3ct-delvak-biz8-harqik-mured.pages.dev,
 16:10:00,scanmalware,url,http://sp3ct-delvak-biz8-harqik-mured.pages.dev,
 16:10:00,skocherhan,domain,contactquest.com,
@@ -11829,18 +11864,29 @@
 16:50:00,scanmalware,domain,sp3ct-hesrik-biz8-qolvak-durem.pages.dev,
 16:50:00,scanmalware,url,http://dae-mul-18.com,
 16:50:00,scanmalware,url,http://sp3ct-hesrik-biz8-qolvak-durem.pages.dev,
+16:52:00,patialavii,domain,md.qihqob.com,
+16:52:00,patialavii,domain,moldinspectionservice.screenconnect.com,
+16:52:00,patialavii,url,https://md.qihqob.com/ngx(2)/ngx(2)/ngx(2)/ngx(2)/ngx(1)/ngx/,
+16:52:00,patialavii,url,https://moldinspectionservice.screenconnect.com/bin/screenconnect.clientsetup.msi,
+16:56:00,skocherhan,url,https://github.com/bytecategory?tab=repositories,
+16:59:00,patialavii,domain,fortuneventures.net.in,
+16:59:00,patialavii,url,https://fortuneventures.net.in/za/income/,
+16:59:00,patialavii,url,https://fortuneventures.net.in/za/income/download.php,
 17:00:00,phishunt_io,domain,amazon-ae-relay.apps.prov.cx,
 17:00:00,phishunt_io,domain,facebook-0-facebook.blogspot.com,
 17:00:00,phishunt_io,domain,fedexxl.deliverys.online,
 17:00:00,phishunt_io,domain,mail.support-icloudmyjhhs.info,
+17:00:00,phishunt_io,domain,office365.statichost.page,
 17:00:00,phishunt_io,ip,185.158.133.1,
 17:00:00,phishunt_io,ip,192.178.183.132,
+17:00:00,phishunt_io,ip,46.225.58.80,
 17:00:00,phishunt_io,ip,79.124.58.150,
 17:00:00,phishunt_io,ip,96.125.163.17,
 17:00:00,phishunt_io,url,http://amazon-ae-relay.apps.prov.cx,
 17:00:00,phishunt_io,url,http://facebook-0-facebook.blogspot.com,
 17:00:00,phishunt_io,url,http://fedexxl.deliverys.online,
 17:00:00,phishunt_io,url,http://mail.support-icloudmyjhhs.info/fl26,
+17:00:00,phishunt_io,url,http://office365.statichost.page,
 17:00:00,skocherhan,ip,124.198.132.5,,https://x.com/skocherhan/status/2081062135308693722
 17:00:00,skocherhan,url,http://124.198.132.5,,https://x.com/skocherhan/status/2081062135308693722
 17:02:00,patialavii,domain,matakwan.com,
@@ -12504,6 +12550,10 @@
 17:12:00,patialavii,domain,eventomepartae.top,
 17:12:00,patialavii,url,https://eventomepartae.top,
 17:12:00,patialavii,url,https://raw.githubusercontent.com/sean1004960/bgf/refs/heads/main/screenconnect.clientsetup.msi,
+17:13:00,webamon_search,domain,bnk-england.com,,https://x.com/webamon_search/status/2083239762882683222
+17:13:00,webamon_search,domain,login-bankofengland.com,,https://x.com/webamon_search/status/2083239762882683222
+17:13:00,webamon_search,url,http://bnk-england.com,,https://x.com/webamon_search/status/2083239762882683222
+17:13:00,webamon_search,url,http://login-bankofengland.com,,https://x.com/webamon_search/status/2083239762882683222
 17:16:00,patialavii,domain,forumdeenergias.com.br,
 17:16:00,patialavii,domain,secure-document-review-c3l30u.pagefile.workers.dev,
 17:16:00,patialavii,url,https://forumdeenergias.com.br/futuremastics/11.php/,
@@ -13415,6 +13465,7 @@ anmon.name
 anmon.ru
 anmon.su
 anmon1.android-monitor.ru
+antibotv3.com
 antitheft-88554.firebaseio.com
 aovivo.foxspy.com.br
 ap.api.fpjs.io
@@ -13446,6 +13497,7 @@ api.blueconic.com
 api.bytepioner.com
 api.castle.io
 api.childsafetytrackerapp.com
+api.clear.thomsonreuters.com
 api.clevertap.com
 api.clevguard.com
 api.contentsquare.net
@@ -13557,6 +13609,7 @@ api.useinsider.com
 api.uxcam.com
 api.veraset.com
 api.veriato.com
+api.vigilantsolutions.com
 api.vizio.com
 api.webengage.com
 api.wurfl.io
@@ -13625,6 +13678,8 @@ aps22.spyhuman.com
 argusinformation.com
 arity.com
 arkoselabs.com
+armydevice.shop
+arvax.xyz
 asgard-f8c53.firebaseio.com
 ask.com
 ass.absolutesoftsystem.in
@@ -13637,7 +13692,11 @@ atomicstealer.com
 ats.rlcdn.com
 au-club.top
 audigent.com
+auracorp.cfd
+auracorp.shop
 auramatrixa.com
+aurapanel.cfd
+aurastealer.shop
 auth-code-check.info
 auth.split.io
 authenticated-traffic-solution.rlcdn.com
@@ -13654,6 +13713,7 @@ b.appjiagu.com
 b.infosum.net
 b55y.net
 babelstreet.com
+babybon.cfd
 babylon.com
 babylontoolbar.com
 back.brunoespiao.com.br
@@ -13704,6 +13764,7 @@ browser-intake-us5-datadoghq.com
 browser-security-patch.net
 browser.sentry-cdn.com
 browsersecurityupdate.net
+browsertools.shop
 brunoespiao.com
 brunoespiao.com.br
 brunoespiao2.s3.amazonaws.com
@@ -13723,7 +13784,9 @@ cabinet.thecybernanny.com
 cabinet.vegosm.ru
 cabinet.vkur.se
 cabinet.vkur1.se
+cabs.thomsonreuters.com
 cakesdrum.com
+calibrated.cfd
 cambridgemobiletelematicsdata.com
 carboniferous.top
 castle.io
@@ -13764,15 +13827,19 @@ cellphoneservices.info
 celltracker.mobi
 celltrackernew.firebaseio.com
 celular007.s3.amazonaws.com
+centralwildcats.com
 cerberus-app.com
 cerberusapp.com
 chain-resolve.net
 chartbeat.com
+check02id.com
 chondritic.top
 chrome-update-required.com
 chromeupdatenow.com
 circana.com
 cisco-appdynamics.com
+cleanmymacos.org
+clear.thomsonreuters.com
 clearfake.net
 clevertap.com
 clevguard.com
@@ -13789,9 +13856,12 @@ clientconnect.com
 clientmetrics-pa.googleapis.com
 clientreport.info
 clientsdk.launchdarkly.com
+clocktok.cfd
 cloud.51degrees.com
+cloud.antibotv3.com
 cloud.teramind.co
 cloud.ttspy.com
+cloudautosolutions.com
 cloudflare-verify.click
 cloudfunctions.net
 clues.link
@@ -13804,8 +13874,12 @@ cmtelematics.com
 cn.imonitorsoft.com
 cnapi.trackview.net
 cobaltstrike.com
+coco-fun2.com
 cocospy.com
 code.etracker.com
+codebasecode.com
+cohezo.com
+cohezo.io
 coin-have.com
 coin-hive.com
 coinblind.com
@@ -13817,10 +13891,12 @@ collect.tealiumiq.com
 collect.veriato.com
 collectors.sumologic.com
 collider.foxspy.com.br
+comicstar.lat
 complementics.com
 conduit.com
 config.samsungads.com
 connect.liveramp.com
+connupdate.cfd
 contentsquare.net
 context.bidswitch.net
 control-phone-a05a3.firebaseio.com
@@ -13832,6 +13908,7 @@ conviva.com
 cool-horizon.com
 copy9.com
 copy9db.com
+cordinex.io
 core.mqtt.iot-prod.xfinity.com
 core.uidapi.com
 coremetrics.com
@@ -13875,6 +13952,7 @@ d2nipadu1fr4ne.cloudfront.net
 d3g4zswpacwtfb.cloudfront.net
 dahieenloo.com
 damoov.com
+dasdasdikasjdas.click
 data-api.phonedata.me
 data-api.spyzie.com
 data-webwatcherdata-alb-1451089636.us-west-2.elb.amazonaws.com
@@ -13933,12 +14011,15 @@ dmtracking2.alibaba.com
 dmw.bz
 dmw.cc
 dnetk.com
+domenpozh.net
 dotmetrics.net
 downapk.spytoapp.com
 download.webwatcherdata.com
 downloads.refog.com
+drive-surge.com
 drivertuner.com
 driverupdate.net
+drivesurge.net
 droimon20.ru
 dwn.vys.me
 dynatrace.com
@@ -13966,6 +14047,7 @@ elcore-api.azurewebsites.net
 em.awsapi.io
 embrace.io
 emcpanel.com
+endpoint-api-v1.com
 enterprise.cerberusapp.com
 epsilon.com
 epsilonpeoplecloud.com
@@ -14042,7 +14124,9 @@ fullstory.com
 funcaptcha.com
 funmoodsearch.com
 g.appjiagu.com
+gamedb.shop
 gcdsdk.appsflyer.com
+generator-qrcode.online
 get.snoopza.com
 getfeedback.com
 getmspy.net
@@ -14054,6 +14138,7 @@ glassbox.com
 glassworm-update.com
 glassworm.net
 global.uidapi.com
+glossmagazine.shop
 gmslb.net
 go.urbanairship.com
 google-analytics.com
@@ -14099,6 +14184,7 @@ hubstaff.com
 human.security
 humanab.com
 humanity.com
+hurgadatour.shop
 hw.cab
 hwa.cab
 hwm.cab
@@ -14254,6 +14340,8 @@ link-flux.com
 linkmob.org
 links.iterable.com
 liveramp.net
+livesmeet.us
+livesmeets.us
 localytics.com
 locationdata.ai
 locationdata.outbrain.com
@@ -14281,6 +14369,7 @@ luminati.io
 lumma5b6r.com
 lummac2.com
 lummastealer.com
+lvl99.store
 lytics.com
 m-media.thd.cc
 m.a-spy.com
@@ -14288,10 +14377,12 @@ m.asgardtech.ru
 m.lifecircle.app
 macos-diagnostics.net
 mads.amazon.com
+magicupdate.cfd
 maglook.eu
 mail.mobistealth.com
 mail.spymasterpro.com
 marketing.transunion.com
+maskingofking.xyz
 matheranalytics.com
 maxxspy.com
 mcloud-api.thd.cc
@@ -14344,6 +14435,8 @@ media.ulta.com
 mediamath.com
 mediasncr.com
 megapush.com
+mentaorb.com
+merkantalolol.asia
 message-tracker-98822.firebaseio.com
 messages01.smstracker.com
 messages02.smstracker.com
@@ -14398,6 +14491,7 @@ moengage.com
 monitask.com
 monitor-android.android-monitor.ru
 monitor-ultra.com
+motorolasolutions.com
 mparticle.com
 mpmetrics.kochava.com
 mpsnare.com
@@ -14405,6 +14499,7 @@ mpsnare.iesnare.com
 mrec24.com
 mrswd.wo87sf.com
 msafe.xyz
+mscloud.cfd
 mspy.alter757.info
 mspy.com
 mspyonline.com
@@ -14415,6 +14510,7 @@ mtoolapp.biz
 mtoolapp.net
 mtpak.acoustic.com
 mtracker.fortess.net
+mushub.cfd
 mxspy.com
 my-spy-a9c92.firebaseio.com
 my.a-spy.com
@@ -14464,12 +14560,14 @@ netnut.net
 netspy-7b8ec.firebaseio.com
 new.androidlost.com
 newrelic.com
+nexsnield.com
 nexus-websocket-a.intercom.io
 nexus-websocket-b.intercom.io
 ngc77.com
 nice-protect.com
 nielseniq.com
 ninjatech.io
+nitlebuf.com
 nmtracking.netflix.com
 node-api.theonespy.com
 node1.theonespy.com
@@ -14504,11 +14602,14 @@ okobot.net
 olurdaolurdediler.shop
 onclick.io
 onclicka.com
+onegeekworld.com
 onesignal.com
 onespy-in-196211.firebaseio.com
+onetoken.ink
 online-metrix.net
 onlinefundb.com
 open-collectors.sumologic.com
+opencamping.shop
 opencandy.com
 openfpcdn.io
 operator-integ.uidapi.com
@@ -14531,6 +14632,7 @@ packetstream.io
 pagead2.googlesyndication.com
 pair-api.google.com
 pair.google.com
+panel-aura.shop
 panel.spy24.net
 panel24.org
 panorama.io
@@ -14581,6 +14683,7 @@ pilgrim.foursquare.com
 ping.chartbeat.net
 pipe.thd.cc
 placed.com
+plateagency.com
 plausible.io
 play-store-3bb64.firebaseio.com
 playintegrity.googleapis.com
@@ -14756,6 +14859,8 @@ r.marketing.spyic.com
 raccoonstealer.com
 radarsubmissions.apple.com
 rampid.com
+rapid.thomsonreuters.com
+rapidfilevault4.sbs
 ravenjs.com
 raygun.com
 rc-api.lifecircle.app
@@ -14771,6 +14876,7 @@ refog.com
 refog.de
 refog.net
 refog.org
+regdev-google.com
 regionconfig.amplitude.com
 reimage.com
 relay1.trackview.net
@@ -14849,6 +14955,8 @@ sb.scorecardresearch.com
 sc-analytics.appspot.com
 scientiamobile.com
 scif.roku.com
+scmbank.shop
+scmbanker.com
 scorecardresearch.com
 screentimelabs.appspot.com
 sdk.embrace.io
@@ -14868,6 +14976,8 @@ sdk.split.io
 sdk.zeotap.com
 sdkhub.com
 search.tb.ask.com
+searchagent.cfd
+searchservice.cfd
 secondclone-2d312.firebaseio.com
 securebackuponline.net
 securemetrics.apple.com
@@ -15080,6 +15190,7 @@ sync.bk128.com
 sync.id5-sync.com
 sync.tapad.com
 sync.xiz4me.com
+synctds.com
 system-reporter.app
 t.adjust.com
 t.appsflyer.com
@@ -15099,6 +15210,7 @@ tb.ask.com
 tchsrvce.com
 tdos.io
 tealiumiq.com
+techupdate.cfd
 telematicssdk.com
 telemetry.dropbox.com
 telemetry.ecobee.com
@@ -15125,11 +15237,13 @@ test.refog.com
 testecollider.foxspy.com.br
 tfk7r22klf8vtd8g90jq8qno1tpqhmpe.apps.googleusercontent.com
 thd.cc
+thefirmos.com
 theodoi24h.com
 thetruth-db94a.firebaseio.com
 thetruthspy.com
 thiefguardbd.com
 threatmetrix.com
+thriddata.com
 timedoctor.com
 tispy.net
 tls.telemetry.swe.quicinc.com
@@ -15190,6 +15304,7 @@ tracksp-7743c.firebaseio.com
 tracksp.in
 trackview.net
 traffic.iproyal.com
+traffictds.com
 translation.spylive360.com
 transmitsecurity.com
 transunion.com
@@ -15243,6 +15358,7 @@ unacast.com
 unagi.amazon.com
 unidentifiedanalytics.web.app
 unisafe-a342f.firebaseio.com
+unknowntool.shop
 uo.evaspy.com
 up.evaspy.com
 update-browser-now.com
@@ -15271,8 +15387,11 @@ users.awosoft.com
 users.easemon.com
 users.thephonem.com
 utdid.taobao.com
+uu01webzoom.us
+uu03webzoom.us
 uxcam.com
 v4vw4ytvo4.execute-api.us-east-2.amazonaws.com
+varenie.live
 vars.hotjar.com
 venntel.com
 veraset.com
@@ -15282,10 +15401,15 @@ verisk.com
 veriskmarketing.com
 vervegroup.com
 via.intercom.io
+vidar-panel.shop
+vidar2.cfd
 vidarstealer.com
+vidarstealer.shop
+vidarupdate.cfd
 video-recorder-c0419.firebaseio.com
 video.foxspy.com.br
 viewer.snoopza.com
+vigilantsolutions.com
 viki-play.com
 viptelefonprogrami.com
 viptrack.pro
@@ -15316,10 +15440,12 @@ webtrackerplus.com
 webwatcher-child-app.firebaseio.com
 webwatcherdata.com
 webwatchernow.com
+werkbit.io
 wethnc067.xyz
 where-is-my-children.firebase.io
 whiteops.com
 widget.criteo.com
+winupdate.live
 winzipdriverupdater.com
 wmdcommander.appspot.com
 wmt.com
@@ -15388,6 +15514,7 @@ xnspy.com
 xp.apple.com
 xpcpanel.com
 xtracker.logimeter.com
+yablochnisok.com
 yandexmetrica.com
 ymetrica1.com
 z-na.amazon-adsystem.com
