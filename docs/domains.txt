@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-08-01 12:59 UTC
-# Domains: 15838
+# Updated: 2026-08-01 18:56 UTC
+# Domains: 15859
 
 -084-gls-223-www-9-k-0brasil.net.daraz.com
 -access-logs-1.net.daraz.com
@@ -11323,8 +11323,20 @@
 13:00:00,criminalip_us,url,http://msfconfig.icu,
 13:11:00,jameswt_wt,domain,pdf-bro.lat,,https://x.com/jameswt_wt/status/2083178848531677286
 13:11:00,jameswt_wt,url,https://pdf-bro.lat/files/,,https://x.com/jameswt_wt/status/2083178848531677286
+13:16:00,webamon_search,domain,007mansion.com,,https://x.com/webamon_search/status/2083542443299877256
+13:16:00,webamon_search,domain,01014949.com,,https://x.com/webamon_search/status/2083542443299877256
+13:16:00,webamon_search,domain,2rnkablo.com,,https://x.com/webamon_search/status/2083542443299877256
+13:16:00,webamon_search,domain,sqllq.com,,https://x.com/webamon_search/status/2083542443299877256
+13:16:00,webamon_search,ip,117.187.133.33,,https://x.com/webamon_search/status/2083542443299877256
+13:16:00,webamon_search,ip,183.60.255.95,,https://x.com/webamon_search/status/2083542443299877256
+13:16:00,webamon_search,url,http://007mansion.com,,https://x.com/webamon_search/status/2083542443299877256
+13:16:00,webamon_search,url,http://01014949.com,,https://x.com/webamon_search/status/2083542443299877256
+13:16:00,webamon_search,url,http://2rnkablo.com,,https://x.com/webamon_search/status/2083542443299877256
+13:16:00,webamon_search,url,http://sqllq.com,,https://x.com/webamon_search/status/2083542443299877256
 13:17:00,now_on_vt,md5,62c335a4c4ab14bbc85eb1c026db2f8a,,https://x.com/now_on_vt/status/2082455350331007315
 13:18:00,smica83,sha256,728a2f85c9ff8bbb463e93253ec05e8f3933271887457c5a0f5d4933ec8712c7,,https://x.com/smica83/status/2082817997085745300
+13:20:00,addressintel,domain,apreciaciones.com,
+13:20:00,addressintel,url,https://apreciaciones.com/~netcentrixco/intesasanpaolo/login-,
 13:21:00,masaomi346,domain,beiduobing.top,
 13:21:00,masaomi346,url,http://beiduobing.top/login,
 13:21:00,smica83,ip,198.37.105.19,,https://x.com/smica83/status/2082818853579477408
@@ -11351,6 +11363,8 @@
 13:35:00,harugasumi,ip,43.163.207.119,
 13:35:00,harugasumi,url,https://apxjjqtsxsf.top/jp,
 13:35:00,harugasumi,url,https://galaxytx.com/page/gvtsvqqvag,
+13:40:00,addressintel,domain,baddiehub.com.co,
+13:40:00,addressintel,url,https://baddiehub.com.co/~netcentrixco/intesasanpaolo/login,
 13:41:00,teamcymru_s2,ip,101.37.210.236,,https://x.com/teamcymru_s2/status/2082823983141916889
 13:41:00,teamcymru_s2,ip,103.194.106.229,,https://x.com/teamcymru_s2/status/2082823983141916889
 13:41:00,teamcymru_s2,ip,124.222.164.176,,https://x.com/teamcymru_s2/status/2082823983141916889
@@ -11437,6 +11451,8 @@
 14:16:00,harugasumi,ip,43.163.207.119,
 14:16:00,harugasumi,url,https://soravikenaxira.com/page/hfvfegkqrn,
 14:17:00,blinkzsec,sha256,16cba6b486585767891d571e466b610d6492a0286dde9be072a2edf00782503d,,https://x.com/blinkzsec/status/2081383436191777254
+14:19:00,skocherhan,domain,package-proxy.cf19-427.workers.dev,
+14:19:00,skocherhan,url,http://package-proxy.cf19-427.workers.dev,
 15:02:00,momomopas,sha256,169586b6eb36b17520ef5afd206da86c4de89eb01d6294ba9631414271ba752f,,https://x.com/momomopas/status/2083206761155305483
 15:08:00,skocherhan,domain,pmdc.gov.pk-hq.cc,,https://x.com/skocherhan/status/2082121070585283062
 15:08:00,skocherhan,url,http://www.pmdc.gov.pk-hq.cc,,https://x.com/skocherhan/status/2082121070585283062
@@ -11729,6 +11745,7 @@
 15:52:00,chum1ng0,domain,mi-paciente.com,,https://x.com/chum1ng0/status/2081769683187909068
 15:52:00,chum1ng0,url,http://mi-paciente.com,,https://x.com/chum1ng0/status/2081769683187909068
 15:52:00,patialavii,url,https://mvuuf.screenconnect.com/bin/screenconnect.clientsetup.msi,
+15:57:00,skocherhan,ip,91.197.98.188,,https://x.com/skocherhan/status/2083582864050860166
 15:58:00,dixit_404,sha256,b5f4e1c142b5bcb472b30ab4428de4c891a7192c9687c471dabb93e85473b9fe,,https://x.com/dixit_404/status/2082133556068044934
 15:59:00,onlyrosevelvet,url,https://www.nbcchicago.com/consumer/caught-on-camera-woman-records-possible-donation-scam-that-left-chicago-residents-out-thousands/3964946/,
 16:05:00,james_inthe_box,sha256,c6713b3c5ba4da5044d96463cae74227a6a898abb051a5f75ab7b508eb20f7e1,,https://x.com/james_inthe_box/status/2081773019836666139
@@ -11747,6 +11764,10 @@
 16:15:00,teamcymru_s2,ip,1.94.184.17,,https://x.com/teamcymru_s2/status/2082500314125451750
 16:15:00,teamcymru_s2,ip,101.42.239.7,,https://x.com/teamcymru_s2/status/2082500314125451750
 16:15:00,teamcymru_s2,ip,101.43.107.222,,https://x.com/teamcymru_s2/status/2082500314125451750
+16:30:00,skocherhan,ip,107.163.56.110,,https://x.com/skocherhan/status/2083591312498987518
+16:30:00,skocherhan,ip,107.163.56.231,,https://x.com/skocherhan/status/2083591312498987518
+16:30:00,skocherhan,ip,107.163.56.232,,https://x.com/skocherhan/status/2083591312498987518
+16:30:00,skocherhan,ip,107.163.56.251,,https://x.com/skocherhan/status/2083591312498987518
 16:36:00,andreadraghetti,ip,37.148.161.44,,https://x.com/andreadraghetti/status/2082143167478976593
 16:36:00,andreadraghetti,md5,298a6d3c18508b7ccab7fde444ddab1c,,https://x.com/andreadraghetti/status/2082143167478976593
 16:36:00,andreadraghetti,md5,e792fedfd11d56a9ad68e6d407b9a09e,,https://x.com/andreadraghetti/status/2082143167478976593
