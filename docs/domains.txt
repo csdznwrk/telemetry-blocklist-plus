@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-08-01 01:59 UTC
-# Domains: 15824
+# Updated: 2026-08-01 08:05 UTC
+# Domains: 15832
 
 -084-gls-223-www-9-k-0brasil.net.daraz.com
 -access-logs-1.net.daraz.com
@@ -10395,6 +10395,8 @@
 042e6fc826d8e48c.com
 042e830be90d0fea.top
 042f6c54e9e024818.com
+04:12:00,azzzzng71,domain,eliece.vip,
+04:12:00,azzzzng71,url,http://eliece.vip,
 04:31:00,scanmalware,domain,urlshort-linkmrrwjc0kdzql.esu2n5lwqi.workers.dev,
 04:31:00,scanmalware,url,http://urlshort-linkmrrwjc0kdzql.esu2n5lwqi.workers.dev,
 04:33:00,metemcyber,domain,gecnlxpwzds.top,
@@ -10771,8 +10773,12 @@
 04:33:00,tial_cl,url,http://zoom-join.us,
 04:33:00,tial_cl,url,http://zoom-meeting.uk,
 04:33:00,tial_cl,url,http://zoommeetingapp.com,
+04:37:00,masaomi346,domain,am.zzusxwjp018.shop,
+04:37:00,masaomi346,url,https://am.zzusxwjp018.shop/7zvij1,
 05:03:00,metemcyber,domain,jzbrmq.cfd,
 05:03:00,metemcyber,url,https://jzbrmq.cfd/grb0qs,
+05:07:00,azzzzng71,domain,eliice.com,
+05:07:00,azzzzng71,url,http://eliice.com,
 05:09:00,metemcyber,domain,aeon.punwxbf.cn,
 05:09:00,metemcyber,ip,43.167.15.126,
 05:09:00,metemcyber,url,http://43.167.15.126,
@@ -10803,6 +10809,7 @@
 06:48:00,d1v35hresearch,ip,208.76.221.223,
 06:48:00,d1v35hresearch,url,http://208.76.221.223:8080,
 07:00:00,phishunt_io,domain,dhlexpressline.weebly.com,
+07:00:00,phishunt_io,domain,facebookloginnp.blogspot.com,
 07:00:00,phishunt_io,domain,facebooksecurepage.blogspot.com,
 07:00:00,phishunt_io,domain,meta-facebook-pro.blogspot.com,
 07:00:00,phishunt_io,domain,paypal.myproccesing.com,
@@ -10810,6 +10817,7 @@
 07:00:00,phishunt_io,ip,74.115.51.8,
 07:00:00,phishunt_io,ip,77.68.5.178,
 07:00:00,phishunt_io,url,http://dhlexpressline.weebly.com,
+07:00:00,phishunt_io,url,http://facebookloginnp.blogspot.com/?m=1,
 07:00:00,phishunt_io,url,http://facebooksecurepage.blogspot.com,
 07:00:00,phishunt_io,url,http://meta-facebook-pro.blogspot.com,
 07:00:00,phishunt_io,url,http://paypal.myproccesing.com,
