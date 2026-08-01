@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-08-01 08:05 UTC
-# Domains: 15832
+# Updated: 2026-08-01 12:59 UTC
+# Domains: 15838
 
 -084-gls-223-www-9-k-0brasil.net.daraz.com
 -access-logs-1.net.daraz.com
@@ -10961,6 +10961,8 @@
 10:50:00,500mk500,url,http://winupdatehelper.online,,https://x.com/500mk500/status/2081106662207705380
 10:50:00,skocherhan,md5,33016cc9ff0f4bbf257a83c4b895a466,,https://x.com/skocherhan/status/2082056089890148710
 10:58:00,fact_finder03,ip,45.61.163.8,
+11:01:00,shadowcatlabs,domain,ransomw.com,
+11:01:00,shadowcatlabs,url,http://ransomw.com,
 11:04:00,bomccss,url,ftp://ftp.vilimorin.com,
 11:04:00,tobersotski,domain,paypal.dashboard-manage.net,
 11:04:00,tobersotski,url,http://paypal.dashboard-manage.net,
@@ -11089,6 +11091,8 @@
 11:42:00,smica83,url,http://pobaby3.com,,https://x.com/smica83/status/2082793926855946363
 11:46:00,skocherhan,domain,api.0tokens.xyz,,https://x.com/skocherhan/status/2082432490279420395
 11:46:00,skocherhan,url,http://api.0tokens.xyz,,https://x.com/skocherhan/status/2082432490279420395
+11:54:00,masaomi346,domain,zhengxin55.com,
+11:54:00,masaomi346,url,https://zhengxin55.com/ep-1-us-jp-jp/,
 11:55:00,fact_finder03,ip,174.138.33.139,
 11:55:00,now_on_vt,md5,3e9b3306644b1a4d8c3ac23c7e0d4c7b,,https://x.com/now_on_vt/status/2082072368672108703
 12:00:00,malwarehunterr,domain,acquilarssb.top,
@@ -11182,6 +11186,8 @@
 12:31:00,webamon_search,url,http://sqllq.com,,https://x.com/webamon_search/status/2083168754926546970
 12:32:00,malwrhunterteam,domain,panel.b2brouter-secure.com,,https://x.com/malwrhunterteam/status/2082806454692515863
 12:32:00,malwrhunterteam,url,https://panel.b2brouter-secure.com,,https://x.com/malwrhunterteam/status/2082806454692515863
+12:32:00,sicehice,ip,114.104.171.202,,https://x.com/sicehice/status/2083531399491891337
+12:32:00,sicehice,url,http://114.104.171.202:48951/mozi.m,,https://x.com/sicehice/status/2083531399491891337
 12:33:00,c9lab_soc,domain,cn-microsoft.com,
 12:33:00,c9lab_soc,domain,walmartamp.com,
 12:33:00,c9lab_soc,url,http://cn-microsoft.com,
