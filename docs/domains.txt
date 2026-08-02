@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-08-02 01:55 UTC
-# Domains: 15331
+# Updated: 2026-08-02 08:07 UTC
+# Domains: 15354
 
 -084-gls-223-www-9-k-0brasil.net.daraz.com
 -access-logs-1.net.daraz.com
@@ -7439,6 +7439,10 @@
 01:45:00,romonlyht,url,https://bioevhealthcare.com/x1wjep/?uid=aaaa@example.jp,
 01:45:00,romonlyht,url,https://bioevhealthcare.com/x1wjep/fibber.php,
 01:45:00,romonlyht,url,https://bioevhealthcare.com/x1wjep?uid=aaaa@example.jp,
+01:50:00,sometestleper,ip,178.17.61.110,
+01:50:00,sometestleper,ip,91.92.241.160,
+01:50:00,sometestleper,url,http://178.17.61.110,
+01:50:00,sometestleper,url,http://91.92.241.160,
 01:53:00,coolcarlos17,domain,validacaoexpirado.click,
 01:53:00,coolcarlos17,url,http://validacaoexpirado.click,
 01:55:00,romonlyht,domain,ljbss.com,
@@ -8764,6 +8768,11 @@
 02:40:00,masaomi346,url,https://xcllgnb.cn/login,
 02:42:00,skocherhan,md5,527729054da74abbc65749de14008236,,https://x.com/skocherhan/status/2082658080278339723
 02:42:00,skocherhan,md5,99ddd4f40eac2cec7fcdfc74c63a2480,,https://x.com/skocherhan/status/2082658080278339723
+02:46:00,kubotaa3,domain,mg-euwqnasnd.com,
+02:46:00,kubotaa3,ip,192.238.160.133,
+02:46:00,kubotaa3,url,https://mg-euwqnasnd.com/pc_0010021312/sp_001239u1923/login/loginusername,
+02:58:00,azzzzng71,domain,lynx-trading.org,
+02:58:00,azzzzng71,url,http://lynx-trading.org,
 02a169af111011.beer
 02a1a1ec23b8564d37d2f451f1db9dad.info
 02a2e259fd91062a.com
@@ -10792,6 +10801,10 @@
 05:44:00,harugasumi,ip,43.163.207.119,
 05:44:00,harugasumi,url,https://thedigitalvibe.com/page/agbqxryteq,
 05:44:00,harugasumi,url,https://uggxposclps.top/jp,
+06:10:00,danielwils59,domain,eliece.vip,
+06:10:00,danielwils59,domain,eliice.com,
+06:10:00,danielwils59,url,http://eliece.vip,
+06:10:00,danielwils59,url,http://eliice.com,
 06:10:00,metemcyber,domain,czaldeylkrn.top,
 06:10:00,metemcyber,url,https://czaldeylkrn.top/jp,
 06:11:00,romonlyht,domain,bioevhealthcare.com,
@@ -10799,6 +10812,9 @@
 06:11:00,romonlyht,url,https://bioevhealthcare.com/x1wjep?uid=aaaa@example.jp,
 06:16:00,metemcyber,domain,mzrtkb.cfd,
 06:16:00,metemcyber,url,https://mzrtkb.cfd/grb0qs,
+06:17:00,phishstats,domain,email-social.com,
+06:17:00,phishstats,ip,64.89.161.147,
+06:17:00,phishstats,url,https://email-social.com,
 06:39:00,d1v35hresearch,ip,94.16.122.201,
 06:39:00,d1v35hresearch,url,http://94.16.122.201:8080,
 06:41:00,fact_finder03,ip,45.83.179.102,
@@ -10823,6 +10839,13 @@
 07:06:00,fact_finder03,ip,2.26.99.25,
 07:06:00,masaomi346,domain,kalorexivakena.net,
 07:06:00,masaomi346,url,https://kalorexivakena.net/jp,
+07:17:00,kostastsale,domain,nfe.boletos-notas.com,
+07:17:00,kostastsale,domain,remoto.ddins.click,
+07:17:00,kostastsale,ip,217.60.195.192,
+07:17:00,kostastsale,url,http://217.60.195.192,
+07:17:00,kostastsale,url,http://nfe.boletos-notas.com,
+07:17:00,kostastsale,url,http://remoto.ddins.click,
+07:17:00,kostastsale,url,https://nfe.boletos-notas.com/h/estagio1.php?r=391c7ce85d88,
 07:25:00,etugenio,ip,176.124.207.93,
 07:25:00,etugenio,url,http://176.124.207.93,
 07:26:00,masaomi346,domain,votingonline.co.in,
