@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-08-02 13:01 UTC
-# Domains: 15391
+# Updated: 2026-08-02 18:56 UTC
+# Domains: 15462
 
 -084-gls-223-www-9-k-0brasil.net.daraz.com
 -access-logs-1.net.daraz.com
@@ -11276,6 +11276,8 @@
 13-5.ru
 13:00:00,criminalip_us,domain,msfconfig.icu,
 13:00:00,criminalip_us,url,http://msfconfig.icu,
+13:10:00,scanmalware,domain,kkkksgsgdfdjfdhhfdhlhdflhxkkkk-dpxklwputyu8.edgeone.dev,
+13:10:00,scanmalware,url,http://kkkksgsgdfdjfdhhfdhlhdflhxkkkk-dpxklwputyu8.edgeone.dev,
 13:11:00,jameswt_wt,domain,pdf-bro.lat,,https://x.com/jameswt_wt/status/2083178848531677286
 13:11:00,jameswt_wt,url,https://pdf-bro.lat/files/,,https://x.com/jameswt_wt/status/2083178848531677286
 13:16:00,webamon_search,domain,007mansion.com,,https://x.com/webamon_search/status/2083542443299877256
@@ -11291,7 +11293,9 @@
 13:17:00,now_on_vt,md5,62c335a4c4ab14bbc85eb1c026db2f8a,,https://x.com/now_on_vt/status/2082455350331007315
 13:18:00,smica83,sha256,728a2f85c9ff8bbb463e93253ec05e8f3933271887457c5a0f5d4933ec8712c7,,https://x.com/smica83/status/2082817997085745300
 13:20:00,addressintel,domain,apreciaciones.com,
+13:20:00,addressintel,domain,aunquenolocreas.com,
 13:20:00,addressintel,url,https://apreciaciones.com/~netcentrixco/intesasanpaolo/login-,
+13:20:00,addressintel,url,https://aunquenolocreas.com/~netcentrixco/intesasanpaolo/logi,
 13:21:00,masaomi346,domain,beiduobing.top,
 13:21:00,masaomi346,url,http://beiduobing.top/login,
 13:21:00,smica83,ip,198.37.105.19,,https://x.com/smica83/status/2082818853579477408
@@ -11303,6 +11307,14 @@
 13:23:00,jameswt_wt,url,https://nfe.boletos-notas.com,
 13:23:00,jameswt_wt,url,https://nfe.boletos-notas.com/files,
 13:23:00,jameswt_wt,url,https://nfe.boletos-notas.com/files/nfe.boletos-notas.com/fcd598f9c282fd5b/nota_-szesaw.zip,
+13:23:00,webamon_search,domain,007mansion.com,,https://x.com/webamon_search/status/2083906656442749101
+13:23:00,webamon_search,domain,01014949.com,,https://x.com/webamon_search/status/2083906656442749101
+13:23:00,webamon_search,domain,0302onabike.com,,https://x.com/webamon_search/status/2083906656442749101
+13:23:00,webamon_search,domain,sqllq.com,,https://x.com/webamon_search/status/2083906656442749101
+13:23:00,webamon_search,url,http://007mansion.com,,https://x.com/webamon_search/status/2083906656442749101
+13:23:00,webamon_search,url,http://01014949.com,,https://x.com/webamon_search/status/2083906656442749101
+13:23:00,webamon_search,url,http://0302onabike.com,,https://x.com/webamon_search/status/2083906656442749101
+13:23:00,webamon_search,url,http://sqllq.com,,https://x.com/webamon_search/status/2083906656442749101
 13:24:00,smica83,ip,172.245.12.92,,https://x.com/smica83/status/2082819651096957108
 13:24:00,smica83,sha256,91dd7cec4367461b5c459d4c6823836ff65772051f4c5e14e6761b60a53efd8f,,https://x.com/smica83/status/2082819651096957108
 13:24:00,smica83,url,http://172.245.12.92:8040/bin/screenconnect.clientsetup.msi?e=access&y=guest,,https://x.com/smica83/status/2082819651096957108
@@ -11318,6 +11330,10 @@
 13:35:00,harugasumi,ip,43.163.207.119,
 13:35:00,harugasumi,url,https://apxjjqtsxsf.top/jp,
 13:35:00,harugasumi,url,https://galaxytx.com/page/gvtsvqqvag,
+13:38:00,banthisguy9349,domain,evilgpt.com,,https://x.com/banthisguy9349/status/2083910252794097685
+13:38:00,banthisguy9349,ip,172.86.92.113,,https://x.com/banthisguy9349/status/2083910252794097685
+13:38:00,banthisguy9349,url,http://172.86.92.113,,https://x.com/banthisguy9349/status/2083910252794097685
+13:38:00,banthisguy9349,url,http://evilgpt.com,,https://x.com/banthisguy9349/status/2083910252794097685
 13:40:00,addressintel,domain,baddiehub.com.co,
 13:40:00,addressintel,url,https://baddiehub.com.co/~netcentrixco/intesasanpaolo/login,
 13:41:00,teamcymru_s2,ip,101.37.210.236,,https://x.com/teamcymru_s2/status/2082823983141916889
@@ -11398,11 +11414,25 @@
 13:57:00,skocherhan,url,http://agoras.zapto.org,,https://x.com/skocherhan/status/2081740805962637573
 13:59:00,fbgwls245,domain,shibaitobajtr6yctvrijfitnugfulkmprrqbmu2ysk3zyzx2ufe3yqd.onion,
 13:59:00,fbgwls245,url,http://shibaitobajtr6yctvrijfitnugfulkmprrqbmu2ysk3zyzx2ufe3yqd.onion,
+14:03:00,skocherhan,ip,178.16.55.171,,https://x.com/skocherhan/status/2083916500298060104
+14:03:00,skocherhan,url,http://178.16.55.171:56001,,https://x.com/skocherhan/status/2083916500298060104
+14:04:00,skocherhan,md5,708c21b05335b44289c4af18357bd1cb,,https://x.com/skocherhan/status/2083916978780037591
 14:16:00,harugasumi,domain,soravikenaxira.com,
 14:16:00,harugasumi,ip,43.163.207.119,
 14:16:00,harugasumi,url,https://soravikenaxira.com/page/hfvfegkqrn,
 14:19:00,skocherhan,domain,package-proxy.cf19-427.workers.dev,
 14:19:00,skocherhan,url,http://package-proxy.cf19-427.workers.dev,
+14:20:00,skocherhan,md5,f6ef2ee18c48f4afa415a117a9e59356,,https://x.com/skocherhan/status/2083920773144580347
+14:22:00,skocherhan,md5,39e3b36dbcf383dc14ac537419a86a90,,https://x.com/skocherhan/status/2083921487933689915
+14:30:00,skocherhan,domain,ebalsosal.mom,,https://x.com/skocherhan/status/2083923293233406012
+14:30:00,skocherhan,domain,spring-wave-37da.sskandi1945.workers.dev,,https://x.com/skocherhan/status/2083923293233406012
+14:30:00,skocherhan,domain,sskandi1945.workers.dev,,https://x.com/skocherhan/status/2083923293233406012
+14:30:00,skocherhan,md5,34d2f14813364eb4b72e27c7aa90521f,,https://x.com/skocherhan/status/2083923293233406012
+14:30:00,skocherhan,url,http://ebalsosal.mom,,https://x.com/skocherhan/status/2083923293233406012
+14:30:00,skocherhan,url,http://spring-wave-37da.sskandi1945.workers.dev,,https://x.com/skocherhan/status/2083923293233406012
+14:30:00,skocherhan,url,http://sskandi1945.workers.dev,,https://x.com/skocherhan/status/2083923293233406012
+14:48:00,skocherhan,domain,git-security-audit.xyz,,https://x.com/skocherhan/status/2083928026153152834
+14:48:00,skocherhan,url,http://git-security-audit.xyz,,https://x.com/skocherhan/status/2083928026153152834
 15:02:00,momomopas,sha256,169586b6eb36b17520ef5afd206da86c4de89eb01d6294ba9631414271ba752f,,https://x.com/momomopas/status/2083206761155305483
 15:08:00,skocherhan,domain,pmdc.gov.pk-hq.cc,,https://x.com/skocherhan/status/2082121070585283062
 15:08:00,skocherhan,url,http://www.pmdc.gov.pk-hq.cc,,https://x.com/skocherhan/status/2082121070585283062
@@ -11683,6 +11713,15 @@
 15:52:00,chum1ng0,domain,mi-paciente.com,,https://x.com/chum1ng0/status/2081769683187909068
 15:52:00,chum1ng0,url,http://mi-paciente.com,,https://x.com/chum1ng0/status/2081769683187909068
 15:52:00,patialavii,url,https://mvuuf.screenconnect.com/bin/screenconnect.clientsetup.msi,
+15:55:00,elementalx2,ip,122.10.111.119,,https://x.com/elementalx2/status/2083944804237590699
+15:55:00,elementalx2,ip,122.10.14.239,,https://x.com/elementalx2/status/2083944804237590699
+15:55:00,elementalx2,ip,122.10.49.214,,https://x.com/elementalx2/status/2083944804237590699
+15:55:00,elementalx2,ip,154.36.179.115,,https://x.com/elementalx2/status/2083944804237590699
+15:55:00,elementalx2,ip,185.242.245.68,,https://x.com/elementalx2/status/2083944804237590699
+15:55:00,elementalx2,ip,43.164.135.7,,https://x.com/elementalx2/status/2083944804237590699
+15:55:00,elementalx2,ip,49.234.188.198,,https://x.com/elementalx2/status/2083944804237590699
+15:55:00,elementalx2,url,http://122.10.111.119,,https://x.com/elementalx2/status/2083944804237590699
+15:56:00,now_on_vt,sha256,162e436f18fe6099c57855c8d63fd747493624e87702dc749b242eb9a6b758ca,,https://x.com/now_on_vt/status/2083944980234588365
 15:57:00,skocherhan,ip,91.197.98.188,,https://x.com/skocherhan/status/2083582864050860166
 15:58:00,dixit_404,sha256,b5f4e1c142b5bcb472b30ab4428de4c891a7192c9687c471dabb93e85473b9fe,,https://x.com/dixit_404/status/2082133556068044934
 15:59:00,onlyrosevelvet,url,https://www.nbcchicago.com/consumer/caught-on-camera-woman-records-possible-donation-scam-that-left-chicago-residents-out-thousands/3964946/,
@@ -11733,6 +11772,7 @@
 17:00:00,phishunt_io,domain,amazon-ae-relay.apps.prov.cx,
 17:00:00,phishunt_io,domain,fedexxl.deliverys.online,
 17:00:00,phishunt_io,domain,mail.support-icloudmyjhhs.info,
+17:00:00,phishunt_io,domain,metamaskextensionnn.gitbook.io,
 17:00:00,phishunt_io,domain,office365.statichost.page,
 17:00:00,phishunt_io,ip,185.158.133.1,
 17:00:00,phishunt_io,ip,46.225.58.80,
@@ -11741,11 +11781,33 @@
 17:00:00,phishunt_io,url,http://amazon-ae-relay.apps.prov.cx,
 17:00:00,phishunt_io,url,http://fedexxl.deliverys.online,
 17:00:00,phishunt_io,url,http://mail.support-icloudmyjhhs.info/fl26,
+17:00:00,phishunt_io,url,http://metamaskextensionnn.gitbook.io/us,
 17:00:00,phishunt_io,url,http://office365.statichost.page,
 17:02:00,patialavii,domain,matakwan.com,
 17:02:00,patialavii,domain,nath-c.screenconnect.com,
 17:02:00,patialavii,url,https://matakwan.com/ngx(2)/ngx(2)/ngx(2)/ngx(1)/ngx/,
 17:02:00,patialavii,url,https://nath-c.screenconnect.com/bin/screenconnect.clientsetup.msi,
+17:04:00,now_on_vt,sha256,064a17321a401f48b0f757ff52458df111802fa6476e2d752e79e6a79c113fd9,,https://x.com/now_on_vt/status/2029887800909156681
+17:04:00,now_on_vt,sha256,2fbecaeb158eb5da8858cbe93ae438359f51ba18c416582adab9a293ada1a561,,https://x.com/now_on_vt/status/2029887800909156681
+17:04:00,now_on_vt,sha256,443786dae18e7c0a859b72306b2f028e190591de60cd867e2dc06b98e0867ffe,,https://x.com/now_on_vt/status/2029887800909156681
+17:04:00,now_on_vt,sha256,4b60cb5caf9fead0a3c45d077e7626387cff47884db896d6dddbbf96a707aa2c,,https://x.com/now_on_vt/status/2029887800909156681
+17:04:00,now_on_vt,sha256,52358873db8b1b354241757bce59a48e8606d6d5e45aacc746539fb31cf5339d,,https://x.com/now_on_vt/status/2029887800909156681
+17:04:00,now_on_vt,sha256,68cba116f6e8d1685ea4d04a48cd7b67d3eed07b8926975aabc925fd8d9409e8,,https://x.com/now_on_vt/status/2029887800909156681
+17:04:00,now_on_vt,sha256,6d522977b4f5473050ae9f493cc34e837110fd5b06c236517c317d15623ba86c,,https://x.com/now_on_vt/status/2029887800909156681
+17:04:00,now_on_vt,sha256,7bb759e468ede2efb3c8f6c517c584e17fc67a5530bef84d227ee191bcbc44e2,,https://x.com/now_on_vt/status/2029887800909156681
+17:04:00,now_on_vt,sha256,8b9d8f56388d5d30040afc01da2438f37c7cc8d4d92860039b15cf3139f0cab8,,https://x.com/now_on_vt/status/2029887800909156681
+17:04:00,now_on_vt,sha256,99d08243903b744261ecc1c3cbcb3b9b78d9782121780584b1380f53d5628414,,https://x.com/now_on_vt/status/2029887800909156681
+17:04:00,now_on_vt,sha256,a7b0d50e1f6bdb8fe1efbfc789937c7d45fd5addf3b8e239ad61df6002b55195,,https://x.com/now_on_vt/status/2029887800909156681
+17:04:00,now_on_vt,sha256,b6b9b7d5fc2e5f49ba4ec40b56d08582f9190c64a075500c0742eecac22f270e,,https://x.com/now_on_vt/status/2029887800909156681
+17:04:00,now_on_vt,sha256,bae30cc6b5a42e400c91cc8189deb40d9cbe872c1200978d828108822f1e1d95,,https://x.com/now_on_vt/status/2029887800909156681
+17:04:00,now_on_vt,sha256,c1939ee768b4f50124ef42b19114693b85c364f61c90522ac38df2111af3a4e7,,https://x.com/now_on_vt/status/2029887800909156681
+17:04:00,now_on_vt,sha256,e04fcb2b674eac8cd6cc41e62da7af73c91f2334ca97668e1977f16a15846984,,https://x.com/now_on_vt/status/2029887800909156681
+17:04:00,now_on_vt,sha256,e38f110e4be96923575ed3b49ec816496e446496b5ed309c0c3b731ac5c118f2,,https://x.com/now_on_vt/status/2029887800909156681
+17:04:00,now_on_vt,sha256,e439e14a778aa079159bc61bfdf167c79d786489d8502d7d6b574a3f752d120b,,https://x.com/now_on_vt/status/2029887800909156681
+17:04:00,now_on_vt,sha256,e77dd2c3f8fd99b0d428f20733246eeaa270f0a61286ed7b63cadec5c46b0f0a,,https://x.com/now_on_vt/status/2029887800909156681
+17:04:00,now_on_vt,sha256,f3d958350be201eda4bd226537809b68747709ee038263bede953e42bdde0800,,https://x.com/now_on_vt/status/2029887800909156681
+17:04:00,now_on_vt,sha256,fa65142b7d45df9a2d0e95872f655b51510a246d3533032f7757e9aec99e3f46,,https://x.com/now_on_vt/status/2029887800909156681
+17:04:00,skocherhan,md5,9468cd34fd1184471092ffd27d798ff1,,https://x.com/skocherhan/status/2083962150083559499
 17:07:00,tial_cl,domain,131559coinbase.com,
 17:07:00,tial_cl,domain,21argarena.com,
 17:07:00,tial_cl,domain,21argarena1.com,
@@ -12419,10 +12481,19 @@
 17:51:00,netresec,domain,v0hkpadr04mbz5lkearqa.com,,https://x.com/netresec/status/2082524480299991451
 17:51:00,netresec,ip,85.239.149.178,,https://x.com/netresec/status/2082524480299991451
 17:51:00,netresec,url,http://v0hkpadr04mbz5lkearqa.com,,https://x.com/netresec/status/2082524480299991451
+17:59:00,sicehice,ip,216.106.176.173,,https://x.com/sicehice/status/2083976089622196409
+17:59:00,sicehice,ip,95.155.151.113,,https://x.com/sicehice/status/2083976089622196409
+17:59:00,sicehice,md5,7950b0362b06908c1ee4c058bf1a95c0,,https://x.com/sicehice/status/2083976089622196409
+17:59:00,sicehice,md5,b1c1836c3a1b79919267dab2278e17f4,,https://x.com/sicehice/status/2083976089622196409
+17:59:00,sicehice,url,http://95.155.151.113/d/xd.arm,,https://x.com/sicehice/status/2083976089622196409
+17:59:00,sicehice,url,http://95.155.151.113/d/xd.arm7,,https://x.com/sicehice/status/2083976089622196409
+17:59:00,skocherhan,md5,e1d82550142093465e2cd9ae9501f017,,https://x.com/skocherhan/status/2083976024518218051
+18:00:00,phatomcandle,domain,certcheck.online,
 18:00:00,phatomcandle,domain,softwareupdatenews.com,
 18:00:00,phatomcandle,domain,tremorcrest.click,
 18:00:00,phatomcandle,ip,45.64.186.26,
 18:00:00,phatomcandle,url,http://45.64.186.26,
+18:00:00,phatomcandle,url,http://certcheck.online,
 18:00:00,phatomcandle,url,http://softwareupdatenews.com,
 18:00:00,phatomcandle,url,http://tremorcrest.click,
 18:01:00,skocherhan,domain,ecliptera.info,
