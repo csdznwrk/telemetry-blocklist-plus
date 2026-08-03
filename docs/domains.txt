@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-08-03 01:58 UTC
-# Domains: 14657
+# Updated: 2026-08-03 09:24 UTC
+# Domains: 14716
 
 -084-gls-223-www-9-k-0brasil.net.daraz.com
 -access-logs-1.net.daraz.com
@@ -3006,7 +3006,10 @@
 00:50:00,scanmalware,domain,whm.whm.7053update.dev.dev.03-120-55-020.plesk.page,
 00:50:00,scanmalware,url,http://whm.whm.7053update.dev.dev.03-120-55-020.plesk.page,
 00:53:00,merlax_,url,http://pastebin.com/raw/egrxhwvs,
+00:57:00,romonlyht,domain,revviewfiles.es,
 00:57:00,romonlyht,ip,67.21.33.249,
+00:57:00,romonlyht,url,https://revviewfiles.es/jppppsss/?email=aaaa@example.jp,
+00:57:00,romonlyht,url,https://revviewfiles.es/jppppsss?email=aaaa@example.jp,
 00:57:00,romonlyht,url,https://stockhouse.com/registration/social-login?ec=a37aa67a-aec2-4afa-88c1-8f2fdb9762a5&returnurl=,
 00a17677c75ed52b.com
 00a1dcf072cd.top
@@ -7436,6 +7439,9 @@
 01:36:00,skocherhan,url,http://96.44.169.124,
 01:36:00,skocherhan,url,http://fnxxcl.com/ocoss,
 01:36:00,skocherhan,url,http://manyishw.com/ucifotql,
+01:37:00,romonlyht,domain,naissess.xjfllxa.cn,
+01:37:00,romonlyht,ip,38.75.81.122,
+01:37:00,romonlyht,url,https://naissess.xjfllxa.cn/ed9490/index,
 01:40:00,kubotaa3,domain,mu-hiqwnkesad.com,
 01:40:00,kubotaa3,ip,192.238.160.133,
 01:40:00,kubotaa3,url,https://mu-hiqwnkesad.com/pc_0010021312/sp_001239u1923/login/loginusername,
@@ -7443,6 +7449,10 @@
 01:45:00,metemcyber,ip,43.165.168.4,
 01:45:00,metemcyber,url,http://43.165.168.4,
 01:45:00,metemcyber,url,https://hair.qqeoa.asia/vrkoaqex/login_index/,
+01:46:00,romonlyht,domain,clad.zzyssllh.cn,
+01:46:00,romonlyht,ip,186.48.134.59,
+01:46:00,romonlyht,ip,43.167.12.139,
+01:46:00,romonlyht,url,https://clad.zzyssllh.cn/ed9490/index,
 01:50:00,sometestleper,ip,178.17.61.110,
 01:50:00,sometestleper,ip,91.92.241.160,
 01:50:00,sometestleper,url,http://178.17.61.110,
@@ -8749,6 +8759,15 @@
 029yt.com
 02:01:00,byrne_emmy12099,ip,103.81.116.10,
 02:03:00,masaomi346,domain,shtedsa.qrbyw.xyz,
+02:09:00,romonlyht,domain,hongchalinsh.com,
+02:09:00,romonlyht,ip,136.108.51.179,
+02:09:00,romonlyht,ip,43.164.0.55,
+02:09:00,romonlyht,url,https://hongchalinsh.com/entry/djl5eqmshh,
+02:10:00,romonlyht,domain,casualk.com,
+02:10:00,romonlyht,domain,dlshouxian.com,
+02:10:00,romonlyht,ip,43.165.186.242,
+02:10:00,romonlyht,url,https://casualk.com/fm8s,
+02:10:00,romonlyht,url,https://dlshouxian.com/content/zxmsqulu5b,
 02:20:00,metemcyber,domain,aeon.pehfkmt.cn,
 02:20:00,metemcyber,ip,43.167.15.126,
 02:20:00,metemcyber,url,http://43.167.15.126,
@@ -10389,6 +10408,11 @@
 042f6c54e9e024818.com
 04:12:00,azzzzng71,domain,eliece.vip,
 04:12:00,azzzzng71,url,http://eliece.vip,
+04:29:00,kesagatame0,domain,ntt-fin.com,,https://x.com/kesagatame0/status/2084132130242908454
+04:29:00,kesagatame0,url,https://ntt-fin.com/r/fr9i,,https://x.com/kesagatame0/status/2084132130242908454
+04:29:00,kesagatame0,url,https://ntt-fin.com/w/finance-se?rid=fr9i,,https://x.com/kesagatame0/status/2084132130242908454
+04:29:00,masaomi346,ip,108.61.180.237,,https://x.com/masaomi346/status/2084134507226321363
+04:29:00,masaomi346,url,http://108.61.180.237,,https://x.com/masaomi346/status/2084134507226321363
 04:31:00,scanmalware,domain,urlshort-linkmrrwjc0kdzql.esu2n5lwqi.workers.dev,
 04:31:00,scanmalware,url,http://urlshort-linkmrrwjc0kdzql.esu2n5lwqi.workers.dev,
 04:33:00,metemcyber,domain,gecnlxpwzds.top,
@@ -10397,17 +10421,35 @@
 04:33:00,metemcyber,url,https://gecnlxpwzds.top/jp,
 04:37:00,masaomi346,domain,am.zzusxwjp018.shop,
 04:37:00,masaomi346,url,https://am.zzusxwjp018.shop/7zvij1,
+04:56:00,now_on_vt,sha256,cb065e8ece7482cc625561c92c4e31ae3ec61a8259b0725a4f59b291154e6f0e,,https://x.com/now_on_vt/status/2084141208461566104
 05:07:00,azzzzng71,domain,eliice.com,
 05:07:00,azzzzng71,url,http://eliice.com,
+05:15:00,romonlyht,domain,lnhygd.com,
+05:15:00,romonlyht,ip,20.194.160.64,
+05:15:00,romonlyht,url,https://lnhygd.com/zsthpnkj/verify,
+05:16:00,romonlyht,domain,dhchg.com,
+05:16:00,romonlyht,domain,jkuisd.aqshl.com,
+05:16:00,romonlyht,ip,20.18.50.114,
+05:16:00,romonlyht,url,https://dhchg.com/jkznqjsi/verify,
+05:16:00,romonlyht,url,https://jkuisd.aqshl.com,
 05:25:00,0xburgers,url,https://github.com/microsoft-services/,,https://x.com/0xburgers/status/2081974180040622426
 05:29:00,masaomi346,domain,linglingmiao.top,
 05:29:00,masaomi346,url,https://linglingmiao.top/jp,
+05:34:00,masaomi346,ip,45.204.71.214,,https://x.com/masaomi346/status/2084150891721216189
+05:34:00,masaomi346,url,http://45.204.71.214,,https://x.com/masaomi346/status/2084150891721216189
+05:36:00,romonlyht,domain,duiwss.mrdxm.com,
+05:36:00,romonlyht,domain,hhdhd.com,
+05:36:00,romonlyht,ip,20.5.73.242,
+05:36:00,romonlyht,url,https://duiwss.mrdxm.com,
+05:36:00,romonlyht,url,https://hhdhd.com/whfo4vmu/verify,
 05:37:00,dixit_404,ip,103.77.242.187,,https://x.com/dixit_404/status/2083064367080435953
 05:44:00,harugasumi,domain,thedigitalvibe.com,
 05:44:00,harugasumi,domain,uggxposclps.top,
 05:44:00,harugasumi,ip,43.163.207.119,
 05:44:00,harugasumi,url,https://thedigitalvibe.com/page/agbqxryteq,
 05:44:00,harugasumi,url,https://uggxposclps.top/jp,
+05:58:00,opcodeintel,ip,207.174.0.143,
+05:58:00,opcodeintel,url,http://207.174.0.143:8080,
 06:10:00,danielwils59,domain,eliece.vip,
 06:10:00,danielwils59,domain,eliice.com,
 06:10:00,danielwils59,url,http://eliece.vip,
@@ -10429,20 +10471,30 @@
 06:47:00,fact_finder03,ip,34.139.85.106,
 06:48:00,d1v35hresearch,ip,208.76.221.223,
 06:48:00,d1v35hresearch,url,http://208.76.221.223:8080,
+06:49:00,phishstats,domain,thehatfieldhotel-9g5jl.ondigitalocean.app,
+06:49:00,phishstats,url,https://thehatfieldhotel-9g5jl.ondigitalocean.app,
+06:58:00,romonlyht,domain,zupgn.dtpxkt.com,
+06:58:00,romonlyht,ip,20.210.122.178,
+06:58:00,romonlyht,url,https://vokser.cfd/ek41lt,
+06:58:00,romonlyht,url,https://vorlen.cfd/qophei,
+06:58:00,romonlyht,url,https://zupgn.dtpxkt.com/f2adb8b2-0564-b9e2-d132-2d73cfc0cf41/%e2%93%8a%e2%99%ab%e3%8a%aa%e2%99%ae%e2%99%95%e2%,
 07:00:00,phishunt_io,domain,dhlexpressline.weebly.com,
 07:00:00,phishunt_io,domain,facebookloginnp.blogspot.com,
 07:00:00,phishunt_io,domain,meta-facebook-pro.blogspot.com,
+07:00:00,phishunt_io,domain,metamaskwalletxtensioeno.webflow.io,
 07:00:00,phishunt_io,domain,paypal.myproccesing.com,
 07:00:00,phishunt_io,ip,74.115.51.8,
 07:00:00,phishunt_io,url,http://dhlexpressline.weebly.com,
 07:00:00,phishunt_io,url,http://facebookloginnp.blogspot.com/?m=1,
 07:00:00,phishunt_io,url,http://meta-facebook-pro.blogspot.com,
+07:00:00,phishunt_io,url,http://metamaskwalletxtensioeno.webflow.io,
 07:00:00,phishunt_io,url,http://paypal.myproccesing.com,
 07:01:00,masaomi346,domain,ppz0y9a6grw3veoqwz.live,
 07:01:00,masaomi346,url,https://ppz0y9a6grw3veoqwz.live,
 07:06:00,fact_finder03,ip,2.26.99.25,
 07:06:00,masaomi346,domain,kalorexivakena.net,
 07:06:00,masaomi346,url,https://kalorexivakena.net/jp,
+07:11:00,nextronresearch,sha256,13e9a3c41e038bf9d8fcb0831305819819e4f7f4452bc20a04b9bf2756ee22e8,,https://x.com/nextronresearch/status/2084175319661985896
 07:17:00,kostastsale,domain,nfe.boletos-notas.com,
 07:17:00,kostastsale,domain,remoto.ddins.click,
 07:17:00,kostastsale,ip,217.60.195.192,
@@ -10450,9 +10502,16 @@
 07:17:00,kostastsale,url,http://nfe.boletos-notas.com,
 07:17:00,kostastsale,url,http://remoto.ddins.click,
 07:17:00,kostastsale,url,https://nfe.boletos-notas.com/h/estagio1.php?r=391c7ce85d88,
+07:19:00,fact_finder03,ip,168.144.166.97,,https://x.com/fact_finder03/status/2084177395318481337
+07:19:00,fact_finder03,sha256,dca14bd9fc66350651dac4ac8810da4b13225ee161013384893fdaffe93b51a1,,https://x.com/fact_finder03/status/2084177395318481337
 07:30:00,fact_finder03,ip,67.217.228.244,
 07:33:00,metemcyber,ip,43.155.174.59,
 07:33:00,metemcyber,url,http://43.155.174.59,
+07:35:00,skocherhan,domain,vokser.cfd,
+07:35:00,skocherhan,domain,vorlen.cfd,
+07:35:00,skocherhan,url,http://vokser.cfd/ek41lt172.67.157.36captcha,
+07:35:00,skocherhan,url,https://vokser.cfd/ek41lt172.67.157.36captcha,
+07:35:00,skocherhan,url,https://vorlen.cfd/qophei172.67.129.110
 07:35:00,thantzin_ron,domain,fizsolution.com,,https://x.com/thantzin_ron/status/2082731683435188295
 07:35:00,thantzin_ron,domain,passmobileapp.com,,https://x.com/thantzin_ron/status/2082731683435188295
 07:35:00,thantzin_ron,url,https://fizsolution.com,,https://x.com/thantzin_ron/status/2082731683435188295
