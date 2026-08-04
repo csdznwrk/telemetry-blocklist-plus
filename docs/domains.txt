@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-08-04 01:44 UTC
-# Domains: 13697
+# Updated: 2026-08-04 08:23 UTC
+# Domains: 13714
 
 -084-gls-223-www-9-k-0brasil.net.daraz.com
 -access-logs-1.net.daraz.com
@@ -7525,6 +7525,8 @@
 01:50:00,sometestleper,url,http://91.92.241.160,
 01:53:00,coolcarlos17,domain,validacaoexpirado.click,
 01:53:00,coolcarlos17,url,http://validacaoexpirado.click,
+01:55:00,skocherhan,domain,skocherhantxpfproxy.vip,,https://x.com/skocherhan/status/2084458200099959285
+01:55:00,skocherhan,url,http://skocherhantxpfproxy.vip
 01a-v0-cat33.hostenko.net
 01a1ac792c0bf7f3.com
 01a231d15e8a9608.com
@@ -8490,6 +8492,7 @@
 02:46:00,kubotaa3,domain,mg-euwqnasnd.com,
 02:46:00,kubotaa3,ip,192.238.160.133,
 02:46:00,kubotaa3,url,https://mg-euwqnasnd.com/pc_0010021312/sp_001239u1923/login/loginusername,
+02:48:00,merlax_,url,http://pastebin.com/raw/uh8jxav2,
 02:58:00,azzzzng71,domain,lynx-trading.org,
 02:58:00,azzzzng71,url,http://lynx-trading.org,
 02a169af111011.beer
@@ -9727,6 +9730,8 @@
 039wz06.com
 039wz07.com
 039y4012f1.shop
+03:28:00,masaomi346,domain,ia-beaut.com,
+03:28:00,masaomi346,url,https://ia-beaut.com/ayfgyi/,
 03a01d381c69453a.com
 03a087bc6ca6.top
 03a08ec40d0e.com
@@ -10136,6 +10141,13 @@
 05:15:00,romonlyht,domain,lnhygd.com,
 05:15:00,romonlyht,ip,20.194.160.64,
 05:15:00,romonlyht,url,https://lnhygd.com/zsthpnkj/verify,
+05:16:00,bomccss,domain,rkm-20260709-1514.zip,,https://x.com/bomccss/status/2084508786782585333
+05:16:00,bomccss,domain,rkm-20260713-1514.zip,,https://x.com/bomccss/status/2076979019158069359
+05:16:00,bomccss,ip,192.252.180.45,,https://x.com/bomccss/status/2084508789261443177
+05:16:00,bomccss,sha256,93df03d7db7df23317ee87ebe3946ddff4364e45de5217b0c90c7925b22c8f04,,https://x.com/bomccss/status/2084508786782585333
+05:16:00,bomccss,url,http://192.252.180.45:6666,,https://x.com/bomccss/status/2084508789261443177
+05:16:00,bomccss,url,http://rkm-20260709-1514.zip,,https://x.com/bomccss/status/2084508786782585333
+05:16:00,bomccss,url,http://rkm-20260713-1514.zip,,https://x.com/bomccss/status/2076979019158069359
 05:16:00,romonlyht,domain,dhchg.com,
 05:16:00,romonlyht,domain,jkuisd.aqshl.com,
 05:16:00,romonlyht,ip,20.18.50.114,
@@ -10205,6 +10217,7 @@
 07:17:00,kostastsale,url,http://nfe.boletos-notas.com,
 07:17:00,kostastsale,url,http://remoto.ddins.click,
 07:17:00,kostastsale,url,https://nfe.boletos-notas.com/h/estagio1.php?r=391c7ce85d88,
+07:18:00,fact_finder03,ip,89.34.90.33,
 07:19:00,fact_finder03,ip,168.144.166.97,,https://x.com/fact_finder03/status/2084177395318481337
 07:19:00,fact_finder03,sha256,dca14bd9fc66350651dac4ac8810da4b13225ee161013384893fdaffe93b51a1,,https://x.com/fact_finder03/status/2084177395318481337
 07:35:00,skocherhan,domain,vokser.cfd,
@@ -10218,12 +10231,16 @@
 07:35:00,thantzin_ron,url,https://passmobileapp.com/ftx/fe92zg-1785395387-f69b742ac74c/?redir=6u3dwgxdop6jo6zljo94dl8jvoyswpxmgqgmokmk1ng5slf5w491umrdvr0qr0yc,,https://x.com/thantzin_ron/status/2082731683435188295
 07:36:00,metemcyber,domain,sgximmzqmqi.top,
 07:36:00,metemcyber,url,https://sgximmzqmqi.top/jp,
+07:40:00,thisism23567356,ip,204.194.50.231,
+07:40:00,thisism23567356,url,http://204.194.50.231,
 07:41:00,d1v35hresearch,domain,elitemarketstrategies.com,
 07:41:00,d1v35hresearch,ip,161.97.99.1,
 07:41:00,d1v35hresearch,url,http://161.97.99.1,
 07:41:00,d1v35hresearch,url,http://elitemarketstrategies.com,
 07:51:00,fact_finder03,ip,158.51.78.251,
 07:59:00,tdatwja,domain,cloudflare.carriernetworks.top,,https://x.com/tdatwja/status/2083100203834568782
+08:05:00,skocherhan,domain,2.ccew.cc,
+08:05:00,skocherhan,url,http://2.ccew.cc:6666,
 08:22:00,fact_finder03,ip,103.160.59.70,
 08:27:00,thantzin_ron,domain,nfe.alfanotas.com,
 08:27:00,thantzin_ron,url,http://nfe.alfanotas.com,
