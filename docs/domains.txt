@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-08-05 01:46 UTC
-# Domains: 14581
+# Updated: 2026-08-05 08:20 UTC
+# Domains: 14607
 
 -084-gls-223-www-9-k-0brasil.net.daraz.com
 -access-logs-1.net.daraz.com
@@ -7503,6 +7503,7 @@
 01:28:00,romonlyht,domain,hd4wde-rica--bet432-com.translate.goog,
 01:29:00,romonlyht,domain,4h7kqd-sports--bet839-com.translate.goog,
 01:29:00,romonlyht,ip,153.120.91.13,
+01:37:00,bomccss,url,https://drive.usercontent.google.com/download?id=1uqmfitlscbfaw54juwm695id1vobpxrl&export=download,,https://x.com/bomccss/status/2084815956610814418
 01:37:00,romonlyht,domain,naissess.xjfllxa.cn,
 01:37:00,romonlyht,ip,38.75.81.122,
 01:37:00,romonlyht,url,https://naissess.xjfllxa.cn/ed9490/index,
@@ -7517,6 +7518,8 @@
 01:50:00,sometestleper,ip,91.92.241.160,
 01:50:00,sometestleper,url,http://178.17.61.110,
 01:50:00,sometestleper,url,http://91.92.241.160,
+01:51:00,scanmalware,domain,inquisitive-teal-omezr4ob.edgeone.dev,
+01:51:00,scanmalware,url,http://inquisitive-teal-omezr4ob.edgeone.dev,
 01:53:00,coolcarlos17,domain,validacaoexpirado.click,
 01:53:00,coolcarlos17,url,http://validacaoexpirado.click,
 01:55:00,skocherhan,domain,skocherhantxpfproxy.vip,,https://x.com/skocherhan/status/2084458200099959285
@@ -9724,6 +9727,7 @@
 039wz06.com
 039wz07.com
 039y4012f1.shop
+03:00:00,thekn0ck0ut,ip,156.251.16.29,,https://x.com/thekn0ck0ut/status/2084837025266422185
 03:28:00,masaomi346,domain,ia-beaut.com,
 03:28:00,masaomi346,url,https://ia-beaut.com/ayfgyi/,
 03a01d381c69453a.com
@@ -10118,6 +10122,8 @@
 042f6c54e9e024818.com
 04:12:00,azzzzng71,domain,eliece.vip,
 04:12:00,azzzzng71,url,http://eliece.vip,
+04:25:00,masaomi346,domain,qkp6.com,
+04:25:00,masaomi346,url,https://qkp6.com/list,
 04:29:00,kesagatame0,domain,ntt-fin.com,,https://x.com/kesagatame0/status/2084132130242908454
 04:29:00,kesagatame0,url,https://ntt-fin.com/r/fr9i,,https://x.com/kesagatame0/status/2084132130242908454
 04:29:00,kesagatame0,url,https://ntt-fin.com/w/finance-se?rid=fr9i,,https://x.com/kesagatame0/status/2084132130242908454
@@ -10156,10 +10162,18 @@
 05:58:00,opcodeintel,ip,207.174.0.143,
 05:58:00,opcodeintel,url,http://207.174.0.143:8080,
 06:06:00,dixit_404,sha256,d90e686ddc1d288e29c1bceb68ffedccb3285f83be7eef4f50c45144f025a12d,,https://x.com/dixit_404/status/2084521229571289351
+06:07:00,userlolxxl,ip,129.2.4.2,,https://x.com/userlolxxl/status/2084883907141325273
+06:07:00,userlolxxl,url,http://129.2.4.2,,https://x.com/userlolxxl/status/2084883907141325273
 06:10:00,danielwils59,domain,eliece.vip,
 06:10:00,danielwils59,domain,eliice.com,
 06:10:00,danielwils59,url,http://eliece.vip,
 06:10:00,danielwils59,url,http://eliice.com,
+06:13:00,jameswt_wt,domain,dnf.nfexmlfiscal.com.br,
+06:13:00,jameswt_wt,domain,dokument-pdf.lat,
+06:13:00,jameswt_wt,domain,xml.nfexmlfiscal.com.br,
+06:13:00,jameswt_wt,url,https://dnf.nfexmlfiscal.com.br/files/,
+06:13:00,jameswt_wt,url,https://dokument-pdf.lat/files/,
+06:13:00,jameswt_wt,url,https://xml.nfexmlfiscal.com.br/files/,
 06:17:00,phishstats,domain,email-social.com,
 06:17:00,phishstats,ip,64.89.161.147,
 06:17:00,phishstats,url,https://email-social.com,
@@ -10178,11 +10192,13 @@
 06:58:00,romonlyht,url,https://zupgn.dtpxkt.com/f2adb8b2-0564-b9e2-d132-2d73cfc0cf41/%e2%93%8a%e2%99%ab%e3%8a%aa%e2%99%ae%e2%99%95%e2%,
 07:00:00,phishunt_io,domain,dhlexpressline.weebly.com,
 07:00:00,phishunt_io,domain,facebookloginnp.blogspot.com,
+07:00:00,phishunt_io,domain,facebooksetup.blogspot.com,
 07:00:00,phishunt_io,domain,meta-facebook-pro.blogspot.com,
 07:00:00,phishunt_io,domain,metamaskwalletxtensioeno.webflow.io,
 07:00:00,phishunt_io,ip,74.115.51.8,
 07:00:00,phishunt_io,url,http://dhlexpressline.weebly.com,
 07:00:00,phishunt_io,url,http://facebookloginnp.blogspot.com/?m=1,
+07:00:00,phishunt_io,url,http://facebooksetup.blogspot.com,
 07:00:00,phishunt_io,url,http://meta-facebook-pro.blogspot.com,
 07:00:00,phishunt_io,url,http://metamaskwalletxtensioeno.webflow.io,
 07:06:00,fact_finder03,ip,2.26.99.25,
@@ -10206,6 +10222,16 @@
 07:35:00,thantzin_ron,domain,passmobileapp.com,,https://x.com/thantzin_ron/status/2082731683435188295
 07:35:00,thantzin_ron,url,https://fizsolution.com,,https://x.com/thantzin_ron/status/2082731683435188295
 07:35:00,thantzin_ron,url,https://passmobileapp.com/ftx/fe92zg-1785395387-f69b742ac74c/?redir=6u3dwgxdop6jo6zljo94dl8jvoyswpxmgqgmokmk1ng5slf5w491umrdvr0qr0yc,,https://x.com/thantzin_ron/status/2082731683435188295
+07:40:00,ishivtripathi,domain,logkit-tau.vercel.app,,https://x.com/ishivtripathi/status/2084907438243991883
+07:40:00,ishivtripathi,ip,66.45.225.94,,https://x.com/ishivtripathi/status/2084907438243991883
+07:40:00,ishivtripathi,sha256,ab65cef60fc097c2a9fb03a7855c9c03dfe3ccc874080720f0e631c6ee2c3e51,,https://x.com/ishivtripathi/status/2084907438243991883
+07:40:00,ishivtripathi,url,http://66.45.225.94,,https://x.com/ishivtripathi/status/2084907438243991883
+07:40:00,ishivtripathi,url,http://66.45.225.94:1244/s/aprgip100,,https://x.com/ishivtripathi/status/2084907438243991883
+07:40:00,ishivtripathi,url,http://66.45.225.94:1246/j/aaervr00,,https://x.com/ishivtripathi/status/2084907438243991883
+07:40:00,ishivtripathi,url,http://66.45.225.94:1246/keys,,https://x.com/ishivtripathi/status/2084907438243991883
+07:40:00,ishivtripathi,url,http://66.45.225.94:1246/p,,https://x.com/ishivtripathi/status/2084907438243991883
+07:40:00,ishivtripathi,url,http://logkit-tau.vercel.app,,https://x.com/ishivtripathi/status/2084907438243991883
+07:40:00,ishivtripathi,url,https://logkit-tau.vercel.app/debugcheck,,https://x.com/ishivtripathi/status/2084907438243991883
 07:40:00,thisism23567356,ip,204.194.50.231,
 07:40:00,thisism23567356,url,http://204.194.50.231,
 07:41:00,d1v35hresearch,domain,elitemarketstrategies.com,
