@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-08-05 13:45 UTC
-# Domains: 14645
+# Updated: 2026-08-05 19:16 UTC
+# Domains: 14712
 
 -084-gls-223-www-9-k-0brasil.net.daraz.com
 -access-logs-1.net.daraz.com
@@ -11087,6 +11087,12 @@
 13-5.ru
 13:10:00,byrne_emmy12099,domain,0wqs9jct2r.sportsontheweb.net,
 13:10:00,byrne_emmy12099,url,http://0wqs9jct2r.sportsontheweb.net/peer.php?session=[username]&mac=term,
+13:10:00,knight0x07,domain,js-mirror.com,,https://x.com/knight0x07/status/2084990509832192129
+13:10:00,knight0x07,domain,npm-cache.com,,https://x.com/knight0x07/status/2084990509832192129
+13:10:00,knight0x07,domain,pypi-get.com,,https://x.com/knight0x07/status/2084990509832192129
+13:10:00,knight0x07,url,http://js-mirror.com,,https://x.com/knight0x07/status/2084990509832192129
+13:10:00,knight0x07,url,http://npm-cache.com,,https://x.com/knight0x07/status/2084990509832192129
+13:10:00,knight0x07,url,http://pypi-get.com,,https://x.com/knight0x07/status/2084990509832192129
 13:10:00,scanmalware,domain,kkkksgsgdfdjfdhhfdhlhdflhxkkkk-dpxklwputyu8.edgeone.dev,
 13:10:00,scanmalware,url,http://kkkksgsgdfdjfdhhfdhlhdflhxkkkk-dpxklwputyu8.edgeone.dev,
 13:11:00,jameswt_wt,domain,pdf-bro.lat,,https://x.com/jameswt_wt/status/2083178848531677286
@@ -11146,6 +11152,8 @@
 13:27:00,smica83,sha256,7e4420e487e1398f3b554fc20c069433df24c3883caae35125be1802e25849b3,,https://x.com/smica83/status/2082820318972805216
 13:27:00,smica83,url,http://shunliuu168.com,,https://x.com/smica83/status/2082820318972805216
 13:28:00,bomccss,ip,103.23.172.118,,https://x.com/bomccss/status/2084270150816256080
+13:29:00,fbgwls245,domain,darkprn3d3udnhpuxknsrhft3376lrz5tenhgkrxge5hxqe46pkbrwid.onion,
+13:29:00,fbgwls245,url,http://darkprn3d3udnhpuxknsrhft3376lrz5tenhgkrxge5hxqe46pkbrwid.onion,
 13:29:00,smica83,domain,babyy2.com,,https://x.com/smica83/status/2082820991462375664
 13:29:00,smica83,sha256,3f5cb4f42afb4b77f5734d143e352b134f5825f4022eaeb5bdaf4b6e243d8fc3,,https://x.com/smica83/status/2082820991462375664
 13:29:00,smica83,url,http://babyy2.com,,https://x.com/smica83/status/2082820991462375664
@@ -11155,6 +11163,14 @@
 13:35:00,harugasumi,ip,43.163.207.119,
 13:35:00,harugasumi,url,https://apxjjqtsxsf.top/jp,
 13:35:00,harugasumi,url,https://galaxytx.com/page/gvtsvqqvag,
+13:36:00,webamon_search,domain,0055xing.com,,https://x.com/webamon_search/status/2084996888487469305
+13:36:00,webamon_search,domain,01800agregados.com,,https://x.com/webamon_search/status/2084996888487469305
+13:36:00,webamon_search,domain,0302onabike.com,,https://x.com/webamon_search/status/2084996888487469305
+13:36:00,webamon_search,domain,sqllq.com,,https://x.com/webamon_search/status/2084996888487469305
+13:36:00,webamon_search,url,http://0055xing.com,,https://x.com/webamon_search/status/2084996888487469305
+13:36:00,webamon_search,url,http://01800agregados.com,,https://x.com/webamon_search/status/2084996888487469305
+13:36:00,webamon_search,url,http://0302onabike.com,,https://x.com/webamon_search/status/2084996888487469305
+13:36:00,webamon_search,url,http://sqllq.com,,https://x.com/webamon_search/status/2084996888487469305
 13:37:00,skocherhan,domain,xzz.cam,,https://x.com/skocherhan/status/2084634940465955305
 13:37:00,skocherhan,url,http://xzz.cam,,https://x.com/skocherhan/status/2084634940465955305
 13:38:00,banthisguy9349,domain,evilgpt.com,,https://x.com/banthisguy9349/status/2083910252794097685
@@ -11216,11 +11232,29 @@
 13:55:00,teamcymru_s2,ip,77.90.185.9,,https://x.com/teamcymru_s2/status/2084277001536319745
 13:56:00,fbgwls245,domain,gammax6w3dkfdjfrjthtmqzsioue52vzy6lz54qy6jcvmogfpubutjyd.onion,
 13:56:00,fbgwls245,url,http://gammax6w3dkfdjfrjthtmqzsioue52vzy6lz54qy6jcvmogfpubutjyd.onion,
+13:56:00,sicehice,ip,117.252.86.216,,https://x.com/sicehice/status/2085002114619572696
+13:56:00,sicehice,ip,196.251.121.142,,https://x.com/sicehice/status/2085002114619572696
+13:56:00,sicehice,ip,202.141.32.16,,https://x.com/sicehice/status/2085002128553091466
+13:56:00,sicehice,md5,bb8f534fbff5ee61a95af9c4740ae043,,https://x.com/sicehice/status/2085002114619572696
+13:56:00,sicehice,url,http://196.251.121.142/a3f8d2/dlink.sh,,https://x.com/sicehice/status/2085002114619572696
+13:56:00,sicehice,url,http://202.141.32.16:45833/mozi.m,,https://x.com/sicehice/status/2085002128553091466
 14:03:00,skocherhan,ip,178.16.55.171,,https://x.com/skocherhan/status/2083916500298060104
 14:03:00,skocherhan,url,http://178.16.55.171:56001,,https://x.com/skocherhan/status/2083916500298060104
 14:04:00,skocherhan,md5,708c21b05335b44289c4af18357bd1cb,,https://x.com/skocherhan/status/2083916978780037591
 14:11:00,byrne_emmy12099,ip,194.26.192.66,,https://x.com/byrne_emmy12099/status/2084643299617554543
 14:11:00,byrne_emmy12099,url,http://194.26.192.66:8080/p/m29lrjwb,,https://x.com/byrne_emmy12099/status/2084643299617554543
+14:14:00,teamcymru_s2,ip,102.165.14.23,
+14:14:00,teamcymru_s2,ip,103.226.88.135,
+14:14:00,teamcymru_s2,ip,104.223.81.15,
+14:14:00,teamcymru_s2,ip,104.239.66.61,
+14:14:00,teamcymru_s2,ip,120.26.146.96,
+14:14:00,teamcymru_s2,ip,128.1.211.110,
+14:14:00,teamcymru_s2,ip,130.12.181.111,
+14:14:00,teamcymru_s2,ip,147.45.41.218,
+14:14:00,teamcymru_s2,ip,185.187.84.31,
+14:14:00,teamcymru_s2,ip,45.144.54.188,
+14:14:00,teamcymru_s2,ip,86.48.16.94,
+14:14:00,teamcymru_s2,ip,89.42.134.220,
 14:16:00,skocherhan,domain,intexxxxmanifold.com,,https://x.com/skocherhan/status/2084644719963840597
 14:16:00,skocherhan,domain,relay.intexxxxmanifold.com,,https://x.com/skocherhan/status/2084644719963840597
 14:16:00,skocherhan,url,http://intexxxxmanifold.com,,https://x.com/skocherhan/status/2084644719963840597
@@ -11249,6 +11283,8 @@
 14:50:00,byrne_emmy12099,url,http://217.60.7.218,
 14:54:00,skocherhan,domain,omnbvcdsx.eu.org,
 14:54:00,skocherhan,url,http://omnbvcdsx.eu.org,
+15:02:00,masaomi346,domain,ucdroagtion.ki7tsb.info,
+15:02:00,masaomi346,url,https://ucdroagtion.ki7tsb.info/3eckin4,
 15:02:00,momomopas,sha256,169586b6eb36b17520ef5afd206da86c4de89eb01d6294ba9631414271ba752f,,https://x.com/momomopas/status/2083206761155305483
 15:03:00,skocherhan,domain,97ee4.catex.at,
 15:03:00,skocherhan,url,http://97ee4.catex.at/cnbcard/web_sms_activate.php,
@@ -11283,6 +11319,8 @@
 15:39:00,michalkoczwara,ip,23.27.20.187,
 15:49:00,vxdb,domain,antistock.io,,https://x.com/vxdb/status/2084305733793751550
 15:49:00,vxdb,url,http://antistock.io,,https://x.com/vxdb/status/2084305733793751550
+15:53:00,osspreysecurity,ip,166.88.134.62,,https://x.com/osspreysecurity/status/2085028941069259094
+15:53:00,osspreysecurity,url,http://166.88.134.62,,https://x.com/osspreysecurity/status/2085028941069259094
 15:55:00,elementalx2,ip,122.10.111.119,,https://x.com/elementalx2/status/2083944804237590699
 15:55:00,elementalx2,ip,122.10.14.239,,https://x.com/elementalx2/status/2083944804237590699
 15:55:00,elementalx2,ip,122.10.49.214,,https://x.com/elementalx2/status/2083944804237590699
@@ -11322,13 +11360,16 @@
 17:00:00,phishunt_io,domain,mail.support-icloudmyjhhs.info,
 17:00:00,phishunt_io,domain,metamaskextensionnn.gitbook.io,
 17:00:00,phishunt_io,domain,office365.statichost.page,
+17:00:00,phishunt_io,domain,proteccion-outlook2026.iceiy.com,
 17:00:00,phishunt_io,domain,santander2026.dothome.co.kr,
 17:00:00,phishunt_io,ip,112.175.185.138,
+17:00:00,phishunt_io,ip,185.27.134.116,
 17:00:00,phishunt_io,ip,46.225.58.80,
 17:00:00,phishunt_io,ip,96.125.163.17,
 17:00:00,phishunt_io,url,http://mail.support-icloudmyjhhs.info/fl26,
 17:00:00,phishunt_io,url,http://metamaskextensionnn.gitbook.io/us,
 17:00:00,phishunt_io,url,http://office365.statichost.page,
+17:00:00,phishunt_io,url,http://proteccion-outlook2026.iceiy.com/?i=1,
 17:00:00,phishunt_io,url,http://santander2026.dothome.co.kr,
 17:04:00,now_on_vt,sha256,064a17321a401f48b0f757ff52458df111802fa6476e2d752e79e6a79c113fd9,,https://x.com/now_on_vt/status/2029887800909156681
 17:04:00,now_on_vt,sha256,2fbecaeb158eb5da8858cbe93ae438359f51ba18c416582adab9a293ada1a561,,https://x.com/now_on_vt/status/2029887800909156681
@@ -11366,6 +11407,19 @@
 17:20:00,threatinsight,url,http://coldcardcompliance.com,,https://x.com/threatinsight/status/2084328573871985018
 17:20:00,threatinsight,url,http://coldcardteamnews.com,,https://x.com/threatinsight/status/2084328573871985018
 17:20:00,threatinsight,url,https://github.com/newallyson/coldcard/releases/download/5.7/coldcard_diagnostic_tool.bat,,https://x.com/threatinsight/status/2084328573871985018
+17:29:00,veryseriouseng,domain,package-proxy.cf11oobworker.workers.dev,,https://x.com/veryseriouseng/status/2085055561398145413
+17:29:00,veryseriouseng,domain,package-proxy.cf5oobworker.workers.dev,,https://x.com/veryseriouseng/status/2085055561398145413
+17:29:00,veryseriouseng,domain,package-proxy.cf6oobworker.workers.dev,,https://x.com/veryseriouseng/status/2085055561398145413
+17:29:00,veryseriouseng,domain,package-proxy.cf7oobworker.workers.dev,,https://x.com/veryseriouseng/status/2085055561398145413
+17:29:00,veryseriouseng,domain,package-proxy.cf8oobworker.workers.dev,,https://x.com/veryseriouseng/status/2085055561398145413
+17:29:00,veryseriouseng,url,http://package-proxy.cf11oobworker.workers.dev,,https://x.com/veryseriouseng/status/2085055561398145413
+17:29:00,veryseriouseng,url,http://package-proxy.cf5oobworker.workers.dev,,https://x.com/veryseriouseng/status/2085055561398145413
+17:29:00,veryseriouseng,url,http://package-proxy.cf6oobworker.workers.dev,,https://x.com/veryseriouseng/status/2085055561398145413
+17:29:00,veryseriouseng,url,http://package-proxy.cf7oobworker.workers.dev,,https://x.com/veryseriouseng/status/2085055561398145413
+17:29:00,veryseriouseng,url,http://package-proxy.cf8oobworker.workers.dev,,https://x.com/veryseriouseng/status/2085055561398145413
+17:30:00,bomccss,sha256,47c4077decff58ceefe85ccf98d172456d8b3f9aab7f6bf8ce237ff67c718880,,https://x.com/bomccss/status/2085055822833566010
+17:30:00,bomccss,url,http://192.252.180.45:6666,,https://x.com/bomccss/status/2085055824964247648
+17:30:00,bomccss,url,http://64.81.30.192:6666,,https://x.com/bomccss/status/2085055824964247648
 17:34:00,500mk500,domain,cas-edu.com,
 17:34:00,500mk500,domain,china-robot.online,
 17:34:00,500mk500,domain,china-robot.org,
@@ -11383,7 +11437,15 @@
 17:34:00,500mk500,url,http://ljewmte.org,
 17:34:00,500mk500,url,http://tickimmazy.org,
 17:34:00,500mk500,url,http://wtechnote.org,
+17:35:00,elasticseclabs,domain,api.probref.com,,https://x.com/elasticseclabs/status/2085057097188639162
+17:35:00,elasticseclabs,sha256,5ef6019fb6ee1db1201ee479a68669b47eb0d5d82770dbd30b05f46ccbc68f4f,,https://x.com/elasticseclabs/status/2085057097188639162
+17:35:00,elasticseclabs,sha256,b6cb6d5de2c62aa1351b1b240dc223c3d6fa95083cf43b2866d84a8a6c4d0446,,https://x.com/elasticseclabs/status/2085057097188639162
+17:35:00,elasticseclabs,url,http://api.probref.com:5188,,https://x.com/elasticseclabs/status/2085057097188639162
+17:35:00,elasticseclabs,url,http://storage.googleapis.com/nikeupdat/,,https://x.com/elasticseclabs/status/2085057097188639162
+17:37:00,skocherhan,ip,192.252.180.45,,https://x.com/skocherhan/status/2085057534168010778
+17:37:00,skocherhan,ip,64.81.30.192,,https://x.com/skocherhan/status/2085057534168010778
 17:42:00,rst_cloud,ip,46.30.188.99,,https://x.com/rst_cloud/status/2082884622090727524
+17:47:00,skocherhan,domain,westurn.in,,https://x.com/skocherhan/status/2085060237417951595
 17:55:00,skocherhan,md5,0e51138ef195ac755f052babb761a1e7,,https://x.com/skocherhan/status/2084337326981869950
 17:55:00,threatlabz,ip,49.232.169.67,,https://x.com/threatlabz/status/2084337299094196440
 17:55:00,threatlabz,md5,21f5c39665ad9fcbaa173084ed1ce966,,https://x.com/threatlabz/status/2084337299094196440
@@ -11404,14 +11466,19 @@
 18:00:00,phatomcandle,domain,certcheck.online,
 18:00:00,phatomcandle,domain,rvxlan.online,
 18:00:00,phatomcandle,domain,softwareupdatenews.com,
+18:00:00,phatomcandle,domain,sowrtech.com,
+18:00:00,phatomcandle,ip,103.30.76.194,
 18:00:00,phatomcandle,ip,45.64.186.26,
+18:00:00,phatomcandle,url,http://103.30.76.194,
 18:00:00,phatomcandle,url,http://45.64.186.26,
 18:00:00,phatomcandle,url,http://boostgridz.info,
 18:00:00,phatomcandle,url,http://certcheck.online,
 18:00:00,phatomcandle,url,http://rvxlan.online,
 18:00:00,phatomcandle,url,http://softwareupdatenews.com,
+18:00:00,phatomcandle,url,http://sowrtech.com,
 18:01:00,skocherhan,domain,libdalvikengine.so,,https://x.com/skocherhan/status/2084701210259382291
 18:01:00,skocherhan,domain,login.trees4sale.net,,https://x.com/skocherhan/status/2084701210259382291
+18:05:00,skocherhan,domain,package-proxy.cf,,https://x.com/skocherhan/status/2085064665814499711
 18:17:00,now_on_vt,sha256,37b485ed8d150d022c41e5e307b8c54c34ef806625b44d0c940b18be7d5b29ce,,https://x.com/now_on_vt/status/2084705203996033371
 18:26:00,smica83,sha256,09b02692523576627b14e7510125bb99732891efed079439218a69396482e72b,,https://x.com/smica83/status/2082895689307009433
 18:29:00,stop_spammerz,ip,196.251.121.49,,https://x.com/stop_spammerz/status/2082896460329193927
