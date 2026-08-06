@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-08-06 01:46 UTC
-# Domains: 14558
+# Updated: 2026-08-06 08:17 UTC
+# Domains: 14582
 
 -084-gls-223-www-9-k-0brasil.net.daraz.com
 -access-logs-1.net.daraz.com
@@ -7474,6 +7474,8 @@
 01:50:00,sometestleper,url,http://91.92.241.160,
 01:51:00,scanmalware,domain,inquisitive-teal-omezr4ob.edgeone.dev,
 01:51:00,scanmalware,url,http://inquisitive-teal-omezr4ob.edgeone.dev,
+01:55:00,masaomi346,domain,dslkk.cn,
+01:55:00,masaomi346,url,https://www.dslkk.cn/login,
 01:55:00,skocherhan,domain,skocherhantxpfproxy.vip,,https://x.com/skocherhan/status/2084458200099959285
 01:55:00,skocherhan,url,http://skocherhantxpfproxy.vip
 01a-v0-cat33.hostenko.net
@@ -8435,6 +8437,7 @@
 02:10:00,romonlyht,ip,43.165.186.242,
 02:10:00,romonlyht,url,https://casualk.com/fm8s,
 02:10:00,romonlyht,url,https://dlshouxian.com/content/zxmsqulu5b,
+02:21:00,fact_finder03,ip,171.229.217.2,
 02:46:00,kubotaa3,domain,mg-euwqnasnd.com,
 02:46:00,kubotaa3,ip,192.238.160.133,
 02:46:00,kubotaa3,url,https://mg-euwqnasnd.com/pc_0010021312/sp_001239u1923/login/loginusername,
@@ -9677,6 +9680,9 @@
 039wz07.com
 039y4012f1.shop
 03:00:00,thekn0ck0ut,ip,156.251.16.29,,https://x.com/thekn0ck0ut/status/2084837025266422185
+03:18:00,darkwebinformer,domain,pnzruro7syvwvefx5mpo2fhzi4jftgquynsqf3vy5x3no57yp2iz4nyd.onion,
+03:18:00,darkwebinformer,url,http://pnzruro7syvwvefx5mpo2fhzi4jftgquynsqf3vy5x3no57yp2iz4nyd.onion,
+03:24:00,fact_finder03,ip,212.119.42.58,
 03:28:00,masaomi346,domain,ia-beaut.com,
 03:28:00,masaomi346,url,https://ia-beaut.com/ayfgyi/,
 03a01d381c69453a.com
@@ -10136,6 +10142,7 @@
 06:17:00,phishstats,ip,64.89.161.147,
 06:17:00,phishstats,url,https://email-social.com,
 06:41:00,fact_finder03,ip,45.83.179.102,
+06:45:00,yungbinary,sha256,87e8d39db624f37d3e77aedf487a2dfd197f71a4730ea74f4e7a4341deaec2ff,,https://x.com/yungbinary/status/2085255978367569939
 06:47:00,fact_finder03,ip,34.139.85.106,
 06:49:00,phishstats,domain,thehatfieldhotel-9g5jl.ondigitalocean.app,
 06:49:00,phishstats,url,https://thehatfieldhotel-9g5jl.ondigitalocean.app,
@@ -10144,10 +10151,13 @@
 06:58:00,romonlyht,url,https://vokser.cfd/ek41lt,
 06:58:00,romonlyht,url,https://vorlen.cfd/qophei,
 06:58:00,romonlyht,url,https://zupgn.dtpxkt.com/f2adb8b2-0564-b9e2-d132-2d73cfc0cf41/%e2%93%8a%e2%99%ab%e3%8a%aa%e2%99%ae%e2%99%95%e2%,
+07:00:00,phishunt_io,domain,3f-icloud.com,
 07:00:00,phishunt_io,domain,facebookloginnp.blogspot.com,
 07:00:00,phishunt_io,domain,facebooksetup.blogspot.com,
 07:00:00,phishunt_io,domain,meta-facebook-pro.blogspot.com,
 07:00:00,phishunt_io,domain,metamaskwalletxtensioeno.webflow.io,
+07:00:00,phishunt_io,ip,96.125.163.17,
+07:00:00,phishunt_io,url,http://3f-icloud.com/fl26,
 07:00:00,phishunt_io,url,http://facebookloginnp.blogspot.com/?m=1,
 07:00:00,phishunt_io,url,http://facebooksetup.blogspot.com,
 07:00:00,phishunt_io,url,http://meta-facebook-pro.blogspot.com,
@@ -10180,6 +10190,20 @@
 07:40:00,ishivtripathi,url,https://logkit-tau.vercel.app/debugcheck,,https://x.com/ishivtripathi/status/2084907438243991883
 07:40:00,thisism23567356,ip,204.194.50.231,
 07:40:00,thisism23567356,url,http://204.194.50.231,
+07:44:00,nextronresearch,sha256,27a49a71dfa781e18d8c85b8bdbb89c5feac5bf85a5236ea5f99211665c7780f,,https://x.com/nextronresearch/status/2085270695898997135
+07:44:00,nextronresearch,sha256,2a1510fc4a82d44cc82d481f3d46105f30c9243312b3e98227c97d125b2370be,,https://x.com/nextronresearch/status/2085270695898997135
+07:44:00,nextronresearch,sha256,902d1dee3000361a49b22d81c52a410a3521e06dcfd5b1422f46a5c2c3f80191,,https://x.com/nextronresearch/status/2085270695898997135
+07:44:00,nextronresearch,sha256,c3db655f8db53640c013455f14e3fcf92a2e0a57df600726777cfb47073972cc,,https://x.com/nextronresearch/status/2085270695898997135
+07:44:00,nextronresearch,sha256,eb14daab2c93da84c0daad05d3eaa50c6d4f4d4055f7d6000665a19c5fce3915,,https://x.com/nextronresearch/status/2085270695898997135
+07:44:00,nextronresearch,sha256,fad4ceb5da3ca2a3457285823bc990a2e13e883bbf0471dda5e6c953a17291e0,,https://x.com/nextronresearch/status/2085270695898997135
+07:44:00,tdatwja,domain,jpword.cc,,https://x.com/tdatwja/status/2085270818209374435
+07:44:00,tdatwja,domain,w1mail.com,,https://x.com/tdatwja/status/2085270818209374435
+07:44:00,tdatwja,ip,122.10.117.3,,https://x.com/tdatwja/status/2085270818209374435
+07:44:00,tdatwja,url,http://122.10.117.3:8383,,https://x.com/tdatwja/status/2085270818209374435
+07:44:00,tdatwja,url,http://jpword.cc,,https://x.com/tdatwja/status/2085270818209374435
+07:44:00,tdatwja,url,http://w1mail.com,,https://x.com/tdatwja/status/2085270818209374435
+07:53:00,tdatwja,md5,f17c5438f826795499586b0bd122fbf6,,https://x.com/tdatwja/status/2085273126926275020
+07:53:00,tdatwja,sha256,1c7918f2bb51facc9a043a2e07f5f7226a1ba4a3f283308fbcc2790fd1c644e4,,https://x.com/tdatwja/status/2085273126926275020
 07:59:00,tdatwja,domain,cloudflare.carriernetworks.top,,https://x.com/tdatwja/status/2083100203834568782
 08:05:00,skocherhan,domain,2.ccew.cc,
 08:05:00,skocherhan,url,http://2.ccew.cc:6666,
