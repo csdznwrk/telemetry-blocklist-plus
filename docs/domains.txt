@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-08-07 07:01 UTC
-# Domains: 14646
+# Updated: 2026-08-07 12:41 UTC
+# Domains: 14692
 
 -084-gls-223-www-9-k-0brasil.net.daraz.com
 -access-logs-1.net.daraz.com
@@ -10142,6 +10142,7 @@
 06:17:00,phishstats,domain,email-social.com,
 06:17:00,phishstats,ip,64.89.161.147,
 06:17:00,phishstats,url,https://email-social.com,
+06:32:00,jameswt_wt,ip,217.60.195.197,,https://x.com/jameswt_wt/status/2085614979714068925
 06:33:00,ishivtripathi,domain,addssopasskey.com,
 06:33:00,ishivtripathi,domain,createssopasskey.com,
 06:33:00,ishivtripathi,domain,hubpasskey.com,
@@ -10206,6 +10207,7 @@
 07:00:00,phishunt_io,url,http://facebooksetup.blogspot.com,
 07:00:00,phishunt_io,url,http://metamaskwalletxtensioeno.webflow.io,
 07:11:00,nextronresearch,sha256,13e9a3c41e038bf9d8fcb0831305819819e4f7f4452bc20a04b9bf2756ee22e8,,https://x.com/nextronresearch/status/2084175319661985896
+07:14:00,fact_finder03,ip,182.92.180.194,
 07:17:00,kostastsale,domain,nfe.boletos-notas.com,
 07:17:00,kostastsale,domain,remoto.ddins.click,
 07:17:00,kostastsale,ip,217.60.195.192,
@@ -10216,6 +10218,7 @@
 07:18:00,fact_finder03,ip,89.34.90.33,
 07:19:00,fact_finder03,ip,168.144.166.97,,https://x.com/fact_finder03/status/2084177395318481337
 07:19:00,fact_finder03,sha256,dca14bd9fc66350651dac4ac8810da4b13225ee161013384893fdaffe93b51a1,,https://x.com/fact_finder03/status/2084177395318481337
+07:26:00,fact_finder03,ip,31.77.156.5,
 07:35:00,skocherhan,domain,vokser.cfd,
 07:35:00,skocherhan,domain,vorlen.cfd,
 07:35:00,skocherhan,url,http://vokser.cfd/ek41lt172.67.157.36captcha,
@@ -10245,6 +10248,12 @@
 07:44:00,tdatwja,url,http://122.10.117.3:8383,,https://x.com/tdatwja/status/2085270818209374435
 07:44:00,tdatwja,url,http://jpword.cc,,https://x.com/tdatwja/status/2085270818209374435
 07:44:00,tdatwja,url,http://w1mail.com,,https://x.com/tdatwja/status/2085270818209374435
+07:53:00,d3labit,domain,careerlongprofit.duckdns.org,
+07:53:00,d3labit,domain,cinnamonthai.com,
+07:53:00,d3labit,domain,comeforreealz.duckdns.org,
+07:53:00,d3labit,url,http://careerlongprofit.duckdns.org,
+07:53:00,d3labit,url,http://cinnamonthai.com/cgi-bins/05.08_8080_64.exe,
+07:53:00,d3labit,url,http://comeforreealz.duckdns.org,
 07:53:00,tdatwja,md5,f17c5438f826795499586b0bd122fbf6,,https://x.com/tdatwja/status/2085273126926275020
 07:53:00,tdatwja,sha256,1c7918f2bb51facc9a043a2e07f5f7226a1ba4a3f283308fbcc2790fd1c644e4,,https://x.com/tdatwja/status/2085273126926275020
 07:59:00,tdatwja,domain,ftp.3dsportsgins.com,,https://x.com/tdatwja/status/2085274507795951684
@@ -10264,6 +10273,8 @@
 08:05:00,skocherhan,url,http://2.ccew.cc:6666,
 08:06:00,masaomi346,domain,tlktok.heiodora.com,
 08:06:00,masaomi346,url,https://tlktok.heiodora.com/security/ap/loginlogout/login/creditlimit/inquirycreditlimit/d10203840,
+08:11:00,jameswt_wt,md5,61e7b67b3ca5412726f99a469d54c545,,https://x.com/jameswt_wt/status/2085640067482091965
+08:11:00,jameswt_wt,md5,dc0e7882ecfc9c1bc2157dda6a645be3,,https://x.com/jameswt_wt/status/2085640067482091965
 08:21:00,fact_finder03,ip,107.161.90.180,
 08:22:00,fact_finder03,ip,103.160.59.70,
 08:26:00,thantzin_ron,domain,3x.wgnlmq.org,
@@ -10284,12 +10295,26 @@
 08:29:00,bomccss,url,https://agent.jpword.cc/setup.pdf,,https://x.com/bomccss/status/2085282101403017672
 08:29:00,bomccss,url,https://jpword.cc:8383,,https://x.com/bomccss/status/2085282101403017672
 08:29:00,bomccss,url,https://w1mail.com,,https://x.com/bomccss/status/2085282098601243004
+08:42:00,fact_finder03,ip,37.60.250.63,
+08:49:00,500mk500,domain,applanding.getpixeltap.com,
+08:49:00,500mk500,url,http://applanding.getpixeltap.com,
 08:50:00,ishivtripathi,domain,creativecurrentmedia.com,
 08:50:00,ishivtripathi,domain,decoded-2.ps,
 08:50:00,ishivtripathi,domain,wandertalesblog.com,
 08:50:00,ishivtripathi,url,https://creativecurrentmedia.com/api/init/1ea26e48-510a-406a-97f2-8c220585f4c8,
 08:50:00,ishivtripathi,url,https://wandertalesblog.com/api/init/1ea26e48-510a-406a-97f2-8c220585f4c8,
 08:50:00,ishivtripathi,url,https://www.letsdiskuss.com/user/dhuahsd12d2752,
+08:58:00,500mk500,domain,duyai.app,,https://x.com/500mk500/status/2085651901056438330
+08:58:00,500mk500,ip,143.110.195.12,,https://x.com/500mk500/status/2085651901056438330
+08:58:00,500mk500,ip,148.224.62.74,,https://x.com/500mk500/status/2085651901056438330
+08:58:00,500mk500,ip,150.251.146.213,,https://x.com/500mk500/status/2085651901056438330
+08:58:00,500mk500,ip,167.172.177.118,,https://x.com/500mk500/status/2085651901056438330
+08:58:00,500mk500,url,http://143.110.195.12:3000,,https://x.com/500mk500/status/2085651901056438330
+08:58:00,500mk500,url,http://148.224.62.74:3000,,https://x.com/500mk500/status/2085651901056438330
+08:58:00,500mk500,url,http://150.251.146.213:3000,,https://x.com/500mk500/status/2085651901056438330
+08:58:00,500mk500,url,http://167.172.177.118:3000,,https://x.com/500mk500/status/2085651901056438330
+08:58:00,500mk500,url,http://37.60.250.63:3000,,https://x.com/500mk500/status/2085651901056438330
+08:58:00,500mk500,url,http://duyai.app,,https://x.com/500mk500/status/2085651901056438330
 08:58:00,skocherhan,domain,00hou.pages.dev,
 08:58:00,skocherhan,domain,8jd03l7y.com,
 08:58:00,skocherhan,domain,accountkiller.app,
@@ -10746,6 +10771,8 @@
 10:00:00,nextronresearch,sha256,cf5436d33a4b9658ebb488522de84c52ce7d5de900fcb7abc6274997887289f6,,https://x.com/nextronresearch/status/2085304887345090625
 10:00:00,nextronresearch,sha256,d1e6d67b48b7832f57601f81ac8cd38fe5b2e817c118dc3fc8e713cf21f90fc6,,https://x.com/nextronresearch/status/2085304887345090625
 10:00:00,nextronresearch,sha256,fd2d6f0dc2a61a8f4f09ad103dfb2cdd4b8965ed36dfa645b9d1396849bd250e,,https://x.com/nextronresearch/status/2085304887345090625
+10:02:00,suyog41,url,http://github.com/dcm1-6626,
+10:02:00,suyog41,url,http://github.com/dm1-21726,
 10:03:00,500mk500,domain,alert-bh.com,,https://x.com/500mk500/status/2084581039100321987
 10:03:00,500mk500,domain,alertbh.info,,https://x.com/500mk500/status/2084581039100321987
 10:03:00,500mk500,domain,beneficiary-survey.info,,https://x.com/500mk500/status/2084581039100321987
@@ -10796,6 +10823,9 @@
 10:23:00,tdatwja,url,http://202608045201545111.zip,,https://x.com/tdatwja/status/2084585961686749531
 10:23:00,tdatwja,url,http://haochisadnka.cc,,https://x.com/tdatwja/status/2084585961686749531
 10:23:00,tdatwja,url,http://hcnlskdfkxcvsdfjp.pages.dev,,https://x.com/tdatwja/status/2084585961686749531
+10:24:00,ishivtripathi,domain,release-assets.githubusercontent.com,
+10:24:00,ishivtripathi,url,https://github.com/oven-sh/bun/releases/download/,
+10:24:00,ishivtripathi,url,https://release-assets.githubusercontent.com,
 10:26:00,banthisguy9349,ip,166.88.134.62,,https://x.com/banthisguy9349/status/2083862035545125305
 10:26:00,banthisguy9349,url,http://166.88.134.62,,https://x.com/banthisguy9349/status/2083862035545125305
 10:33:00,tdatwja,domain,hijndil-ownguen.pages.dev,,https://x.com/tdatwja/status/2084588468886552914
@@ -10806,10 +10836,17 @@
 10:41:00,fact_finder03,ip,217.156.122.129,
 10:41:00,masaomi346,domain,vnsany.com,
 10:41:00,masaomi346,url,https://vnsany.com/4cpupl,
+10:44:00,masaomi346,ip,192.109.11.213,,https://x.com/masaomi346/status/2085678499453641060
+10:44:00,masaomi346,url,http://192.109.11.213,,https://x.com/masaomi346/status/2085678499453641060
 10:48:00,shadowopcode,domain,europe-italy.icu,
 10:48:00,shadowopcode,url,https://europe-italy.icu/gls.it,
 10:50:00,solostalking,ip,193.221.200.175,,https://x.com/solostalking/status/2085317636750217388
 10:55:00,fact_finder03,ip,179.43.175.26,
+10:59:00,malwarehunterr,domain,drvupdates.com,
+10:59:00,malwarehunterr,ip,31.57.38.141,
+10:59:00,malwarehunterr,url,http://31.57.38.141:3333,
+10:59:00,malwarehunterr,url,http://drvupdates.com/meetsdrv.zip,
+10:59:00,malwarehunterr,url,https://drvupdates.com,
 11:01:00,elementalx2,ip,103.57.248.146,,https://x.com/elementalx2/status/2084233303587205402
 11:01:00,elementalx2,ip,94.158.247.243,,https://x.com/elementalx2/status/2084233303587205402
 11:01:00,elementalx2,url,http://103.57.248.146,,https://x.com/elementalx2/status/2084233303587205402
@@ -10837,6 +10874,13 @@
 11:24:00,fact_finder03,ip,185.199.198.71,
 11:26:00,shadowopcode,domain,healercyber.site,,https://x.com/shadowopcode/status/2084964168591987039
 11:26:00,shadowopcode,url,https://healercyber.site/ftx/page.html?lgh={{base64_email,,https://x.com/shadowopcode/status/2084964168591987039
+11:33:00,genthreatlabs,sha256,22c9422358273b2c9ce7c6641f925e34ba1197efa7363ce8fc1553e105746df3,,https://x.com/genthreatlabs/status/2085690853280903514
+11:33:00,genthreatlabs,sha256,4b4ae799a07bd7bc4b9bbce47fe30055f2257e05043e9c7a8be0d556ef55d718,,https://x.com/genthreatlabs/status/2085690853280903514
+11:33:00,genthreatlabs,sha256,55565dd4f8070624f2a18e9ddd1ca6a04f46b587a6e0c9e804f60603c0258f82,,https://x.com/genthreatlabs/status/2085690853280903514
+11:33:00,genthreatlabs,sha256,8cfaa9120e316c59e4d6fa3093c7fe19e231b0ff1d39baa3993742627e26e105,,https://x.com/genthreatlabs/status/2085690853280903514
+11:33:00,genthreatlabs,sha256,a7df9a9665a96ca5814b40e4c6aac121d8822fd702d80b597b567b274ac943fd,,https://x.com/genthreatlabs/status/2085690853280903514
+11:33:00,genthreatlabs,url,http://open.spotify.com/playlist/2dvn7v4xceutltxfxk2z10,,https://x.com/genthreatlabs/status/2085690853280903514
+11:33:00,genthreatlabs,url,http://open.spotify.com/playlist/77uhzsiaoltltvtgny5jhi,,https://x.com/genthreatlabs/status/2085690853280903514
 11:34:00,tdatwja,domain,returns.zip,,https://x.com/tdatwja/status/2084589989367889931
 11:34:00,tdatwja,url,http://returns.zip,,https://x.com/tdatwja/status/2084589989367889931
 11:35:00,skocherhan,domain,cloud.one-two.online,,https://x.com/skocherhan/status/2083879416866685122
@@ -10907,6 +10951,8 @@
 12:20:00,thedfirreport,url,http://opmanager.pro,,https://x.com/thedfirreport/status/2085340125572035013
 12:25:00,skocherhan,domain,zorvec.top,
 12:25:00,skocherhan,url,http://zorvec.top,
+12:26:00,opcodeintel,ip,43.156.228.149,
+12:26:00,opcodeintel,url,http://43.156.228.149:8888,
 12:28:00,skocherhan,md5,001c348e61b58dabbb88d5612831c948,,https://x.com/skocherhan/status/2084255170234343911
 12:31:00,fact_finder03,ip,51.89.204.24,
 12:32:00,sicehice,ip,114.104.171.202,,https://x.com/sicehice/status/2083531399491891337
