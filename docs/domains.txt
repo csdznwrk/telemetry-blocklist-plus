@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-08-08 12:28 UTC
-# Domains: 14797
+# Updated: 2026-08-08 18:23 UTC
+# Domains: 14817
 
 -084-gls-223-www-9-k-0brasil.net.daraz.com
 -access-logs-1.net.daraz.com
@@ -9683,8 +9683,6 @@
 03:00:00,thekn0ck0ut,ip,156.251.16.29,,https://x.com/thekn0ck0ut/status/2084837025266422185
 03:01:00,masaomi346,domain,sffosjcux.top,
 03:01:00,masaomi346,url,https://sffosjcux.top/jp,
-03:18:00,darkwebinformer,domain,pnzruro7syvwvefx5mpo2fhzi4jftgquynsqf3vy5x3no57yp2iz4nyd.onion,
-03:18:00,darkwebinformer,url,http://pnzruro7syvwvefx5mpo2fhzi4jftgquynsqf3vy5x3no57yp2iz4nyd.onion,
 03:24:00,fact_finder03,ip,212.119.42.58,
 03:28:00,masaomi346,domain,ia-beaut.com,
 03:28:00,masaomi346,url,https://ia-beaut.com/ayfgyi/,
@@ -10092,12 +10090,10 @@
 05:15:00,romonlyht,ip,20.194.160.64,
 05:15:00,romonlyht,url,https://lnhygd.com/zsthpnkj/verify,
 05:16:00,bomccss,domain,rkm-20260709-1514.zip,,https://x.com/bomccss/status/2084508786782585333
-05:16:00,bomccss,domain,rkm-20260713-1514.zip,,https://x.com/bomccss/status/2076979019158069359
 05:16:00,bomccss,ip,192.252.180.45,,https://x.com/bomccss/status/2084508789261443177
 05:16:00,bomccss,sha256,93df03d7db7df23317ee87ebe3946ddff4364e45de5217b0c90c7925b22c8f04,,https://x.com/bomccss/status/2084508786782585333
 05:16:00,bomccss,url,http://192.252.180.45:6666,,https://x.com/bomccss/status/2084508789261443177
 05:16:00,bomccss,url,http://rkm-20260709-1514.zip,,https://x.com/bomccss/status/2084508786782585333
-05:16:00,bomccss,url,http://rkm-20260713-1514.zip,,https://x.com/bomccss/status/2076979019158069359
 05:16:00,romonlyht,domain,dhchg.com,
 05:16:00,romonlyht,domain,jkuisd.aqshl.com,
 05:16:00,romonlyht,ip,20.18.50.114,
@@ -10804,8 +10800,6 @@
 10:03:00,500mk500,url,http://tiktokadulltdownload.xyz,,https://x.com/500mk500/status/2084581039100321987
 10:03:00,500mk500,url,http://tiktokadults-download-space.xyz,,https://x.com/500mk500/status/2084581039100321987
 10:03:00,500mk500,url,http://tiktokdownlload.xyz,,https://x.com/500mk500/status/2084581039100321987
-10:09:00,banthisguy9349,domain,cracked.sh,,https://x.com/banthisguy9349/status/2075048168157581611
-10:09:00,banthisguy9349,url,http://cracked.sh,,https://x.com/banthisguy9349/status/2075048168157581611
 10:10:00,singhsoodeep,domain,cas-edu.org,,https://x.com/singhsoodeep/status/2084220447487381592
 10:10:00,singhsoodeep,domain,wtechnote.org,,https://x.com/singhsoodeep/status/2084220447487381592
 10:10:00,singhsoodeep,md5,1ac87c87bc585605b75b269ca510fc52,,https://x.com/singhsoodeep/status/2084220447487381592
@@ -10851,7 +10845,6 @@
 10:33:00,tdatwja,url,http://ljdnxz.cc,,https://x.com/tdatwja/status/2084588468886552914
 10:34:00,skocherhan,domain,prolegiot.pro,,https://x.com/skocherhan/status/2086038365908980066
 10:34:00,skocherhan,url,http://prolegiot.pro,,https://x.com/skocherhan/status/2086038365908980066
-10:34:00,smica83,sha256,09b02692523576627b14e7510125bb99732891efed079439218a69396482e72b,,https://x.com/smica83/status/2082895689307009433
 10:35:00,skocherhan,url,https://www.npmjs.com/package/keyv/v/6.0.0,,https://x.com/skocherhan/status/2084588920948289653
 10:41:00,fact_finder03,ip,217.156.122.129,
 10:41:00,masaomi346,domain,vnsany.com,
@@ -10884,9 +10877,6 @@
 11:15:00,nextronresearch,sha256,fd3ca4007b225fdf8de7af4345a19179d5efa8c4bb9205f88cda806e5684b1eb,,https://x.com/nextronresearch/status/2084599046878974164
 11:17:00,skocherhan,ip,89.40.31.124,,https://x.com/skocherhan/status/2084237253828547006
 11:17:00,skocherhan,url,http://89.40.31.124:1005,,https://x.com/skocherhan/status/2084237253828547006
-11:17:00,stop_spammerz,domain,questealer.world,,https://x.com/stop_spammerz/status/2069122466346041369
-11:17:00,stop_spammerz,url,https://questealer.world,,https://x.com/stop_spammerz/status/2069122466346041369
-11:17:00,stop_spammerz,url,https://questealer.world/app.js,,https://x.com/stop_spammerz/status/2069122466346041369
 11:23:00,nuria_imeq,domain,pago-correos.es,,https://x.com/nuria_imeq/status/2084600999574966765
 11:23:00,nuria_imeq,url,http://pago-correos.es,,https://x.com/nuria_imeq/status/2084600999574966765
 11:24:00,fact_finder03,ip,185.199.198.71,
@@ -10917,9 +10907,6 @@
 11:35:00,skocherhan,url,http://notepadreleased.com,,https://x.com/skocherhan/status/2083879416866685122
 11:35:00,skocherhan,url,http://vpn.one-two.online,,https://x.com/skocherhan/status/2083879416866685122
 11:35:00,skocherhan,url,http://vpnvl.one-two.online,,https://x.com/skocherhan/status/2083879416866685122
-11:37:00,byrne_emmy12099,ip,124.46.130.42,
-11:37:00,byrne_emmy12099,url,http://124.46.130.42/login.png,
-11:37:00,byrne_emmy12099,url,http://124.46.130.42/view.php?type=apple&seed=[mac,
 11:37:00,skocherhan,ip,212.43.147.70,,https://x.com/skocherhan/status/2083879886335168785
 11:37:00,skocherhan,ip,77.238.248.158,,https://x.com/skocherhan/status/2083879886335168785
 11:37:00,skocherhan,md5,0391cc7f5e979b36d82a3f3ebe00f4dd,,https://x.com/skocherhan/status/2083879886335168785
@@ -10958,6 +10945,9 @@
 12:00:00,phishunt_io,url,http://allegrolokalnie.alleprodukt58932.sbs/oferta/gogle-vr-meta-quest-3/655691063?fbclid=iwy2xjawtffdtlehrua2flbqixmqbzcn,
 12:00:00,phishunt_io,url,http://metamask-login-11.gitbook.io,
 12:00:00,skocherhan,md5,f98bd5d83bdc29c3c49840096d9694c6,,https://x.com/skocherhan/status/2083885770692038754
+12:04:00,jameswt_wt,domain,applanding.getpixeltap.com,
+12:04:00,jameswt_wt,url,http://applanding.getpixeltap.com,
+12:07:00,akaclandestine,ip,5.230.54.41,
 12:09:00,masaomi346,domain,qbnzgt.cfd,
 12:09:00,masaomi346,url,https://qbnzgt.cfd/qophei,
 12:10:00,webamon_search,domain,069reselling.com,,https://x.com/webamon_search/status/2085337645261979903
@@ -10966,12 +10956,28 @@
 12:10:00,webamon_search,url,http://069reselling.com,,https://x.com/webamon_search/status/2085337645261979903
 12:10:00,webamon_search,url,http://073752.com,,https://x.com/webamon_search/status/2085337645261979903
 12:10:00,webamon_search,url,http://sqllq.com,,https://x.com/webamon_search/status/2085337645261979903
-12:12:00,widarpri,ip,51.161.122.78,,https://x.com/widarpri/status/1943073570160103616
+12:13:00,webamon_search,domain,0002302.pro,,https://x.com/webamon_search/status/2086063278170534042
+12:13:00,webamon_search,domain,100mocks.com,,https://x.com/webamon_search/status/2086063278170534042
+12:13:00,webamon_search,domain,sqllq.com,,https://x.com/webamon_search/status/2086063278170534042
+12:13:00,webamon_search,url,http://0002302.pro,,https://x.com/webamon_search/status/2086063278170534042
+12:13:00,webamon_search,url,http://100mocks.com,,https://x.com/webamon_search/status/2086063278170534042
+12:13:00,webamon_search,url,http://sqllq.com,,https://x.com/webamon_search/status/2086063278170534042
+12:15:00,malwarehunterr,domain,intfdt.com,
+12:15:00,malwarehunterr,ip,203.188.171.167,
+12:15:00,malwarehunterr,url,http://203.188.171.167,
+12:15:00,malwarehunterr,url,http://203.188.171.167:8041,
+12:15:00,malwarehunterr,url,http://intfdt.com,
+12:15:00,malwarehunterr,url,http://intfdt.com:8041,
+12:15:00,malwarehunterr,url,https://intfdt.com/bin/screenconnect.clientsetup.msi?e=access&y=guest,
 12:16:00,suyog41,md5,1211795a3e450f724b971f0cc1e06a21,,https://x.com/suyog41/status/2084976756013043894
 12:20:00,thedfirreport,domain,download-center.online,,https://x.com/thedfirreport/status/2085340125572035013
 12:20:00,thedfirreport,domain,opmanager.pro,,https://x.com/thedfirreport/status/2085340125572035013
 12:20:00,thedfirreport,url,http://download-center.online,,https://x.com/thedfirreport/status/2085340125572035013
 12:20:00,thedfirreport,url,http://opmanager.pro,,https://x.com/thedfirreport/status/2085340125572035013
+12:21:00,skocherhan,domain,alberthumanclinic.com,,https://x.com/skocherhan/status/2086065325292790085
+12:21:00,skocherhan,ip,207.189.8.63,,https://x.com/skocherhan/status/2086065325292790085
+12:21:00,skocherhan,url,http://207.189.8.63,,https://x.com/skocherhan/status/2086065325292790085
+12:21:00,skocherhan,url,http://alberthumanclinic.com,,https://x.com/skocherhan/status/2086065325292790085
 12:25:00,skocherhan,domain,zorvec.top,
 12:25:00,skocherhan,url,http://zorvec.top,
 12:26:00,opcodeintel,ip,43.156.228.149,
@@ -10998,6 +11004,12 @@
 12:34:00,webamon_search,url,http://01490242b.com,,https://x.com/webamon_search/status/2084619091306828111
 12:34:00,webamon_search,url,http://01800agregados.com,,https://x.com/webamon_search/status/2084619091306828111
 12:34:00,webamon_search,url,http://sqllq.com,,https://x.com/webamon_search/status/2084619091306828111
+12:37:00,harugasumi,domain,keeed.top,
+12:37:00,harugasumi,domain,tmallpeaceful.com,
+12:37:00,harugasumi,ip,43.167.208.189,
+12:37:00,harugasumi,ip,43.167.26.140,
+12:37:00,harugasumi,url,https://keeed.top/jp/,
+12:37:00,harugasumi,url,https://tmallpeaceful.com/page/xvfhptkuqu,
 12:37:00,netaskari,ip,47.237.103.249,,https://x.com/netaskari/status/2084619773384519949
 12:37:00,netaskari,url,http://47.237.103.249,,https://x.com/netaskari/status/2084619773384519949
 12:39:00,bomccss,ip,118.107.0.196,,https://x.com/bomccss/status/2084257783785062513
@@ -11018,6 +11030,10 @@
 12:45:00,malwarehunterr,url,http://31.76.87.37,
 12:45:00,malwarehunterr,url,http://31.76.87.37:8443,
 12:45:00,malwarehunterr,url,http://pub-32e2f642271c45008a1601bacbdfd3f1.r2.dev,
+12:45:00,skocherhan,domain,verifieer-gesprek.com,
+12:45:00,skocherhan,ip,46.151.182.58,
+12:45:00,skocherhan,url,http://46.151.182.58,
+12:45:00,skocherhan,url,http://verifieer-gesprek.com,
 12:46:00,skocherhan,domain,ddisuyer.eu.cc,,https://x.com/skocherhan/status/2084259513171845546
 12:46:00,skocherhan,domain,fuerubuiaie.eu.cc,,https://x.com/skocherhan/status/2084259513171845546
 12:46:00,skocherhan,domain,hsaueraw.eu.cc,,https://x.com/skocherhan/status/2084259513171845546
@@ -11125,6 +11141,8 @@
 13:13:00,nextronresearch,domain,fr.monero.herominers.com,,https://x.com/nextronresearch/status/2084991108006781059
 13:13:00,nextronresearch,sha256,b20f39fc00d242e706b6c30367ad811c676e0575050a4ec2f30104b696944b49,,https://x.com/nextronresearch/status/2084991108006781059
 13:13:00,nextronresearch,url,http://fr.monero.herominers.com:1111,,https://x.com/nextronresearch/status/2084991108006781059
+13:16:00,0xhido,ip,43.156.228.149,,https://x.com/0xhido/status/2086079140696904150
+13:16:00,0xhido,url,http://43.156.228.149:443,,https://x.com/0xhido/status/2086079140696904150
 13:18:00,byrne_emmy12099,domain,7hzfsiymgf.getenjoyment.net,,https://x.com/byrne_emmy12099/status/2084630119176683751
 13:18:00,byrne_emmy12099,url,http://7hzfsiymgf.getenjoyment.net/peer.php?session=[username]&mac=term,,https://x.com/byrne_emmy12099/status/2084630119176683751
 13:18:00,suyog41,md5,cdbcf64d418903ae385ff1942b51cbf0,,https://x.com/suyog41/status/2085354776204824752
@@ -11145,6 +11163,8 @@
 13:23:00,webamon_search,url,http://01014949.com,,https://x.com/webamon_search/status/2083906656442749101
 13:23:00,webamon_search,url,http://0302onabike.com,,https://x.com/webamon_search/status/2083906656442749101
 13:23:00,webamon_search,url,http://sqllq.com,,https://x.com/webamon_search/status/2083906656442749101
+13:27:00,0xhido,domain,clientproject.fun,,https://x.com/0xhido/status/2086081899059888142
+13:27:00,0xhido,url,http://clientproject.fun/taptap212/takapay/,,https://x.com/0xhido/status/2086081899059888142
 13:28:00,bomccss,ip,103.23.172.118,,https://x.com/bomccss/status/2084270150816256080
 13:29:00,fbgwls245,domain,darkprn3d3udnhpuxknsrhft3376lrz5tenhgkrxge5hxqe46pkbrwid.onion,
 13:29:00,fbgwls245,url,http://darkprn3d3udnhpuxknsrhft3376lrz5tenhgkrxge5hxqe46pkbrwid.onion,
@@ -11237,6 +11257,7 @@
 14:31:00,now_on_vt,sha256,af0309aa38d067373c54b2a7774a32f68ab72cb2dbf5aed74ac784b079830184,,https://x.com/now_on_vt/status/2085373311635075368
 14:31:00,thantzin_ron,ip,67.175.236.120,
 14:31:00,thantzin_ron,url,http://67.175.236.120:9090,
+14:32:00,skocherhan,sha256,4d4aec6120290e21778c1b14c94aa6ebff3b0816fb6798495dc2eae165db4566,,https://x.com/skocherhan/status/2086098324625502345
 14:33:00,turingalex,ip,104.194.140.150,,https://x.com/turingalex/status/2085373661993988567
 14:33:00,turingalex,url,http://104.194.140.150:8080/54ac4810b1d01207/ca06059d5d3d81d2.sh,,https://x.com/turingalex/status/2085373661993988567
 14:35:00,bomccss,domain,lenotecadiarqua.it,,https://x.com/bomccss/status/2085374322970165406
@@ -11244,6 +11265,8 @@
 14:35:00,bomccss,url,http://86.107.32.99:443,,https://x.com/bomccss/status/2085374322970165406
 14:35:00,bomccss,url,http://smtp.hostinger.com:587,,https://x.com/bomccss/status/2085374322970165406
 14:35:00,bomccss,url,https://lenotecadiarqua.it,,https://x.com/bomccss/status/2085374322970165406
+14:35:00,skocherhan,domain,ssa00.lat,
+14:35:00,skocherhan,url,http://ssa00.lat,
 14:44:00,masaomi346,domain,angels-travel.com,
 14:44:00,masaomi346,url,https://angels-travel.com/jmffvprn/,
 14:44:00,suyog41,domain,a2.cdnresolver.com,
@@ -11320,6 +11343,10 @@
 15:56:00,0xhido,url,http://148.224.63.123,,https://x.com/0xhido/status/2084669788572246287
 15:56:00,0xhido,url,http://195.160.221.203:8080,,https://x.com/0xhido/status/2084669788572246287
 15:56:00,now_on_vt,sha256,162e436f18fe6099c57855c8d63fd747493624e87702dc749b242eb9a6b758ca,,https://x.com/now_on_vt/status/2083944980234588365
+16:02:00,0xhido,ip,193.26.115.17,,https://x.com/0xhido/status/2086118254607475121
+16:02:00,0xhido,url,http://193.26.115.17:56001,,https://x.com/0xhido/status/2086118254607475121
+16:02:00,skocherhan,domain,purecoder.io,,https://x.com/skocherhan/status/2086120850667749754
+16:02:00,skocherhan,url,http://purecoder.io,,https://x.com/skocherhan/status/2086120850667749754
 16:12:00,skocherhan,domain,105.205.92.host.secureserver.net,,https://x.com/skocherhan/status/2085760937739374794
 16:12:00,skocherhan,domain,adws.avcstentrega.com,,https://x.com/skocherhan/status/2085760937739374794
 16:12:00,skocherhan,domain,anesa.cfd,,https://x.com/skocherhan/status/2085760937739374794
@@ -11335,6 +11362,8 @@
 16:12:00,skocherhan,url,http://webm.anesa.cfd,,https://x.com/skocherhan/status/2085760937739374794
 16:25:00,volrant136,domain,milllitelecom.netlify.app,
 16:25:00,volrant136,url,http://milllitelecom.netlify.app,
+16:27:48,darkwebinformer,domain,pnzruro7syvwvefx5mpo2fhzi4jftgquynsqf3vy5x3no57yp2iz4nyd.onion,
+16:27:48,darkwebinformer,url,http://pnzruro7syvwvefx5mpo2fhzi4jftgquynsqf3vy5x3no57yp2iz4nyd.onion,
 16:29:00,teamcymru_s2,ip,103.176.145.220,
 16:29:00,teamcymru_s2,ip,104.128.90.27,
 16:29:00,teamcymru_s2,ip,107.174.244.118,
@@ -11375,26 +11404,8 @@
 17:00:00,phishunt_io,url,http://santander2026.dothome.co.kr,
 17:00:00,phishunt_io,url,http://startapps-trezor.wasmer.app,
 17:00:00,phishunt_io,url,http://trezoriostr-homepage.zapier.app,
-17:04:00,now_on_vt,sha256,064a17321a401f48b0f757ff52458df111802fa6476e2d752e79e6a79c113fd9,,https://x.com/now_on_vt/status/2029887800909156681
-17:04:00,now_on_vt,sha256,2fbecaeb158eb5da8858cbe93ae438359f51ba18c416582adab9a293ada1a561,,https://x.com/now_on_vt/status/2029887800909156681
-17:04:00,now_on_vt,sha256,443786dae18e7c0a859b72306b2f028e190591de60cd867e2dc06b98e0867ffe,,https://x.com/now_on_vt/status/2029887800909156681
-17:04:00,now_on_vt,sha256,4b60cb5caf9fead0a3c45d077e7626387cff47884db896d6dddbbf96a707aa2c,,https://x.com/now_on_vt/status/2029887800909156681
-17:04:00,now_on_vt,sha256,52358873db8b1b354241757bce59a48e8606d6d5e45aacc746539fb31cf5339d,,https://x.com/now_on_vt/status/2029887800909156681
-17:04:00,now_on_vt,sha256,68cba116f6e8d1685ea4d04a48cd7b67d3eed07b8926975aabc925fd8d9409e8,,https://x.com/now_on_vt/status/2029887800909156681
-17:04:00,now_on_vt,sha256,6d522977b4f5473050ae9f493cc34e837110fd5b06c236517c317d15623ba86c,,https://x.com/now_on_vt/status/2029887800909156681
-17:04:00,now_on_vt,sha256,7bb759e468ede2efb3c8f6c517c584e17fc67a5530bef84d227ee191bcbc44e2,,https://x.com/now_on_vt/status/2029887800909156681
-17:04:00,now_on_vt,sha256,8b9d8f56388d5d30040afc01da2438f37c7cc8d4d92860039b15cf3139f0cab8,,https://x.com/now_on_vt/status/2029887800909156681
-17:04:00,now_on_vt,sha256,99d08243903b744261ecc1c3cbcb3b9b78d9782121780584b1380f53d5628414,,https://x.com/now_on_vt/status/2029887800909156681
-17:04:00,now_on_vt,sha256,a7b0d50e1f6bdb8fe1efbfc789937c7d45fd5addf3b8e239ad61df6002b55195,,https://x.com/now_on_vt/status/2029887800909156681
-17:04:00,now_on_vt,sha256,b6b9b7d5fc2e5f49ba4ec40b56d08582f9190c64a075500c0742eecac22f270e,,https://x.com/now_on_vt/status/2029887800909156681
-17:04:00,now_on_vt,sha256,bae30cc6b5a42e400c91cc8189deb40d9cbe872c1200978d828108822f1e1d95,,https://x.com/now_on_vt/status/2029887800909156681
-17:04:00,now_on_vt,sha256,c1939ee768b4f50124ef42b19114693b85c364f61c90522ac38df2111af3a4e7,,https://x.com/now_on_vt/status/2029887800909156681
-17:04:00,now_on_vt,sha256,e04fcb2b674eac8cd6cc41e62da7af73c91f2334ca97668e1977f16a15846984,,https://x.com/now_on_vt/status/2029887800909156681
-17:04:00,now_on_vt,sha256,e38f110e4be96923575ed3b49ec816496e446496b5ed309c0c3b731ac5c118f2,,https://x.com/now_on_vt/status/2029887800909156681
-17:04:00,now_on_vt,sha256,e439e14a778aa079159bc61bfdf167c79d786489d8502d7d6b574a3f752d120b,,https://x.com/now_on_vt/status/2029887800909156681
-17:04:00,now_on_vt,sha256,e77dd2c3f8fd99b0d428f20733246eeaa270f0a61286ed7b63cadec5c46b0f0a,,https://x.com/now_on_vt/status/2029887800909156681
-17:04:00,now_on_vt,sha256,f3d958350be201eda4bd226537809b68747709ee038263bede953e42bdde0800,,https://x.com/now_on_vt/status/2029887800909156681
-17:04:00,now_on_vt,sha256,fa65142b7d45df9a2d0e95872f655b51510a246d3533032f7757e9aec99e3f46,,https://x.com/now_on_vt/status/2029887800909156681
+17:00:42,phishunt_io,domain,facebooktrade.com,
+17:00:42,phishunt_io,url,http://facebooktrade.com/instagram.html,
 17:04:00,skocherhan,md5,9468cd34fd1184471092ffd27d798ff1,,https://x.com/skocherhan/status/2083962150083559499
 17:18:00,500mk500,ip,172.236.33.134,,https://x.com/500mk500/status/2084328041656836341
 17:18:00,500mk500,ip,67.219.107.181,,https://x.com/500mk500/status/2084328041656836341
@@ -11449,6 +11460,12 @@
 17:46:00,p0x53,domain,edge.cdn-vitals.com,
 17:46:00,p0x53,url,http://edge.cdn-vitals.com,
 17:47:00,skocherhan,domain,westurn.in,,https://x.com/skocherhan/status/2085060237417951595
+17:50:36,malwarehunterr,domain,dorenzaa.com,
+17:50:36,malwarehunterr,domain,file-host-alpha.vercel.app,
+17:50:36,malwarehunterr,ip,203.188.171.166,
+17:50:36,malwarehunterr,url,http://203.188.171.166,
+17:50:36,malwarehunterr,url,http://dorenzaa.com,
+17:50:36,malwarehunterr,url,http://file-host-alpha.vercel.app,
 17:55:00,skocherhan,md5,0e51138ef195ac755f052babb761a1e7,,https://x.com/skocherhan/status/2084337326981869950
 17:55:00,threatlabz,ip,49.232.169.67,,https://x.com/threatlabz/status/2084337299094196440
 17:55:00,threatlabz,md5,21f5c39665ad9fcbaa173084ed1ce966,,https://x.com/threatlabz/status/2084337299094196440
@@ -12100,6 +12117,9 @@
 23:26:00,skocherhan,domain,prep-phones-aqua-addition.trycloudflare.com,,https://x.com/skocherhan/status/2084783077826371854
 23:26:00,skocherhan,md5,13e17f4ee672924c66b5b15eb8f02fb5,,https://x.com/skocherhan/status/2084783077826371854
 23:26:00,skocherhan,url,http://prep-phones-aqua-addition.trycloudflare.com,,https://x.com/skocherhan/status/2084783077826371854
+23:55:25,byrne_emmy12099,ip,124.46.130.42,
+23:55:25,byrne_emmy12099,url,http://124.46.130.42/login.png,
+23:55:25,byrne_emmy12099,url,http://124.46.130.42/view.php?type=apple&seed=[mac,
 2baserec2.guru
 4-dot-all-tracker.appspot.com
 4info.com
