@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-08-08 00:58 UTC
-# Domains: 14759
+# Updated: 2026-08-08 06:36 UTC
+# Domains: 14763
 
 -084-gls-223-www-9-k-0brasil.net.daraz.com
 -access-logs-1.net.daraz.com
@@ -8439,6 +8439,10 @@
 02:46:00,kubotaa3,ip,192.238.160.133,
 02:46:00,kubotaa3,url,https://mg-euwqnasnd.com/pc_0010021312/sp_001239u1923/login/loginusername,
 02:48:00,merlax_,url,http://pastebin.com/raw/uh8jxav2,
+02:53:00,sicehice,ip,95.155.151.113,,https://x.com/sicehice/status/2085922429092712628
+02:53:00,sicehice,ip,95.155.151.24,,https://x.com/sicehice/status/2085922429092712628
+02:53:00,sicehice,md5,917d572e7e89670bc817a44dd2c47fa5,,https://x.com/sicehice/status/2085922429092712628
+02:53:00,sicehice,url,http://95.155.151.113/sensi_av.sh,,https://x.com/sicehice/status/2085922429092712628
 02:58:00,azzzzng71,domain,lynx-trading.org,
 02:58:00,azzzzng71,url,http://lynx-trading.org,
 02a169af111011.beer
