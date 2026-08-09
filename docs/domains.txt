@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-08-09 12:31 UTC
-# Domains: 14754
+# Updated: 2026-08-09 18:26 UTC
+# Domains: 14795
 
 -084-gls-223-www-9-k-0brasil.net.daraz.com
 -access-logs-1.net.daraz.com
@@ -11150,6 +11150,10 @@
 13:37:00,skocherhan,domain,xzz.cam,,https://x.com/skocherhan/status/2084634940465955305
 13:37:00,skocherhan,url,http://xzz.cam,,https://x.com/skocherhan/status/2084634940465955305
 13:38:00,fact_finder03,ip,2.26.227.133,
+13:42:12,webamon_search,domain,00006060.com,,https://x.com/webamon_search/status/2086447957973291166
+13:42:12,webamon_search,domain,sqllq.com,,https://x.com/webamon_search/status/2086447957973291166
+13:42:12,webamon_search,url,http://00006060.com,,https://x.com/webamon_search/status/2086447957973291166
+13:42:12,webamon_search,url,http://sqllq.com,,https://x.com/webamon_search/status/2086447957973291166
 13:44:00,ishivtripathi,ip,188.190.2.165,
 13:44:00,ishivtripathi,url,http://188.190.2.165:666/data,
 13:48:00,harugasumi,domain,jankfree.com,
@@ -11265,6 +11269,10 @@
 15:10:00,skocherhan,url,http://coinbase.solghost.shop,
 15:11:00,skocherhan,domain,10.196.252.46.host.secureserver.net,
 15:11:00,skocherhan,url,http://10.196.252.46.host.secureserver.net/pdfpdf,
+15:11:49,scanmalware,domain,rapid-scene-df90.2415054122105.workers.dev,
+15:11:49,scanmalware,url,http://rapid-scene-df90.2415054122105.workers.dev,
+15:16:36,etugenio,ip,194.59.31.175,
+15:16:36,etugenio,url,http://194.59.31.175,
 15:18:00,joe4security,domain,defense-housing-authority.vagued.live,
 15:18:00,joe4security,url,http://defense-housing-authority.vagued.live,
 15:21:00,skocherhan,domain,grupotaus.com,,https://x.com/skocherhan/status/2085748189383082302
@@ -11272,6 +11280,15 @@
 15:35:00,skocherhan,domain,93.105.205.92.host.secureserver.net,,https://x.com/skocherhan/status/2085751679895429348
 15:35:00,skocherhan,ip,93.105.205.92,,https://x.com/skocherhan/status/2085751679895429348
 15:35:00,skocherhan,url,http://93.105.205.92.host.secureserver.net/vendas.html,,https://x.com/skocherhan/status/2085751679895429348
+15:38:23,skocherhan,domain,aidsp.top,
+15:38:23,skocherhan,domain,controllerscompetiv5.com,
+15:38:23,skocherhan,domain,ns1.aidsp.top,
+15:38:23,skocherhan,domain,ns2.aidsp.top,
+15:38:23,skocherhan,url,http://194.59.31.175:4444,
+15:38:23,skocherhan,url,http://aidsp.top,
+15:38:23,skocherhan,url,http://controllerscompetiv5.com,
+15:38:23,skocherhan,url,http://ns1.aidsp.top,
+15:38:23,skocherhan,url,http://ns2.aidsp.top,
 15:39:00,michalkoczwara,ip,198.105.127.210,
 15:39:00,michalkoczwara,ip,23.27.20.187,
 15:39:00,skocherhan,sha256,c8756ea3af938d0c6d6940850b12d23963e1e417aae0aa15c2fcb13390974995,,https://x.com/skocherhan/status/2085752744699146319
@@ -11290,6 +11307,8 @@
 16:02:00,0xhido,url,http://193.26.115.17:56001,,https://x.com/0xhido/status/2086118254607475121
 16:02:00,skocherhan,domain,purecoder.io,,https://x.com/skocherhan/status/2086120850667749754
 16:02:00,skocherhan,url,http://purecoder.io,,https://x.com/skocherhan/status/2086120850667749754
+16:05:39,skocherhan,domain,file-host-alpha.vercel.app,,https://x.com/skocherhan/status/2086484058754736421
+16:05:39,skocherhan,url,http://file-host-alpha.vercel.app,,https://x.com/skocherhan/status/2086484058754736421
 16:12:00,skocherhan,domain,105.205.92.host.secureserver.net,,https://x.com/skocherhan/status/2085760937739374794
 16:12:00,skocherhan,domain,adws.avcstentrega.com,,https://x.com/skocherhan/status/2085760937739374794
 16:12:00,skocherhan,domain,anesa.cfd,,https://x.com/skocherhan/status/2085760937739374794
@@ -11303,6 +11322,9 @@
 16:12:00,skocherhan,url,http://configat.dadjugs.cfd,,https://x.com/skocherhan/status/2085760937739374794
 16:12:00,skocherhan,url,http://dadjugs.cfd,,https://x.com/skocherhan/status/2085760937739374794
 16:12:00,skocherhan,url,http://webm.anesa.cfd,,https://x.com/skocherhan/status/2085760937739374794
+16:19:52,skocherhan,domain,crystalmorrowlighthouse.com,,https://x.com/skocherhan/status/2086487639327211537
+16:19:52,skocherhan,md5,b385111d6599a30210b7be8f7674a163,,https://x.com/skocherhan/status/2086487639327211537
+16:19:52,skocherhan,url,http://crystalmorrowlighthouse.com,,https://x.com/skocherhan/status/2086487639327211537
 16:25:00,volrant136,domain,milllitelecom.netlify.app,
 16:25:00,volrant136,url,http://milllitelecom.netlify.app,
 16:27:48,darkwebinformer,domain,pnzruro7syvwvefx5mpo2fhzi4jftgquynsqf3vy5x3no57yp2iz4nyd.onion,
@@ -11321,6 +11343,11 @@
 16:29:00,teamcymru_s2,ip,89.185.80.222,
 16:40:00,fbgwls245,domain,yqhecvqtdvq6p7duqcgw2qca77spbgakxcoibtx6zpvfshltsbbbhfqd.onion,
 16:40:00,fbgwls245,url,http://yqhecvqtdvq6p7duqcgw2qca77spbgakxcoibtx6zpvfshltsbbbhfqd.onion,
+16:42:11,skocherhan,domain,dlsnat.net,,https://x.com/skocherhan/status/2086493251989598676
+16:42:11,skocherhan,domain,web-telegram.ug,,https://x.com/skocherhan/status/2086493251989598676
+16:42:11,skocherhan,md5,06d4e133278ccea6d85866101901436e,,https://x.com/skocherhan/status/2086493251989598676
+16:42:11,skocherhan,url,http://dlsnat.net,,https://x.com/skocherhan/status/2086493251989598676
+16:42:11,skocherhan,url,http://web-telegram.ug,,https://x.com/skocherhan/status/2086493251989598676
 16:43:00,elasticseclabs,domain,api.trycloudflare.com,,https://x.com/elasticseclabs/status/2085768843494842403
 16:43:00,elasticseclabs,domain,lhr.life,,https://x.com/elasticseclabs/status/2085768843494842403
 16:43:00,elasticseclabs,url,http://api.trycloudflare.com,,https://x.com/elasticseclabs/status/2085768843494842403
@@ -11347,6 +11374,15 @@
 17:00:00,phishunt_io,url,http://trezoriostr-homepage.zapier.app,
 17:00:42,phishunt_io,domain,facebooktrade.com,
 17:00:42,phishunt_io,url,http://facebooktrade.com/instagram.html,
+17:00:45,phishunt_io,domain,opensea-nftbox-fc872a1c36fe.herokuapp.com,
+17:00:45,phishunt_io,ip,54.235.77.118,
+17:00:45,phishunt_io,url,http://opensea-nftbox-fc872a1c36fe.herokuapp.com,
+17:12:14,skocherhan,domain,coolideasforthefuturelmaohahaha.com,,https://x.com/skocherhan/status/2086500815930282488
+17:12:14,skocherhan,domain,online-investrebcvesting.com,,https://x.com/skocherhan/status/2086500815930282488
+17:12:14,skocherhan,domain,policiacivilmg.com,,https://x.com/skocherhan/status/2086500815930282488
+17:12:14,skocherhan,url,http://coolideasforthefuturelmaohahaha.com,,https://x.com/skocherhan/status/2086500815930282488
+17:12:14,skocherhan,url,http://online-investrebcvesting.com,,https://x.com/skocherhan/status/2086500815930282488
+17:12:14,skocherhan,url,http://policiacivilmg.com,,https://x.com/skocherhan/status/2086500815930282488
 17:18:00,500mk500,ip,172.236.33.134,,https://x.com/500mk500/status/2084328041656836341
 17:18:00,500mk500,ip,67.219.107.181,,https://x.com/500mk500/status/2084328041656836341
 17:18:00,500mk500,url,http://172.236.33.134:7777,,https://x.com/500mk500/status/2084328041656836341
@@ -11358,6 +11394,7 @@
 17:20:00,threatinsight,url,http://coldcardcompliance.com,,https://x.com/threatinsight/status/2084328573871985018
 17:20:00,threatinsight,url,http://coldcardteamnews.com,,https://x.com/threatinsight/status/2084328573871985018
 17:20:00,threatinsight,url,https://github.com/newallyson/coldcard/releases/download/5.7/coldcard_diagnostic_tool.bat,,https://x.com/threatinsight/status/2084328573871985018
+17:22:52,skocherhan,ip,198.105.127.210,,https://x.com/skocherhan/status/2086503492684837007
 17:29:00,veryseriouseng,domain,package-proxy.cf11oobworker.workers.dev,,https://x.com/veryseriouseng/status/2085055561398145413
 17:29:00,veryseriouseng,domain,package-proxy.cf5oobworker.workers.dev,,https://x.com/veryseriouseng/status/2085055561398145413
 17:29:00,veryseriouseng,domain,package-proxy.cf6oobworker.workers.dev,,https://x.com/veryseriouseng/status/2085055561398145413
@@ -11425,6 +11462,10 @@
 18:00:00,phatomcandle,url,http://ntpack.online,
 18:00:00,phatomcandle,url,http://rvxlan.online,
 18:00:00,phatomcandle,url,http://sowrtech.com,
+18:00:05,phatomcandle,domain,onekey-host.com,
+18:00:05,phatomcandle,ip,205.186.64.197,
+18:00:05,phatomcandle,url,http://205.186.64.197,
+18:00:05,phatomcandle,url,http://onekey-host.com,
 18:01:00,skocherhan,domain,libdalvikengine.so,,https://x.com/skocherhan/status/2084701210259382291
 18:01:00,skocherhan,domain,login.trees4sale.net,,https://x.com/skocherhan/status/2084701210259382291
 18:05:00,skocherhan,domain,ntpsetup.online,
