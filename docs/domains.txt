@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-08-09 06:39 UTC
-# Domains: 14723
+# Updated: 2026-08-09 12:31 UTC
+# Domains: 14754
 
 -084-gls-223-www-9-k-0brasil.net.daraz.com
 -access-logs-1.net.daraz.com
@@ -10116,6 +10116,22 @@
 05:56:11,masaomi346,url,https://gpppw.top/jp/,
 05:58:00,opcodeintel,ip,207.174.0.143,
 05:58:00,opcodeintel,url,http://207.174.0.143:8080,
+06:00:16,thantzin_ron,domain,adobedoc-cloud.top,,https://x.com/thantzin_ron/status/2086331710317502914
+06:00:16,thantzin_ron,domain,dash-coon.top,,https://x.com/thantzin_ron/status/2086331710317502914
+06:00:16,thantzin_ron,domain,dash-pages.top,,https://x.com/thantzin_ron/status/2086331710317502914
+06:00:16,thantzin_ron,domain,pub-ecards.top,,https://x.com/thantzin_ron/status/2086331710317502914
+06:00:16,thantzin_ron,ip,192.255.139.5,,https://x.com/thantzin_ron/status/2086331710317502914
+06:00:16,thantzin_ron,ip,198.44.36.33,,https://x.com/thantzin_ron/status/2086331710317502914
+06:00:16,thantzin_ron,ip,198.44.46.241,,https://x.com/thantzin_ron/status/2086331710317502914
+06:00:16,thantzin_ron,ip,66.212.16.24,,https://x.com/thantzin_ron/status/2086331710317502914
+06:00:16,thantzin_ron,url,http://192.255.139.5,,https://x.com/thantzin_ron/status/2086331710317502914
+06:00:16,thantzin_ron,url,http://198.44.36.33,,https://x.com/thantzin_ron/status/2086331710317502914
+06:00:16,thantzin_ron,url,http://198.44.46.241,,https://x.com/thantzin_ron/status/2086331710317502914
+06:00:16,thantzin_ron,url,http://66.212.16.24,,https://x.com/thantzin_ron/status/2086331710317502914
+06:00:16,thantzin_ron,url,https://adobedoc-cloud.top,,https://x.com/thantzin_ron/status/2086331710317502914
+06:00:16,thantzin_ron,url,https://dash-coon.top,,https://x.com/thantzin_ron/status/2086331710317502914
+06:00:16,thantzin_ron,url,https://dash-pages.top,,https://x.com/thantzin_ron/status/2086331710317502914
+06:00:16,thantzin_ron,url,https://pub-ecards.top,,https://x.com/thantzin_ron/status/2086331710317502914
 06:06:00,dixit_404,sha256,d90e686ddc1d288e29c1bceb68ffedccb3285f83be7eef4f50c45144f025a12d,,https://x.com/dixit_404/status/2084521229571289351
 06:07:00,userlolxxl,ip,129.2.4.2,,https://x.com/userlolxxl/status/2084883907141325273
 06:07:00,userlolxxl,url,http://129.2.4.2,,https://x.com/userlolxxl/status/2084883907141325273
@@ -10189,6 +10205,9 @@
 07:00:00,phishunt_io,url,http://allegrolokalnie.lokalna-ofera293925.lol,
 07:00:00,phishunt_io,url,http://facebooksetup.blogspot.com,
 07:00:00,phishunt_io,url,http://metamaskwalletxtensioeno.webflow.io,
+07:00:39,phishunt_io,domain,www-itausegurancas.rf.gd,
+07:00:39,phishunt_io,ip,185.27.134.94,
+07:00:39,phishunt_io,url,http://www-itausegurancas.rf.gd/?i=1,
 07:04:00,uk_daniel_card,ip,26.3.1.7,,https://x.com/uk_daniel_card/status/2085985401441825052
 07:04:00,uk_daniel_card,ip,7.2.3.2,,https://x.com/uk_daniel_card/status/2085985401441825052
 07:04:00,uk_daniel_card,ip,8.0.5.1,,https://x.com/uk_daniel_card/status/2085985401441825052
@@ -10204,6 +10223,8 @@
 07:35:00,skocherhan,url,http://vokser.cfd/ek41lt172.67.157.36captcha,
 07:35:00,skocherhan,url,https://vokser.cfd/ek41lt172.67.157.36captcha,
 07:35:00,skocherhan,url,https://vorlen.cfd/qophei172.67.129.110
+07:38:17,solostalking,ip,2.26.227.212,,https://x.com/solostalking/status/2086356374930468925
+07:38:17,solostalking,ip,64.89.160.97,,https://x.com/solostalking/status/2086356374930468925
 07:40:00,ishivtripathi,domain,logkit-tau.vercel.app,,https://x.com/ishivtripathi/status/2084907438243991883
 07:40:00,ishivtripathi,ip,66.45.225.94,,https://x.com/ishivtripathi/status/2084907438243991883
 07:40:00,ishivtripathi,sha256,ab65cef60fc097c2a9fb03a7855c9c03dfe3ccc874080720f0e631c6ee2c3e51,,https://x.com/ishivtripathi/status/2084907438243991883
@@ -10276,6 +10297,7 @@
 08:29:00,bomccss,url,https://agent.jpword.cc/setup.pdf,,https://x.com/bomccss/status/2085282101403017672
 08:29:00,bomccss,url,https://jpword.cc:8383,,https://x.com/bomccss/status/2085282101403017672
 08:29:00,bomccss,url,https://w1mail.com,,https://x.com/bomccss/status/2085282098601243004
+08:41:50,solostalking,ip,143.246.195.33,,https://x.com/solostalking/status/2086372368596033768
 08:42:00,fact_finder03,ip,37.60.250.63,
 08:45:00,skocherhan,domain,ethercdnns.beer,
 08:45:00,skocherhan,domain,ldnscreatejs.beer,
@@ -10295,6 +10317,7 @@
 08:51:00,malwarehunterr,ip,89.125.255.236,
 08:51:00,malwarehunterr,url,http://89.125.255.236,
 08:51:00,malwarehunterr,url,http://drvupdates.com/meetsdrv.zip,
+08:51:45,now_on_vt,sha256,2d7351aa765bb2feed9536cc392b2013361c193e99841c5b56591d988bd4b582,,https://x.com/now_on_vt/status/2086374865704018116
 08:58:00,500mk500,domain,duyai.app,,https://x.com/500mk500/status/2085651901056438330
 08:58:00,500mk500,ip,143.110.195.12,,https://x.com/500mk500/status/2085651901056438330
 08:58:00,500mk500,ip,148.224.62.74,,https://x.com/500mk500/status/2085651901056438330
@@ -10710,6 +10733,10 @@
 08:58:00,skocherhan,url,http://zhifeijipc-xu.com.cn,
 08:58:00,skocherhan,url,http://zhifeijipc-yo.com.cn,
 08:58:00,skocherhan,url,http://zhifeijipc-yu.com.cn,
+08:58:56,g60930953,domain,updatesourcetool.online,
+08:58:56,g60930953,url,http://updatesourcetool.online:8443,
+09:04:00,fact_finder03,ip,101.32.245.119,
+09:07:00,fact_finder03,ip,178.83.26.16,
 09:11:00,skocherhan,md5,9348c849bb1b45599e3347ca45326446,,https://x.com/skocherhan/status/2084567975810461850
 09:11:00,skocherhan,md5,aa8e9ade9a86a50e55479f1978c30527,,https://x.com/skocherhan/status/2084567975810461850
 09:16:00,ishivtripathi,sha256,468292b5638bba8338b82527d2970f6b11853d6c71f56f336798a99451411706,,https://x.com/ishivtripathi/status/2085293993123012691
@@ -10725,6 +10752,8 @@
 09:23:00,darkjstr,url,http://writetousbrkdat2mail.co,,https://x.com/darkjstr/status/2085295719045599403
 09:26:00,skocherhan,md5,34a66ffab5b2b2e82f4aeed24e2e570a,,https://x.com/skocherhan/status/2084571676914622598
 09:30:00,jameswt_wt,sha256,b804b9dd2726e69fb4f496a6872f90edf9146ad8044c6d3a592040ce1074a5d0,,https://x.com/jameswt_wt/status/2084210169567686750
+09:33:00,fact_finder03,ip,185.163.204.246,,https://x.com/fact_finder03/status/2086385245012558150
+09:33:00,fact_finder03,sha256,212acf6988a147dc48a67ac51cbd267121791f8f79ae733698c614ab56511fa6,,https://x.com/fact_finder03/status/2086385245012558150
 09:33:00,tdatwja,domain,20260731173614.zip,,https://x.com/tdatwja/status/2084211031522627987
 09:33:00,tdatwja,md5,395e1873839dd3be5d02e4d1d574f9d0,,https://x.com/tdatwja/status/2084211031522627987
 09:33:00,tdatwja,md5,cae7e1192eb824214833bb1e8ac092b8,,https://x.com/tdatwja/status/2084211031522627987
@@ -10844,6 +10873,8 @@
 11:01:00,elementalx2,ip,94.158.247.243,,https://x.com/elementalx2/status/2084233303587205402
 11:01:00,elementalx2,url,http://103.57.248.146,,https://x.com/elementalx2/status/2084233303587205402
 11:01:00,elementalx2,url,http://94.158.247.243,,https://x.com/elementalx2/status/2084233303587205402
+11:03:10,skocherhan,domain,sam.datupdatesourcetool.online,
+11:03:10,skocherhan,url,http://sam.datupdatesourcetool.online:8443,
 11:15:00,genthreatlabs,domain,distinctiveonlinebrand.de,
 11:15:00,genthreatlabs,domain,echohcp.care,
 11:15:00,genthreatlabs,domain,heitaeunlimited.com,
