@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-08-10 07:13 UTC
-# Domains: 16015
+# Updated: 2026-08-10 12:47 UTC
+# Domains: 16045
 
 -084-gls-223-www-9-k-0brasil.net.daraz.com
 -access-logs-1.net.daraz.com
@@ -10027,6 +10027,10 @@
 03:54:08,romonlyht,ip,4.193.254.248,
 03:54:08,romonlyht,url,https://jalsdf.szjhxt.com,
 03:54:08,romonlyht,url,https://shengfucheng.com/scx7glcd?ticket=ywhypsgv8n,
+03:54:09,romonlyht,domain,jhdzhi.com,
+03:54:09,romonlyht,ip,47.91.10.53,
+03:54:09,romonlyht,url,https://jhdzhi.com/bflmbnfj,
+03:54:09,romonlyht,url,https://jhdzhi.com/bflmbnfj/,
 03a01d381c69453a.com
 03a087bc6ca6.top
 03a08ec40d0e.com
@@ -10529,6 +10533,10 @@
 06:33:00,ishivtripathi,url,http://setupsso.com,
 06:33:00,ishivtripathi,url,http://setupssopasskey.com,
 06:45:00,yungbinary,sha256,87e8d39db624f37d3e77aedf487a2dfd197f71a4730ea74f4e7a4341deaec2ff,,https://x.com/yungbinary/status/2085255978367569939
+06:54:18,cyb3rmik3,domain,euro-gr.abrdns.com,
+06:54:18,cyb3rmik3,domain,hotm.io,
+06:54:18,cyb3rmik3,url,https://euro-gr.abrdns.com/eu-gr/gr/,
+06:54:18,cyb3rmik3,url,https://hotm.io/grd839794,
 07:00:00,phishunt_io,domain,3f-icloud.com,
 07:00:00,phishunt_io,domain,allegrolokalnie.lokalna-ofera293925.lol,
 07:00:00,phishunt_io,domain,facebooksetup.blogspot.com,
@@ -10539,12 +10547,16 @@
 07:00:39,phishunt_io,domain,www-itausegurancas.rf.gd,
 07:00:39,phishunt_io,ip,185.27.134.94,
 07:00:39,phishunt_io,url,http://www-itausegurancas.rf.gd/?i=1,
+07:00:44,phishunt_io,domain,facebook.affixlink.app,
+07:00:44,phishunt_io,ip,209.159.155.2,
+07:00:44,phishunt_io,url,http://facebook.affixlink.app,
 07:04:00,uk_daniel_card,ip,26.3.1.7,,https://x.com/uk_daniel_card/status/2085985401441825052
 07:04:00,uk_daniel_card,ip,7.2.3.2,,https://x.com/uk_daniel_card/status/2085985401441825052
 07:04:00,uk_daniel_card,ip,8.0.5.1,,https://x.com/uk_daniel_card/status/2085985401441825052
 07:04:00,uk_daniel_card,ip,8.1.3.1,,https://x.com/uk_daniel_card/status/2085985401441825052
 07:14:00,fact_finder03,ip,182.92.180.194,
 07:18:00,fact_finder03,ip,89.34.90.33,
+07:19:17,skocherhan,domain,afc_security_report_2026.pdf.lnkxyzblue.dpdns.org,
 07:26:00,fact_finder03,ip,31.77.156.5,
 07:38:17,solostalking,ip,2.26.227.212,,https://x.com/solostalking/status/2086356374930468925
 07:38:17,solostalking,ip,64.89.160.97,,https://x.com/solostalking/status/2086356374930468925
@@ -10572,6 +10584,8 @@
 07:44:00,tdatwja,url,http://122.10.117.3:8383,,https://x.com/tdatwja/status/2085270818209374435
 07:44:00,tdatwja,url,http://jpword.cc,,https://x.com/tdatwja/status/2085270818209374435
 07:44:00,tdatwja,url,http://w1mail.com,,https://x.com/tdatwja/status/2085270818209374435
+07:51:03,tdatwja,domain,rkm-20260810-1514.zip,,https://x.com/tdatwja/status/2086721977000304872
+07:51:03,tdatwja,url,http://rkm-20260810-1514.zip,,https://x.com/tdatwja/status/2086721977000304872
 07:53:00,d3labit,domain,careerlongprofit.duckdns.org,
 07:53:00,d3labit,domain,cinnamonthai.com,
 07:53:00,d3labit,domain,comeforreealz.duckdns.org,
@@ -11073,6 +11087,8 @@
 09:26:00,skocherhan,md5,34a66ffab5b2b2e82f4aeed24e2e570a,,https://x.com/skocherhan/status/2084571676914622598
 09:33:00,fact_finder03,ip,185.163.204.246,,https://x.com/fact_finder03/status/2086385245012558150
 09:33:00,fact_finder03,sha256,212acf6988a147dc48a67ac51cbd267121791f8f79ae733698c614ab56511fa6,,https://x.com/fact_finder03/status/2086385245012558150
+09:52:47,dkavalanche,domain,coreoss.wpenginepowered.com,
+09:52:47,dkavalanche,url,https://coreoss.wpenginepowered.com/coreo/c/c1/c1.html,
 10:00:00,dixit_404,sha256,67d21c04043be2ce744489a0be64290fcbb172310496ab05e0ad289d10d5dd30,,https://x.com/dixit_404/status/2084942726769045850
 10:00:00,dixit_404,sha256,6e6addf3e7287cf160054ef4647f8c67754f3cdc6efbdf21f117cb98c4c95534,,https://x.com/dixit_404/status/2084942726769045850
 10:00:00,nextronresearch,sha256,1946315d645d9a8c5114759b350ec4f85dba5f9ee4a63d74437d7a068bff7752,,https://x.com/nextronresearch/status/2085304887345090625
@@ -11146,6 +11162,9 @@
 10:48:00,shadowopcode,domain,europe-italy.icu,
 10:48:00,shadowopcode,url,https://europe-italy.icu/gls.it,
 10:50:00,solostalking,ip,193.221.200.175,,https://x.com/solostalking/status/2085317636750217388
+10:52:22,ishivtripathi,ip,84.54.51.37,,https://x.com/ishivtripathi/status/2086767606418243717
+10:52:22,ishivtripathi,sha256,2d7351aa765bb2feed9536cc392b2013361c193e99841c5b56591d988bd4b582,,https://x.com/ishivtripathi/status/2086767606418243717
+10:52:22,ishivtripathi,url,http://84.54.51.37,,https://x.com/ishivtripathi/status/2086767606418243717
 10:59:00,malwarehunterr,domain,drvupdates.com,
 10:59:00,malwarehunterr,ip,31.57.38.141,
 10:59:00,malwarehunterr,url,http://31.57.38.141:3333,
@@ -11194,6 +11213,14 @@
 12:04:00,jameswt_wt,domain,applanding.getpixeltap.com,
 12:04:00,jameswt_wt,url,http://applanding.getpixeltap.com,
 12:07:00,akaclandestine,ip,5.230.54.41,
+12:09:12,vmray,ip,160.20.109.33,,https://x.com/vmray/status/2086786943962984519
+12:09:12,vmray,ip,87.120.104.147,,https://x.com/vmray/status/2086786943962984519
+12:09:12,vmray,sha256,02e9da11f035bd4e18338ddd78e2818da49e7d1c8f614e9b329afaf581c33301,,https://x.com/vmray/status/2086786943962984519
+12:09:12,vmray,sha256,45c7d791fab4128fb495f359ed641e217883f132bb8f13c1e181caf5f5279a34,,https://x.com/vmray/status/2086786943962984519
+12:09:12,vmray,sha256,4f82542f68d2e677fb64ba986c8d5f3a04017a1bf7a11d375e52f950e32eb262,,https://x.com/vmray/status/2086786943962984519
+12:09:12,vmray,sha256,7ba2c663d76d2d353a02d815381f22a1b04b2032162b1559455d1f456432340a,,https://x.com/vmray/status/2086786943962984519
+12:09:12,vmray,url,http://160.20.109.33:80,,https://x.com/vmray/status/2086786943962984519
+12:09:12,vmray,url,http://87.120.104.147:8080,,https://x.com/vmray/status/2086786943962984519
 12:10:00,webamon_search,domain,069reselling.com,,https://x.com/webamon_search/status/2085337645261979903
 12:10:00,webamon_search,domain,073752.com,,https://x.com/webamon_search/status/2085337645261979903
 12:10:00,webamon_search,domain,sqllq.com,,https://x.com/webamon_search/status/2085337645261979903
@@ -11229,6 +11256,8 @@
 12:33:00,jameswt_wt,md5,6a197a50e78aa671622d4a033e532f52,,https://x.com/jameswt_wt/status/2085343386723082532
 12:33:00,jameswt_wt,md5,d571b2027b88a131ba04ad035896977c,,https://x.com/jameswt_wt/status/2085343386723082532
 12:33:00,jameswt_wt,url,https://pfbofa.com/pfbofa.zip,,https://x.com/jameswt_wt/status/2085343386723082532
+12:33:36,metemcyber,ip,43.167.12.139,
+12:33:36,metemcyber,url,http://43.167.12.139,
 12:34:00,webamon_search,domain,00899.top,,https://x.com/webamon_search/status/2084619091306828111
 12:34:00,webamon_search,domain,01490242b.com,,https://x.com/webamon_search/status/2084619091306828111
 12:34:00,webamon_search,domain,01800agregados.com,,https://x.com/webamon_search/status/2084619091306828111
@@ -15596,6 +15625,7 @@ zsxocjarsate.com
 ||analytics.audioeye.com^$third-party
 ||analytics.audionow.de^$third-party
 ||analytics.authoritymedia.com^
+||analytics.autoodb.com^
 ||analytics.bitchute.com^
 ||analytics.bomiv.com^
 ||analytics.cdn.live^
