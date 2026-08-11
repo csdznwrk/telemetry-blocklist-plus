@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-08-11 06:51 UTC
-# Domains: 15327
+# Updated: 2026-08-11 12:43 UTC
+# Domains: 15343
 
 -084-gls-223-www-9-k-0brasil.net.daraz.com
 -access-logs-1.net.daraz.com
@@ -10544,13 +10544,22 @@
 07:00:44,phishunt_io,domain,facebook.affixlink.app,
 07:00:44,phishunt_io,ip,209.159.155.2,
 07:00:44,phishunt_io,url,http://facebook.affixlink.app,
+07:00:46,phishunt_io,domain,icloudfind.live,
+07:00:46,phishunt_io,ip,108.167.146.200,
+07:00:46,phishunt_io,url,http://icloudfind.live/fl26,
 07:04:00,uk_daniel_card,ip,26.3.1.7,,https://x.com/uk_daniel_card/status/2085985401441825052
 07:04:00,uk_daniel_card,ip,7.2.3.2,,https://x.com/uk_daniel_card/status/2085985401441825052
 07:04:00,uk_daniel_card,ip,8.0.5.1,,https://x.com/uk_daniel_card/status/2085985401441825052
 07:04:00,uk_daniel_card,ip,8.1.3.1,,https://x.com/uk_daniel_card/status/2085985401441825052
 07:14:00,fact_finder03,ip,182.92.180.194,
 07:19:17,skocherhan,domain,afc_security_report_2026.pdf.lnkxyzblue.dpdns.org,
+07:25:05,nextronresearch,ip,78.154.103.38,,https://x.com/nextronresearch/status/2087077832228766028
+07:25:05,nextronresearch,sha256,b6c5b7cf9255e4198816907079eecf072b8010676cfb3d8559aaa83626e72ed1,,https://x.com/nextronresearch/status/2087077832228766028
+07:25:05,nextronresearch,url,http://78.154.103.38:14556/config.json,,https://x.com/nextronresearch/status/2087077832228766028
+07:25:05,nextronresearch,url,https://github.com/nsaciagov/g/raw/refs/heads/main/svchost.exe,,https://x.com/nextronresearch/status/2087077832228766028
 07:26:00,fact_finder03,ip,31.77.156.5,
+07:36:04,etugenio,ip,47.109.196.181,
+07:36:04,etugenio,url,http://47.109.196.181,
 07:38:17,solostalking,ip,2.26.227.212,,https://x.com/solostalking/status/2086356374930468925
 07:38:17,solostalking,ip,64.89.160.97,,https://x.com/solostalking/status/2086356374930468925
 07:40:00,ishivtripathi,domain,logkit-tau.vercel.app,,https://x.com/ishivtripathi/status/2084907438243991883
@@ -10730,6 +10739,7 @@
 11:43:00,solostalking,ip,193.221.200.64,,https://x.com/solostalking/status/2085330913530094015
 11:43:00,solostalking,ip,45.151.106.233,,https://x.com/solostalking/status/2085330913530094015
 11:43:00,solostalking,ip,93.190.247.6,,https://x.com/solostalking/status/2085330913530094015
+11:47:34,fact_finder03,ip,23.94.252.207,
 11:57:00,abuse_ch,ip,155.2.192.235,,https://x.com/abuse_ch/status/2086059184991113496
 11:57:00,abuse_ch,ip,155.2.192.94,,https://x.com/abuse_ch/status/2086059184991113496
 11:57:00,abuse_ch,ip,185.174.101.132,,https://x.com/abuse_ch/status/2086059184991113496
@@ -10738,6 +10748,12 @@
 12:00:00,phishunt_io,domain,metamask-login-11.gitbook.io,
 12:00:00,phishunt_io,url,http://allegrolokalnie.alleprodukt58932.sbs/oferta/gogle-vr-meta-quest-3/655691063?fbclid=iwy2xjawtffdtlehrua2flbqixmqbzcn,
 12:00:00,phishunt_io,url,http://metamask-login-11.gitbook.io,
+12:00:12,ishivtripathi,domain,api.studiotikva.com,
+12:00:12,ishivtripathi,domain,studiotikva.com,
+12:00:12,ishivtripathi,ip,1.0.0.4,
+12:00:12,ishivtripathi,url,https://api.studiotikva.com/api/v1/update/check,
+12:00:12,ishivtripathi,url,https://studiotikva.com,
+12:00:43,phishunt_io,url,http://office365updater.com,
 12:04:00,jameswt_wt,domain,applanding.getpixeltap.com,
 12:04:00,jameswt_wt,url,http://applanding.getpixeltap.com,
 12:07:00,akaclandestine,ip,5.230.54.41,
