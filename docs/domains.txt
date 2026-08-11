@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-08-11 01:02 UTC
-# Domains: 15314
+# Updated: 2026-08-11 06:51 UTC
+# Domains: 15327
 
 -084-gls-223-www-9-k-0brasil.net.daraz.com
 -access-logs-1.net.daraz.com
@@ -10418,12 +10418,23 @@
 04:22:50,fatzqatz,url,http://customsduty.cfd,
 04:25:00,masaomi346,domain,qkp6.com,
 04:25:00,masaomi346,url,https://qkp6.com/list,
+04:54:40,patialavii,domain,office365updater.com,
+04:54:40,patialavii,url,https://office365updater.com,
 05:01:22,etugenio,domain,xyzblue.dpdns.org,
 05:01:22,etugenio,ip,43.156.228.149,
 05:01:22,etugenio,url,http://43.156.228.149,
 05:01:22,etugenio,url,http://xyzblue.dpdns.org,
+05:02:30,patialavii,domain,qwayinternational.in,
+05:02:30,patialavii,url,https://qwayinternational.in/kkiulj/,
+05:02:30,patialavii,url,https://qwayinternational.in/kkiulj/download.php,
 05:11:00,masaomi346,domain,niuaniu.top,
 05:11:00,masaomi346,url,https://niuaniu.top/login,
+05:13:16,patialavii,domain,startfestuk.top,
+05:13:16,patialavii,url,https://raw.githubusercontent.com/hac0185/bcc/refs/heads/main/screenconnect.clientsetup.exe,
+05:13:16,patialavii,url,https://startfestuk.top/rtm/,
+05:22:43,patialavii,domain,sunniacademy.org,
+05:22:43,patialavii,url,https://sunniacademy.org/docsign/page.html,
+05:22:43,patialavii,url,https://sunniacademy.org/docsign/screenconnect.clientsetup.msi,
 05:25:02,bomccss,sha256,6469edd613ceb62dd8e14a75628a6b75fa443ef4311da2b45e805bc7d18afe25,,https://x.com/bomccss/status/2086685233056043119
 05:25:03,bomccss,ip,192.252.180.45,,https://x.com/bomccss/status/2086685235241259225
 05:25:03,bomccss,ip,64.81.30.192,,https://x.com/bomccss/status/2086685235241259225
@@ -10456,6 +10467,8 @@
 06:00:16,thantzin_ron,url,https://dash-coon.top,,https://x.com/thantzin_ron/status/2086331710317502914
 06:00:16,thantzin_ron,url,https://dash-pages.top,,https://x.com/thantzin_ron/status/2086331710317502914
 06:00:16,thantzin_ron,url,https://pub-ecards.top,,https://x.com/thantzin_ron/status/2086331710317502914
+06:05:08,etugenio,ip,169.58.82.229,
+06:05:08,etugenio,url,http://169.58.82.229,
 06:07:00,userlolxxl,ip,129.2.4.2,,https://x.com/userlolxxl/status/2084883907141325273
 06:07:00,userlolxxl,url,http://129.2.4.2,,https://x.com/userlolxxl/status/2084883907141325273
 06:13:00,jameswt_wt,domain,dnf.nfexmlfiscal.com.br,
