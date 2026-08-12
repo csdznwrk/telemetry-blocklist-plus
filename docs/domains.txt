@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-08-12 07:10 UTC
-# Domains: 15355
+# Updated: 2026-08-12 12:47 UTC
+# Domains: 15406
 
 -084-gls-223-www-9-k-0brasil.net.daraz.com
 -access-logs-1.net.daraz.com
@@ -10540,7 +10540,42 @@
 07:04:00,uk_daniel_card,ip,8.0.5.1,,https://x.com/uk_daniel_card/status/2085985401441825052
 07:04:00,uk_daniel_card,ip,8.1.3.1,,https://x.com/uk_daniel_card/status/2085985401441825052
 07:14:00,fact_finder03,ip,182.92.180.194,
+07:17:38,metemcyber,domain,gtttx.top,
+07:17:38,metemcyber,ip,43.155.174.59,
+07:17:38,metemcyber,url,http://43.155.174.59,
+07:17:38,metemcyber,url,https://gtttx.top/jp,
 07:19:17,skocherhan,domain,afc_security_report_2026.pdf.lnkxyzblue.dpdns.org,
+07:23:43,etugenio,domain,11888bet.com,
+07:23:43,etugenio,domain,365baji.com,
+07:23:43,etugenio,domain,55baji.com,
+07:23:43,etugenio,domain,77baji.com,
+07:23:43,etugenio,domain,99baji.com,
+07:23:43,etugenio,domain,baji11.com,
+07:23:43,etugenio,domain,baji188.com,
+07:23:43,etugenio,domain,baji22.com,
+07:23:43,etugenio,domain,baji33.com,
+07:23:43,etugenio,domain,baji55.com,
+07:23:43,etugenio,domain,baji99.com,
+07:23:43,etugenio,domain,bet365baji.com,
+07:23:43,etugenio,domain,bet365ee.cc,
+07:23:43,etugenio,domain,ch799.com,
+07:23:43,etugenio,domain,six6sixes.com,
+07:23:43,etugenio,ip,100.48.119.45,
+07:23:43,etugenio,url,http://11888bet.com,
+07:23:43,etugenio,url,http://365baji.com,
+07:23:43,etugenio,url,http://55baji.com,
+07:23:43,etugenio,url,http://77baji.com,
+07:23:43,etugenio,url,http://99baji.com,
+07:23:43,etugenio,url,http://baji11.com,
+07:23:43,etugenio,url,http://baji188.com,
+07:23:43,etugenio,url,http://baji22.com,
+07:23:43,etugenio,url,http://baji33.com,
+07:23:43,etugenio,url,http://baji55.com,
+07:23:43,etugenio,url,http://baji99.com,
+07:23:43,etugenio,url,http://bet365baji.com,
+07:23:43,etugenio,url,http://ch799.com,
+07:23:43,etugenio,url,http://six6sixes.com,
+07:23:43,etugenio,url,http://www.bet365ee.cc,
 07:25:05,nextronresearch,ip,78.154.103.38,,https://x.com/nextronresearch/status/2087077832228766028
 07:25:05,nextronresearch,sha256,b6c5b7cf9255e4198816907079eecf072b8010676cfb3d8559aaa83626e72ed1,,https://x.com/nextronresearch/status/2087077832228766028
 07:25:05,nextronresearch,url,http://78.154.103.38:14556/config.json,,https://x.com/nextronresearch/status/2087077832228766028
@@ -10634,6 +10669,10 @@
 08:58:00,500mk500,url,http://duyai.app,,https://x.com/500mk500/status/2085651901056438330
 08:58:56,g60930953,domain,updatesourcetool.online,
 08:58:56,g60930953,url,http://updatesourcetool.online:8443,
+08:59:55,bushidotoken,ip,62.164.130.5,,https://x.com/bushidotoken/status/2087464085185003869
+08:59:55,bushidotoken,ip,77.237.240.107,,https://x.com/bushidotoken/status/2087464085185003869
+08:59:55,bushidotoken,url,http://62.164.130.5,,https://x.com/bushidotoken/status/2087464085185003869
+08:59:55,bushidotoken,url,http://77.237.240.107,,https://x.com/bushidotoken/status/2087464085185003869
 09:04:00,fact_finder03,ip,101.32.245.119,
 09:07:00,fact_finder03,ip,178.83.26.16,
 09:16:00,ishivtripathi,sha256,468292b5638bba8338b82527d2970f6b11853d6c71f56f336798a99451411706,,https://x.com/ishivtripathi/status/2085293993123012691
@@ -10647,8 +10686,11 @@
 09:23:00,darkjstr,url,http://paranoid.network,,https://x.com/darkjstr/status/2085295719045599403
 09:23:00,darkjstr,url,http://uvm6hk4wwstfddja5z5htgtlehmfyflffijz6iozsuqyacyibzxefkqd.onion,,https://x.com/darkjstr/status/2085295719045599403
 09:23:00,darkjstr,url,http://writetousbrkdat2mail.co,,https://x.com/darkjstr/status/2085295719045599403
+09:24:51,now_on_vt,md5,0fcea6b1378980d45be82df3931b80d4,,https://x.com/now_on_vt/status/2087470360765534465
 09:33:00,fact_finder03,ip,185.163.204.246,,https://x.com/fact_finder03/status/2086385245012558150
 09:33:00,fact_finder03,sha256,212acf6988a147dc48a67ac51cbd267121791f8f79ae733698c614ab56511fa6,,https://x.com/fact_finder03/status/2086385245012558150
+09:40:49,metemcyber,domain,gtvvv.top,
+09:40:49,metemcyber,url,https://gtvvv.top/jp,
 09:52:47,dkavalanche,domain,coreoss.wpenginepowered.com,
 09:52:47,dkavalanche,url,https://coreoss.wpenginepowered.com/coreo/c/c1/c1.html,
 10:00:00,nextronresearch,sha256,1946315d645d9a8c5114759b350ec4f85dba5f9ee4a63d74437d7a068bff7752,,https://x.com/nextronresearch/status/2085304887345090625
@@ -10719,8 +10761,17 @@
 12:00:12,ishivtripathi,url,https://api.studiotikva.com/api/v1/update/check,
 12:00:12,ishivtripathi,url,https://studiotikva.com,
 12:00:43,phishunt_io,url,http://office365updater.com,
+12:00:55,phishunt_io,domain,allegrolokalnie.283101.pl,
+12:00:55,phishunt_io,ip,102.220.160.128,
+12:00:55,phishunt_io,url,http://allegrolokalnie.283101.pl/guard.js?v=1786440650870,
 12:04:00,jameswt_wt,domain,applanding.getpixeltap.com,
 12:04:00,jameswt_wt,url,http://applanding.getpixeltap.com,
+12:04:10,ishivtripathi,sha256,0fb111752cf34a50b16de3ec1fb36c419a621f74e1ed1aee2decca2609dd6ef4,,https://x.com/ishivtripathi/status/2087510452398067809
+12:04:10,ishivtripathi,sha256,1dd43de8bc7804fa281da1528532d82daf2092bf9e182f834f173817a6e65916,,https://x.com/ishivtripathi/status/2087510452398067809
+12:04:10,ishivtripathi,sha256,1e3ee845fde739fcd3ca9ce62c7f142a7c501d11db4c4fb294d4939f12d0f916,,https://x.com/ishivtripathi/status/2087510452398067809
+12:04:10,ishivtripathi,sha256,50128cb7122d3feec78efc922685456704a099e518f614a6ad2c770cf123e832,,https://x.com/ishivtripathi/status/2087510452398067809
+12:04:10,ishivtripathi,sha256,6876282208f836d5e203e21f7542358a1739849f293c3158f0937b141f890142,,https://x.com/ishivtripathi/status/2087510452398067809
+12:04:10,ishivtripathi,sha256,829abf3c966a79991d4aac903deeca89b5b0dbcbf06832e8fa82c997b108ff07,,https://x.com/ishivtripathi/status/2087510452398067809
 12:07:00,akaclandestine,ip,5.230.54.41,
 12:09:12,vmray,ip,160.20.109.33,,https://x.com/vmray/status/2086786943962984519
 12:09:12,vmray,ip,87.120.104.147,,https://x.com/vmray/status/2086786943962984519
