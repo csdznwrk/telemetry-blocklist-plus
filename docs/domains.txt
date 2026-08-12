@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-08-12 01:10 UTC
-# Domains: 15342
+# Updated: 2026-08-12 07:10 UTC
+# Domains: 15355
 
 -084-gls-223-www-9-k-0brasil.net.daraz.com
 -access-logs-1.net.daraz.com
@@ -7442,6 +7442,10 @@
 019gvfn88n0.top
 019www11w.top
 019www22w.top
+01:29:56,sicehice,ip,31.77.227.121,,https://x.com/sicehice/status/2087350841061548280
+01:29:56,sicehice,ip,94.154.43.104,,https://x.com/sicehice/status/2087350841061548280
+01:29:56,sicehice,md5,321882db218ae2743642f8b663101adb,,https://x.com/sicehice/status/2087350841061548280
+01:29:56,sicehice,url,http://31.77.227.121/bins/x86_64,,https://x.com/sicehice/status/2087350841061548280
 01:39:07,skocherhan,domain,ahaytwmyqfsd.top,
 01:39:07,skocherhan,domain,aobgyxmiayulim.top,
 01:39:07,skocherhan,domain,armzalkztsywmx.top,
@@ -7581,6 +7585,11 @@
 01:45:39,romonlyht,ip,123.103.114.37,
 01:45:39,romonlyht,ip,43.165.174.100,
 01:45:39,romonlyht,url,https://367ry4.zzzz-bet958.com/1qnzximw9ypr8bom,
+01:52:35,kubotaa3,domain,vkq1qv0mi.duckdns.org,
+01:52:35,kubotaa3,domain,xl36i3j64.duckdns.org,
+01:52:35,kubotaa3,ip,182.161.66.14,
+01:52:35,kubotaa3,url,https://vkq1qv0mi.duckdns.org,
+01:52:35,kubotaa3,url,https://xl36i3j64.duckdns.org,
 01:55:00,masaomi346,domain,dslkk.cn,
 01:55:00,masaomi346,url,https://www.dslkk.cn/login,
 01a-v0-cat33.hostenko.net
@@ -10014,6 +10023,10 @@
 03:54:09,romonlyht,ip,47.91.10.53,
 03:54:09,romonlyht,url,https://jhdzhi.com/bflmbnfj,
 03:54:09,romonlyht,url,https://jhdzhi.com/bflmbnfj/,
+03:58:09,romonlyht,domain,amyadamsfan.com,
+03:58:09,romonlyht,ip,149.72.126.143,
+03:58:09,romonlyht,ip,198.252.106.105,
+03:58:09,romonlyht,url,https://amyadamsfan.com/assets/asahi//?email=aaaa@example.jp,
 03a01d381c69453a.com
 03a087bc6ca6.top
 03a08ec40d0e.com
