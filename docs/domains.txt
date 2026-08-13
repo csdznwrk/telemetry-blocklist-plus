@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-08-13 12:49 UTC
-# Domains: 15464
+# Updated: 2026-08-13 18:51 UTC
+# Domains: 15480
 
 -084-gls-223-www-9-k-0brasil.net.daraz.com
 -access-logs-1.net.daraz.com
@@ -10876,6 +10876,10 @@
 12:49:25,masaomi346,domain,login.tc-1piaoffice-qr.biz.id,
 12:49:25,masaomi346,url,https://login.tc-1piaoffice-qr.biz.id/tv/members/sxepio,
 12:51:41,opcodeintel,url,https://github.com/make-mkv-software,,https://x.com/opcodeintel/status/2087522408152621234
+12:53:56,500mk500,domain,macroteam.com.tr,,https://x.com/500mk500/status/2087885362433515674
+12:53:56,500mk500,url,http://macroteam.com.tr,,https://x.com/500mk500/status/2087885362433515674
+12:57:09,suyog41,domain,atlantaairporttaxiservice.com,
+12:57:09,suyog41,url,http://atlantaairporttaxiservice.com,
 12d60.appspot.com
 12d60.firebaseio.com
 13-5.org
@@ -10916,6 +10920,8 @@
 13:09:57,malwrhunterteam,domain,cloud-flare-authenticator.link,,https://x.com/malwrhunterteam/status/2062241642627694690
 13:09:57,malwrhunterteam,url,http://cloud-flare-authenticator.link,,https://x.com/malwrhunterteam/status/2062241642627694690
 13:12:32,opcodeintel,ip,104.236.230.184,
+13:15:12,mugu_reporter,domain,rbnkscot.com,
+13:15:12,mugu_reporter,url,http://rbnkscot.com,
 13:16:00,0xhido,ip,43.156.228.149,,https://x.com/0xhido/status/2086079140696904150
 13:16:00,0xhido,url,http://43.156.228.149:443,,https://x.com/0xhido/status/2086079140696904150
 13:16:16,opcodeintel,ip,65.20.106.101,
@@ -10974,6 +10980,10 @@
 14:51:00,harugasumi,ip,43.167.26.140,
 14:51:00,harugasumi,url,https://gqggg.top/jp/,
 14:51:00,harugasumi,url,https://njteger.com/page/ipxcrmamsl,
+15:01:34,threatopsx,domain,mylovemarry.com,
+15:01:34,threatopsx,ip,82.22.23.63,
+15:01:34,threatopsx,url,https://82.22.23.63/login,
+15:01:34,threatopsx,url,https://mylovemarry.com,
 15:02:23,malwarehunterr,domain,axiscom.xyz,
 15:02:23,malwarehunterr,url,http://axiscom.xyz,
 15:07:00,skocherhan,url,http://10.196.252.46.host.secureserver.net/pdf,,https://x.com/skocherhan/status/2085744703325065370
@@ -11078,6 +11088,10 @@
 16:43:00,elasticseclabs,domain,lhr.life,,https://x.com/elasticseclabs/status/2085768843494842403
 16:43:00,elasticseclabs,url,http://api.trycloudflare.com,,https://x.com/elasticseclabs/status/2085768843494842403
 16:43:00,elasticseclabs,url,http://lhr.life,,https://x.com/elasticseclabs/status/2085768843494842403
+16:45:05,thedfirreport,domain,frontend148.blob.core.windows.net,,https://x.com/thedfirreport/status/2087943536066925004
+16:45:05,thedfirreport,domain,rezbackcup.blob.core.windows.net,,https://x.com/thedfirreport/status/2087943536066925004
+16:45:05,thedfirreport,url,http://frontend148.blob.core.windows.net,,https://x.com/thedfirreport/status/2087943536066925004
+16:45:05,thedfirreport,url,http://rezbackcup.blob.core.windows.net,,https://x.com/thedfirreport/status/2087943536066925004
 16:46:55,patialavii,domain,modestycredit.co.ke,
 16:46:55,patialavii,url,https://modestycredit.co.ke/melessa4e45/,
 16:46:55,patialavii,url,https://modestycredit.co.ke/melessa4e45/adobeicon.png,
@@ -11255,6 +11269,8 @@
 18:17:17,malwarehunterr,url,http://testmyopinion.live,
 18:23:01,skocherhan,domain,v43vv2v2vb2.com,
 18:23:01,skocherhan,url,http://v43vv2v2vb2.com,
+18:25:06,coolcarlos17,domain,paraminasconstrucao.com,
+18:25:06,coolcarlos17,url,http://paraminasconstrucao.com,
 18:30:50,500mk500,domain,anilharijan.in,,https://x.com/500mk500/status/2087245370623394006
 18:30:50,500mk500,domain,hazemjday.com,,https://x.com/500mk500/status/2087245370623394006
 18:30:50,500mk500,domain,immilog.com,,https://x.com/500mk500/status/2087245370623394006
