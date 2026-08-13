@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-08-13 01:11 UTC
-# Domains: 15373
+# Updated: 2026-08-13 07:14 UTC
+# Domains: 15407
 
 -084-gls-223-www-9-k-0brasil.net.daraz.com
 -access-logs-1.net.daraz.com
@@ -8754,6 +8754,12 @@
 02:30:08,romonlyht,domain,shkelou.com,
 02:30:08,romonlyht,ip,136.110.111.151,
 02:30:08,romonlyht,url,https://shkelou.com/?label=38d5d963ea7b76e6df243da9ec4a9205,
+02:31:56,sicehice,ip,154.90.70.23,,https://x.com/sicehice/status/2087728833206096345
+02:31:56,sicehice,ip,205.237.105.132,,https://x.com/sicehice/status/2087728833206096345
+02:31:56,sicehice,md5,3151f6a5585d35d1cd40677150d05a67,,https://x.com/sicehice/status/2087728833206096345
+02:31:56,sicehice,url,http://154.90.70.23/x86,,https://x.com/sicehice/status/2087728833206096345
+02:33:08,masaomi346,domain,q3zf8wkrqla0l2szuq.live,
+02:33:08,masaomi346,url,https://q3zf8wkrqla0l2szuq.live,
 02:44:03,romonlyht,ip,104.46.218.42,
 02:44:03,romonlyht,ip,43.163.207.119,
 02:44:03,romonlyht,url,https://shgesheng.com/page/ukhdhtkitf,
@@ -10005,6 +10011,8 @@
 039y4012f1.shop
 03:01:00,masaomi346,domain,sffosjcux.top,
 03:01:00,masaomi346,url,https://sffosjcux.top/jp,
+03:15:41,masaomi346,domain,trekmesh15.com,
+03:15:41,masaomi346,url,http://trekmesh15.com,
 03:31:42,romonlyht,domain,testificaria.us,
 03:31:42,romonlyht,ip,107.172.3.122,
 03:31:42,romonlyht,ip,66.85.46.240,
@@ -10438,6 +10446,8 @@
 05:22:43,patialavii,domain,sunniacademy.org,
 05:22:43,patialavii,url,https://sunniacademy.org/docsign/page.html,
 05:22:43,patialavii,url,https://sunniacademy.org/docsign/screenconnect.clientsetup.msi,
+05:23:23,etugenio,ip,192.3.1.116,,https://x.com/etugenio/status/2087771977775767769
+05:23:23,etugenio,url,http://192.3.1.116,,https://x.com/etugenio/status/2087771977775767769
 05:25:02,bomccss,sha256,6469edd613ceb62dd8e14a75628a6b75fa443ef4311da2b45e805bc7d18afe25,,https://x.com/bomccss/status/2086685233056043119
 05:25:03,bomccss,ip,192.252.180.45,,https://x.com/bomccss/status/2086685235241259225
 05:25:03,bomccss,ip,64.81.30.192,,https://x.com/bomccss/status/2086685235241259225
@@ -10445,6 +10455,9 @@
 05:25:03,bomccss,url,http://64.81.30.192:6666,,https://x.com/bomccss/status/2086685235241259225
 05:56:11,masaomi346,domain,gpppw.top,
 05:56:11,masaomi346,url,https://gpppw.top/jp/,
+05:56:41,fact_finder03,ip,167.99.146.109,
+06:00:06,patialavii,url,http://maguire.top:8041,
+06:00:06,patialavii,url,https://us05webzoom.help/zoom.exe,
 06:00:16,thantzin_ron,domain,adobedoc-cloud.top,,https://x.com/thantzin_ron/status/2086331710317502914
 06:00:16,thantzin_ron,domain,dash-coon.top,,https://x.com/thantzin_ron/status/2086331710317502914
 06:00:16,thantzin_ron,domain,dash-pages.top,,https://x.com/thantzin_ron/status/2086331710317502914
@@ -10461,10 +10474,29 @@
 06:00:16,thantzin_ron,url,https://dash-coon.top,,https://x.com/thantzin_ron/status/2086331710317502914
 06:00:16,thantzin_ron,url,https://dash-pages.top,,https://x.com/thantzin_ron/status/2086331710317502914
 06:00:16,thantzin_ron,url,https://pub-ecards.top,,https://x.com/thantzin_ron/status/2086331710317502914
+06:04:28,skocherhan,domain,maguire.top,
+06:04:28,skocherhan,domain,us05webzoom.help,
+06:04:28,skocherhan,url,http://maguire.top:8041
+06:04:28,skocherhan,url,https://us05webzoom.help,
+06:04:28,skocherhan,url,https://us05webzoom.help/zoom.exesha256,
 06:05:08,etugenio,ip,169.58.82.229,
 06:05:08,etugenio,url,http://169.58.82.229,
+06:09:45,jameswt_wt,domain,modulo.xsnixc.sbs,
+06:09:45,jameswt_wt,url,https://modulo.xsnixc.sbs/0001/tmpnmu1efgjgfdfgh4txpjpq==tmpnmu1hwuydhjytjtxpjpq==tmpnm43qezzjfguy64txpjpq==sig=srv_azig_protect/,
+06:09:45,skocherhan,sha256,a2a6eb20e265cf1d858408a8004b75555b9f980a83d8e00c7fb8e14c1176cf84,,https://x.com/skocherhan/status/2087783647076049362
+06:11:08,patialavii,domain,dawosnt.it.com,
+06:11:08,patialavii,domain,pub-5590b15da27f4f219811312b19a8df05.r2.dev,
+06:11:08,patialavii,domain,us09webzoominterview.com,
+06:11:08,patialavii,ip,107.173.177.166,
+06:11:08,patialavii,url,http://107.173.177.166,
+06:11:08,patialavii,url,http://dawosnt.it.com:8041,
+06:11:08,patialavii,url,https://pub-5590b15da27f4f219811312b19a8df05.r2.dev/screenconnect.clientsetup.msi,
+06:11:08,patialavii,url,https://us09webzoominterview.com/adobe/acrobat/windows/,
 06:20:40,masaomi346,domain,sxttkj.com,
 06:20:40,masaomi346,url,https://sxttkj.com/bflmbnfj/,
+06:20:56,patialavii,domain,delorestopliff.com,
+06:20:56,patialavii,url,https://delorestopliff.com/adobesharefile/,
+06:20:56,patialavii,url,https://delorestopliff.com/adobesharefile/download.php,
 06:32:00,jameswt_wt,ip,217.60.195.197,,https://x.com/jameswt_wt/status/2085614979714068925
 06:33:00,ishivtripathi,domain,addssopasskey.com,
 06:33:00,ishivtripathi,domain,createssopasskey.com,
@@ -10512,6 +10544,8 @@
 06:33:00,ishivtripathi,url,http://portalpasskey.com,
 06:33:00,ishivtripathi,url,http://setupsso.com,
 06:33:00,ishivtripathi,url,http://setupssopasskey.com,
+06:34:05,skocherhan,url,https://delorestopliff.com/adobesharefile/download,
+06:34:05,skocherhan,url,https://delorestopliff.com/adobesharefile/download.php
 06:54:18,cyb3rmik3,domain,euro-gr.abrdns.com,
 06:54:18,cyb3rmik3,domain,hotm.io,
 06:54:18,cyb3rmik3,url,https://euro-gr.abrdns.com/eu-gr/gr/,
