@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-08-14 07:10 UTC
-# Domains: 15397
+# Updated: 2026-08-14 12:43 UTC
+# Domains: 15446
 
 -084-gls-223-www-9-k-0brasil.net.daraz.com
 -access-logs-1.net.daraz.com
@@ -10594,6 +10594,9 @@
 06:30:55,skocherhan,url,http://wraplogicllc-65ee4adc428c428d9495994c81713853.s3.us-east-2.amazonaws.com,
 06:34:05,skocherhan,url,https://delorestopliff.com/adobesharefile/download,
 06:34:05,skocherhan,url,https://delorestopliff.com/adobesharefile/download.php
+06:50:02,ap_zenmashi,domain,wqohx4.duckdns.org,,https://x.com/ap_zenmashi/status/2088156175108083874
+06:50:02,ap_zenmashi,ip,182.161.66.14,,https://x.com/ap_zenmashi/status/2088156175108083874
+06:50:02,ap_zenmashi,url,https://www.wqohx4.duckdns.org,,https://x.com/ap_zenmashi/status/2088156175108083874
 06:54:18,cyb3rmik3,domain,euro-gr.abrdns.com,
 06:54:18,cyb3rmik3,domain,hotm.io,
 06:54:18,cyb3rmik3,url,https://euro-gr.abrdns.com/eu-gr/gr/,
@@ -10603,6 +10606,8 @@
 07:00:39,phishunt_io,domain,www-itausegurancas.rf.gd,
 07:00:39,phishunt_io,ip,185.27.134.94,
 07:00:39,phishunt_io,url,http://www-itausegurancas.rf.gd/?i=1,
+07:00:40,phishunt_io,domain,santander.pt-atendimento.com,
+07:00:40,phishunt_io,url,http://santander.pt-atendimento.com/seguranca.php,
 07:00:44,phishunt_io,domain,facebook.affixlink.app,
 07:00:44,phishunt_io,ip,209.159.155.2,
 07:00:44,phishunt_io,url,http://facebook.affixlink.app,
@@ -10616,11 +10621,19 @@
 07:04:00,uk_daniel_card,ip,7.2.3.2,,https://x.com/uk_daniel_card/status/2085985401441825052
 07:04:00,uk_daniel_card,ip,8.0.5.1,,https://x.com/uk_daniel_card/status/2085985401441825052
 07:04:00,uk_daniel_card,ip,8.1.3.1,,https://x.com/uk_daniel_card/status/2085985401441825052
+07:07:35,skocherhan,domain,apcv207.club,,https://x.com/skocherhan/status/2088160592087408660
+07:07:35,skocherhan,url,http://apcv207.club,,https://x.com/skocherhan/status/2088160592087408660
 07:11:44,skocherhan,ip,166.88.134.62,,https://x.com/skocherhan/status/2087799248439902618
 07:11:44,skocherhan,sha256,9fbb31129c04e8eb1a50519fc864c74d1b20d57c07d4099348f8fbc9a1a1eae6,,https://x.com/skocherhan/status/2087799248439902618
 07:11:44,skocherhan,sha256,b61b4cd5cd1d0cf3caf374e86b3db50a99fa7369a136854620ba372fb77baa43,,https://x.com/skocherhan/status/2087799248439902618
 07:12:03,nextronresearch,url,http://github.com/cielo-b/gin-commerce,,https://x.com/nextronresearch/status/2087799326852419992
 07:12:03,nextronresearch,url,http://github.com/maa-web/gosungrow,,https://x.com/nextronresearch/status/2087799326852419992
+07:12:52,t43cr0wl3r,domain,api.joefilters.com,,https://x.com/t43cr0wl3r/status/2088034207478022475
+07:12:52,t43cr0wl3r,domain,joefilters.com,,https://x.com/t43cr0wl3r/status/2088034207478022475
+07:12:52,t43cr0wl3r,ip,91.215.85.103,,https://x.com/t43cr0wl3r/status/2088034207478022475
+07:12:52,t43cr0wl3r,url,http://91.215.85.103,,https://x.com/t43cr0wl3r/status/2088034207478022475
+07:12:52,t43cr0wl3r,url,http://api.joefilters.com,,https://x.com/t43cr0wl3r/status/2088034207478022475
+07:12:52,t43cr0wl3r,url,http://joefilters.com,,https://x.com/t43cr0wl3r/status/2088034207478022475
 07:17:38,metemcyber,domain,gtttx.top,
 07:17:38,metemcyber,ip,43.155.174.59,
 07:17:38,metemcyber,url,http://43.155.174.59,
@@ -10657,6 +10670,8 @@
 07:23:43,etugenio,url,http://ch799.com,
 07:23:43,etugenio,url,http://six6sixes.com,
 07:23:43,etugenio,url,http://www.bet365ee.cc,
+07:24:35,masaomi346,domain,joannsalestore.com,
+07:24:35,masaomi346,url,https://joannsalestore.com/login,
 07:25:05,nextronresearch,ip,78.154.103.38,,https://x.com/nextronresearch/status/2087077832228766028
 07:25:05,nextronresearch,sha256,b6c5b7cf9255e4198816907079eecf072b8010676cfb3d8559aaa83626e72ed1,,https://x.com/nextronresearch/status/2087077832228766028
 07:25:05,nextronresearch,url,http://78.154.103.38:14556/config.json,,https://x.com/nextronresearch/status/2087077832228766028
@@ -10667,12 +10682,15 @@
 07:38:17,solostalking,ip,64.89.160.97,,https://x.com/solostalking/status/2086356374930468925
 07:51:03,tdatwja,domain,rkm-20260810-1514.zip,,https://x.com/tdatwja/status/2086721977000304872
 07:51:03,tdatwja,url,http://rkm-20260810-1514.zip,,https://x.com/tdatwja/status/2086721977000304872
+07:59:12,fact_finder03,ip,117.204.121.26,
 08:20:00,masaomi346,domain,docomo-my.com,
 08:20:00,masaomi346,url,https://www.docomo-my.com,
+08:20:35,fact_finder03,ip,45.61.163.8,
 08:21:07,ishivtripathi,domain,futupath.cyou,
 08:21:07,ishivtripathi,domain,smarture.cyou,
 08:21:07,ishivtripathi,url,http://futupath.cyou,
 08:21:07,ishivtripathi,url,http://smarture.cyou,
+08:30:00,fact_finder03,ip,194.76.172.67,
 08:38:51,nextronresearch,domain,carlminiclub.com,,https://x.com/nextronresearch/status/2070473326372291037
 08:38:51,nextronresearch,domain,ultraflavors.com,,https://x.com/nextronresearch/status/2070473326372291037
 08:38:51,nextronresearch,sha256,04688dc699b886a661c98e78922c6e2e637ccfaf7ded10a4b244464930f74ed8,,https://x.com/nextronresearch/status/2070473326372291037
@@ -10699,6 +10717,8 @@
 08:51:00,malwarehunterr,url,http://89.125.255.236,
 08:51:00,malwarehunterr,url,http://drvupdates.com/meetsdrv.zip,
 08:51:45,now_on_vt,sha256,2d7351aa765bb2feed9536cc392b2013361c193e99841c5b56591d988bd4b582,,https://x.com/now_on_vt/status/2086374865704018116
+08:57:10,thantzin_ron,domain,flisesharedocswalks.pages.dev,
+08:57:10,thantzin_ron,url,http://flisesharedocswalks.pages.dev,
 08:58:56,g60930953,domain,updatesourcetool.online,
 08:58:56,g60930953,url,http://updatesourcetool.online:8443,
 08:59:55,bushidotoken,ip,62.164.130.5,,https://x.com/bushidotoken/status/2087464085185003869
@@ -10706,7 +10726,9 @@
 08:59:55,bushidotoken,url,http://62.164.130.5,,https://x.com/bushidotoken/status/2087464085185003869
 08:59:55,bushidotoken,url,http://77.237.240.107,,https://x.com/bushidotoken/status/2087464085185003869
 09:04:00,fact_finder03,ip,101.32.245.119,
+09:05:00,fact_finder03,ip,104.248.53.19,
 09:07:00,fact_finder03,ip,178.83.26.16,
+09:14:39,skocherhan,md5,2415c2e603d6b2941942824eae665f3d,,https://x.com/skocherhan/status/2088192567045132336
 09:14:45,nextronresearch,sha256,0a0e7b54890b822bd3910220b20f1a52b09e24603b8fcfd4ea551b964d6033b9,,https://x.com/nextronresearch/status/2087830204920090939
 09:14:45,nextronresearch,sha256,4379a9572d31ea98e5cb1d55f052ab150508a85dd02a004a3570f2fca8f51609,,https://x.com/nextronresearch/status/2087830204920090939
 09:14:45,nextronresearch,sha256,5e08012967a184f456400168c3382a8b6ab3efdf21c520667c3cf9c5d57b01f2,,https://x.com/nextronresearch/status/2087830204920090939
@@ -10723,6 +10745,10 @@
 09:50:02,ap_zenmashi,url,https://fw61i40ks.duckdns.org,,https://x.com/ap_zenmashi/status/2087839085306278232
 09:52:47,dkavalanche,domain,coreoss.wpenginepowered.com,
 09:52:47,dkavalanche,url,https://coreoss.wpenginepowered.com/coreo/c/c1/c1.html,
+09:53:27,suyog41,domain,401trading.com,
+09:53:27,suyog41,domain,fencecompanycharleston.com,
+09:53:27,suyog41,url,http://401trading.com,
+09:53:27,suyog41,url,http://fencecompanycharleston.com,
 10:05:20,kaganisildak,sha256,780aa5989aeb9970f7f578b8edefa0d9bd04ecbfc939d5c3d5bf5486b54dd56c,,https://x.com/kaganisildak/status/2087842933810618858
 10:13:38,blackorbird,domain,built.3jkg8d.com,,https://x.com/blackorbird/status/2087845022502952983
 10:13:38,blackorbird,url,http://built.3jkg8d.com,,https://x.com/blackorbird/status/2087845022502952983
@@ -10734,6 +10760,11 @@
 10:26:00,skocherhan,url,http://premiumwebserver.shop,
 10:34:00,skocherhan,domain,prolegiot.pro,,https://x.com/skocherhan/status/2086038365908980066
 10:34:00,skocherhan,url,http://prolegiot.pro,,https://x.com/skocherhan/status/2086038365908980066
+10:38:29,patialavii,domain,jojolandings.com,
+10:38:29,patialavii,domain,mychap.co.uk,
+10:38:29,patialavii,url,http://mychap.co.uk:8041,
+10:38:29,patialavii,url,https://jojolandings.com,
+10:38:29,patialavii,url,https://jojolandings.com/document/secure_document_file.zip,
 10:52:22,ishivtripathi,ip,84.54.51.37,,https://x.com/ishivtripathi/status/2086767606418243717
 10:52:22,ishivtripathi,sha256,2d7351aa765bb2feed9536cc392b2013361c193e99841c5b56591d988bd4b582,,https://x.com/ishivtripathi/status/2086767606418243717
 10:52:22,ishivtripathi,url,http://84.54.51.37,,https://x.com/ishivtripathi/status/2086767606418243717
@@ -10741,6 +10772,16 @@
 10:56:20,urlyzeio,url,https://vimcolors.com,
 11:03:10,skocherhan,domain,sam.datupdatesourcetool.online,
 11:03:10,skocherhan,url,http://sam.datupdatesourcetool.online:8443,
+11:03:39,patialavii,domain,gudwa.com,
+11:03:39,patialavii,domain,justoneandonly.top,
+11:03:39,patialavii,url,http://justoneandonly.top:8041,
+11:03:39,patialavii,url,https://gudwa.com/docusign/,
+11:03:39,patialavii,url,https://justoneandonly.top/bin/screenconnect.clientsetup.msi,
+11:20:23,patialavii,domain,robert-schreoder.de,
+11:20:23,patialavii,domain,us06web.zoom.frash.org,
+11:20:23,patialavii,url,http://robert-schreoder.de:8041,
+11:20:23,patialavii,url,https://robert-schreoder.de/bin/screenconnect.clientsetup.msi,
+11:20:23,patialavii,url,https://us06web.zoom.frash.org,
 11:23:53,fact_finder03,ip,155.94.163.239,
 11:26:19,patialavii,domain,equipodecervezaelmoe.screenconnect.com,
 11:26:19,patialavii,domain,inlogsysmx.com.mx,
@@ -10756,6 +10797,11 @@
 11:54:45,blinkzsec,ip,176.65.139.211,,https://x.com/blinkzsec/status/2087145693991354787
 11:54:45,blinkzsec,ip,176.65.139.237,,https://x.com/blinkzsec/status/2087145693991354787
 11:54:45,blinkzsec,ip,176.65.139.238,,https://x.com/blinkzsec/status/2087145693991354787
+11:55:14,jameswt_wt,domain,8.190.205.92.host.secureserver.net,
+11:55:14,jameswt_wt,domain,viewer-pdf-safe.lat,
+11:55:14,jameswt_wt,ip,8.190.205.92,
+11:55:14,jameswt_wt,url,https://8.190.205.92.host.secureserver.net,
+11:55:14,jameswt_wt,url,https://viewer-pdf-safe.lat,
 11:57:00,abuse_ch,ip,155.2.192.235,,https://x.com/abuse_ch/status/2086059184991113496
 11:57:00,abuse_ch,ip,155.2.192.94,,https://x.com/abuse_ch/status/2086059184991113496
 11:57:00,abuse_ch,ip,185.174.101.132,,https://x.com/abuse_ch/status/2086059184991113496
@@ -10771,8 +10817,10 @@
 12:00:12,ishivtripathi,url,https://studiotikva.com,
 12:00:43,phishunt_io,url,http://office365updater.com,
 12:00:55,phishunt_io,domain,allegrolokalnie.283101.pl,
+12:00:55,phishunt_io,domain,netflixcasinocanada.com,
 12:00:55,phishunt_io,ip,102.220.160.128,
 12:00:55,phishunt_io,url,http://allegrolokalnie.283101.pl/guard.js?v=1786440650870,
+12:00:55,phishunt_io,url,http://netflixcasinocanada.com,
 12:01:38,opcodeintel,domain,ptnrmat.xyz,
 12:01:38,opcodeintel,url,https://ptnrmat.xyz/police/mydata.php,
 12:04:00,jameswt_wt,domain,applanding.getpixeltap.com,
@@ -13657,6 +13705,7 @@ infosum.net
 ingest.cuebiq.com
 ingest.de.sentry.io
 ingest.eu0.signalfx.com
+ingest.in.signoz.cloud
 ingest.lightstep.com
 ingest.sentry.io
 ingest.us.sentry.io
