@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-08-15 06:21 UTC
-# Domains: 15609
+# Updated: 2026-08-15 12:19 UTC
+# Domains: 15617
 
 -084-gls-223-www-9-k-0brasil.net.daraz.com
 -access-logs-1.net.daraz.com
@@ -10619,6 +10619,8 @@
 07:00:39,phishunt_io,url,http://www-itausegurancas.rf.gd/?i=1,
 07:00:40,phishunt_io,domain,santander.pt-atendimento.com,
 07:00:40,phishunt_io,url,http://santander.pt-atendimento.com/seguranca.php,
+07:00:41,phishunt_io,domain,docusignsetup.icu,
+07:00:41,phishunt_io,url,http://docusignsetup.icu,
 07:00:44,phishunt_io,domain,facebook.affixlink.app,
 07:00:44,phishunt_io,ip,209.159.155.2,
 07:00:44,phishunt_io,url,http://facebook.affixlink.app,
@@ -10645,6 +10647,8 @@
 07:17:38,metemcyber,ip,43.155.174.59,
 07:17:38,metemcyber,url,http://43.155.174.59,
 07:17:38,metemcyber,url,https://gtttx.top/jp,
+07:18:30,masaomi346,domain,aspen-92.com,
+07:18:30,masaomi346,url,http://aspen-92.com,
 07:19:17,skocherhan,domain,afc_security_report_2026.pdf.lnkxyzblue.dpdns.org,
 07:23:43,etugenio,domain,11888bet.com,
 07:23:43,etugenio,domain,365baji.com,
@@ -10683,6 +10687,8 @@
 07:25:05,nextronresearch,sha256,b6c5b7cf9255e4198816907079eecf072b8010676cfb3d8559aaa83626e72ed1,,https://x.com/nextronresearch/status/2087077832228766028
 07:25:05,nextronresearch,url,http://78.154.103.38:14556/config.json,,https://x.com/nextronresearch/status/2087077832228766028
 07:25:05,nextronresearch,url,https://github.com/nsaciagov/g/raw/refs/heads/main/svchost.exe,,https://x.com/nextronresearch/status/2087077832228766028
+07:29:06,masaomi346,domain,aspencore18.com,
+07:29:06,masaomi346,url,http://aspencore18.com,
 07:36:04,etugenio,ip,47.109.196.181,
 07:36:04,etugenio,url,http://47.109.196.181,
 07:38:17,solostalking,ip,2.26.227.212,,https://x.com/solostalking/status/2086356374930468925
@@ -10798,6 +10804,8 @@
 12:00:12,ishivtripathi,ip,1.0.0.4,
 12:00:12,ishivtripathi,url,https://api.studiotikva.com/api/v1/update/check,
 12:00:12,ishivtripathi,url,https://studiotikva.com,
+12:00:35,phishunt_io,domain,allegrolokalnie.oferta-247157.cfd,
+12:00:35,phishunt_io,url,http://allegrolokalnie.oferta-247157.cfd/oferta/sprzedam-ponton-kolibri-330/22506,
 12:00:43,phishunt_io,url,http://office365updater.com,
 12:00:55,phishunt_io,domain,allegrolokalnie.283101.pl,
 12:00:55,phishunt_io,domain,netflixcasinocanada.com,
