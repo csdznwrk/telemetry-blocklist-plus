@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-08-16 00:44 UTC
-# Domains: 15059
+# Updated: 2026-08-16 06:24 UTC
+# Domains: 15063
 
 -084-gls-223-www-9-k-0brasil.net.daraz.com
 -access-logs-1.net.daraz.com
@@ -7444,6 +7444,8 @@
 019gvfn88n0.top
 019www11w.top
 019www22w.top
+01:04:58,masaomi346,domain,hndjsy.com,
+01:04:58,masaomi346,url,https://hndjsy.com/lyfkfsvy/,
 01:29:56,sicehice,ip,31.77.227.121,,https://x.com/sicehice/status/2087350841061548280
 01:29:56,sicehice,ip,94.154.43.104,,https://x.com/sicehice/status/2087350841061548280
 01:29:56,sicehice,md5,321882db218ae2743642f8b663101adb,,https://x.com/sicehice/status/2087350841061548280
@@ -8747,6 +8749,8 @@
 02:08:15,skocherhan,url,http://zqgsjt.com,
 02:08:15,skocherhan,url,http://zywjwy.com,
 02:08:15,skocherhan,url,http://zzdyhq.com,
+02:10:04,scanmalware,domain,test1.sougoucloud.workers.dev,
+02:10:04,scanmalware,url,http://test1.sougoucloud.workers.dev,
 02:17:55,romonlyht,domain,ana-co.cafelevain.com,
 02:17:55,romonlyht,ip,20.189.203.157,
 02:17:55,romonlyht,ip,43.165.186.218,
