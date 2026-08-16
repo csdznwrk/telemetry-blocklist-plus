@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-08-16 12:20 UTC
-# Domains: 15075
+# Updated: 2026-08-16 18:15 UTC
+# Domains: 15100
 
 -084-gls-223-www-9-k-0brasil.net.daraz.com
 -access-logs-1.net.daraz.com
@@ -10835,6 +10835,8 @@
 12:40:20,skocherhan,url,http://app.action1.com,
 12:42:40,scanmalware,domain,dfculxgdkcbuz.03-120-55-020.plesk.page,
 12:42:40,scanmalware,url,http://dfculxgdkcbuz.03-120-55-020.plesk.page,
+12:43:32,masaomi346,domain,chisel-84.com,
+12:43:32,masaomi346,url,http://chisel-84.com,
 12:48:25,metemcyber,domain,rnwm.fuofxwh.cn,
 12:48:25,metemcyber,ip,43.165.128.22,
 12:48:25,metemcyber,url,http://43.165.128.22,
@@ -10900,6 +10902,8 @@
 13:16:16,opcodeintel,ip,65.20.106.101,
 13:17:57,harugasumi,domain,relaxationheav.com,
 13:17:57,harugasumi,url,https://relaxationheav.com/fuyxfv/,
+13:18:32,fact_finder03,ip,104.252.53.151,
+13:18:32,fact_finder03,ip,163.245.218.50,
 13:19:47,byrne_emmy12099,ip,194.26.192.66,
 13:19:47,byrne_emmy12099,url,http://194.26.192.66:8080,
 13:23:24,skocherhan,domain,relay.intexxxxmanifold.com,
@@ -11392,6 +11396,8 @@
 16:26:14,malwarehunterr,url,http://rdnjfgli.r.ap-northeast-1.awstrack.me,
 16:26:14,malwarehunterr,url,http://spy.mwork801.com,
 16:26:14,malwarehunterr,url,http://spy.mwork801.com/gmail/js/start.js,
+16:30:36,blackorbird,domain,plugandpwn.com,,https://x.com/blackorbird/status/2089027052733424051
+16:30:36,blackorbird,url,http://plugandpwn.com,,https://x.com/blackorbird/status/2089027052733424051
 16:33:17,skocherhan,md5,b548cd27d7cc4d966305c2fc5c0ee5e1,,https://x.com/skocherhan/status/2087215790772633855
 16:36:18,patialavii,domain,us02webzoomus.com,
 16:36:18,patialavii,url,https://us02webzoomus.com/images/zoominstaller.msi,
@@ -11418,12 +11424,15 @@
 16:50:48,skocherhan,url,http://207.174.0.143:8080,
 16:52:47,skocherhan,domain,infrastructure.delivery,
 16:52:47,skocherhan,url,http://infrastructure.delivery/tracking:sendgrid.netrdnjfgli.r.ap-northeast-1.awstrack.meiocs:gm2.drr.accoderkubes.com/workspace/googlev.htmlspy.mwork801.comspy.mwork801.com/gmail/js/start.jsthe,
+16:55:20,skocherhan,md5,917f6cd606d6cdc33de8318a77d5a0f9,,https://x.com/skocherhan/status/2089033277919125825
 16:59:04,devttys0,md5,91a9a3af2218f4ea60ac37d5835eb318,,https://x.com/devttys0/status/2087222276303294778
 17:00:39,phishunt_io,domain,get-trust-wallet-card-now.info,
 17:00:39,phishunt_io,ip,5.252.154.99,
 17:00:39,phishunt_io,url,http://get-trust-wallet-card-now.info,
 17:00:44,phishunt_io,domain,begin-new-trezrio-strt.typedream.app,
+17:00:44,phishunt_io,domain,docs-ledger-live-feq.typedream.app,
 17:00:44,phishunt_io,url,http://begin-new-trezrio-strt.typedream.app,
+17:00:44,phishunt_io,url,http://docs-ledger-live-feq.typedream.app,
 17:01:00,skocherhan,url,https://modestycredit.co.ke/melessa4e45/adobeicon.pngsha256,
 17:01:00,skocherhan,url,https://modestycredit.co.ke/melessa4e45/download,
 17:01:20,phishunt_io,domain,allegrolokalnie.pl-876571988647613.lol,
@@ -11442,6 +11451,7 @@
 17:16:41,etugenio,url,http://151.242.30.142,,https://x.com/etugenio/status/2087589097967665335
 17:16:41,etugenio,url,http://zpriv.cc,,https://x.com/etugenio/status/2087589097967665335
 17:17:49,skocherhan,md5,89265d78ccb0349f8b9dc0e0d5793914,,https://x.com/skocherhan/status/2088676550057005391
+17:18:08,fact_finder03,ip,193.221.201.195,
 17:24:31,patialavii,domain,mnhs-org-vyvb-2.w-l5w55m.workers.dev,
 17:24:31,patialavii,domain,mnhsorg.s3.us-east-2.amazonaws.com,
 17:24:31,patialavii,url,https://mnhs-org-vyvb-2.w-l5w55m.workers.dev,
@@ -11449,9 +11459,16 @@
 17:25:25,500mk500,domain,zoom-connect-invite.us,,https://x.com/500mk500/status/2087228907632181642
 17:25:25,500mk500,url,http://zoom-connect-invite.us,,https://x.com/500mk500/status/2087228907632181642
 17:26:34,skocherhan,url,https://us02webzoomus.com/images/zoominstaller.msisha256,
+17:30:15,fact_finder03,ip,108.165.179.230,
 17:30:53,skocherhan,domain,next.managedsrv.st,,https://x.com/skocherhan/status/2087592674505207921
 17:30:53,skocherhan,url,http://next.managedsrv.st,,https://x.com/skocherhan/status/2087592674505207921
+17:31:28,skocherhan,md5,259f0e418a57dd56f93d10fe29142d3a,,https://x.com/skocherhan/status/2089042372935979423
+17:31:28,skocherhan,md5,8e1389360f391447405f779dfd4f4d18,,https://x.com/skocherhan/status/2089042372935979423
 17:32:00,fact_finder03,ip,185.199.199.136,
+17:36:48,tkemmerling,domain,hriver.net,
+17:36:48,tkemmerling,domain,styleompl.com,
+17:36:48,tkemmerling,url,http://hriver.net,
+17:36:48,tkemmerling,url,http://styleompl.com,
 17:38:03,skocherhan,domain,aaaxxx6.hopto.org,,https://x.com/skocherhan/status/2087232090513272961
 17:38:03,skocherhan,domain,aaaxxx60.freeddns.org,,https://x.com/skocherhan/status/2087232090513272961
 17:38:03,skocherhan,domain,dograsamaj.com,,https://x.com/skocherhan/status/2087232090513272961
@@ -11505,11 +11522,19 @@
 17:44:55,skocherhan,url,http://rajkumarred.ddnsgeek.com,,https://x.com/skocherhan/status/2087233816595165496
 17:44:55,skocherhan,url,http://rajkumarred.duckdns.org,,https://x.com/skocherhan/status/2087233816595165496
 17:44:55,skocherhan,url,http://wilsonkumar.duckdns.org,,https://x.com/skocherhan/status/2087233816595165496
+17:47:26,tkemmerling,domain,rfastorm.co.uk,
+17:47:26,tkemmerling,domain,yjeexpress.com,
+17:47:26,tkemmerling,url,http://rfastorm.co.uk,
+17:47:26,tkemmerling,url,http://yjeexpress.com,
 17:47:54,skocherhan,domain,svft.in,
 17:47:54,skocherhan,url,http://svft.in,
 17:53:18,fact_finder03,ip,202.95.22.205,,https://x.com/fact_finder03/status/2087598313378119925
 17:53:18,fact_finder03,ip,62.182.80.48,,https://x.com/fact_finder03/status/2087598313378119925
 17:53:18,fact_finder03,ip,91.218.49.46,,https://x.com/fact_finder03/status/2087598313378119925
+17:55:00,tkemmerling,domain,axpclear.com,
+17:55:00,tkemmerling,domain,morleyknowledge.org,
+17:55:00,tkemmerling,url,http://axpclear.com,
+17:55:00,tkemmerling,url,http://morleyknowledge.org,
 17:56:00,fact_finder03,ip,67.225.128.57,
 17:56:00,fact_finder03,ip,67.225.130.19,
 17:56:00,fact_finder03,ip,67.225.132.79,
