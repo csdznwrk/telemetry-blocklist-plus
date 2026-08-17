@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-08-17 00:43 UTC
-# Domains: 14635
+# Updated: 2026-08-17 06:35 UTC
+# Domains: 14656
 
 -084-gls-223-www-9-k-0brasil.net.daraz.com
 -access-logs-1.net.daraz.com
@@ -3051,6 +3051,9 @@
 00:13:07,masaomi346,url,https://w50kzn94.xyz,
 00:17:50,masaomi346,domain,tesel.agcuu.com,
 00:17:50,masaomi346,url,https://tesel.agcuu.com,
+00:20:03,ap_zenmashi,domain,ysk3kmrun.duckdns.org,,https://x.com/ap_zenmashi/status/2089145193761267869
+00:20:03,ap_zenmashi,ip,182.161.66.14,,https://x.com/ap_zenmashi/status/2089145193761267869
+00:20:03,ap_zenmashi,url,https://ysk3kmrun.duckdns.org,,https://x.com/ap_zenmashi/status/2089145193761267869
 00a17677c75ed52b.com
 00a1dcf072cd.top
 00a230f259d601ee.com
@@ -7436,6 +7439,7 @@
 019www22w.top
 01:04:58,masaomi346,domain,hndjsy.com,
 01:04:58,masaomi346,url,https://hndjsy.com/lyfkfsvy/,
+01:29:16,coolcarlos17,domain,pabloclock.com,
 01:29:56,sicehice,ip,31.77.227.121,,https://x.com/sicehice/status/2087350841061548280
 01:29:56,sicehice,ip,94.154.43.104,,https://x.com/sicehice/status/2087350841061548280
 01:29:56,sicehice,md5,321882db218ae2743642f8b663101adb,,https://x.com/sicehice/status/2087350841061548280
@@ -8406,16 +8410,31 @@
 02:05:07,patialavii,domain,grchristian.screenconnect.com,
 02:05:07,patialavii,url,https://doc.iseopolo.buzz/?p=6yl7e0ohze,
 02:05:07,patialavii,url,https://grchristian.screenconnect.com/bin/screenconnect.clientsetup.exe,
+02:08:56,romonlyht,domain,keczad.ynfgc.com,
+02:08:56,romonlyht,ip,175.135.248.24,
+02:08:56,romonlyht,url,https://highdpi-ads.com/uid_gm05yf7u/ss307?ticket=eq5ivbuf,
+02:08:56,romonlyht,url,https://keczad.ynfgc.com,
 02:10:04,scanmalware,domain,test1.sougoucloud.workers.dev,
 02:10:04,scanmalware,url,http://test1.sougoucloud.workers.dev,
+02:10:34,romonlyht,domain,highdpi-ads.com,
+02:10:34,romonlyht,ip,20.212.18.225,
+02:10:34,romonlyht,url,https://highdpi-ads.com/uid_jsmncaeo/dqsbv?ticket=6uevxvm6,
 02:31:56,sicehice,ip,154.90.70.23,,https://x.com/sicehice/status/2087728833206096345
 02:31:56,sicehice,ip,205.237.105.132,,https://x.com/sicehice/status/2087728833206096345
 02:31:56,sicehice,md5,3151f6a5585d35d1cd40677150d05a67,,https://x.com/sicehice/status/2087728833206096345
 02:31:56,sicehice,url,http://154.90.70.23/x86,,https://x.com/sicehice/status/2087728833206096345
+02:32:33,romonlyht,domain,privacy.choquettes.shop,
+02:32:33,romonlyht,ip,185.145.13.53,
+02:32:33,romonlyht,url,https://privacy.choquettes.shop/comunica_zioni21,
+02:32:33,romonlyht,url,https://tr.ee/xh77da,
 02:33:08,masaomi346,domain,q3zf8wkrqla0l2szuq.live,
 02:33:08,masaomi346,url,https://q3zf8wkrqla0l2szuq.live,
 02:33:37,scanmalware,domain,lighthearted-zabaione-c450ce.netlify.app,
 02:33:37,scanmalware,url,http://lighthearted-zabaione-c450ce.netlify.app,
+02:40:52,romonlyht,domain,halsocrest.shop,
+02:40:52,romonlyht,ip,134.122.194.173,
+02:40:52,romonlyht,ip,40.115.158.237,
+02:40:52,romonlyht,url,https://www.halsocrest.shop/domesticescv/shoufu/standardsets/reevglularcidio=pr1002,
 02a169af111011.beer
 02a1a1ec23b8564d37d2f451f1db9dad.info
 02a2e259fd91062a.com
@@ -10063,6 +10082,8 @@
 04:29:46,tdatwja,md5,1298c79f6811283a16ec76a072755e5d,,https://x.com/tdatwja/status/2088120876369866774
 04:29:46,tdatwja,sha256,dfc8e7b7e48faab9a410111ea31001c729ab9b1c83525499f028b5344869be9e,,https://x.com/tdatwja/status/2088120876369866774
 04:29:46,tdatwja,url,http://mail.elpasohonroso.com,,https://x.com/tdatwja/status/2088120876369866774
+04:35:20,masaomi346,domain,fmpqwyp.cn,
+04:35:20,masaomi346,url,https://www.fmpqwyp.cn/login,
 04:54:40,patialavii,domain,office365updater.com,
 04:54:40,patialavii,url,https://office365updater.com,
 05:02:30,patialavii,domain,qwayinternational.in,
