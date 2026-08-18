@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-08-18 12:26 UTC
-# Domains: 14897
+# Updated: 2026-08-18 18:24 UTC
+# Domains: 14937
 
 -084-gls-223-www-9-k-0brasil.net.daraz.com
 -access-logs-1.net.daraz.com
@@ -10443,6 +10443,8 @@
 12:01:10,phishunt_io,domain,faceb00k-br.blogspot.com,
 12:01:10,phishunt_io,ip,192.178.183.132,
 12:01:10,phishunt_io,url,http://faceb00k-br.blogspot.com,
+12:01:18,phishunt_io,domain,allegrolokalnie.lokalna-ofeta2435245.shop,
+12:01:18,phishunt_io,url,http://allegrolokalnie.lokalna-ofeta2435245.shop/oferta/jacuzzi-ogrodowe-6-osobowe-z-podswietlenirm-led/712187165?fbclid=iwy2xj,
 12:01:38,opcodeintel,domain,ptnrmat.xyz,
 12:01:38,opcodeintel,url,https://ptnrmat.xyz/police/mydata.php,
 12:04:10,ishivtripathi,sha256,0fb111752cf34a50b16de3ec1fb36c419a621f74e1ed1aee2decca2609dd6ef4,,https://x.com/ishivtripathi/status/2087510452398067809
@@ -10453,6 +10455,10 @@
 12:04:10,ishivtripathi,sha256,829abf3c966a79991d4aac903deeca89b5b0dbcbf06832e8fa82c997b108ff07,,https://x.com/ishivtripathi/status/2087510452398067809
 12:14:14,blinkzsec,sha256,05769b3b49e42c79016ecb36ba9e727dc785c447dd3b1355aedc5d3c339c1a63,,https://x.com/blinkzsec/status/2087512985258410395
 12:32:22,opcodeintel,url,http://github.com/hxd-tool,
+12:36:09,masaomi346,domain,neststudio16.com,
+12:36:09,masaomi346,domain,parentpreneurx.com,
+12:36:09,masaomi346,url,http://neststudio16.com,
+12:36:09,masaomi346,url,https://parentpreneurx.com,
 12:36:51,webamon_search,domain,01490242b.com,,https://x.com/webamon_search/status/2087518677021188301
 12:36:51,webamon_search,domain,016213.cc,,https://x.com/webamon_search/status/2087518677021188301
 12:36:51,webamon_search,domain,2rnkablo.com,,https://x.com/webamon_search/status/2087518677021188301
@@ -10477,6 +10483,19 @@
 12d60.firebaseio.com
 13-5.org
 13-5.ru
+13:00:11,g0njxa,domain,gitgubusercontnet.com,,https://x.com/g0njxa/status/2089698874914947397
+13:00:11,g0njxa,domain,zddfgrw.com,,https://x.com/g0njxa/status/2089698874914947397
+13:00:11,g0njxa,ip,138.226.237.167,,https://x.com/g0njxa/status/2089698874914947397
+13:00:11,g0njxa,sha256,18298f3a16d06ee171f3cc775b1e82c9f746038fa78bcc61793e65d7b113884f,,https://x.com/g0njxa/status/2089698874914947397
+13:00:11,g0njxa,sha256,197c01242d4ab04b7cbba6ccb56955a75c1200359d54f579ce285961194eae26,,https://x.com/g0njxa/status/2089698874914947397
+13:00:11,g0njxa,sha256,4e5e892fc2c8809ccfb756e9eccb2e2ac9a45abac008284d3b5711631099aa4d,,https://x.com/g0njxa/status/2089698874914947397
+13:00:11,g0njxa,sha256,51bc148112dd41973b750315d51fa8365c3d293a32b945a5f927aba9f03b47b6,,https://x.com/g0njxa/status/2089698874914947397
+13:00:11,g0njxa,sha256,57392b3ea1a67c639ceafcd0e817939c52a62f8ae699c9d3ff477368f8a8e934,,https://x.com/g0njxa/status/2089698874914947397
+13:00:11,g0njxa,sha256,c55f189ffceb4ccd14e7bd4cbe74cbe71b8d9eca32ce38916e1f60b5901690e7,,https://x.com/g0njxa/status/2089698874914947397
+13:00:11,g0njxa,url,http://138.226.237.167:21114,,https://x.com/g0njxa/status/2089698874914947397
+13:00:11,g0njxa,url,http://gitgubusercontnet.com,,https://x.com/g0njxa/status/2089698874914947397
+13:00:11,g0njxa,url,http://github.com/goldexe01/hash-exe/releases/tag/v1,,https://x.com/g0njxa/status/2089698874914947397
+13:00:11,g0njxa,url,http://zddfgrw.com,,https://x.com/g0njxa/status/2089698874914947397
 13:02:21,fbgwls245,domain,eclipse4g5kxfwsvpu4qx5sdcnrji6gxl5gt67bucjlgt35g7akvjoid.onion,
 13:02:21,fbgwls245,url,http://eclipse4g5kxfwsvpu4qx5sdcnrji6gxl5gt67bucjlgt35g7akvjoid.onion,
 13:02:53,byrne_emmy12099,ip,217.60.7.218,
@@ -10928,6 +10947,7 @@
 14:28:32,singhsoodeep,url,http://supprot.new-turkey-tr.workers.dev,,https://x.com/singhsoodeep/status/2089358723995107626
 14:28:32,singhsoodeep,url,http://turkey.research-department-tusas.workers.dev,,https://x.com/singhsoodeep/status/2089358723995107626
 14:28:32,singhsoodeep,url,http://vault.zip,,https://x.com/singhsoodeep/status/2089358723995107626
+14:35:06,smica83,sha256,5ab7b4677f8c02d57436dc1710e269c547ae54e8e753c6d5fbdfc07804602b8d,,https://x.com/smica83/status/2035099325290738036
 15:01:34,threatopsx,domain,mylovemarry.com,
 15:01:34,threatopsx,ip,82.22.23.63,
 15:01:34,threatopsx,url,https://82.22.23.63/login,
@@ -10948,6 +10968,11 @@
 15:13:09,teamcymru_s2,ip,109.248.151.11,
 15:13:09,teamcymru_s2,url,http://025sep.duckdns.org,
 15:13:09,teamcymru_s2,url,http://11243debestreeeemcoxxxx.duckdns.org,
+15:33:13,l0psec,domain,nancyclipboard.com,,https://x.com/l0psec/status/2089737386775265740
+15:33:13,l0psec,sha256,c4d8131276e43961e9460e5e6735bc718afd9d9e6eaefeab476cc042c5c38635,,https://x.com/l0psec/status/2089737386775265740
+15:33:13,l0psec,url,http://nancyclipboard.com,,https://x.com/l0psec/status/2089737386775265740
+15:33:15,l0psec,domain,update-gateway.com,,https://x.com/l0psec/status/2089737394786275724
+15:33:15,l0psec,url,http://update-gateway.com/v3,,https://x.com/l0psec/status/2089737394786275724
 15:41:55,kb4threatlabs,domain,captcha-loading.com,
 15:41:55,kb4threatlabs,domain,pub-159b5913fbeb442e86754b3a836356bf.r2.dev,
 15:41:55,kb4threatlabs,domain,pub-9ee8bb8867504e9bb658a187ab29224c.r2.dev,
@@ -10967,9 +10992,12 @@
 16:01:32,skocherhan,domain,sermver.duckdns.org,
 16:01:32,skocherhan,url,http://donta.duckdns.org,
 16:01:32,skocherhan,url,http://sermver.duckdns.org,
+16:02:15,txhaflaire,sha256,27059247ac89ae48c6edab9beae27914982f85048600ddb8e5311202c12f2b1d,,https://x.com/txhaflaire/status/2089744695354101866
 16:07:29,skocherhan,ip,155.212.138.18,
 16:11:43,tkemmerling,domain,kiwimercado.com,
 16:11:43,tkemmerling,url,http://kiwimercado.com,
+16:12:36,scanmalware,domain,sp13ct-zormel-biz-fravvik-lardik.pages.dev,
+16:12:36,scanmalware,url,http://sp13ct-zormel-biz-fravvik-lardik.pages.dev,
 16:12:39,patialavii,domain,zoominviteus2.pages.dev,
 16:12:39,patialavii,url,https://zoominviteus2.pages.dev,
 16:16:38,skocherhan,url,http://abre.ai/rvyd,,https://x.com/skocherhan/status/2089385927114145926
@@ -11210,6 +11238,9 @@
 17:00:56,phishunt_io,url,http://843824910-google.com,
 17:01:20,phishunt_io,domain,allegrolokalnie.pl-876571988647613.lol,
 17:01:20,phishunt_io,url,http://allegrolokalnie.pl-876571988647613.lol,
+17:01:54,phishunt_io,domain,trezo-homenew.zapier.app,
+17:01:54,phishunt_io,ip,64.239.123.129,
+17:01:54,phishunt_io,url,http://trezo-homenew.zapier.app,
 17:02:08,volrant136,domain,ntdc.gov.pk.rnicrosort.org,
 17:02:08,volrant136,domain,pakarmy.insyaallah2k25.workers.dev,
 17:02:08,volrant136,url,http://ntdc.gov.pk.rnicrosort.org,
@@ -11234,9 +11265,16 @@
 17:30:15,fact_finder03,ip,108.165.179.230,
 17:30:53,skocherhan,domain,next.managedsrv.st,,https://x.com/skocherhan/status/2087592674505207921
 17:30:53,skocherhan,url,http://next.managedsrv.st,,https://x.com/skocherhan/status/2087592674505207921
+17:31:05,patialavii,url,http://jokermav.online,
+17:31:05,patialavii,url,https://03webzoominvite.us/images/zoominstaller.msi,
 17:31:28,skocherhan,md5,259f0e418a57dd56f93d10fe29142d3a,,https://x.com/skocherhan/status/2089042372935979423
 17:31:28,skocherhan,md5,8e1389360f391447405f779dfd4f4d18,,https://x.com/skocherhan/status/2089042372935979423
 17:32:00,fact_finder03,ip,185.199.199.136,
+17:33:24,skocherhan,domain,03webzoominvite.us,
+17:33:24,skocherhan,domain,jokermav.online,
+17:33:24,skocherhan,url,http://jokermav.online
+17:33:24,skocherhan,url,https://03webzoominvite.us/images/zoominstaller.msisha256,
+17:33:24,skocherhan,url,https://03webzoominvite.us/invite.php,
 17:36:48,tkemmerling,domain,hriver.net,
 17:36:48,tkemmerling,domain,styleompl.com,
 17:36:48,tkemmerling,url,http://hriver.net,
@@ -11294,6 +11332,8 @@
 17:59:41,skocherhan,url,http://japan-act2.ydns.eu,
 18:00:03,phatomcandle,domain,ntpchecksum.online,
 18:00:03,phatomcandle,url,http://ntpchecksum.online,
+18:00:05,phatomcandle,domain,auth-accounts.dynuddns.com,
+18:00:05,phatomcandle,url,http://www.auth-accounts.dynuddns.com,
 18:00:07,phatomcandle,domain,packetcheck.online,
 18:00:07,phatomcandle,url,http://packetcheck.online,
 18:00:09,phatomcandle,ip,198.23.134.117,
