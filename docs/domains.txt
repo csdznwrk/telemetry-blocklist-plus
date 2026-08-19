@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-08-19 06:28 UTC
-# Domains: 14999
+# Updated: 2026-08-19 12:26 UTC
+# Domains: 15043
 
 -084-gls-223-www-9-k-0brasil.net.daraz.com
 -access-logs-1.net.daraz.com
@@ -10268,6 +10268,8 @@
 06:50:02,ap_zenmashi,domain,wqohx4.duckdns.org,,https://x.com/ap_zenmashi/status/2088156175108083874
 06:50:02,ap_zenmashi,ip,182.161.66.14,,https://x.com/ap_zenmashi/status/2088156175108083874
 06:50:02,ap_zenmashi,url,https://www.wqohx4.duckdns.org,,https://x.com/ap_zenmashi/status/2088156175108083874
+06:53:50,masaomi346,domain,rq9wvjyc912c1ofpm5.live,
+06:53:50,masaomi346,url,https://rq9wvjyc912c1ofpm5.live,
 07:00:00,nextronresearch,ip,103.170.154.120,,https://x.com/nextronresearch/status/2089608233728053706
 07:00:00,nextronresearch,sha256,bf4f0558b49917ba40c694e8c7e837183aa476ed6354cdb07caa8d59aaafdcde,,https://x.com/nextronresearch/status/2089608233728053706
 07:00:00,nextronresearch,sha256,c5482d8ed604923573624e220b591427e46a9391215b438a1425ab14b508810d,,https://x.com/nextronresearch/status/2089608233728053706
@@ -10284,6 +10286,8 @@
 07:00:54,phishunt_io,domain,bradesco.sistema-seguro.co,
 07:00:54,phishunt_io,ip,131.196.197.83,
 07:00:54,phishunt_io,url,http://bradesco.sistema-seguro.co/inicio.php,
+07:01:08,phishunt_io,domain,ledger-live-login-conect-auth.typedream.app,
+07:01:08,phishunt_io,url,http://ledger-live-login-conect-auth.typedream.app,
 07:01:14,phishunt_io,domain,facebookxlogin.blogspot.com,
 07:01:14,phishunt_io,url,http://facebookxlogin.blogspot.com/?m=1,
 07:07:35,skocherhan,domain,apcv207.club,,https://x.com/skocherhan/status/2088160592087408660
@@ -10323,6 +10327,13 @@
 08:24:40,blinkzsec,sha256,719bac8459f8bee69f160d8545663372ed19cc8ae7376b722b0e1ec38c100641,,https://x.com/blinkzsec/status/2088904764864037259
 08:24:40,blinkzsec,sha256,7a9f8afbe39560ea52daada8700749371f189345aa7ec213dbdb537387c01d79,,https://x.com/blinkzsec/status/2088904764864037259
 08:24:40,blinkzsec,sha256,f1ef3f68231edf202df5cfe0936daab505a10ab6ca26cf55655096608390bed3,,https://x.com/blinkzsec/status/2088904764864037259
+08:25:06,tdatwja,domain,hsacnajklnsdcm8u.pages.dev,,https://x.com/tdatwja/status/2089992039144542615
+08:25:06,tdatwja,domain,hxn20160817021han.zip,,https://x.com/tdatwja/status/2089992039144542615
+08:25:06,tdatwja,md5,574a091a2f1cacfd34b18fe0a10df7ff,,https://x.com/tdatwja/status/2089992039144542615
+08:25:06,tdatwja,url,http://hsacnajklnsdcm8u.pages.dev,,https://x.com/tdatwja/status/2089992039144542615
+08:25:06,tdatwja,url,http://hxn20160817021han.zip,,https://x.com/tdatwja/status/2089992039144542615
+08:25:07,tdatwja,domain,rukeyou.com,,https://x.com/tdatwja/status/2089992042139283697
+08:25:07,tdatwja,url,http://rukeyou.com/sys/x2/x2-payload_dfyihao.zip,,https://x.com/tdatwja/status/2089992042139283697
 08:30:00,fact_finder03,ip,194.76.172.67,
 08:38:51,nextronresearch,domain,carlminiclub.com,,https://x.com/nextronresearch/status/2070473326372291037
 08:38:51,nextronresearch,domain,ultraflavors.com,,https://x.com/nextronresearch/status/2070473326372291037
@@ -10338,9 +10349,13 @@
 08:38:51,nextronresearch,sha256,d0ee008d3c480d5f9f75332851ae94373158c13541f3c88be63465b975334e0a,,https://x.com/nextronresearch/status/2070473326372291037
 08:38:51,nextronresearch,url,http://carlminiclub.com,,https://x.com/nextronresearch/status/2070473326372291037
 08:38:51,nextronresearch,url,http://ultraflavors.com,,https://x.com/nextronresearch/status/2070473326372291037
+08:43:18,tdatwja,ip,207.56.119.83,,https://x.com/tdatwja/status/2089996616359174472
+08:43:18,tdatwja,url,http://207.56.119.83:6666,,https://x.com/tdatwja/status/2089996616359174472
 08:57:10,thantzin_ron,domain,flisesharedocswalks.pages.dev,
 08:57:10,thantzin_ron,url,http://flisesharedocswalks.pages.dev,
 09:05:00,fact_finder03,ip,104.248.53.19,
+09:10:54,thantzin_ron,domain,rongassist.xiaofengzi.cc,
+09:10:54,thantzin_ron,url,https://rongassist.xiaofengzi.cc:8443,
 09:14:39,skocherhan,md5,2415c2e603d6b2941942824eae665f3d,,https://x.com/skocherhan/status/2088192567045132336
 09:14:45,nextronresearch,sha256,0a0e7b54890b822bd3910220b20f1a52b09e24603b8fcfd4ea551b964d6033b9,,https://x.com/nextronresearch/status/2087830204920090939
 09:14:45,nextronresearch,sha256,4379a9572d31ea98e5cb1d55f052ab150508a85dd02a004a3570f2fca8f51609,,https://x.com/nextronresearch/status/2087830204920090939
@@ -10377,15 +10392,32 @@
 10:38:29,patialavii,url,http://mychap.co.uk:8041,
 10:38:29,patialavii,url,https://jojolandings.com,
 10:38:29,patialavii,url,https://jojolandings.com/document/secure_document_file.zip,
+10:55:32,opcodeintel,ip,38.134.148.214,
 10:56:20,urlyzeio,domain,vimcolors.com,
 10:56:20,urlyzeio,url,https://vimcolors.com,
 10:56:56,fact_finder03,ip,143.109.37.227,
 10:56:56,fact_finder03,ip,154.36.188.193,
+10:59:34,opcodeintel,domain,usa-legalforms.com,,https://x.com/opcodeintel/status/2090030910423138706
+10:59:34,opcodeintel,url,http://usa-legalforms.com,,https://x.com/opcodeintel/status/2090030910423138706
 11:03:39,patialavii,domain,gudwa.com,
 11:03:39,patialavii,domain,justoneandonly.top,
 11:03:39,patialavii,url,http://justoneandonly.top:8041,
 11:03:39,patialavii,url,https://gudwa.com/docusign/,
 11:03:39,patialavii,url,https://justoneandonly.top/bin/screenconnect.clientsetup.msi,
+11:07:44,reliaquesttr,ip,104.194.9.14,
+11:07:44,reliaquesttr,ip,104.243.35.63,
+11:07:44,reliaquesttr,ip,185.227.83.236,
+11:07:44,reliaquesttr,ip,209.222.98.44,
+11:07:44,reliaquesttr,ip,216.152.151.204,
+11:07:44,reliaquesttr,ip,5.180.41.35,
+11:07:44,reliaquesttr,ip,78.128.113.10,
+11:07:44,reliaquesttr,url,http://104.194.9.14,
+11:07:44,reliaquesttr,url,http://104.243.35.63,
+11:07:44,reliaquesttr,url,http://185.227.83.236,
+11:07:44,reliaquesttr,url,http://209.222.98.44,
+11:07:44,reliaquesttr,url,http://216.152.151.204,
+11:07:44,reliaquesttr,url,http://5.180.41.35,
+11:07:44,reliaquesttr,url,http://78.128.113.10,
 11:09:43,fact_finder03,ip,172.245.67.199,
 11:20:23,patialavii,domain,robert-schreoder.de,
 11:20:23,patialavii,domain,us06web.zoom.frash.org,
@@ -10397,6 +10429,16 @@
 11:26:19,patialavii,domain,inlogsysmx.com.mx,
 11:26:19,patialavii,url,https://equipodecervezaelmoe.screenconnect.com/bin/screenconnect.clientsetup.msi,
 11:26:19,patialavii,url,https://inlogsysmx.com.mx/ftx/,
+11:28:30,abuse_ch,domain,allremdeskriki.com,,https://x.com/abuse_ch/status/2090038189347987611
+11:28:30,abuse_ch,domain,dubl1allremriki.com,,https://x.com/abuse_ch/status/2090038189347987611
+11:28:30,abuse_ch,domain,dubl2allremriki.com,,https://x.com/abuse_ch/status/2090038189347987611
+11:28:30,abuse_ch,domain,woolvilli.com,,https://x.com/abuse_ch/status/2090038189347987611
+11:28:30,abuse_ch,url,http://136.244.100.54:8899/api/v1/agent/register,,https://x.com/abuse_ch/status/2090038189347987611
+11:28:30,abuse_ch,url,http://136.244.100.54:8899/api/v1/agent/ws,,https://x.com/abuse_ch/status/2090038189347987611
+11:28:30,abuse_ch,url,http://allremdeskriki.com/api/v2,,https://x.com/abuse_ch/status/2090038189347987611
+11:28:30,abuse_ch,url,http://dubl1allremriki.com/api/v2,,https://x.com/abuse_ch/status/2090038189347987611
+11:28:30,abuse_ch,url,http://dubl2allremriki.com/api/v2,,https://x.com/abuse_ch/status/2090038189347987611
+11:28:30,abuse_ch,url,http://woolvilli.com/api/v2,,https://x.com/abuse_ch/status/2090038189347987611
 11:36:37,patialavii,domain,skeazzaboost.screenconnect.com,
 11:36:37,patialavii,domain,wrproducoes.com.br,
 11:36:37,patialavii,url,https://skeazzaboost.screenconnect.com/bin/screenconnect.clientsetup.exe,
@@ -10438,6 +10480,8 @@
 12:01:18,phishunt_io,url,http://allegrolokalnie.lokalna-ofeta2435245.shop/oferta/jacuzzi-ogrodowe-6-osobowe-z-podswietlenirm-led/712187165?fbclid=iwy2xj,
 12:01:38,opcodeintel,domain,ptnrmat.xyz,
 12:01:38,opcodeintel,url,https://ptnrmat.xyz/police/mydata.php,
+12:02:07,phishunt_io,domain,allegrolokalnie.lokalna-oferta9813434.lol,
+12:02:07,phishunt_io,url,http://allegrolokalnie.lokalna-oferta9813434.lol,
 12:36:09,masaomi346,domain,neststudio16.com,
 12:36:09,masaomi346,domain,parentpreneurx.com,
 12:36:09,masaomi346,url,http://neststudio16.com,
