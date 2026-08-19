@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-08-19 00:42 UTC
-# Domains: 14948
+# Updated: 2026-08-19 06:28 UTC
+# Domains: 14999
 
 -084-gls-223-www-9-k-0brasil.net.daraz.com
 -access-logs-1.net.daraz.com
@@ -3050,6 +3050,9 @@
 00:20:03,ap_zenmashi,domain,ysk3kmrun.duckdns.org,,https://x.com/ap_zenmashi/status/2089145193761267869
 00:20:03,ap_zenmashi,ip,182.161.66.14,,https://x.com/ap_zenmashi/status/2089145193761267869
 00:20:03,ap_zenmashi,url,https://ysk3kmrun.duckdns.org,,https://x.com/ap_zenmashi/status/2089145193761267869
+00:52:38,msftsecintel,domain,auto.c3pool.org,,https://x.com/msftsecintel/status/2089878169037738202
+00:52:38,msftsecintel,sha256,84006055916e267f7c2f9324f1848563e589e4526a296d4e9e9ce8e2112d357c,,https://x.com/msftsecintel/status/2089878169037738202
+00:52:38,msftsecintel,url,http://auto.c3pool.org:443,,https://x.com/msftsecintel/status/2089878169037738202
 00a17677c75ed52b.com
 00a1dcf072cd.top
 00a230f259d601ee.com
@@ -9692,6 +9695,8 @@
 03:36:44,bomccss,ip,207.56.119.83,,https://x.com/bomccss/status/2089557078792872016
 03:36:44,bomccss,url,http://207.56.119.83:6666,,https://x.com/bomccss/status/2089557078792872016
 03:37:50,npj8448,url,http://zebra.com,
+03:58:50,masaomi346,domain,exg3gtfcc9gtlyv5tu.live,
+03:58:50,masaomi346,url,https://exg3gtfcc9gtlyv5tu.live,
 03a01d381c69453a.com
 03a087bc6ca6.top
 03a08ec40d0e.com
@@ -10082,6 +10087,16 @@
 042e6fc826d8e48c.com
 042e830be90d0fea.top
 042f6c54e9e024818.com
+04:00:30,patialavii,domain,file-share-image-2026-8368-736-dropbox.cloud,
+04:00:30,patialavii,url,http://file-share-image-2026-8368-736-dropbox.cloud,
+04:13:43,tkemmerling,domain,kwmsteam.com,
+04:13:43,tkemmerling,domain,nwvearly.com,
+04:13:43,tkemmerling,url,http://kwmsteam.com,
+04:13:43,tkemmerling,url,http://nwvearly.com,
+04:23:09,tkemmerling,domain,columbuswealthplanning.info,
+04:23:09,tkemmerling,domain,robertszutyiart.com,
+04:23:09,tkemmerling,url,http://columbuswealthplanning.info,
+04:23:09,tkemmerling,url,http://robertszutyiart.com,
 04:24:41,elementalx2,ip,103.77.240.232,,https://x.com/elementalx2/status/2088481983920034125
 04:24:41,elementalx2,ip,115.190.210.105,,https://x.com/elementalx2/status/2088481983920034125
 04:24:41,elementalx2,ip,176.125.243.101,,https://x.com/elementalx2/status/2088481983920034125
@@ -10097,8 +10112,44 @@
 04:29:46,tdatwja,md5,1298c79f6811283a16ec76a072755e5d,,https://x.com/tdatwja/status/2088120876369866774
 04:29:46,tdatwja,sha256,dfc8e7b7e48faab9a410111ea31001c729ab9b1c83525499f028b5344869be9e,,https://x.com/tdatwja/status/2088120876369866774
 04:29:46,tdatwja,url,http://mail.elpasohonroso.com,,https://x.com/tdatwja/status/2088120876369866774
+04:30:51,tkemmerling,domain,meetings.onlinecommunityconsultation.com,
+04:30:51,tkemmerling,domain,mmcharty.s3.us-east-1.amazonaws.com,
+04:30:51,tkemmerling,url,http://meetings.onlinecommunityconsultation.com,
+04:30:51,tkemmerling,url,http://mmcharty.s3.us-east-1.amazonaws.com,
 04:35:20,masaomi346,domain,fmpqwyp.cn,
 04:35:20,masaomi346,url,https://www.fmpqwyp.cn/login,
+04:41:29,tkemmerling,domain,flowers.theflowerflat.com,
+04:41:29,tkemmerling,domain,ntiein.s3.us-east-1.amazonaws.com,
+04:41:29,tkemmerling,url,http://flowers.theflowerflat.com,
+04:41:29,tkemmerling,url,http://ntiein.s3.us-east-1.amazonaws.com,
+04:49:52,tkemmerling,domain,hriver.net,
+04:49:52,tkemmerling,domain,onxsm.styleompl.com,
+04:49:52,tkemmerling,url,http://hriver.net,
+04:49:52,tkemmerling,url,http://onxsm.styleompl.com,
+05:17:49,kb4threatlabs,domain,3347silver.shoplyo.com.de,
+05:17:49,kb4threatlabs,domain,acdh4mwy.mvconstruoeincorporaslholtda.vu,
+05:17:49,kb4threatlabs,domain,bverster.store,
+05:17:49,kb4threatlabs,domain,cwhe.qualitypresence.de,
+05:17:49,kb4threatlabs,domain,folders-them9782-safe-empty-files-9w478262.b-cdn.net,
+05:17:49,kb4threatlabs,domain,mcbspvtlsamtd.vu,
+05:17:49,kb4threatlabs,domain,microcontrol-gucpbrefazgue6ad.z02.azurefd.net,
+05:17:49,kb4threatlabs,domain,powerepq.com,
+05:17:49,kb4threatlabs,domain,rfq1ox88.wisnetcomlrfnlc.vu,
+05:17:49,kb4threatlabs,domain,sharedocufill.exceltecbusinessbwpsolutions.vu,
+05:17:49,kb4threatlabs,domain,tdto.prodesignscommunicate.de,
+05:17:49,kb4threatlabs,domain,wkssa8wo7nzoxmb.libertyirow.com.de,
+05:17:49,kb4threatlabs,url,http://3347silver.shoplyo.com.de,
+05:17:49,kb4threatlabs,url,http://acdh4mwy.mvconstruoeincorporaslholtda.vu/jftmxe,
+05:17:49,kb4threatlabs,url,http://bverster.store,
+05:17:49,kb4threatlabs,url,http://cwhe.qualitypresence.de,
+05:17:49,kb4threatlabs,url,http://folders-them9782-safe-empty-files-9w478262.b-cdn.net/folders/index,
+05:17:49,kb4threatlabs,url,http://mcbspvtlsamtd.vu,
+05:17:49,kb4threatlabs,url,http://microcontrol-gucpbrefazgue6ad.z02.azurefd.net,
+05:17:49,kb4threatlabs,url,http://powerepq.com/uev5wqa/yc3asrf/index.html,
+05:17:49,kb4threatlabs,url,http://rfq1ox88.wisnetcomlrfnlc.vu/ckn3wn,
+05:17:49,kb4threatlabs,url,http://sharedocufill.exceltecbusinessbwpsolutions.vu/xraqdm,
+05:17:49,kb4threatlabs,url,http://tdto.prodesignscommunicate.de,
+05:17:49,kb4threatlabs,url,http://wkssa8wo7nzoxmb.libertyirow.com.de/135unfashionably/,
 05:23:23,etugenio,ip,192.3.1.116,,https://x.com/etugenio/status/2087771977775767769
 05:23:23,etugenio,url,http://192.3.1.116,,https://x.com/etugenio/status/2087771977775767769
 05:56:41,fact_finder03,ip,167.99.146.109,
