@@ -1617,3 +1617,147 @@ drive-surge.com
 # SCMBANKER — second known ClickFix-spread threat actor
 scmbanker.com
 scmbank.shop
+
+# ── RTB / Bid Stream / Co-location Inference Infrastructure (Aug 2026) ────────
+# Based on EFF Aug 4 2026 report, EPIC RTB research, video research
+
+# ── RTB Ad Exchanges & SSPs (Supply-Side Platforms) ──────────────────────────
+# These are the auction houses — every page load sends your profile here
+openx.net
+openx.com
+servedbyopenx.com
+rubiconproject.com
+fastlane.rubiconproject.com
+rl.dc.rubiconproject.com
+prebid.rubiconproject.com
+pubmatic.com
+ads.pubmatic.com
+image6.pubmatic.com
+simage2.pubmatic.com
+casalemedia.com
+js-sec.indexww.com
+ad.turn.com
+turn.com
+appnexus.com
+ib.adnxs.com
+sin3.ib.adnxs.com
+secure.adnxs.com
+lax1.ib.adnxs.com
+bidswitch.net
+cm.g.doubleclick.net
+stats.g.doubleclick.net
+ad.doubleclick.net
+smartadserver.com
+sas.smartadserver.com
+sspstats.smartadserver.com
+33across.com
+ssc.33across.com
+ssc-cms.33across.com
+sovrn.com
+ap.lijit.com
+sync.lijit.com
+spotxchange.com
+spotx.tv
+freewheel.tv
+mads.freewheel.tv
+brightmountainmedia.com
+contextweb.com
+pulsepoint.com
+bcp.crwdcntrl.net
+triplelift.com
+tlx.3lift.com
+sharethrough.com
+rp.sharethrough.com
+yieldmo.com
+ad.yieldmo.com
+districtm.ca
+prebid.districtm.ca
+unrulymedia.com
+video.unrulymedia.com
+rhythmone.com
+sync.1rx.io
+amp.1rx.io
+lkqd.net
+platform.lkqd.net
+
+# ── Location Data SDKs broadcasting into RTB (EFF Report Aug 4 2026) ─────────
+# BidMachine — broadcasts precise GPS into bid requests by default
+api.bidmachine.io
+prebid.bidmachine.io
+bidmachine.io
+# InMobi — location sharing enabled by default when app has permission
+sdk.inmobi.com
+inmobi.com
+acdn.adnxs.com
+sync.inmobi.com
+cf.hb.adriver.ru
+# Verve HyBid — passes lat/lng into every bid request
+api.verve.com
+verve.com
+pubnative.net
+api.pubnative.net
+# Huawei Petal Ads — feeds location to Huawei ad network
+ads.huawei.com
+petal-ads.com
+adx.petal-ads.com
+developer.huawei.com
+
+# ── Co-location / Proximity Inference Engines ────────────────────────────────
+# These infer who you were near and what was discussed nearby
+mobilewalla.com
+api.mobilewalla.com
+data.mobilewalla.com
+venntel.com
+api.venntel.com
+x-mode.io
+sdk.x-mode.io
+outlogic.io
+sdk.outlogic.io
+foursquare.com
+targeting.foursquare.com
+pilgrim.foursquare.com
+placed.com
+data.placed.com
+cuebiq.com
+data.cuebiq.com
+factual.com
+api.factual.com
+engine.factual.com
+bestbuy.narrative.io
+narrative.io
+api.narrative.io
+
+# ── Ultrasonic Beacon / Cross-Device Linking ──────────────────────────────────
+# SilverPush — TV-to-mobile device linking via inaudible tones
+silverpush.co
+cdn.silverpush.co
+# Alphonso — recognizes TV ad audio via app microphone
+alphonso.tv
+data.alphonso.tv
+cdn.alphonso.tv
+# Samba TV — ACR smart TV tracking linked to mobile ad IDs
+sambaanalytics.com
+samba.tv
+# Drawbridge — cross-device graph (now LinkedIn/Microsoft)
+drawbridge.com
+db8.io
+
+# ── Data Broker Bid Stream Aggregators ───────────────────────────────────────
+# Companies that pose as bidders purely to harvest bid stream data
+lotame.com
+bcp.crwdcntrl.net
+ad.crwdcntrl.net
+datorama.com
+towerdata.com
+api.towerdata.com
+bombora.com
+surge.bombora.com
+intentdata.bombora.com
+eyeota.com
+pixel.eyeota.com
+crosswise.com
+dmp.crosswise.com
+liveramp.com
+identity.foundation.liveramp.com
+identity.liveramp.com
+cdn.liveramp.com
