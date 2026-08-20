@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-08-20 00:43 UTC
-# Domains: 15051
+# Updated: 2026-08-20 06:29 UTC
+# Domains: 15096
 
 -084-gls-223-www-9-k-0brasil.net.daraz.com
 -access-logs-1.net.daraz.com
@@ -3050,6 +3050,8 @@
 00:20:03,ap_zenmashi,domain,ysk3kmrun.duckdns.org,,https://x.com/ap_zenmashi/status/2089145193761267869
 00:20:03,ap_zenmashi,ip,182.161.66.14,,https://x.com/ap_zenmashi/status/2089145193761267869
 00:20:03,ap_zenmashi,url,https://ysk3kmrun.duckdns.org,,https://x.com/ap_zenmashi/status/2089145193761267869
+00:51:55,masaomi346,domain,leap39.com,
+00:51:55,masaomi346,url,http://leap39.com,
 00:52:38,msftsecintel,domain,auto.c3pool.org,,https://x.com/msftsecintel/status/2089878169037738202
 00:52:38,msftsecintel,sha256,84006055916e267f7c2f9324f1848563e589e4526a296d4e9e9ce8e2112d357c,,https://x.com/msftsecintel/status/2089878169037738202
 00:52:38,msftsecintel,url,http://auto.c3pool.org:443,,https://x.com/msftsecintel/status/2089878169037738202
@@ -10085,6 +10087,28 @@
 04:13:43,tkemmerling,domain,nwvearly.com,
 04:13:43,tkemmerling,url,http://kwmsteam.com,
 04:13:43,tkemmerling,url,http://nwvearly.com,
+04:17:29,bomccss,domain,hijndil-ownguen.pages.dev,,https://x.com/bomccss/status/2090292110943764709
+04:17:29,bomccss,url,https://hijndil-ownguen.pages.dev,,https://x.com/bomccss/status/2090292110943764709
+04:17:29,tdatwja,url,http://hijndil-ownguen.pages.dev,,https://x.com/tdatwja/status/2089986367224963283
+04:17:30,bomccss,domain,fshsjlk.cc,,https://x.com/bomccss/status/2090292114236260732
+04:17:30,bomccss,ip,121.127.253.206,,https://x.com/bomccss/status/2090292114236260732
+04:17:30,bomccss,sha256,ab62b50e50d8148e7c894df644e62f365dbe2bd7f7ec0039b7d1af42c555562e,,https://x.com/bomccss/status/2090292112738963854
+04:17:30,bomccss,url,http://121.127.253.206:8856,,https://x.com/bomccss/status/2090292114236260732
+04:17:30,bomccss,url,http://121.127.253.206:8868,,https://x.com/bomccss/status/2090292114236260732
+04:17:30,bomccss,url,http://fshsjlk.cc,,https://x.com/bomccss/status/2090292114236260732
+04:20:04,bomccss,domain,toyotechnicaljp.pages.dev,,https://x.com/bomccss/status/2090292760750572023
+04:20:04,bomccss,url,https://toyotechnicaljp.pages.dev,,https://x.com/bomccss/status/2090292760750572023
+04:20:04,tdatwja,domain,apm.hexin.cn,,https://x.com/tdatwja/status/2089988933946130695
+04:20:04,tdatwja,domain,du-a2026081702100.zip,,https://x.com/tdatwja/status/2089988933946130695
+04:20:04,tdatwja,ip,58.220.49.156,,https://x.com/tdatwja/status/2089988933946130695
+04:20:04,tdatwja,url,http://58.220.49.156:80,,https://x.com/tdatwja/status/2089988933946130695
+04:20:04,tdatwja,url,http://apm.hexin.cn,,https://x.com/tdatwja/status/2089988933946130695
+04:20:04,tdatwja,url,http://du-a2026081702100.zip,,https://x.com/tdatwja/status/2089988933946130695
+04:20:04,tdatwja,url,http://toyotechnicaljp.pages.dev,,https://x.com/tdatwja/status/2089988933946130695
+04:22:15,tkemmerling,domain,itnessequipmentfor.info,
+04:22:15,tkemmerling,domain,southfloridafitnessbootcamp.com,
+04:22:15,tkemmerling,url,http://itnessequipmentfor.info,
+04:22:15,tkemmerling,url,http://southfloridafitnessbootcamp.com,
 04:23:09,tkemmerling,domain,columbuswealthplanning.info,
 04:23:09,tkemmerling,domain,robertszutyiart.com,
 04:23:09,tkemmerling,url,http://columbuswealthplanning.info,
@@ -10100,14 +10124,33 @@
 04:24:41,elementalx2,ip,87.199.197.84,,https://x.com/elementalx2/status/2088481983920034125
 04:24:41,elementalx2,ip,91.92.43.93,,https://x.com/elementalx2/status/2088481983920034125
 04:24:41,elementalx2,ip,95.181.213.21,,https://x.com/elementalx2/status/2088481983920034125
+04:24:42,bomccss,domain,hsacnajklnsdcm8u.pages.dev,,https://x.com/bomccss/status/2090293927584923937
+04:24:42,bomccss,domain,hxn20160817021han.zip,,https://x.com/bomccss/status/2090293927584923937
+04:24:42,bomccss,url,http://hxn20160817021han.zip,,https://x.com/bomccss/status/2090293927584923937
+04:24:42,bomccss,url,https://hsacnajklnsdcm8u.pages.dev,,https://x.com/bomccss/status/2090293927584923937
+04:24:43,bomccss,sha256,250e3c82b49eae210a7a622ecbabfef07b7038c84aeb6109adb2d1dc05d44e33,,https://x.com/bomccss/status/2090293929443045680
+04:28:27,bomccss,domain,io8rthrtthgfjglklibvfgt.pages.dev,,https://x.com/bomccss/status/2090294868581204201
+04:28:27,bomccss,domain,nx_2026073083242.zip,,https://x.com/bomccss/status/2090294868581204201
+04:28:27,bomccss,domain,rukeyou.com,,https://x.com/bomccss/status/2090294870426652909
+04:28:27,bomccss,ip,134.122.136.84,,https://x.com/bomccss/status/2090294870426652909
+04:28:27,bomccss,sha256,e95095a09b0a9fa2a5b67783fe93c2f5679e00d3214c6ca4d94bef209ed4b545,,https://x.com/bomccss/status/2090294870426652909
+04:28:27,bomccss,url,https://134.122.136.84:8383,,https://x.com/bomccss/status/2090294870426652909
+04:28:27,bomccss,url,https://io8rthrtthgfjglklibvfgt.pages.dev,,https://x.com/bomccss/status/2090294868581204201
+04:28:27,bomccss,url,https://rukeyou.com/sys/x2/x2-payload_baolljp.jpg,,https://x.com/bomccss/status/2090294870426652909
+04:28:27,bomccss,url,https://rukeyou.com/sys/x2/x2-payload_dfyihao.zip,,https://x.com/bomccss/status/2090294870426652909
 04:29:46,tdatwja,domain,mail.elpasohonroso.com,,https://x.com/tdatwja/status/2088120876369866774
 04:29:46,tdatwja,md5,1298c79f6811283a16ec76a072755e5d,,https://x.com/tdatwja/status/2088120876369866774
 04:29:46,tdatwja,sha256,dfc8e7b7e48faab9a410111ea31001c729ab9b1c83525499f028b5344869be9e,,https://x.com/tdatwja/status/2088120876369866774
 04:29:46,tdatwja,url,http://mail.elpasohonroso.com,,https://x.com/tdatwja/status/2088120876369866774
+04:29:55,bomccss,ip,207.56.119.83,,https://x.com/bomccss/status/2090295239126954097
+04:29:55,bomccss,sha256,c240b8b5400a53cae0401e1c38b5a61fd5796ce6ff74b90724de12c334e50d86,,https://x.com/bomccss/status/2090295237356986836
+04:29:55,bomccss,url,http://207.56.119.83:6666,,https://x.com/bomccss/status/2090295239126954097
 04:30:51,tkemmerling,domain,meetings.onlinecommunityconsultation.com,
 04:30:51,tkemmerling,domain,mmcharty.s3.us-east-1.amazonaws.com,
 04:30:51,tkemmerling,url,http://meetings.onlinecommunityconsultation.com,
 04:30:51,tkemmerling,url,http://mmcharty.s3.us-east-1.amazonaws.com,
+04:34:13,tkemmerling,domain,helengarentals.com,
+04:34:13,tkemmerling,url,http://helengarentals.com,
 04:35:20,masaomi346,domain,fmpqwyp.cn,
 04:35:20,masaomi346,url,https://www.fmpqwyp.cn/login,
 04:41:29,tkemmerling,domain,flowers.theflowerflat.com,
@@ -10118,6 +10161,8 @@
 04:49:52,tkemmerling,domain,onxsm.styleompl.com,
 04:49:52,tkemmerling,url,http://hriver.net,
 04:49:52,tkemmerling,url,http://onxsm.styleompl.com,
+05:14:59,masaomi346,domain,accoun.bligi.cn,
+05:14:59,masaomi346,url,https://accoun.bligi.cn/yaw73eoujg,
 05:17:49,kb4threatlabs,domain,3347silver.shoplyo.com.de,
 05:17:49,kb4threatlabs,domain,acdh4mwy.mvconstruoeincorporaslholtda.vu,
 05:17:49,kb4threatlabs,domain,bverster.store,
