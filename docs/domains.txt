@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-08-20 12:28 UTC
-# Domains: 15174
+# Updated: 2026-08-20 18:25 UTC
+# Domains: 15181
 
 -084-gls-223-www-9-k-0brasil.net.daraz.com
 -access-logs-1.net.daraz.com
@@ -10513,9 +10513,14 @@
 12:01:18,phishunt_io,url,http://allegrolokalnie.lokalna-ofeta2435245.shop/oferta/jacuzzi-ogrodowe-6-osobowe-z-podswietlenirm-led/712187165?fbclid=iwy2xj,
 12:02:07,phishunt_io,domain,allegrolokalnie.lokalna-oferta9813434.lol,
 12:02:07,phishunt_io,url,http://allegrolokalnie.lokalna-oferta9813434.lol,
+12:13:26,them3gatr0n,sha256,3f3cc7d9f714d6aaec33ec87e152c1fb86824d65342957a5ac018708ba37520a,,https://x.com/them3gatr0n/status/2090411885925736919
+12:13:26,them3gatr0n,url,https://github.com/thompog/d/raw/refs/heads/main/japper.zip,,https://x.com/them3gatr0n/status/2090411885925736919
+12:13:26,them3gatr0n,url,https://raw.githubusercontent.com/thompog/d/refs/heads/main/japper.zip,,https://x.com/them3gatr0n/status/2090411885925736919
 12:19:14,coolcarlos17,domain,lojacasalima.com,
 12:22:01,coolcarlos17,domain,havan-com-br.site,
 12:22:01,coolcarlos17,url,"https://havan-com-br.site/produto.php?slug=escada-telesc-pica-extensiva-alum-nio-5m-dobr-vel-16-degraus"",",
+12:31:13,masaomi346,domain,quartfication.wmsrdj.cn,
+12:31:13,masaomi346,url,https://quartfication.wmsrdj.cn/ed9490/index,
 12:36:09,masaomi346,domain,neststudio16.com,
 12:36:09,masaomi346,domain,parentpreneurx.com,
 12:36:09,masaomi346,url,http://neststudio16.com,
@@ -11035,6 +11040,8 @@
 16:19:38,skocherhan,domain,wereng.duckdns.org,
 16:19:38,skocherhan,url,http://wer-ldr.duckdns.org,
 16:19:38,skocherhan,url,http://wereng.duckdns.org,
+16:21:03,threatopsx,domain,microsoftdesk.vintagefabrcations.com,
+16:21:03,threatopsx,url,http://microsoftdesk.vintagefabrcations.com,
 16:25:47,patialavii,domain,landingingtradesinternational.com,
 16:25:47,patialavii,domain,mychap.co.uk,
 16:25:47,patialavii,url,http://mychap.co.uk:8041,
