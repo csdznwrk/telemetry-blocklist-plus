@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-08-21 06:30 UTC
-# Domains: 14816
+# Updated: 2026-08-21 12:28 UTC
+# Domains: 14840
 
 -084-gls-223-www-9-k-0brasil.net.daraz.com
 -access-logs-1.net.daraz.com
@@ -10213,6 +10213,18 @@
 06:14:36,metemcyber,url,https://chiotetpapparel.shop/vawqhzow/,
 06:28:06,metemcyber,domain,zfktseu.com,
 06:28:06,metemcyber,url,https://www.zfktseu.com/ccpksfz/,
+06:28:31,tkemmerling,domain,edufloat.org,
+06:28:31,tkemmerling,url,http://edufloat.org,
+06:29:04,tkemmerling,domain,stylishhomegallery.com,
+06:29:04,tkemmerling,url,http://stylishhomegallery.com,
+06:29:06,tkemmerling,domain,vkvfaith.com,
+06:29:06,tkemmerling,domain,wahlimit.net,
+06:29:06,tkemmerling,url,http://vkvfaith.com,
+06:29:06,tkemmerling,url,http://wahlimit.net,
+06:29:07,tkemmerling,domain,indelibleaggravate.net,
+06:29:07,tkemmerling,url,http://indelibleaggravate.net,
+06:29:11,tkemmerling,domain,columbuswealthplanning.info,
+06:29:11,tkemmerling,url,http://columbuswealthplanning.info,
 06:32:26,bomccss,sha256,5f59572a6371f2b29d9f0c9060e4947f78d0b0cdec5c9ba9f9ca7e2a1f145e29,,https://x.com/bomccss/status/2090326073129255277
 06:32:48,masaomi346,domain,tichbox.com,
 06:32:48,masaomi346,url,https://tichbox.com/login,
@@ -10221,6 +10233,8 @@
 06:41:04,metemcyber,url,http://47.236.136.61,
 06:41:04,metemcyber,url,https://aikt888.com/am2az-0nco-jp-jp/,
 06:42:44,onodera460,ip,1.1.4.2,,https://x.com/onodera460/status/2089603888982708661
+06:44:19,opcodeintel,domain,panel.xxcqw.icu,
+06:44:19,opcodeintel,url,http://panel.xxcqw.icu,
 06:50:03,ap_zenmashi,domain,lixsjsd.duckdns.org,,https://x.com/ap_zenmashi/status/2090330506919580063
 06:50:03,ap_zenmashi,ip,182.161.66.14,,https://x.com/ap_zenmashi/status/2090330506919580063
 06:50:03,ap_zenmashi,url,https://lixsjsd.duckdns.org,,https://x.com/ap_zenmashi/status/2090330506919580063
@@ -10237,6 +10251,9 @@
 07:00:42,phishunt_io,url,http://allegro.823ggg.casa,
 07:00:47,phishunt_io,domain,secure-login-facebook.bolt.host,
 07:00:47,phishunt_io,url,http://secure-login-facebook.bolt.host,
+07:01:01,phishunt_io,domain,netflx-update.com,
+07:01:01,phishunt_io,ip,167.71.169.239,
+07:01:01,phishunt_io,url,http://netflx-update.com/fiscalio/netflixx,
 07:01:08,phishunt_io,domain,ledger-live-login-conect-auth.typedream.app,
 07:01:08,phishunt_io,url,http://ledger-live-login-conect-auth.typedream.app,
 07:01:14,phishunt_io,domain,facebookxlogin.blogspot.com,
@@ -10312,6 +10329,8 @@
 09:11:11,tdatwja,md5,9033f5bed49269403341abcfbd8244eb,,https://x.com/tdatwja/status/2090366023988133974
 09:11:11,tdatwja,md5,9b50be2ac11fb44e80a0efd76c2c385b,,https://x.com/tdatwja/status/2090366023988133974
 09:11:11,tdatwja,sha256,53a4e54f23228c129e2f3d6f34ac457878e49ed2bb5ac13f05c10a55693d2dd8,,https://x.com/tdatwja/status/2090366023988133974
+09:26:22,masaomi346,domain,gzmingbo.com,
+09:26:22,masaomi346,url,https://gzmingbo.com/login,
 09:30:00,fact_finder03,ip,47.239.123.54,
 09:30:48,skocherhan,domain,mail.upgoogle.com,,https://x.com/skocherhan/status/2090370956959080903
 09:32:18,tdatwja,ip,204.194.50.231,,https://x.com/tdatwja/status/2090371337810489699
@@ -10325,6 +10344,8 @@
 09:32:19,tdatwja,sha256,98aea63f7c88d733504c08b165fd68a917e256f2cfaeaa742323ef6dddbbce29,,https://x.com/tdatwja/status/2090371340176146695
 09:32:19,tdatwja,sha256,b5400f8454276f1adf944d8ba393866ca423603254baf88bca7dc4c1cf762116,,https://x.com/tdatwja/status/2090371342298427831
 09:33:00,fact_finder03,ip,67.217.228.244,
+09:41:50,scanmalware,domain,xyx055.cc,
+09:41:50,scanmalware,url,http://xyx055.cc,
 09:44:02,masaomi346,domain,ultraspeed.pro,
 09:44:02,masaomi346,url,http://ultraspeed.pro,
 09:48:19,masaomi346,domain,quest-22.com,
@@ -10362,6 +10383,7 @@
 11:07:44,reliaquesttr,url,http://5.180.41.35,
 11:07:44,reliaquesttr,url,http://78.128.113.10,
 11:09:43,fact_finder03,ip,172.245.67.199,
+11:25:10,lizettle_,url,https://lnkd.in/e2mn_cwi,
 11:28:30,abuse_ch,domain,allremdeskriki.com,,https://x.com/abuse_ch/status/2090038189347987611
 11:28:30,abuse_ch,domain,dubl1allremriki.com,,https://x.com/abuse_ch/status/2090038189347987611
 11:28:30,abuse_ch,domain,dubl2allremriki.com,,https://x.com/abuse_ch/status/2090038189347987611
@@ -10397,6 +10419,8 @@
 12:01:10,phishunt_io,url,http://faceb00k-br.blogspot.com,
 12:01:18,phishunt_io,domain,allegrolokalnie.lokalna-ofeta2435245.shop,
 12:01:18,phishunt_io,url,http://allegrolokalnie.lokalna-ofeta2435245.shop/oferta/jacuzzi-ogrodowe-6-osobowe-z-podswietlenirm-led/712187165?fbclid=iwy2xj,
+12:01:54,phishunt_io,domain,allegrolokalnie.pl-aibt8.sbs,
+12:01:54,phishunt_io,url,http://allegrolokalnie.pl-aibt8.sbs/oferta/apple-macbook-air-13-inch-m2-8gb-ram-256gb-f5zh2,
 12:02:07,phishunt_io,domain,allegrolokalnie.lokalna-oferta9813434.lol,
 12:02:07,phishunt_io,url,http://allegrolokalnie.lokalna-oferta9813434.lol,
 12:13:26,them3gatr0n,sha256,3f3cc7d9f714d6aaec33ec87e152c1fb86824d65342957a5ac018708ba37520a,,https://x.com/them3gatr0n/status/2090411885925736919
