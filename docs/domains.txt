@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-08-21 00:46 UTC
-# Domains: 14785
+# Updated: 2026-08-21 06:30 UTC
+# Domains: 14816
 
 -084-gls-223-www-9-k-0brasil.net.daraz.com
 -access-logs-1.net.daraz.com
@@ -9652,6 +9652,8 @@
 039wz06.com
 039wz07.com
 039y4012f1.shop
+03:00:07,metemcyber,domain,login.gkpfz.com,
+03:00:07,metemcyber,url,https://login.gkpfz.com/login,
 03:02:26,masaomi346,domain,ktmnos.com,
 03:02:26,masaomi346,url,https://ktmnos.com/am2az-0nco-jp-jp/,
 03:06:43,bomccss,sha256,a0dc3d1ce3528f2144bc0c646373f695333f057b4917ec5a809e3e4e1eb95648,,https://x.com/bomccss/status/2089549526571065346
@@ -9668,6 +9670,12 @@
 03:06:44,bomccss,url,https://jpword.cc:8383,,https://x.com/bomccss/status/2089549529335140762
 03:06:44,bomccss,url,https://w1mail.com,,https://x.com/bomccss/status/2085282098601243004
 03:06:44,bomccss,url,https://wordtax.ink/down/setup.appx,,https://x.com/bomccss/status/2089549529335140762
+03:11:46,metemcyber,domain,lsxlhj.com,
+03:11:46,metemcyber,ip,8.209.252.179,
+03:11:46,metemcyber,url,http://8.209.252.179,
+03:11:46,metemcyber,url,https://lsxlhj.com/ctwazolu/,
+03:15:55,masaomi346,domain,y82cup0r.xyz,
+03:15:55,masaomi346,url,https://www.y82cup0r.xyz,
 03:25:18,patialavii,domain,none.kingsnone-cpa.com,
 03:25:18,patialavii,domain,tecnicoepc.com,
 03:25:18,patialavii,url,http://none.kingsnone-cpa.com:8041,
@@ -9682,6 +9690,11 @@
 03:36:43,bomccss,url,http://rkm-20260817-3684.zip,,https://x.com/bomccss/status/2089557077018738924
 03:36:44,bomccss,ip,207.56.119.83,,https://x.com/bomccss/status/2089557078792872016
 03:36:44,bomccss,url,http://207.56.119.83:6666,,https://x.com/bomccss/status/2089557078792872016
+03:41:53,patialavii,domain,docusign-server.github.io,
+03:41:53,patialavii,domain,file-iwl3-2.w-4mm9yl.workers.dev,
+03:41:53,patialavii,url,http://file-iwl3-2.w-4mm9yl.workers.dev,
+03:41:53,patialavii,url,https://docusign-server.github.io/rfp2026/,
+03:50:03,ap_zenmashi,ip,216.126.237.93,,https://x.com/ap_zenmashi/status/2090647592703320179
 03:58:50,masaomi346,domain,exg3gtfcc9gtlyv5tu.live,
 03:58:50,masaomi346,url,https://exg3gtfcc9gtlyv5tu.live,
 03a01d381c69453a.com
@@ -10076,6 +10089,10 @@
 042f6c54e9e024818.com
 04:00:30,patialavii,domain,file-share-image-2026-8368-736-dropbox.cloud,
 04:00:30,patialavii,url,http://file-share-image-2026-8368-736-dropbox.cloud,
+04:10:19,patialavii,domain,clevercarves.com,
+04:10:19,patialavii,domain,swanbitcoinguideline.live,
+04:10:19,patialavii,url,https://clevercarves.com/bin/screenconnect.clientsetup.msi,
+04:10:19,patialavii,url,https://swanbitcoinguideline.live,
 04:13:43,tkemmerling,domain,kwmsteam.com,
 04:13:43,tkemmerling,domain,nwvearly.com,
 04:13:43,tkemmerling,url,http://kwmsteam.com,
@@ -10102,6 +10119,8 @@
 04:22:15,tkemmerling,domain,southfloridafitnessbootcamp.com,
 04:22:15,tkemmerling,url,http://itnessequipmentfor.info,
 04:22:15,tkemmerling,url,http://southfloridafitnessbootcamp.com,
+04:22:20,patialavii,domain,uniabjpoliticalsciencejournals.com.ng,
+04:22:20,patialavii,url,https://uniabjpoliticalsciencejournals.com.ng/mein-emmental/,
 04:23:09,tkemmerling,domain,columbuswealthplanning.info,
 04:23:09,tkemmerling,domain,robertszutyiart.com,
 04:23:09,tkemmerling,url,http://columbuswealthplanning.info,
@@ -10150,6 +10169,10 @@
 04:49:52,tkemmerling,domain,onxsm.styleompl.com,
 04:49:52,tkemmerling,url,http://hriver.net,
 04:49:52,tkemmerling,url,http://onxsm.styleompl.com,
+05:14:09,skocherhan,url,http://github.com/auxconbetancursas-svg,,https://x.com/skocherhan/status/2090668760491254237
+05:14:09,skocherhan,url,http://github.com/bhjif9bahjksdagjuafhmisf,,https://x.com/skocherhan/status/2090668760491254237
+05:14:09,skocherhan,url,http://github.com/dthsdfhdgjfjdfg,,https://x.com/skocherhan/status/2090668760491254237
+05:14:09,skocherhan,url,http://github.com/srdhtfjkjghdfdsg,,https://x.com/skocherhan/status/2090668760491254237
 05:14:59,masaomi346,domain,accoun.bligi.cn,
 05:14:59,masaomi346,url,https://accoun.bligi.cn/yaw73eoujg,
 05:17:49,kb4threatlabs,domain,3347silver.shoplyo.com.de,
@@ -10176,6 +10199,14 @@
 05:17:49,kb4threatlabs,url,http://sharedocufill.exceltecbusinessbwpsolutions.vu/xraqdm,
 05:17:49,kb4threatlabs,url,http://tdto.prodesignscommunicate.de,
 05:17:49,kb4threatlabs,url,http://wkssa8wo7nzoxmb.libertyirow.com.de/135unfashionably/,
+06:14:22,tkemmerling,domain,checkoutacceleration.com,
+06:14:22,tkemmerling,domain,fcacarry.com,
+06:14:22,tkemmerling,domain,tastyvibescbd.com,
+06:14:22,tkemmerling,domain,transmitraisin.com,
+06:14:22,tkemmerling,url,http://checkoutacceleration.com,
+06:14:22,tkemmerling,url,http://fcacarry.com,
+06:14:22,tkemmerling,url,http://tastyvibescbd.com,
+06:14:22,tkemmerling,url,http://transmitraisin.com,
 06:14:36,metemcyber,domain,chiotetpapparel.shop,
 06:14:36,metemcyber,ip,43.165.186.124,
 06:14:36,metemcyber,url,http://43.165.186.124,
