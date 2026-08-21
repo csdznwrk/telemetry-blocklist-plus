@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-08-21 12:28 UTC
-# Domains: 14840
+# Updated: 2026-08-21 18:23 UTC
+# Domains: 14911
 
 -084-gls-223-www-9-k-0brasil.net.daraz.com
 -access-logs-1.net.daraz.com
@@ -10363,6 +10363,8 @@
 10:01:19,nextronresearch,sha256,daeac66441b88ba22806f6617058a2dbf1ea0ddcc6c94f291542ea853ac6f9d3,,https://x.com/nextronresearch/status/2089291476328939641
 10:01:19,nextronresearch,sha256,f34f550147c2792c1ff2a003d15be89e5573f0896c5aa6126068baa4621ef416,,https://x.com/nextronresearch/status/2089291476328939641
 10:22:03,bomccss,sha256,13ecbb587deb774311f31f25211516147d5b78ad1b24e9749cafaf7bdf062bf8,,https://x.com/bomccss/status/2090383855962468746
+10:38:36,spamhaus,domain,evergreenhorizonoutdoorcampinggear.com,,https://x.com/spamhaus/status/2090750407827972397
+10:38:36,spamhaus,url,http://evergreenhorizonoutdoorcampinggear.com,,https://x.com/spamhaus/status/2090750407827972397
 10:55:32,opcodeintel,ip,38.134.148.214,
 10:56:56,fact_finder03,ip,143.109.37.227,
 10:56:56,fact_finder03,ip,154.36.188.193,
@@ -10394,6 +10396,13 @@
 11:28:30,abuse_ch,url,http://dubl1allremriki.com/api/v2,,https://x.com/abuse_ch/status/2090038189347987611
 11:28:30,abuse_ch,url,http://dubl2allremriki.com/api/v2,,https://x.com/abuse_ch/status/2090038189347987611
 11:28:30,abuse_ch,url,http://woolvilli.com/api/v2,,https://x.com/abuse_ch/status/2090038189347987611
+11:31:43,them3gatr0n,domain,go-ns.org.ua,
+11:31:43,them3gatr0n,ip,138.201.132.148,
+11:31:43,them3gatr0n,url,http://138.201.132.148,
+11:31:43,them3gatr0n,url,http://go-ns.org.ua,
+11:31:43,them3gatr0n,url,http://ifconfig.me/system,
+11:31:43,them3gatr0n,url,https://www.facebook.com/gononstopukraine,
+11:31:43,them3gatr0n,url,https://www.tiktok.com/@gononstopukraine,
 11:53:37,metemcyber,domain,saissodbn202607oint.u0fnd.info,
 11:53:37,metemcyber,ip,43.165.196.142,
 11:53:37,metemcyber,url,http://43.165.196.142,
@@ -10429,6 +10438,25 @@
 12:19:14,coolcarlos17,domain,lojacasalima.com,
 12:22:01,coolcarlos17,domain,havan-com-br.site,
 12:22:01,coolcarlos17,url,"https://havan-com-br.site/produto.php?slug=escada-telesc-pica-extensiva-alum-nio-5m-dobr-vel-16-degraus"",",
+12:23:16,them3gatr0n,domain,ddmyukztqt.b17da333ec194ec4b767.d.requestbin.net,,https://x.com/them3gatr0n/status/2090776748212576720
+12:23:16,them3gatr0n,domain,ent34ndx3cz8k.x.pipedream.net,,https://x.com/them3gatr0n/status/2090776748212576720
+12:23:16,them3gatr0n,domain,muewgjlydqln.b17da333ec194ec4b767.d.requestbin.net,,https://x.com/them3gatr0n/status/2090776748212576720
+12:23:16,them3gatr0n,domain,ufzmtsfulfxk.b17da333ec194ec4b767.d.requestbin.net,,https://x.com/them3gatr0n/status/2090776748212576720
+12:23:16,them3gatr0n,domain,yzvomdohdwqm.b17da333ec194ec4b767.d.requestbin.net,,https://x.com/them3gatr0n/status/2090776748212576720
+12:23:16,them3gatr0n,domain,zexzehqwb.b17da333ec194ec4b767.d.requestbin.net,,https://x.com/them3gatr0n/status/2090776748212576720
+12:23:16,them3gatr0n,sha256,25d6a5a721954df918c9f433105a4ddc76552dbaaa605e35521aeab2b529b6d7,,https://x.com/them3gatr0n/status/2090776748212576720
+12:23:16,them3gatr0n,sha256,6cdf04b4cc459bebf1ac78e54997e242ee41aaecdd7f61e705987c47c2a33c9e,,https://x.com/them3gatr0n/status/2090776748212576720
+12:23:16,them3gatr0n,url,http://198.51.100.1:443,,https://x.com/them3gatr0n/status/2090776748212576720
+12:23:16,them3gatr0n,url,http://ddmyukztqt.b17da333ec194ec4b767.d.requestbin.net,,https://x.com/them3gatr0n/status/2090776748212576720
+12:23:16,them3gatr0n,url,http://ent34ndx3cz8k.x.pipedream.net,,https://x.com/them3gatr0n/status/2090776748212576720
+12:23:16,them3gatr0n,url,http://muewgjlydqln.b17da333ec194ec4b767.d.requestbin.net,,https://x.com/them3gatr0n/status/2090776748212576720
+12:23:16,them3gatr0n,url,http://ufzmtsfulfxk.b17da333ec194ec4b767.d.requestbin.net,,https://x.com/them3gatr0n/status/2090776748212576720
+12:23:16,them3gatr0n,url,http://yzvomdohdwqm.b17da333ec194ec4b767.d.requestbin.net,,https://x.com/them3gatr0n/status/2090776748212576720
+12:23:16,them3gatr0n,url,http://zexzehqwb.b17da333ec194ec4b767.d.requestbin.net,,https://x.com/them3gatr0n/status/2090776748212576720
+12:25:15,masaomi346,domain,codex-notes.com,
+12:25:15,masaomi346,domain,quill-flint.com,
+12:25:15,masaomi346,url,http://quill-flint.com,
+12:25:15,masaomi346,url,https://codex-notes.com,
 12:31:13,masaomi346,domain,quartfication.wmsrdj.cn,
 12:31:13,masaomi346,url,https://quartfication.wmsrdj.cn/ed9490/index,
 12:36:09,masaomi346,domain,neststudio16.com,
@@ -10439,6 +10467,7 @@
 12:43:32,masaomi346,url,http://chisel-84.com,
 12:43:59,byrne_emmy12099,domain,zxcvherfgh.scienceontheweb.net,
 12:43:59,byrne_emmy12099,url,http://zxcvherfgh.scienceontheweb.net/indown.php,
+12:51:40,fact_finder03,ip,185.254.99.32,
 12d60.appspot.com
 12d60.firebaseio.com
 13-5.org
@@ -10460,6 +10489,12 @@
 13:13:28,byrne_emmy12099,url,http://lkjhgb6yu.mywebcommunity.org/setting.php?banana=[hostname]&apple=[username]&domado=fruit,
 13:18:32,fact_finder03,ip,104.252.53.151,
 13:18:32,fact_finder03,ip,163.245.218.50,
+13:36:41,_akatsukilegion,domain,ceyq9jos-wildberries.nevadafencing.com,
+13:36:41,_akatsukilegion,domain,ceyq9jos-wildberries.rageforest.com,
+13:36:41,_akatsukilegion,domain,ceyq9jos-wildberries.txspay.com,
+13:36:41,_akatsukilegion,url,http://ceyq9jos-wildberries.nevadafencing.com,
+13:36:41,_akatsukilegion,url,http://ceyq9jos-wildberries.rageforest.com,
+13:36:41,_akatsukilegion,url,http://ceyq9jos-wildberries.txspay.com,
 13:40:09,masaomi346,domain,julxi.com,
 13:40:09,masaomi346,url,https://julxi.com/am2az-0nco-jp-jp/,
 13:49:35,byrne_emmy12099,domain,gyfguyhb.onlinewebshop.net,,https://x.com/byrne_emmy12099/status/2090073695104778625
@@ -10655,6 +10690,25 @@
 13:59:06,teamcymru_s2,ip,103.57.248.81,,https://x.com/teamcymru_s2/status/2083166104537473177
 14:02:59,byrne_emmy12099,ip,103.67.196.25,
 14:02:59,byrne_emmy12099,url,http://103.67.196.25//view.php?type=apple&seed=[,
+14:08:27,skocherhan,domain,manalyzer.org,,https://x.com/skocherhan/status/2090803218368303283
+14:14:42,teamcymru_s2,ip,121.196.226.244,,https://x.com/teamcymru_s2/status/2090804790607454681
+14:14:42,teamcymru_s2,ip,130.94.12.40,,https://x.com/teamcymru_s2/status/2090804790607454681
+14:14:42,teamcymru_s2,ip,157.90.66.142,,https://x.com/teamcymru_s2/status/2090804790607454681
+14:14:42,teamcymru_s2,ip,168.138.178.149,,https://x.com/teamcymru_s2/status/2090804790607454681
+14:14:42,teamcymru_s2,ip,172.245.10.140,,https://x.com/teamcymru_s2/status/2090804790607454681
+14:14:42,teamcymru_s2,ip,207.57.123.68,,https://x.com/teamcymru_s2/status/2090804790607454681
+14:14:42,teamcymru_s2,ip,207.57.129.216,,https://x.com/teamcymru_s2/status/2090804790607454681
+14:14:42,teamcymru_s2,ip,34.219.208.40,,https://x.com/teamcymru_s2/status/2090804790607454681
+14:14:42,teamcymru_s2,ip,38.55.199.55,,https://x.com/teamcymru_s2/status/2090804790607454681
+14:14:42,teamcymru_s2,ip,43.153.167.191,,https://x.com/teamcymru_s2/status/2090804790607454681
+14:14:42,teamcymru_s2,ip,45.144.136.244,,https://x.com/teamcymru_s2/status/2090804790607454681
+14:14:42,teamcymru_s2,ip,45.152.65.131,,https://x.com/teamcymru_s2/status/2090804790607454681
+14:14:42,teamcymru_s2,ip,47.83.193.108,,https://x.com/teamcymru_s2/status/2090804790607454681
+14:14:42,teamcymru_s2,ip,47.93.236.243,,https://x.com/teamcymru_s2/status/2090804790607454681
+14:14:42,teamcymru_s2,ip,68.64.183.70,,https://x.com/teamcymru_s2/status/2090804790607454681
+14:14:42,teamcymru_s2,ip,8.137.32.81,,https://x.com/teamcymru_s2/status/2090804790607454681
+14:14:42,teamcymru_s2,ip,83.229.124.25,,https://x.com/teamcymru_s2/status/2090804790607454681
+14:14:42,teamcymru_s2,ip,83.229.125.173,,https://x.com/teamcymru_s2/status/2090804790607454681
 14:15:17,skocherhan,domain,termsofservicedocs.finance,,https://x.com/skocherhan/status/2088630611787276670
 14:15:17,skocherhan,md5,374c7a1815373b88dd4723a405d8c7a3,,https://x.com/skocherhan/status/2088630611787276670
 14:15:17,skocherhan,url,http://github.com/aguentechlab1,,https://x.com/skocherhan/status/2088630611787276670
@@ -10668,6 +10722,12 @@
 14:28:32,singhsoodeep,url,http://turkey.research-department-tusas.workers.dev,,https://x.com/singhsoodeep/status/2089358723995107626
 14:28:32,singhsoodeep,url,http://vault.zip,,https://x.com/singhsoodeep/status/2089358723995107626
 14:35:06,smica83,sha256,5ab7b4677f8c02d57436dc1710e269c547ae54e8e753c6d5fbdfc07804602b8d,,https://x.com/smica83/status/2035099325290738036
+14:46:09,tkemmerling,domain,anadolucuhuriyeti.info,
+14:46:09,tkemmerling,url,http://anadolucuhuriyeti.info,
+14:46:28,tkemmerling,domain,itnessequipmentfor.info,
+14:46:28,tkemmerling,domain,terminandoconlatrata.com,
+14:46:28,tkemmerling,url,http://itnessequipmentfor.info,
+14:46:28,tkemmerling,url,http://terminandoconlatrata.com,
 15:13:09,teamcymru_s2,domain,025sep.duckdns.org,
 15:13:09,teamcymru_s2,domain,11243debestreeeemcoxxxx.duckdns.org,
 15:13:09,teamcymru_s2,ip,102.220.160.104,
@@ -10678,11 +10738,17 @@
 15:13:09,teamcymru_s2,ip,109.248.151.11,
 15:13:09,teamcymru_s2,url,http://025sep.duckdns.org,
 15:13:09,teamcymru_s2,url,http://11243debestreeeemcoxxxx.duckdns.org,
+15:30:43,tkemmerling,domain,malfeasantboogie.com,
+15:30:43,tkemmerling,domain,tkmmanage.org,
+15:30:43,tkemmerling,url,http://malfeasantboogie.com,
+15:30:43,tkemmerling,url,http://tkmmanage.org,
 15:33:13,l0psec,domain,nancyclipboard.com,,https://x.com/l0psec/status/2089737386775265740
 15:33:13,l0psec,sha256,c4d8131276e43961e9460e5e6735bc718afd9d9e6eaefeab476cc042c5c38635,,https://x.com/l0psec/status/2089737386775265740
 15:33:13,l0psec,url,http://nancyclipboard.com,,https://x.com/l0psec/status/2089737386775265740
 15:33:15,l0psec,domain,update-gateway.com,,https://x.com/l0psec/status/2089737394786275724
 15:33:15,l0psec,url,http://update-gateway.com/v3,,https://x.com/l0psec/status/2089737394786275724
+15:46:39,coolcarlos17,domain,havan-com.site,
+15:46:39,coolcarlos17,url,"https://havan-com.site/produto.php?slug=escada-multifuncional-de-alum-nio-4x4-com-16-degraus-dobr-vel"",
 15:51:32,patialavii,url,https://gk.bnznji.net/adobe/adobe-digital-exe/,
 15:57:19,skocherhan,domain,gk.bnznji.net,
 15:57:19,skocherhan,url,https://gk.bnznji.net/adobe/adobe-digital-exe/download,
@@ -10909,6 +10975,9 @@
 16:27:04,skocherhan,url,http://zoorn-meet.com/zoom/windows/invite.php,
 16:27:04,skocherhan,url,http://zoorning.com/zoom.invite/windows/invite.php,
 16:27:04,skocherhan,url,http://zzoomiinvitee.com/page/windows/invite.php,
+16:28:04,yusufcancakiir,ip,176.97.218.79,,https://x.com/yusufcancakiir/status/2090838356359868831
+16:28:04,yusufcancakiir,url,http://176.97.218.79:4782,,https://x.com/yusufcancakiir/status/2090838356359868831
+16:28:04,yusufcancakiir,url,http://176.97.218.79:8080,,https://x.com/yusufcancakiir/status/2090838356359868831
 16:30:36,blackorbird,domain,plugandpwn.com,,https://x.com/blackorbird/status/2089027052733424051
 16:30:36,blackorbird,url,http://plugandpwn.com,,https://x.com/blackorbird/status/2089027052733424051
 16:35:17,patialavii,domain,gsjwba.shop,
@@ -10958,6 +11027,8 @@
 17:16:14,teamcymru_s2,url,http://t0loka.live:7312,
 17:17:49,skocherhan,md5,89265d78ccb0349f8b9dc0e0d5793914,,https://x.com/skocherhan/status/2088676550057005391
 17:18:08,fact_finder03,ip,193.221.201.195,
+17:25:39,rebensk,domain,dichcxosghnd-dsvekdc.top,
+17:25:39,rebensk,url,https://dichcxosghnd-dsvekdc.top,
 17:30:15,fact_finder03,ip,108.165.179.230,
 17:31:05,patialavii,url,http://jokermav.online,
 17:31:05,patialavii,url,https://03webzoominvite.us/images/zoominstaller.msi,
