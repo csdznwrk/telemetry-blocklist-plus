@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-08-22 00:42 UTC
-# Domains: 14306
+# Updated: 2026-08-22 06:23 UTC
+# Domains: 14316
 
 -084-gls-223-www-9-k-0brasil.net.daraz.com
 -access-logs-1.net.daraz.com
@@ -8411,6 +8411,8 @@
 02:40:52,romonlyht,ip,134.122.194.173,
 02:40:52,romonlyht,ip,40.115.158.237,
 02:40:52,romonlyht,url,https://www.halsocrest.shop/domesticescv/shoufu/standardsets/reevglularcidio=pr1002,
+02:53:35,scanmalware,domain,cvqgs36nhw-wtrkblpw-3i2d0e-cvq79c.pages.dev,
+02:53:35,scanmalware,url,http://cvqgs36nhw-wtrkblpw-3i2d0e-cvq79c.pages.dev,
 02a169af111011.beer
 02a1a1ec23b8564d37d2f451f1db9dad.info
 02a2e259fd91062a.com
@@ -9688,6 +9690,8 @@
 03:41:53,patialavii,domain,file-iwl3-2.w-4mm9yl.workers.dev,
 03:41:53,patialavii,url,http://file-iwl3-2.w-4mm9yl.workers.dev,
 03:41:53,patialavii,url,https://docusign-server.github.io/rfp2026/,
+03:45:03,patialavii,domain,scr33nc0nn3ctz00m.com,,https://x.com/patialavii/status/2091008723959623721
+03:45:03,patialavii,url,http://scr33nc0nn3ctz00m.com,,https://x.com/patialavii/status/2091008723959623721
 03:50:03,ap_zenmashi,ip,216.126.237.93,,https://x.com/ap_zenmashi/status/2090647592703320179
 03:58:50,masaomi346,domain,exg3gtfcc9gtlyv5tu.live,
 03:58:50,masaomi346,url,https://exg3gtfcc9gtlyv5tu.live,
@@ -10119,6 +10123,8 @@
 04:23:09,tkemmerling,domain,robertszutyiart.com,
 04:23:09,tkemmerling,url,http://columbuswealthplanning.info,
 04:23:09,tkemmerling,url,http://robertszutyiart.com,
+04:23:30,patialavii,domain,live-zoorn.com,
+04:23:30,patialavii,url,http://live-zoorn.com,
 04:24:42,bomccss,domain,hsacnajklnsdcm8u.pages.dev,,https://x.com/bomccss/status/2090293927584923937
 04:24:42,bomccss,domain,hxn20160817021han.zip,,https://x.com/bomccss/status/2090293927584923937
 04:24:42,bomccss,url,http://hxn20160817021han.zip,,https://x.com/bomccss/status/2090293927584923937
@@ -10152,6 +10158,10 @@
 04:49:52,tkemmerling,domain,onxsm.styleompl.com,
 04:49:52,tkemmerling,url,http://hriver.net,
 04:49:52,tkemmerling,url,http://onxsm.styleompl.com,
+04:50:02,scanmalware,domain,gfytvd-wiyn-np4qjd-g9ewg7.pages.dev,
+04:50:02,scanmalware,url,http://gfytvd-wiyn-np4qjd-g9ewg7.pages.dev,
+05:04:51,masaomi346,domain,macielsoaresimobiliaria.com.br,
+05:04:51,masaomi346,url,https://macielsoaresimobiliaria.com.br/lolipop/,
 05:14:09,skocherhan,url,http://github.com/auxconbetancursas-svg,,https://x.com/skocherhan/status/2090668760491254237
 05:14:09,skocherhan,url,http://github.com/bhjif9bahjksdagjuafhmisf,,https://x.com/skocherhan/status/2090668760491254237
 05:14:09,skocherhan,url,http://github.com/dthsdfhdgjfjdfg,,https://x.com/skocherhan/status/2090668760491254237
