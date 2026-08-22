@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-08-22 06:23 UTC
-# Domains: 14316
+# Updated: 2026-08-22 12:20 UTC
+# Domains: 14365
 
 -084-gls-223-www-9-k-0brasil.net.daraz.com
 -access-logs-1.net.daraz.com
@@ -10233,6 +10233,10 @@
 06:50:03,ap_zenmashi,url,https://lixsjsd.duckdns.org,,https://x.com/ap_zenmashi/status/2090330506919580063
 06:53:50,masaomi346,domain,rq9wvjyc912c1ofpm5.live,
 06:53:50,masaomi346,url,https://rq9wvjyc912c1ofpm5.live,
+06:58:32,tkemmerling,domain,indelibleaggravate.net,
+06:58:32,tkemmerling,domain,liveryfunky.org,
+06:58:32,tkemmerling,url,http://indelibleaggravate.net,
+06:58:32,tkemmerling,url,http://liveryfunky.org,
 07:00:00,nextronresearch,ip,103.170.154.120,,https://x.com/nextronresearch/status/2089608233728053706
 07:00:00,nextronresearch,sha256,bf4f0558b49917ba40c694e8c7e837183aa476ed6354cdb07caa8d59aaafdcde,,https://x.com/nextronresearch/status/2089608233728053706
 07:00:00,nextronresearch,sha256,c5482d8ed604923573624e220b591427e46a9391215b438a1425ab14b508810d,,https://x.com/nextronresearch/status/2089608233728053706
@@ -10252,6 +10256,28 @@
 07:01:17,phishunt_io,domain,auth-ledgrelive-net.wasmer.app,
 07:01:17,phishunt_io,ip,62.210.172.147,
 07:01:17,phishunt_io,url,http://auth-ledgrelive-net.wasmer.app,
+07:05:35,tkemmerling,domain,gwzfish.org,
+07:05:35,tkemmerling,domain,vkvfaith.com,
+07:05:35,tkemmerling,url,http://gwzfish.org,
+07:05:35,tkemmerling,url,http://vkvfaith.com,
+07:06:18,tkemmerling,domain,itnessequipmentfor.info,
+07:06:18,tkemmerling,domain,twomenandatruckdaytons.com,
+07:06:18,tkemmerling,url,http://itnessequipmentfor.info,
+07:06:18,tkemmerling,url,http://twomenandatruckdaytons.com,
+07:06:40,tkemmerling,domain,flashstoreshopping.net,
+07:06:40,tkemmerling,domain,usdxag.com,
+07:06:40,tkemmerling,url,http://flashstoreshopping.net,
+07:06:40,tkemmerling,url,http://usdxag.com,
+07:07:05,tkemmerling,domain,edufloat.org,
+07:07:05,tkemmerling,domain,lesliebernini.org,
+07:07:05,tkemmerling,url,http://edufloat.org,
+07:07:05,tkemmerling,url,http://lesliebernini.org,
+07:07:25,tkemmerling,domain,bayberryalgebraic.com,
+07:07:25,tkemmerling,domain,landmailman.com,
+07:07:25,tkemmerling,domain,seen.com,
+07:07:25,tkemmerling,url,http://bayberryalgebraic.com,
+07:07:25,tkemmerling,url,http://landmailman.com,
+07:07:25,tkemmerling,url,http://seen.com,
 07:11:34,fact_finder03,ip,132.243.221.136,
 07:11:34,fact_finder03,ip,82.117.243.163,
 07:21:56,thantzin_ron,ip,103.236.64.164,,https://x.com/thantzin_ron/status/2090338529960509781
@@ -10269,11 +10295,23 @@
 07:35:56,sicehice,ip,77.239.124.108,,https://x.com/sicehice/status/2090342050973516113
 07:35:56,sicehice,md5,4569e49b75a4e59bb3b967aa250a37b6,,https://x.com/sicehice/status/2090342050973516113
 07:35:56,sicehice,url,http://77.239.124.108/atomic/atomic.sh,,https://x.com/sicehice/status/2090342050973516113
+07:44:59,patialavii,domain,paypal-details.com,
+07:44:59,patialavii,url,http://paypal-details.com,
 07:48:44,fact_finder03,ip,193.164.4.31,
 07:50:06,sicehice,ip,125.62.195.8,,https://x.com/sicehice/status/2089620840912507174
 07:50:06,sicehice,ip,42.233.122.130,,https://x.com/sicehice/status/2089620840912507174
 07:50:06,sicehice,md5,a27a52fcf49fda4cd81f6d6fb1701204,,https://x.com/sicehice/status/2089620840912507174
 07:50:06,sicehice,url,http://198.144.179.82/1.sh,,https://x.com/sicehice/status/2089620840912507174
+07:55:54,skocherhan,domain,paypal-check.com,
+07:55:54,skocherhan,domain,paypal-payout.com,
+07:55:54,skocherhan,url,http://paypal-check.com,
+07:55:54,skocherhan,url,http://paypal-payout.com,
+08:05:59,skocherhan,domain,paypal-invoice.com,
+08:05:59,skocherhan,domain,paypal-receipt.com,
+08:05:59,skocherhan,domain,paypal-receipt.xyz,
+08:05:59,skocherhan,url,http://paypal-invoice.com,
+08:05:59,skocherhan,url,http://paypal-receipt.com,
+08:05:59,skocherhan,url,http://paypal-receipt.xyz,
 08:20:21,fact_finder03,ip,103.214.68.193,
 08:24:40,blinkzsec,sha256,3fd0447568473c470d7eeaaf7d114e1ae11dcc44171a229b150b4d8b43f7e5d3,,https://x.com/blinkzsec/status/2088904764864037259
 08:24:40,blinkzsec,sha256,719bac8459f8bee69f160d8545663372ed19cc8ae7376b722b0e1ec38c100641,,https://x.com/blinkzsec/status/2088904764864037259
@@ -10331,12 +10369,23 @@
 09:32:19,tdatwja,sha256,98aea63f7c88d733504c08b165fd68a917e256f2cfaeaa742323ef6dddbbce29,,https://x.com/tdatwja/status/2090371340176146695
 09:32:19,tdatwja,sha256,b5400f8454276f1adf944d8ba393866ca423603254baf88bca7dc4c1cf762116,,https://x.com/tdatwja/status/2090371342298427831
 09:33:00,fact_finder03,ip,67.217.228.244,
+09:41:46,masaomi346,domain,cli-guides.com,
+09:41:46,masaomi346,domain,perchframe15.com,
+09:41:46,masaomi346,url,http://perchframe15.com,
+09:41:46,masaomi346,url,https://cli-guides.com,
 09:41:50,scanmalware,domain,xyx055.cc,
 09:41:50,scanmalware,url,http://xyx055.cc,
 09:44:02,masaomi346,domain,ultraspeed.pro,
 09:44:02,masaomi346,url,http://ultraspeed.pro,
+09:47:08,them3gatr0n,domain,quest-22.com,
+09:47:08,them3gatr0n,domain,triapfog.com,
+09:47:08,them3gatr0n,url,https://quest-22.com/curl/44tgqsi3ufvy/wv242quj7idscf3dze4.dat,
+09:47:08,them3gatr0n,url,https://triapfog.com/hex/traffic,
+09:47:08,them3gatr0n,url,https://triapfog.com/traffic/api,
 09:48:19,masaomi346,domain,quest-22.com,
 09:48:19,masaomi346,url,http://quest-22.com,
+09:52:05,masaomi346,domain,canvas-35.com,
+09:52:05,masaomi346,url,http://canvas-35.com,
 10:00:29,masaomi346,domain,shoretapestry.com,
 10:00:29,masaomi346,url,http://shoretapestry.com,
 10:01:19,nextronresearch,sha256,197f11a7b0003aa7da58a3302cfa2a96a670de91d39ddebc7a51ac1d9404a7e6,,https://x.com/nextronresearch/status/2089291476328939641
