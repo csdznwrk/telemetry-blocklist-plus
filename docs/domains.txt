@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-08-22 12:20 UTC
-# Domains: 14365
+# Updated: 2026-08-22 18:16 UTC
+# Domains: 14364
 
 -084-gls-223-www-9-k-0brasil.net.daraz.com
 -access-logs-1.net.daraz.com
@@ -10274,10 +10274,8 @@
 07:07:05,tkemmerling,url,http://lesliebernini.org,
 07:07:25,tkemmerling,domain,bayberryalgebraic.com,
 07:07:25,tkemmerling,domain,landmailman.com,
-07:07:25,tkemmerling,domain,seen.com,
 07:07:25,tkemmerling,url,http://bayberryalgebraic.com,
 07:07:25,tkemmerling,url,http://landmailman.com,
-07:07:25,tkemmerling,url,http://seen.com,
 07:11:34,fact_finder03,ip,132.243.221.136,
 07:11:34,fact_finder03,ip,82.117.243.163,
 07:21:56,thantzin_ron,ip,103.236.64.164,,https://x.com/thantzin_ron/status/2090338529960509781
@@ -10523,6 +10521,7 @@
 13:13:28,byrne_emmy12099,url,http://lkjhgb6yu.mywebcommunity.org/setting.php?banana=[hostname]&apple=[username]&domado=fruit,
 13:18:32,fact_finder03,ip,104.252.53.151,
 13:18:32,fact_finder03,ip,163.245.218.50,
+13:35:34,fact_finder03,ip,84.247.187.67,
 13:36:41,_akatsukilegion,domain,ceyq9jos-wildberries.nevadafencing.com,
 13:36:41,_akatsukilegion,domain,ceyq9jos-wildberries.rageforest.com,
 13:36:41,_akatsukilegion,domain,ceyq9jos-wildberries.txspay.com,
