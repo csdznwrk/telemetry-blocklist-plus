@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-08-23 00:47 UTC
-# Domains: 14079
+# Updated: 2026-08-23 06:25 UTC
+# Domains: 14082
 
 -084-gls-223-www-9-k-0brasil.net.daraz.com
 -access-logs-1.net.daraz.com
@@ -7441,6 +7441,7 @@
 019www11w.top
 019www22w.top
 01:29:16,coolcarlos17,domain,pabloclock.com,
+01:44:07,skocherhan,url,http://185.139.214.52,,https://x.com/skocherhan/status/2091340678051647907
 01a-v0-cat33.hostenko.net
 01a1ac792c0bf7f3.com
 01a231d15e8a9608.com
@@ -8390,6 +8391,8 @@
 029www11w.top
 029www22w.top
 029yt.com
+02:01:13,scanmalware,domain,uqj3u0wuaqdngwgfkw.vercel.app,
+02:01:13,scanmalware,url,http://uqj3u0wuaqdngwgfkw.vercel.app,
 02:08:56,romonlyht,domain,keczad.ynfgc.com,
 02:08:56,romonlyht,ip,175.135.248.24,
 02:08:56,romonlyht,url,https://highdpi-ads.com/uid_gm05yf7u/ss307?ticket=eq5ivbuf,
