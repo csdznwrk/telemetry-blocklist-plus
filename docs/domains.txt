@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-08-23 06:25 UTC
-# Domains: 14082
+# Updated: 2026-08-23 12:20 UTC
+# Domains: 14109
 
 -084-gls-223-www-9-k-0brasil.net.daraz.com
 -access-logs-1.net.daraz.com
@@ -10243,6 +10243,9 @@
 07:00:00,nextronresearch,url,http://103.170.154.120:443,,https://x.com/nextronresearch/status/2089608233728053706
 07:00:47,phishunt_io,domain,secure-login-facebook.bolt.host,
 07:00:47,phishunt_io,url,http://secure-login-facebook.bolt.host,
+07:00:51,phishunt_io,domain,xfinity101.duckdns.org,
+07:00:51,phishunt_io,ip,162.240.233.171,
+07:00:51,phishunt_io,url,http://xfinity101.duckdns.org/verify/payment,
 07:01:01,phishunt_io,domain,netflx-update.com,
 07:01:01,phishunt_io,ip,167.71.169.239,
 07:01:01,phishunt_io,url,http://netflx-update.com/fiscalio/netflixx,
@@ -10279,17 +10282,35 @@
 07:21:56,thantzin_ron,url,http://103.236.64.164:9999,,https://x.com/thantzin_ron/status/2090338529960509781
 07:30:14,metemcyber,domain,aeon.pvvjkwi.cn,
 07:30:14,metemcyber,url,https://aeon.pvvjkwi.cn/6crfgauf1c,
+07:33:44,tkemmerling,domain,itnessequipmentfor.info,
+07:33:44,tkemmerling,domain,terracollinge.com,
+07:33:44,tkemmerling,url,http://itnessequipmentfor.info,
+07:33:44,tkemmerling,url,http://terracollinge.com,
 07:34:01,sicehice,ip,31.77.227.102,,https://x.com/sicehice/status/2090341569106681904
 07:34:01,sicehice,ip,77.239.124.109,,https://x.com/sicehice/status/2090341569106681904
 07:34:01,sicehice,md5,6c49d14c0edfd2acfd8ea90305c302ef,,https://x.com/sicehice/status/2090341569106681904
 07:34:01,sicehice,url,http://31.77.227.102/dlink.sh,,https://x.com/sicehice/status/2090341569106681904
+07:34:04,tkemmerling,domain,banderasbayvacationrentals.com,
+07:34:04,tkemmerling,url,http://banderasbayvacationrentals.com,
 07:34:56,sicehice,ip,193.141.65.199,,https://x.com/sicehice/status/2090341799273365521
 07:34:56,sicehice,ip,217.60.195.113,,https://x.com/sicehice/status/2090341799273365521
 07:34:56,sicehice,md5,d0cf38716e43563331c02cf645ecd993,,https://x.com/sicehice/status/2090341799273365521
 07:34:56,sicehice,url,https://217.60.195.113/sh,,https://x.com/sicehice/status/2090341799273365521
+07:35:14,tkemmerling,domain,birdingincolombia.com,
+07:35:14,tkemmerling,url,http://birdingincolombia.com,
+07:35:38,tkemmerling,domain,styleompl.com,
+07:35:38,tkemmerling,domain,wahlimit.net,
+07:35:38,tkemmerling,domain,wonderho.com,
+07:35:38,tkemmerling,domain,wsudden.co.uk,
+07:35:38,tkemmerling,url,http://styleompl.com,
+07:35:38,tkemmerling,url,http://wahlimit.net,
+07:35:38,tkemmerling,url,http://wonderho.com,
+07:35:38,tkemmerling,url,http://wsudden.co.uk,
 07:35:56,sicehice,ip,77.239.124.108,,https://x.com/sicehice/status/2090342050973516113
 07:35:56,sicehice,md5,4569e49b75a4e59bb3b967aa250a37b6,,https://x.com/sicehice/status/2090342050973516113
 07:35:56,sicehice,url,http://77.239.124.108/atomic/atomic.sh,,https://x.com/sicehice/status/2090342050973516113
+07:35:57,tkemmerling,domain,allweddingsites.com,
+07:35:57,tkemmerling,url,http://allweddingsites.com,
 07:44:59,patialavii,domain,paypal-details.com,
 07:44:59,patialavii,url,http://paypal-details.com,
 07:48:44,fact_finder03,ip,193.164.4.31,
@@ -10308,6 +10329,8 @@
 08:05:59,skocherhan,url,http://paypal-receipt.com,
 08:05:59,skocherhan,url,http://paypal-receipt.xyz,
 08:20:21,fact_finder03,ip,103.214.68.193,
+08:21:57,breachhistorybh,domain,ihs911.com,
+08:21:57,breachhistorybh,url,http://ihs911.com,
 08:25:06,tdatwja,domain,hsacnajklnsdcm8u.pages.dev,,https://x.com/tdatwja/status/2089992039144542615
 08:25:06,tdatwja,domain,hxn20160817021han.zip,,https://x.com/tdatwja/status/2089992039144542615
 08:25:06,tdatwja,md5,574a091a2f1cacfd34b18fe0a10df7ff,,https://x.com/tdatwja/status/2089992039144542615
@@ -10368,6 +10391,7 @@
 09:41:50,scanmalware,url,http://xyx055.cc,
 09:44:02,masaomi346,domain,ultraspeed.pro,
 09:44:02,masaomi346,url,http://ultraspeed.pro,
+09:44:38,fact_finder03,ip,188.190.23.236,
 09:47:08,them3gatr0n,domain,quest-22.com,
 09:47:08,them3gatr0n,domain,triapfog.com,
 09:47:08,them3gatr0n,url,https://quest-22.com/curl/44tgqsi3ufvy/wv242quj7idscf3dze4.dat,
@@ -10377,6 +10401,7 @@
 09:48:19,masaomi346,url,http://quest-22.com,
 09:52:05,masaomi346,domain,canvas-35.com,
 09:52:05,masaomi346,url,http://canvas-35.com,
+09:53:06,fact_finder03,ip,187.79.192.24,
 10:00:29,masaomi346,domain,shoretapestry.com,
 10:00:29,masaomi346,url,http://shoretapestry.com,
 10:01:19,nextronresearch,sha256,197f11a7b0003aa7da58a3302cfa2a96a670de91d39ddebc7a51ac1d9404a7e6,,https://x.com/nextronresearch/status/2089291476328939641
@@ -10389,6 +10414,8 @@
 10:01:19,nextronresearch,sha256,bc090d75f51c293d916c40d4b21094faaec191a42d97448c92d264875bf1f17b,,https://x.com/nextronresearch/status/2089291476328939641
 10:01:19,nextronresearch,sha256,daeac66441b88ba22806f6617058a2dbf1ea0ddcc6c94f291542ea853ac6f9d3,,https://x.com/nextronresearch/status/2089291476328939641
 10:01:19,nextronresearch,sha256,f34f550147c2792c1ff2a003d15be89e5573f0896c5aa6126068baa4621ef416,,https://x.com/nextronresearch/status/2089291476328939641
+10:14:02,masaomi346,domain,o3dul.com,
+10:14:02,masaomi346,url,https://o3dul.com/eien13aop/register,
 10:22:03,bomccss,sha256,13ecbb587deb774311f31f25211516147d5b78ad1b24e9749cafaf7bdf062bf8,,https://x.com/bomccss/status/2090383855962468746
 10:38:36,spamhaus,domain,evergreenhorizonoutdoorcampinggear.com,,https://x.com/spamhaus/status/2090750407827972397
 10:38:36,spamhaus,url,http://evergreenhorizonoutdoorcampinggear.com,,https://x.com/spamhaus/status/2090750407827972397
