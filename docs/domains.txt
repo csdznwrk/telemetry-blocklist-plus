@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-08-23 12:20 UTC
-# Domains: 14109
+# Updated: 2026-08-23 18:16 UTC
+# Domains: 14183
 
 -084-gls-223-www-9-k-0brasil.net.daraz.com
 -access-logs-1.net.daraz.com
@@ -10436,6 +10436,7 @@
 11:07:44,reliaquesttr,url,http://216.152.151.204,
 11:07:44,reliaquesttr,url,http://5.180.41.35,
 11:07:44,reliaquesttr,url,http://78.128.113.10,
+11:14:08,akaclandestine,ip,185.208.158.27,
 11:25:10,lizettle_,url,https://lnkd.in/e2mn_cwi,
 11:28:30,abuse_ch,domain,allremdeskriki.com,,https://x.com/abuse_ch/status/2090038189347987611
 11:28:30,abuse_ch,domain,dubl1allremriki.com,,https://x.com/abuse_ch/status/2090038189347987611
@@ -10505,6 +10506,9 @@
 12:25:15,masaomi346,url,https://codex-notes.com,
 12:31:13,masaomi346,domain,quartfication.wmsrdj.cn,
 12:31:13,masaomi346,url,https://quartfication.wmsrdj.cn/ed9490/index,
+12:34:55,them3gatr0n,sha256,9c6dbbe1985ffd3ea289153199a46bef92a77bbd030a00292424bc7c631f8258,,https://x.com/them3gatr0n/status/2091504455619412393
+12:34:55,them3gatr0n,url,https://discord.gg/freeup,,https://x.com/them3gatr0n/status/2091504455619412393
+12:34:55,them3gatr0n,url,https://us.creative.com/p/sound-blaster,,https://x.com/them3gatr0n/status/2091504455619412393
 12:36:09,masaomi346,domain,neststudio16.com,
 12:36:09,masaomi346,domain,parentpreneurx.com,
 12:36:09,masaomi346,url,http://neststudio16.com,
@@ -10540,6 +10544,7 @@
 13:36:41,_akatsukilegion,url,http://ceyq9jos-wildberries.txspay.com,
 13:40:09,masaomi346,domain,julxi.com,
 13:40:09,masaomi346,url,https://julxi.com/am2az-0nco-jp-jp/,
+13:47:03,skocherhan,url,https://us.creative.com/p/sound-blastermetadata,,https://x.com/skocherhan/status/2091522610945298772
 13:49:35,byrne_emmy12099,domain,gyfguyhb.onlinewebshop.net,,https://x.com/byrne_emmy12099/status/2090073695104778625
 13:49:35,byrne_emmy12099,url,http://gyfguyhb.onlinewebshop.net/setting.php?banana=[hostname]&apple=[username]&domado=fruit,,https://x.com/byrne_emmy12099/status/2090073695104778625
 14:02:59,byrne_emmy12099,ip,103.67.196.25,
@@ -10563,6 +10568,68 @@
 14:14:42,teamcymru_s2,ip,8.137.32.81,,https://x.com/teamcymru_s2/status/2090804790607454681
 14:14:42,teamcymru_s2,ip,83.229.124.25,,https://x.com/teamcymru_s2/status/2090804790607454681
 14:14:42,teamcymru_s2,ip,83.229.125.173,,https://x.com/teamcymru_s2/status/2090804790607454681
+14:18:59,byrne_emmy12099,domain,tony.stackluma.sbs,
+14:18:59,byrne_emmy12099,url,http://tony.stackluma.sbs/rooms/res/get-command.php?uid=[uid,
+14:24:01,skocherhan,domain,backend.bytecove.cyou,
+14:24:01,skocherhan,domain,backend.cubansyndicate.group,
+14:24:01,skocherhan,domain,bg.bytecove.cyou,
+14:24:01,skocherhan,domain,byfconsultores.net,
+14:24:01,skocherhan,domain,bytecove.cyou,
+14:24:01,skocherhan,domain,cart.cloudmora.site,
+14:24:01,skocherhan,domain,checkout.nexovanta.bond,
+14:24:01,skocherhan,domain,cloudmora.site,
+14:24:01,skocherhan,domain,cubansyndicate.group,
+14:24:01,skocherhan,domain,investment.cloudmora.site,
+14:24:01,skocherhan,domain,khuh.nexovanta.bond,
+14:24:01,skocherhan,domain,kids.techteeth.site,
+14:24:01,skocherhan,domain,letitclean.site,
+14:24:01,skocherhan,domain,mining.bytecove.cyou,
+14:24:01,skocherhan,domain,nid-naver.mainguardsec.site,
+14:24:01,skocherhan,domain,nid.naver.mainguardsec.site,
+14:24:01,skocherhan,domain,pas.coolnaruto.shop,
+14:24:01,skocherhan,domain,play.softcube.fr,
+14:24:01,skocherhan,domain,readermarks.xyz,
+14:24:01,skocherhan,domain,safe-document.shop,
+14:24:01,skocherhan,domain,safe.techteeth.site,
+14:24:01,skocherhan,domain,shop.stackluma.sbs,
+14:24:01,skocherhan,domain,softcube.fr,
+14:24:01,skocherhan,domain,talk.narutosasuke.shop,
+14:24:01,skocherhan,domain,triple.techteeth.site,
+14:24:01,skocherhan,domain,vmi3377634.contaboserver.net,
+14:24:01,skocherhan,domain,vmi360243.contaboserver.net,
+14:24:01,skocherhan,domain,vmi399424.contaboserver.net,
+14:24:01,skocherhan,domain,vpn.mihailgolban.com,
+14:24:01,skocherhan,ip,62.171.167.73,
+14:24:01,skocherhan,url,http://62.171.167.73,
+14:24:01,skocherhan,url,http://backend.bytecove.cyou,
+14:24:01,skocherhan,url,http://backend.cubansyndicate.group,
+14:24:01,skocherhan,url,http://bg.bytecove.cyou,
+14:24:01,skocherhan,url,http://byfconsultores.net,
+14:24:01,skocherhan,url,http://bytecove.cyou,
+14:24:01,skocherhan,url,http://cart.cloudmora.site,
+14:24:01,skocherhan,url,http://checkout.nexovanta.bond,
+14:24:01,skocherhan,url,http://cloudmora.site,
+14:24:01,skocherhan,url,http://cubansyndicate.group,
+14:24:01,skocherhan,url,http://investment.cloudmora.site,
+14:24:01,skocherhan,url,http://khuh.nexovanta.bond,
+14:24:01,skocherhan,url,http://kids.techteeth.site,
+14:24:01,skocherhan,url,http://letitclean.site,
+14:24:01,skocherhan,url,http://mining.bytecove.cyou,
+14:24:01,skocherhan,url,http://nid-naver.mainguardsec.site,
+14:24:01,skocherhan,url,http://nid.naver.mainguardsec.site,
+14:24:01,skocherhan,url,http://pas.coolnaruto.shop,
+14:24:01,skocherhan,url,http://play.softcube.fr,
+14:24:01,skocherhan,url,http://readermarks.xyz,
+14:24:01,skocherhan,url,http://safe-document.shop,
+14:24:01,skocherhan,url,http://safe.techteeth.site,
+14:24:01,skocherhan,url,http://shop.stackluma.sbs,
+14:24:01,skocherhan,url,http://softcube.fr,
+14:24:01,skocherhan,url,http://talk.narutosasuke.shop,
+14:24:01,skocherhan,url,http://triple.techteeth.site,
+14:24:01,skocherhan,url,http://vmi3377634.contaboserver.net,
+14:24:01,skocherhan,url,http://vmi360243.contaboserver.net,
+14:24:01,skocherhan,url,http://vmi399424.contaboserver.net,
+14:24:01,skocherhan,url,http://vpn.mihailgolban.com,
 14:28:32,singhsoodeep,domain,supprot.new-turkey-tr.workers.dev,,https://x.com/singhsoodeep/status/2089358723995107626
 14:28:32,singhsoodeep,domain,turkey.research-department-tusas.workers.dev,,https://x.com/singhsoodeep/status/2089358723995107626
 14:28:32,singhsoodeep,domain,vault.zip,,https://x.com/singhsoodeep/status/2089358723995107626
@@ -10836,8 +10903,11 @@
 17:00:28,marcandrebeaul1,ip,103.22.175.82,
 17:00:28,marcandrebeaul1,ip,104.28.165.147,
 17:00:54,phishunt_io,domain,hotmail-session-ftmew3sm-2fexofgrs-----bzalpryr2e.kharwadejewellers.com,
+17:00:54,phishunt_io,domain,tavareslopes.adv.br,
+17:00:54,phishunt_io,ip,192.185.216.47,
 17:00:54,phishunt_io,ip,216.126.227.232,
 17:00:54,phishunt_io,url,http://hotmail-session-ftmew3sm-2fexofgrs-----bzalpryr2e.kharwadejewellers.com,
+17:00:54,phishunt_io,url,http://tavareslopes.adv.br/co/wetransfer/,
 17:00:56,phishunt_io,domain,843824910-google.com,
 17:00:56,phishunt_io,url,http://843824910-google.com,
 17:01:54,phishunt_io,domain,trezo-homenew.zapier.app,
@@ -10862,6 +10932,8 @@
 17:33:24,skocherhan,url,http://jokermav.online
 17:33:24,skocherhan,url,https://03webzoominvite.us/images/zoominstaller.msisha256,
 17:33:24,skocherhan,url,https://03webzoominvite.us/invite.php,
+17:34:00,skocherhan,ip,217.119.129.122,,https://x.com/skocherhan/status/2091579723012825229
+17:34:00,skocherhan,url,http://217.119.129.122,,https://x.com/skocherhan/status/2091579723012825229
 17:38:04,ex_raritas,domain,prebuga.net,,https://x.com/ex_raritas/status/2089768806818168985
 17:38:04,ex_raritas,domain,semado.net,,https://x.com/ex_raritas/status/2089768806818168985
 17:38:04,ex_raritas,domain,tcpsync.com,,https://x.com/ex_raritas/status/2089768806818168985
@@ -11047,7 +11119,9 @@
 17:58:38,onodera460,ip,1.1.4.1,,https://x.com/onodera460/status/2090498758140154125
 18:00:05,phatomcandle,domain,auth-accounts.dynuddns.com,
 18:00:05,phatomcandle,url,http://www.auth-accounts.dynuddns.com,
+18:00:07,phatomcandle,domain,k-cloud.auth-accounts.dynuddns.com,
 18:00:07,phatomcandle,domain,packetcheck.online,
+18:00:07,phatomcandle,url,http://k-cloud.auth-accounts.dynuddns.com,
 18:00:07,phatomcandle,url,http://packetcheck.online,
 18:11:24,threatlabz,domain,api.us8266iw.xyz,,https://x.com/threatlabz/status/2090864360738677070
 18:11:24,threatlabz,domain,dl.vvtoken.top,,https://x.com/threatlabz/status/2090864360738677070
