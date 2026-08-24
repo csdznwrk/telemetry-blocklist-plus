@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-08-24 12:29 UTC
-# Domains: 13916
+# Updated: 2026-08-24 18:26 UTC
+# Domains: 13966
 
 -084-gls-223-www-9-k-0brasil.net.daraz.com
 -access-logs-1.net.daraz.com
@@ -10645,7 +10645,19 @@
 12:36:09,masaomi346,domain,parentpreneurx.com,
 12:36:09,masaomi346,url,http://neststudio16.com,
 12:36:09,masaomi346,url,https://parentpreneurx.com,
+12:37:30,singhsoodeep,md5,dc6bf7339f6680086a09d5ad905d8786,,https://x.com/singhsoodeep/status/2091867494042538308
+12:37:30,singhsoodeep,url,http://github.com/cqasdgqa-code/,,https://x.com/singhsoodeep/status/2091867494042538308
+12:46:51,metemcyber,ip,43.165.196.142,
+12:46:51,metemcyber,url,http://43.165.196.142,
 12:51:40,fact_finder03,ip,185.254.99.32,
+12:53:24,patialavii,domain,meeting-scheduling-zoom.com,,https://x.com/patialavii/status/2091871494674829735
+12:53:24,patialavii,url,http://meeting-scheduling-zoom.com,,https://x.com/patialavii/status/2091871494674829735
+12:53:48,metemcyber,domain,frameworklover.com,
+12:53:48,metemcyber,url,https://frameworklover.com/if4ql,
+12:58:20,metemcyber,domain,accoun.rigpmvs.cn,
+12:58:20,metemcyber,ip,43.165.187.254,
+12:58:20,metemcyber,url,http://43.165.187.254,
+12:58:20,metemcyber,url,https://accoun.rigpmvs.cn/fnuf6cteub,
 12d60.appspot.com
 12d60.firebaseio.com
 13-5.org
@@ -10665,6 +10677,10 @@
 13:00:11,g0njxa,url,http://zddfgrw.com,,https://x.com/g0njxa/status/2089698874914947397
 13:13:28,byrne_emmy12099,domain,lkjhgb6yu.mywebcommunity.org,
 13:13:28,byrne_emmy12099,url,http://lkjhgb6yu.mywebcommunity.org/setting.php?banana=[hostname]&apple=[username]&domado=fruit,
+13:24:50,abuse_ch,ip,136.175.82.88,,https://x.com/abuse_ch/status/2091879406666977539
+13:24:50,abuse_ch,sha256,ac1f8b34486eabbb9ae6c3880a4b57dbf044cbfcc7f103ab3c93ed4f26285c3b,,https://x.com/abuse_ch/status/2091879406666977539
+13:31:03,suyog41,url,https://github.com/t1-317,
+13:31:03,suyog41,url,https://github.com/up-6626,
 13:35:34,fact_finder03,ip,84.247.187.67,
 13:36:41,_akatsukilegion,domain,ceyq9jos-wildberries.nevadafencing.com,
 13:36:41,_akatsukilegion,domain,ceyq9jos-wildberries.rageforest.com,
@@ -10677,6 +10693,9 @@
 13:47:03,skocherhan,url,https://us.creative.com/p/sound-blastermetadata,,https://x.com/skocherhan/status/2091522610945298772
 13:49:35,byrne_emmy12099,domain,gyfguyhb.onlinewebshop.net,,https://x.com/byrne_emmy12099/status/2090073695104778625
 13:49:35,byrne_emmy12099,url,http://gyfguyhb.onlinewebshop.net/setting.php?banana=[hostname]&apple=[username]&domado=fruit,,https://x.com/byrne_emmy12099/status/2090073695104778625
+13:57:16,suyog41,domain,lewokodwqko.icu,
+13:57:16,suyog41,url,http://lewokodwqko.icu,
+14:01:25,suyog41,md5,06b32d2c3ed5de1b8eda0665b5758272,,https://x.com/suyog41/status/2091888612954816714
 14:02:59,byrne_emmy12099,ip,103.67.196.25,
 14:02:59,byrne_emmy12099,url,http://103.67.196.25//view.php?type=apple&seed=[,
 14:08:27,skocherhan,domain,manalyzer.org,,https://x.com/skocherhan/status/2090803218368303283
@@ -10698,6 +10717,8 @@
 14:14:42,teamcymru_s2,ip,8.137.32.81,,https://x.com/teamcymru_s2/status/2090804790607454681
 14:14:42,teamcymru_s2,ip,83.229.124.25,,https://x.com/teamcymru_s2/status/2090804790607454681
 14:14:42,teamcymru_s2,ip,83.229.125.173,,https://x.com/teamcymru_s2/status/2090804790607454681
+14:15:47,fbgwls245,domain,leekrdlpsy3xcxwcvfje7ovj34fo4y2xqaghdikhf3t7hatev346h6qd.onion,,https://x.com/fbgwls245/status/2091892227249418547
+14:15:47,fbgwls245,url,http://leekrdlpsy3xcxwcvfje7ovj34fo4y2xqaghdikhf3t7hatev346h6qd.onion,,https://x.com/fbgwls245/status/2091892227249418547
 14:18:59,byrne_emmy12099,domain,tony.stackluma.sbs,
 14:18:59,byrne_emmy12099,url,http://tony.stackluma.sbs/rooms/res/get-command.php?uid=[uid,
 14:24:01,skocherhan,domain,backend.bytecove.cyou,
@@ -10761,6 +10782,12 @@
 14:24:01,skocherhan,url,http://vmi399424.contaboserver.net,
 14:24:01,skocherhan,url,http://vpn.mihailgolban.com,
 14:35:06,smica83,sha256,5ab7b4677f8c02d57436dc1710e269c547ae54e8e753c6d5fbdfc07804602b8d,,https://x.com/smica83/status/2035099325290738036
+14:42:24,teamcymru_s2,ip,113.161.194.129,,https://x.com/teamcymru_s2/status/2091898925456171274
+14:42:24,teamcymru_s2,ip,138.197.222.134,,https://x.com/teamcymru_s2/status/2091898925456171274
+14:42:24,teamcymru_s2,ip,193.203.27.244,,https://x.com/teamcymru_s2/status/2091898925456171274
+14:42:24,teamcymru_s2,ip,54.210.202.78,,https://x.com/teamcymru_s2/status/2091898925456171274
+14:42:24,teamcymru_s2,ip,71.216.194.123,,https://x.com/teamcymru_s2/status/2091898925456171274
+14:42:24,teamcymru_s2,ip,88.138.248.128,,https://x.com/teamcymru_s2/status/2091898925456171274
 14:46:09,tkemmerling,domain,anadolucuhuriyeti.info,
 14:46:09,tkemmerling,url,http://anadolucuhuriyeti.info,
 14:46:28,tkemmerling,domain,itnessequipmentfor.info,
@@ -10781,15 +10808,34 @@
 16:02:15,txhaflaire,sha256,27059247ac89ae48c6edab9beae27914982f85048600ddb8e5311202c12f2b1d,,https://x.com/txhaflaire/status/2089744695354101866
 16:12:36,scanmalware,domain,sp13ct-zormel-biz-fravvik-lardik.pages.dev,
 16:12:36,scanmalware,url,http://sp13ct-zormel-biz-fravvik-lardik.pages.dev,
+16:16:31,malwarehunterr,url,http://help.cbspokane.com/shared/email/blast/clickthru.php?hash=31fd96eb72300ac8010a9f493cac818a&returnpage=%2f%2fgmas34.ju.mp,
+16:16:31,malwarehunterr,url,https://gmas34.ju.mp,
+16:16:31,malwarehunterr,url,https://mvkpop.es/d00b9d48-bd85-4eaa-b80b-8220987ea812,
 16:19:38,skocherhan,domain,wer-ldr.duckdns.org,
 16:19:38,skocherhan,domain,wereng.duckdns.org,
 16:19:38,skocherhan,url,http://wer-ldr.duckdns.org,
 16:19:38,skocherhan,url,http://wereng.duckdns.org,
 16:21:03,threatopsx,domain,microsoftdesk.vintagefabrcations.com,
 16:21:03,threatopsx,url,http://microsoftdesk.vintagefabrcations.com,
+16:21:33,skocherhan,domain,gmas34.ju.mp,
+16:21:33,skocherhan,domain,help.cbspokane.com,
+16:21:33,skocherhan,domain,mvkpop.es,
+16:21:33,skocherhan,url,http://gmas34.ju.mp,
+16:21:33,skocherhan,url,http://help.cbspokane.com,
+16:21:33,skocherhan,url,http://help.cbspokane.com/shared/email/blast/clickthru.php?hash=31fd96eb72300ac8010a9f493cac818a&returnpage=%2f%2fgmas34.ju.mpgmas34.ju.mp,
+16:21:33,skocherhan,url,http://mvkpop.es,
+16:21:33,skocherhan,url,https://mvkpop.es/d00b9d48-bd85-4eaa-b80b-8220987ea812
 16:28:04,yusufcancakiir,ip,176.97.218.79,,https://x.com/yusufcancakiir/status/2090838356359868831
 16:28:04,yusufcancakiir,url,http://176.97.218.79:4782,,https://x.com/yusufcancakiir/status/2090838356359868831
 16:28:04,yusufcancakiir,url,http://176.97.218.79:8080,,https://x.com/yusufcancakiir/status/2090838356359868831
+16:29:45,skocherhan,domain,0zbqnac1t4dv2t2wuodv1m.com,
+16:29:45,skocherhan,domain,shlianban.com,
+16:29:45,skocherhan,url,http://0zbqnac1t4dv2t2wuodv1m.com,
+16:29:45,skocherhan,url,http://shlianban.com,
+16:46:59,malwarehunterr,domain,mountalnwest.com,
+16:46:59,malwarehunterr,domain,visit-docelementmazase.lapacheca.com.br,
+16:46:59,malwarehunterr,url,http://mountalnwest.com,
+16:46:59,malwarehunterr,url,https://visit-docelementmazase.lapacheca.com.br/document/vos/veriferi,
 17:00:28,marcandrebeaul1,ip,103.22.175.82,
 17:00:28,marcandrebeaul1,ip,104.28.165.147,
 17:00:54,phishunt_io,domain,hotmail-session-ftmew3sm-2fexofgrs-----bzalpryr2e.kharwadejewellers.com,
@@ -10798,9 +10844,13 @@
 17:00:54,phishunt_io,ip,216.126.227.232,
 17:00:54,phishunt_io,url,http://hotmail-session-ftmew3sm-2fexofgrs-----bzalpryr2e.kharwadejewellers.com,
 17:00:54,phishunt_io,url,http://tavareslopes.adv.br/co/wetransfer/,
+17:01:20,phishunt_io,domain,allegrolokalnie.ploferta3217832819.sbs,
+17:01:20,phishunt_io,url,http://allegrolokalnie.ploferta3217832819.sbs,
 17:01:54,phishunt_io,domain,trezo-homenew.zapier.app,
 17:01:54,phishunt_io,ip,64.239.123.129,
 17:01:54,phishunt_io,url,http://trezo-homenew.zapier.app,
+17:23:31,patialavii,url,https://invite.fonoon.ae,
+17:23:31,patialavii,url,https://invite.fonoon.ae/windows/download.php,
 17:25:39,rebensk,domain,dichcxosghnd-dsvekdc.top,
 17:25:39,rebensk,url,https://dichcxosghnd-dsvekdc.top,
 17:31:05,patialavii,url,http://jokermav.online,
