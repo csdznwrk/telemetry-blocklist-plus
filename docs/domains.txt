@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-08-25 12:29 UTC
-# Domains: 13856
+# Updated: 2026-08-25 18:25 UTC
+# Domains: 13893
 
 -084-gls-223-www-9-k-0brasil.net.daraz.com
 -access-logs-1.net.daraz.com
@@ -10765,6 +10765,9 @@
 12:25:15,masaomi346,url,https://codex-notes.com,
 12:31:13,masaomi346,domain,quartfication.wmsrdj.cn,
 12:31:13,masaomi346,url,https://quartfication.wmsrdj.cn/ed9490/index,
+12:34:04,kirkderpca,url,https://www.npmjs.com/package/hydration-cls-ui/v/1.0.0,,https://x.com/kirkderpca/status/2092229020687417560
+12:34:04,kirkderpca,url,https://www.npmjs.com/package/svelte-cls-ui/v/1.0.0,,https://x.com/kirkderpca/status/2092229020687417560
+12:34:22,kirkderpca,url,https://www.npmjs.com/package/chai-as-otc/v/1.0.5,,https://x.com/kirkderpca/status/2092229096013004826
 12:34:55,them3gatr0n,sha256,9c6dbbe1985ffd3ea289153199a46bef92a77bbd030a00292424bc7c631f8258,,https://x.com/them3gatr0n/status/2091504455619412393
 12:34:55,them3gatr0n,url,https://discord.gg/freeup,,https://x.com/them3gatr0n/status/2091504455619412393
 12:34:55,them3gatr0n,url,https://us.creative.com/p/sound-blaster,,https://x.com/them3gatr0n/status/2091504455619412393
@@ -10785,10 +10788,21 @@
 12d60.firebaseio.com
 13-5.org
 13-5.ru
+13:06:38,them3gatr0n,domain,frontend148.blob.core.windows.net,,https://x.com/them3gatr0n/status/2092237213174214656
+13:06:38,them3gatr0n,domain,outsourcestock.blob.core.windows.net,,https://x.com/them3gatr0n/status/2092237213174214656
+13:06:38,them3gatr0n,sha256,3b7f71828c3f3cb846eeaadd4836c955dc42195a5a9f4e4670d1f26a6c9b6acc,,https://x.com/them3gatr0n/status/2092237213174214656
+13:06:38,them3gatr0n,sha256,3c3fbde75d23a79a5d44f67658b6ee65bf1d3a84a4bc725a76ee4a70a6861b2f,,https://x.com/them3gatr0n/status/2092237213174214656
+13:06:38,them3gatr0n,sha256,a8c0e64c29d4da9b6ba7843b1c8453ecb0954abec87e0f8c378579ddbf91491e,,https://x.com/them3gatr0n/status/2092237213174214656
+13:06:38,them3gatr0n,sha256,af66498a766b7b6153a3c01b77050ff4759e76622c7894f2aa0e4556363fbecc,,https://x.com/them3gatr0n/status/2092237213174214656
+13:06:38,them3gatr0n,sha256,b24c37a9a530b9cf7ef23cdcfe23754ac42bf7f06dbc8b0ca09b887c0a6a20f1,,https://x.com/them3gatr0n/status/2092237213174214656
+13:06:38,them3gatr0n,url,http://frontend148.blob.core.windows.net/main/remote_stager.py,,https://x.com/them3gatr0n/status/2092237213174214656
+13:06:38,them3gatr0n,url,http://outsourcestock.blob.core.windows.net/outsourced/python-tk-runtime.zip,,https://x.com/them3gatr0n/status/2092237213174214656
 13:13:28,byrne_emmy12099,domain,lkjhgb6yu.mywebcommunity.org,
 13:13:28,byrne_emmy12099,url,http://lkjhgb6yu.mywebcommunity.org/setting.php?banana=[hostname]&apple=[username]&domado=fruit,
 13:24:50,abuse_ch,ip,136.175.82.88,,https://x.com/abuse_ch/status/2091879406666977539
 13:24:50,abuse_ch,sha256,ac1f8b34486eabbb9ae6c3880a4b57dbf044cbfcc7f103ab3c93ed4f26285c3b,,https://x.com/abuse_ch/status/2091879406666977539
+13:27:13,byrne_emmy12099,ip,217.60.36.94,
+13:27:43,shadowopcode,sha256,d86f647f3dfa6a53de7b531cb590636331f83afcea60d4b3d44de5ea3b7d33af,,https://x.com/shadowopcode/status/1968611205280338187
 13:31:03,suyog41,url,https://github.com/t1-317,
 13:31:03,suyog41,url,https://github.com/up-6626,
 13:35:34,fact_finder03,ip,84.247.187.67,
@@ -10800,6 +10814,18 @@
 13:36:41,_akatsukilegion,url,http://ceyq9jos-wildberries.txspay.com,
 13:40:09,masaomi346,domain,julxi.com,
 13:40:09,masaomi346,url,https://julxi.com/am2az-0nco-jp-jp/,
+13:42:00,suyog41,domain,lewokodwqko.icu,
+13:42:00,suyog41,url,http://lewokodwqko.icu,
+13:42:01,suyog41,md5,75cf5b7282924207d505260a2ac1d496,,https://x.com/suyog41/status/2092246118109499772
+13:42:02,suyog41,md5,fa51ae0ec4d02f9b47a3ef566b4e7944,,https://x.com/suyog41/status/2092246122169532758
+13:46:24,tkemmerling,domain,financialmarkets.info,
+13:46:24,tkemmerling,url,http://financialmarkets.info,
+13:46:28,tkemmerling,domain,graduatejobsreport.nl,
+13:46:28,tkemmerling,domain,terracollinge.com,
+13:46:28,tkemmerling,url,http://graduatejobsreport.nl,
+13:46:28,tkemmerling,url,http://terracollinge.com,
+13:46:34,tkemmerling,domain,gloryofwar.com,
+13:46:34,tkemmerling,url,http://gloryofwar.com,
 13:47:03,skocherhan,url,https://us.creative.com/p/sound-blastermetadata,,https://x.com/skocherhan/status/2091522610945298772
 13:49:35,byrne_emmy12099,domain,gyfguyhb.onlinewebshop.net,,https://x.com/byrne_emmy12099/status/2090073695104778625
 13:49:35,byrne_emmy12099,url,http://gyfguyhb.onlinewebshop.net/setting.php?banana=[hostname]&apple=[username]&domado=fruit,,https://x.com/byrne_emmy12099/status/2090073695104778625
@@ -10907,8 +10933,14 @@
 15:30:43,tkemmerling,domain,tkmmanage.org,
 15:30:43,tkemmerling,url,http://malfeasantboogie.com,
 15:30:43,tkemmerling,url,http://tkmmanage.org,
+15:43:38,marcelorivero,domain,cleandev.cc,,https://x.com/marcelorivero/status/2092276724675281337
+15:43:38,marcelorivero,domain,notification-portal.com,,https://x.com/marcelorivero/status/2092276724675281337
+15:43:38,marcelorivero,url,http://cleandev.cc,,https://x.com/marcelorivero/status/2092276724675281337
+15:43:38,marcelorivero,url,http://notification-portal.com,,https://x.com/marcelorivero/status/2092276724675281337
 15:46:39,coolcarlos17,domain,havan-com.site,
 15:46:39,coolcarlos17,url,"https://havan-com.site/produto.php?slug=escada-multifuncional-de-alum-nio-4x4-com-16-degraus-dobr-vel"",
+15:59:10,coolcarlos17,domain,havan.vip,
+15:59:10,coolcarlos17,url,"https://havan.vip/produto.php?slug=escada-articulada-16-degraus-alum-nio-botafogo-altura"",
 16:16:31,malwarehunterr,url,http://help.cbspokane.com/shared/email/blast/clickthru.php?hash=31fd96eb72300ac8010a9f493cac818a&returnpage=%2f%2fgmas34.ju.mp,
 16:16:31,malwarehunterr,url,https://gmas34.ju.mp,
 16:16:31,malwarehunterr,url,https://mvkpop.es/d00b9d48-bd85-4eaa-b80b-8220987ea812,
@@ -10937,6 +10969,8 @@
 16:46:59,malwarehunterr,domain,visit-docelementmazase.lapacheca.com.br,
 16:46:59,malwarehunterr,url,http://mountalnwest.com,
 16:46:59,malwarehunterr,url,https://visit-docelementmazase.lapacheca.com.br/document/vos/veriferi,
+16:53:29,skocherhan,domain,aorvo.beer,
+16:53:29,skocherhan,url,http://aorvo.beer,
 17:00:28,marcandrebeaul1,ip,103.22.175.82,
 17:00:28,marcandrebeaul1,ip,104.28.165.147,
 17:00:54,phishunt_io,domain,hotmail-session-ftmew3sm-2fexofgrs-----bzalpryr2e.kharwadejewellers.com,
@@ -10945,6 +10979,9 @@
 17:00:54,phishunt_io,ip,216.126.227.232,
 17:00:54,phishunt_io,url,http://hotmail-session-ftmew3sm-2fexofgrs-----bzalpryr2e.kharwadejewellers.com,
 17:00:54,phishunt_io,url,http://tavareslopes.adv.br/co/wetransfer/,
+17:00:58,phishunt_io,domain,hhttps-www-roblox.co,
+17:00:58,phishunt_io,ip,169.58.26.182,
+17:00:58,phishunt_io,url,http://hhttps-www-roblox.co/login?returnurl=1164408920,
 17:01:20,phishunt_io,domain,allegrolokalnie.ploferta3217832819.sbs,
 17:01:20,phishunt_io,url,http://allegrolokalnie.ploferta3217832819.sbs,
 17:23:31,patialavii,url,https://invite.fonoon.ae,
