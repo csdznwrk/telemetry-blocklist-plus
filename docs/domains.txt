@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-08-26 00:45 UTC
-# Domains: 13760
+# Updated: 2026-08-26 06:32 UTC
+# Domains: 13764
 
 -084-gls-223-www-9-k-0brasil.net.daraz.com
 -access-logs-1.net.daraz.com
@@ -9733,6 +9733,8 @@
 03:50:03,ap_zenmashi,ip,216.126.237.93,,https://x.com/ap_zenmashi/status/2090647592703320179
 03:50:03,patialavii,domain,us05webosportalzoomworkspacemeeting-live-invitation-m90x76.pages.dev,
 03:50:03,patialavii,url,https://us05webosportalzoomworkspacemeeting-live-invitation-m90x76.pages.dev,
+03:59:55,tkemmerling,domain,downloads.msaccesspro.com,
+03:59:55,tkemmerling,url,http://downloads.msaccesspro.com,
 03a01d381c69453a.com
 03a087bc6ca6.top
 03a08ec40d0e.com
@@ -10123,6 +10125,8 @@
 042e6fc826d8e48c.com
 042e830be90d0fea.top
 042f6c54e9e024818.com
+04:00:01,tkemmerling,domain,re.yancha123.com,
+04:00:01,tkemmerling,url,http://re.yancha123.com,
 04:02:28,skocherhan,domain,invite.fonoon.ae,
 04:02:28,skocherhan,url,http://invite.fonoon.ae,
 04:10:19,patialavii,domain,clevercarves.com,
