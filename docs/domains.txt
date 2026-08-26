@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-08-26 12:33 UTC
-# Domains: 13781
+# Updated: 2026-08-26 19:39 UTC
+# Domains: 13793
 
 -084-gls-223-www-9-k-0brasil.net.daraz.com
 -access-logs-1.net.daraz.com
@@ -10669,6 +10669,8 @@
 12:13:26,them3gatr0n,sha256,3f3cc7d9f714d6aaec33ec87e152c1fb86824d65342957a5ac018708ba37520a,,https://x.com/them3gatr0n/status/2090411885925736919
 12:13:26,them3gatr0n,url,https://github.com/thompog/d/raw/refs/heads/main/japper.zip,,https://x.com/them3gatr0n/status/2090411885925736919
 12:13:26,them3gatr0n,url,https://raw.githubusercontent.com/thompog/d/refs/heads/main/japper.zip,,https://x.com/them3gatr0n/status/2090411885925736919
+12:20:51,masaomi346,domain,leaf68.com,
+12:20:51,masaomi346,url,http://leaf68.com,
 12:23:16,them3gatr0n,domain,ddmyukztqt.b17da333ec194ec4b767.d.requestbin.net,,https://x.com/them3gatr0n/status/2090776748212576720
 12:23:16,them3gatr0n,domain,ent34ndx3cz8k.x.pipedream.net,,https://x.com/them3gatr0n/status/2090776748212576720
 12:23:16,them3gatr0n,domain,muewgjlydqln.b17da333ec194ec4b767.d.requestbin.net,,https://x.com/them3gatr0n/status/2090776748212576720
@@ -10696,11 +10698,17 @@
 12:34:55,them3gatr0n,sha256,9c6dbbe1985ffd3ea289153199a46bef92a77bbd030a00292424bc7c631f8258,,https://x.com/them3gatr0n/status/2091504455619412393
 12:34:55,them3gatr0n,url,https://discord.gg/freeup,,https://x.com/them3gatr0n/status/2091504455619412393
 12:34:55,them3gatr0n,url,https://us.creative.com/p/sound-blaster,,https://x.com/them3gatr0n/status/2091504455619412393
+12:35:47,masaomi346,domain,claude-macos-app.com,
+12:35:47,masaomi346,domain,opalblueprint10.com,
+12:35:47,masaomi346,url,http://opalblueprint10.com,
+12:35:47,masaomi346,url,https://claude-macos-app.com,
 12:37:30,singhsoodeep,md5,dc6bf7339f6680086a09d5ad905d8786,,https://x.com/singhsoodeep/status/2091867494042538308
 12:37:30,singhsoodeep,url,http://github.com/cqasdgqa-code/,,https://x.com/singhsoodeep/status/2091867494042538308
 12:46:51,metemcyber,ip,43.165.196.142,
 12:46:51,metemcyber,url,http://43.165.196.142,
 12:51:40,fact_finder03,ip,185.254.99.32,
+12:53:08,kirkderpca,domain,edgeupstudio.com,
+12:53:08,kirkderpca,url,http://edgeupstudio.com,
 12:53:24,patialavii,domain,meeting-scheduling-zoom.com,,https://x.com/patialavii/status/2091871494674829735
 12:53:24,patialavii,url,http://meeting-scheduling-zoom.com,,https://x.com/patialavii/status/2091871494674829735
 12:53:48,metemcyber,domain,frameworklover.com,
@@ -10890,6 +10898,8 @@
 17:00:58,phishunt_io,domain,hhttps-www-roblox.co,
 17:00:58,phishunt_io,ip,169.58.26.182,
 17:00:58,phishunt_io,url,http://hhttps-www-roblox.co/login?returnurl=1164408920,
+17:01:01,phishunt_io,domain,docusign.login.adrpowersystem.com,
+17:01:01,phishunt_io,url,http://docusign.login.adrpowersystem.com,
 17:01:20,phishunt_io,domain,allegrolokalnie.ploferta3217832819.sbs,
 17:01:20,phishunt_io,url,http://allegrolokalnie.ploferta3217832819.sbs,
 17:23:31,patialavii,url,https://invite.fonoon.ae,
@@ -10899,6 +10909,8 @@
 17:34:00,skocherhan,ip,217.119.129.122,,https://x.com/skocherhan/status/2091579723012825229
 17:34:00,skocherhan,url,http://217.119.129.122,,https://x.com/skocherhan/status/2091579723012825229
 17:58:38,onodera460,ip,1.1.4.1,,https://x.com/onodera460/status/2090498758140154125
+18:00:04,phatomcandle,domain,k-store.login-accounts.dynu.net,
+18:00:04,phatomcandle,url,http://k-store.login-accounts.dynu.net,
 18:00:07,phatomcandle,domain,k-cloud.auth-accounts.dynuddns.com,
 18:00:07,phatomcandle,domain,syncrank.online,
 18:00:07,phatomcandle,url,http://k-cloud.auth-accounts.dynuddns.com,
