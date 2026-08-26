@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-08-26 06:32 UTC
-# Domains: 13764
+# Updated: 2026-08-26 12:33 UTC
+# Domains: 13781
 
 -084-gls-223-www-9-k-0brasil.net.daraz.com
 -access-logs-1.net.daraz.com
@@ -10340,6 +10340,8 @@
 06:14:36,metemcyber,ip,43.165.186.124,
 06:14:36,metemcyber,url,http://43.165.186.124,
 06:14:36,metemcyber,url,https://chiotetpapparel.shop/vawqhzow/,
+06:28:00,masaomi346,domain,yonghaodianqi.com,
+06:28:00,masaomi346,url,https://www.yonghaodianqi.com/giwkkhvc/,
 06:28:06,metemcyber,domain,zfktseu.com,
 06:28:06,metemcyber,url,https://www.zfktseu.com/ccpksfz/,
 06:28:31,tkemmerling,domain,edufloat.org,
@@ -10374,6 +10376,9 @@
 07:00:51,phishunt_io,domain,xfinity101.duckdns.org,
 07:00:51,phishunt_io,ip,162.240.233.171,
 07:00:51,phishunt_io,url,http://xfinity101.duckdns.org/verify/payment,
+07:00:56,phishunt_io,domain,bradesco.maispontos.app,
+07:00:56,phishunt_io,ip,74.179.80.31,
+07:00:56,phishunt_io,url,http://bradesco.maispontos.app,
 07:00:59,phishunt_io,domain,gk.bnznji.net,
 07:00:59,phishunt_io,ip,82.165.110.163,
 07:00:59,phishunt_io,url,http://gk.bnznji.net/adobe/adobe-digital-exe/download.html,
@@ -10406,6 +10411,8 @@
 07:07:25,tkemmerling,url,http://bayberryalgebraic.com,
 07:07:25,tkemmerling,url,http://landmailman.com,
 07:10:20,fact_finder03,ip,188.40.225.137,
+07:11:32,scanmalware,domain,urlshort-linkmri0w5kc3r96.5go.workers.dev,
+07:11:32,scanmalware,url,http://urlshort-linkmri0w5kc3r96.5go.workers.dev,
 07:11:34,fact_finder03,ip,132.243.221.136,
 07:11:34,fact_finder03,ip,82.117.243.163,
 07:14:28,tdatwja,domain,20260824.zip,,https://x.com/tdatwja/status/2092148588315119958
@@ -10556,6 +10563,8 @@
 09:24:14,them3gatr0n,sha256,35c8d022e1d917f1aabdceae98097ccc072161b302f84c768ca63e4b32ac2b66,,https://x.com/them3gatr0n/status/2092181245644198059
 09:24:14,them3gatr0n,sha256,38005607bad6dd05b1cf807b2a0d26713808aa28b98dcec7ba1cb0df335e02f8,,https://x.com/them3gatr0n/status/2092181245644198059
 09:24:14,them3gatr0n,sha256,4bba6b60b45168479c953df2a538aa69a21a8735a83f76974508b09888ce2c76,,https://x.com/them3gatr0n/status/2092181245644198059
+09:25:14,etugenio,ip,45.117.83.34,
+09:25:14,etugenio,url,http://45.117.83.34,
 09:26:22,masaomi346,domain,gzmingbo.com,
 09:26:22,masaomi346,url,https://gzmingbo.com/login,
 09:30:00,fact_finder03,ip,47.239.123.54,
@@ -10608,6 +10617,14 @@
 09:53:06,fact_finder03,ip,187.79.192.24,
 09:56:20,bomccss,sha256,320763f4ac63a15f2a9b690c1d7adc753c3d8665b1371578f80a25417673ec95,,https://x.com/bomccss/status/2092189324901331195
 09:56:20,bomccss,url,https://kabereonjp.pages.dev,,https://x.com/bomccss/status/2092189322523091071
+10:05:36,metemcyber,domain,iodqqji.info,
+10:05:36,metemcyber,domain,tjtnfat.cn,
+10:05:36,metemcyber,domain,wwufzpm.cn,
+10:05:36,metemcyber,ip,165.154.241.48,
+10:05:36,metemcyber,url,http://165.154.241.48,
+10:05:36,metemcyber,url,https://iodqqji.info/rleidbag/,
+10:05:36,metemcyber,url,https://tjtnfat.cn/rleidbag/,
+10:05:36,metemcyber,url,https://wwufzpm.cn/rleidbag/,
 10:05:56,xeroxsec,ip,91.99.165.207,
 10:05:56,xeroxsec,url,https://91.99.165.207:8080,
 10:14:02,masaomi346,domain,o3dul.com,
