@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-08-27 05:55 UTC
-# Domains: 13679
+# Updated: 2026-08-27 17:08 UTC
+# Domains: 13704
 
 -084-gls-223-www-9-k-0brasil.net.daraz.com
 -access-logs-1.net.daraz.com
@@ -10319,6 +10319,10 @@
 06:14:22,tkemmerling,url,http://transmitraisin.com,
 06:28:00,masaomi346,domain,yonghaodianqi.com,
 06:28:00,masaomi346,url,https://www.yonghaodianqi.com/giwkkhvc/,
+06:28:10,sloirem,domain,baouie2.club,
+06:28:10,sloirem,ip,118.107.44.153,
+06:28:10,sloirem,url,http://118.107.44.153,
+06:28:10,sloirem,url,http://baouie2.club,
 06:28:31,tkemmerling,domain,edufloat.org,
 06:28:31,tkemmerling,url,http://edufloat.org,
 06:29:04,tkemmerling,domain,stylishhomegallery.com,
@@ -10343,6 +10347,9 @@
 07:00:51,phishunt_io,domain,xfinity101.duckdns.org,
 07:00:51,phishunt_io,ip,162.240.233.171,
 07:00:51,phishunt_io,url,http://xfinity101.duckdns.org/verify/payment,
+07:00:54,phishunt_io,domain,reentrega-seur-envio.cloudaccess.host,
+07:00:54,phishunt_io,ip,199.116.78.57,
+07:00:54,phishunt_io,url,http://reentrega-seur-envio.cloudaccess.host/seur2/msg.php,
 07:00:56,phishunt_io,domain,bradesco.maispontos.app,
 07:00:56,phishunt_io,ip,74.179.80.31,
 07:00:56,phishunt_io,url,http://bradesco.maispontos.app,
@@ -10473,6 +10480,10 @@
 08:41:22,them3gatr0n,domain,verificar.farolesa.mx,
 08:41:22,them3gatr0n,url,http://verificar.farolesa.mx,
 08:42:26,masaomi346,domain,sferyds.vpcap.xyz,
+08:52:16,metemcyber,domain,carlitostowing.com,
+08:52:16,metemcyber,ip,198.44.46.105,
+08:52:16,metemcyber,url,http://198.44.46.105,
+08:52:16,metemcyber,url,https://carlitostowing.com/lkpuwcdda/,
 09:00:11,skocherhan,domain,unpac.me,,https://x.com/skocherhan/status/2092175193321930835
 09:00:11,skocherhan,url,http://unpac.me,,https://x.com/skocherhan/status/2092175193321930835
 09:02:02,threatcluster,domain,expedia-careers.com,,https://x.com/threatcluster/status/2092175659544023412
@@ -10483,6 +10494,12 @@
 09:02:02,threatcluster,url,http://insulet-careers.com,,https://x.com/threatcluster/status/2092175659544023412
 09:02:02,threatcluster,url,http://mondial-relay-global.com,,https://x.com/threatcluster/status/2092175659544023412
 09:02:02,threatcluster,url,http://xmtrading-global.com,,https://x.com/threatcluster/status/2092175659544023412
+09:05:03,metemcyber,domain,uukuz.wanjiangmei.com,
+09:05:03,metemcyber,ip,47.245.40.51,
+09:05:03,metemcyber,url,http://47.245.40.51,
+09:05:03,metemcyber,url,https://uukuz.wanjiangmei.com,
+09:11:17,masaomi346,domain,prizebond.net.pk,
+09:11:17,masaomi346,url,https://prizebond.net.pk/realansbiglobe/,
 09:24:14,them3gatr0n,sha256,35c8d022e1d917f1aabdceae98097ccc072161b302f84c768ca63e4b32ac2b66,,https://x.com/them3gatr0n/status/2092181245644198059
 09:24:14,them3gatr0n,sha256,38005607bad6dd05b1cf807b2a0d26713808aa28b98dcec7ba1cb0df335e02f8,,https://x.com/them3gatr0n/status/2092181245644198059
 09:24:14,them3gatr0n,sha256,4bba6b60b45168479c953df2a538aa69a21a8735a83f76974508b09888ce2c76,,https://x.com/them3gatr0n/status/2092181245644198059
@@ -10566,6 +10583,8 @@
 11:41:07,kb4threatlabs,url,http://herzab.com/index/agreement.html,
 11:41:07,kb4threatlabs,url,http://staging.d1nonhkjybb8l5.amplifyapp.com,
 11:41:07,kb4threatlabs,url,http://t90141393265.p.clickup-attachments.com/.../screenconnect.clientsetup.msi,
+12:01:14,phishunt_io,domain,icloud-i-cl.com,
+12:01:14,phishunt_io,url,http://icloud-i-cl.com,
 12:01:31,phishunt_io,domain,allegro.ploferta3217832819.sbs,
 12:01:31,phishunt_io,url,http://allegro.ploferta3217832819.sbs,
 12:01:54,phishunt_io,domain,allegrolokalnie.pl-aibt8.sbs,
@@ -10629,6 +10648,8 @@
 13:06:38,them3gatr0n,sha256,b24c37a9a530b9cf7ef23cdcfe23754ac42bf7f06dbc8b0ca09b887c0a6a20f1,,https://x.com/them3gatr0n/status/2092237213174214656
 13:06:38,them3gatr0n,url,http://frontend148.blob.core.windows.net/main/remote_stager.py,,https://x.com/them3gatr0n/status/2092237213174214656
 13:06:38,them3gatr0n,url,http://outsourcestock.blob.core.windows.net/outsourced/python-tk-runtime.zip,,https://x.com/them3gatr0n/status/2092237213174214656
+13:11:17,scanmalware,domain,potwierdzenie-bezpieczenstwa.vercel.app,
+13:11:17,scanmalware,url,http://www.potwierdzenie-bezpieczenstwa.vercel.app,
 13:24:50,abuse_ch,ip,136.175.82.88,,https://x.com/abuse_ch/status/2091879406666977539
 13:24:50,abuse_ch,sha256,ac1f8b34486eabbb9ae6c3880a4b57dbf044cbfcc7f103ab3c93ed4f26285c3b,,https://x.com/abuse_ch/status/2091879406666977539
 13:27:13,byrne_emmy12099,ip,217.60.36.94,
@@ -10753,6 +10774,9 @@
 14:46:28,tkemmerling,domain,terminandoconlatrata.com,
 14:46:28,tkemmerling,url,http://itnessequipmentfor.info,
 14:46:28,tkemmerling,url,http://terminandoconlatrata.com,
+15:07:36,chwrld24,domain,cartoonblastfun.cfd,
+15:07:36,chwrld24,url,http://cartoonblastfun.cfd,
+15:07:36,chwrld24,url,https://cartoonblastfun.cfd/ke1a1wixzsbqo1kied,
 15:30:43,tkemmerling,domain,malfeasantboogie.com,
 15:30:43,tkemmerling,domain,tkmmanage.org,
 15:30:43,tkemmerling,url,http://malfeasantboogie.com,
@@ -10765,6 +10789,7 @@
 15:46:39,coolcarlos17,url,"https://havan-com.site/produto.php?slug=escada-multifuncional-de-alum-nio-4x4-com-16-degraus-dobr-vel"",
 15:59:10,coolcarlos17,domain,havan.vip,
 15:59:10,coolcarlos17,url,"https://havan.vip/produto.php?slug=escada-articulada-16-degraus-alum-nio-botafogo-altura"",
+16:15:30,blinkzsec,ip,192.159.99.164,
 16:16:31,malwarehunterr,url,http://help.cbspokane.com/shared/email/blast/clickthru.php?hash=31fd96eb72300ac8010a9f493cac818a&returnpage=%2f%2fgmas34.ju.mp,
 16:16:31,malwarehunterr,url,https://gmas34.ju.mp,
 16:16:31,malwarehunterr,url,https://mvkpop.es/d00b9d48-bd85-4eaa-b80b-8220987ea812,
