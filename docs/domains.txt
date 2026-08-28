@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-08-28 01:56 UTC
-# Domains: 13542
+# Updated: 2026-08-28 17:55 UTC
+# Domains: 13555
 
 -084-gls-223-www-9-k-0brasil.net.daraz.com
 -access-logs-1.net.daraz.com
@@ -9736,6 +9736,7 @@
 03:39:03,skocherhan,md5,930bcbd2d3f7227b51ad1439ad854fd8,,https://x.com/skocherhan/status/2091731988143091720
 03:45:03,patialavii,domain,scr33nc0nn3ctz00m.com,,https://x.com/patialavii/status/2091008723959623721
 03:45:03,patialavii,url,http://scr33nc0nn3ctz00m.com,,https://x.com/patialavii/status/2091008723959623721
+03:47:46,masaomi346,domain,sferyds.ceeww.xyz,
 03:50:03,patialavii,domain,us05webosportalzoomworkspacemeeting-live-invitation-m90x76.pages.dev,
 03:50:03,patialavii,url,https://us05webosportalzoomworkspacemeeting-live-invitation-m90x76.pages.dev,
 03:59:55,tkemmerling,domain,downloads.msaccesspro.com,
@@ -10309,6 +10310,8 @@
 07:00:59,phishunt_io,domain,gk.bnznji.net,
 07:00:59,phishunt_io,ip,82.165.110.163,
 07:00:59,phishunt_io,url,http://gk.bnznji.net/adobe/adobe-digital-exe/download.html,
+07:01:11,phishunt_io,domain,trezor-walletfn.webflow.io,
+07:01:11,phishunt_io,url,http://trezor-walletfn.webflow.io,
 07:01:20,phishunt_io,domain,allegro.1200000498.casa,
 07:01:20,phishunt_io,url,http://allegro.1200000498.casa/lokalnie/home?id=1h5f9q2h2g4n5v0t3o4x4r6x9z8a7j0h,
 07:05:35,tkemmerling,domain,gwzfish.org,
@@ -10453,6 +10456,10 @@
 09:24:14,them3gatr0n,sha256,35c8d022e1d917f1aabdceae98097ccc072161b302f84c768ca63e4b32ac2b66,,https://x.com/them3gatr0n/status/2092181245644198059
 09:24:14,them3gatr0n,sha256,38005607bad6dd05b1cf807b2a0d26713808aa28b98dcec7ba1cb0df335e02f8,,https://x.com/them3gatr0n/status/2092181245644198059
 09:24:14,them3gatr0n,sha256,4bba6b60b45168479c953df2a538aa69a21a8735a83f76974508b09888ce2c76,,https://x.com/them3gatr0n/status/2092181245644198059
+09:24:21,masaomi346,domain,cli-stack.com,
+09:24:21,masaomi346,domain,stride25.com,
+09:24:21,masaomi346,url,http://stride25.com,
+09:24:21,masaomi346,url,https://cli-stack.com,
 09:25:14,etugenio,ip,45.117.83.34,
 09:25:14,etugenio,url,http://45.117.83.34,
 09:40:00,bomccss,domain,2026082015837462_pdf.zip,,https://x.com/bomccss/status/2091822824076021954
@@ -10521,6 +10528,8 @@
 11:41:07,kb4threatlabs,url,http://t90141393265.p.clickup-attachments.com/.../screenconnect.clientsetup.msi,
 12:01:14,phishunt_io,domain,icloud-i-cl.com,
 12:01:14,phishunt_io,url,http://icloud-i-cl.com,
+12:01:15,phishunt_io,domain,login-yahoo-verify.blogspot.com,
+12:01:15,phishunt_io,url,http://login-yahoo-verify.blogspot.com,
 12:01:31,phishunt_io,domain,allegro.ploferta3217832819.sbs,
 12:01:31,phishunt_io,url,http://allegro.ploferta3217832819.sbs,
 12:20:51,masaomi346,domain,leaf68.com,
@@ -10562,6 +10571,8 @@
 13:06:38,them3gatr0n,sha256,b24c37a9a530b9cf7ef23cdcfe23754ac42bf7f06dbc8b0ca09b887c0a6a20f1,,https://x.com/them3gatr0n/status/2092237213174214656
 13:06:38,them3gatr0n,url,http://frontend148.blob.core.windows.net/main/remote_stager.py,,https://x.com/them3gatr0n/status/2092237213174214656
 13:06:38,them3gatr0n,url,http://outsourcestock.blob.core.windows.net/outsourced/python-tk-runtime.zip,,https://x.com/them3gatr0n/status/2092237213174214656
+13:09:02,fbgwls245,domain,i7loab6thvz4lb7jdr3qoeumbvilwhbgnwsctnlfmvsv7g5s3vsiw6yd.onion,
+13:09:02,fbgwls245,url,http://i7loab6thvz4lb7jdr3qoeumbvilwhbgnwsctnlfmvsv7g5s3vsiw6yd.onion,
 13:11:17,scanmalware,domain,potwierdzenie-bezpieczenstwa.vercel.app,
 13:11:17,scanmalware,url,http://www.potwierdzenie-bezpieczenstwa.vercel.app,
 13:24:50,abuse_ch,ip,136.175.82.88,,https://x.com/abuse_ch/status/2091879406666977539
@@ -10691,6 +10702,8 @@
 17:00:54,phishunt_io,domain,tavareslopes.adv.br,
 17:00:54,phishunt_io,ip,192.185.216.47,
 17:00:54,phishunt_io,url,http://tavareslopes.adv.br/co/wetransfer/,
+17:00:55,phishunt_io,domain,support-ledgrcom-start-web.typedream.app,
+17:00:55,phishunt_io,url,http://support-ledgrcom-start-web.typedream.app,
 17:00:58,phishunt_io,domain,hhttps-www-roblox.co,
 17:00:58,phishunt_io,ip,169.58.26.182,
 17:00:58,phishunt_io,url,http://hhttps-www-roblox.co/login?returnurl=1164408920,
