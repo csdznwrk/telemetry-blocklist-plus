@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-08-29 11:59 UTC
-# Domains: 13546
+# Updated: 2026-08-29 16:28 UTC
+# Domains: 13553
 
 -084-gls-223-www-9-k-0brasil.net.daraz.com
 -access-logs-1.net.daraz.com
@@ -10444,6 +10444,8 @@
 08:52:16,metemcyber,ip,198.44.46.105,
 08:52:16,metemcyber,url,http://198.44.46.105,
 08:52:16,metemcyber,url,https://carlitostowing.com/lkpuwcdda/,
+08:59:24,masaomi346,domain,afterpartycandleco.com,
+08:59:24,masaomi346,url,https://afterpartycandleco.com/gbjynqku/,
 09:00:11,skocherhan,domain,unpac.me,,https://x.com/skocherhan/status/2092175193321930835
 09:00:11,skocherhan,url,http://unpac.me,,https://x.com/skocherhan/status/2092175193321930835
 09:02:02,threatcluster,domain,expedia-careers.com,,https://x.com/threatcluster/status/2092175659544023412
@@ -10526,8 +10528,13 @@
 12:01:14,phishunt_io,url,http://icloud-i-cl.com,
 12:01:15,phishunt_io,domain,login-yahoo-verify.blogspot.com,
 12:01:15,phishunt_io,url,http://login-yahoo-verify.blogspot.com,
+12:01:16,phishunt_io,domain,roblox-canjear.online,
+12:01:16,phishunt_io,ip,200.58.111.123,
+12:01:16,phishunt_io,url,http://roblox-canjear.online/login.html,
 12:01:31,phishunt_io,domain,allegro.ploferta3217832819.sbs,
 12:01:31,phishunt_io,url,http://allegro.ploferta3217832819.sbs,
+12:13:54,masaomi346,domain,rpc-mainnet.matic.quiknode.pro,
+12:13:54,masaomi346,url,http://rpc-mainnet.matic.quiknode.pro,
 12:20:51,masaomi346,domain,leaf68.com,
 12:20:51,masaomi346,url,http://leaf68.com,
 12:34:04,kirkderpca,url,https://www.npmjs.com/package/hydration-cls-ui/v/1.0.0,,https://x.com/kirkderpca/status/2092229020687417560
