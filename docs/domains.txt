@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-08-28 17:55 UTC
-# Domains: 13555
+# Updated: 2026-08-29 01:21 UTC
+# Domains: 13492
 
 -084-gls-223-www-9-k-0brasil.net.daraz.com
 -access-logs-1.net.daraz.com
@@ -8452,8 +8452,6 @@
 02:50:28,skocherhan,url,http://moik77a.club,,https://x.com/skocherhan/status/2091719761684041947
 02:50:28,skocherhan,url,http://taku788.club,,https://x.com/skocherhan/status/2091719761684041947
 02:50:28,skocherhan,url,http://usdt888.club,,https://x.com/skocherhan/status/2091719761684041947
-02:53:35,scanmalware,domain,cvqgs36nhw-wtrkblpw-3i2d0e-cvq79c.pages.dev,
-02:53:35,scanmalware,url,http://cvqgs36nhw-wtrkblpw-3i2d0e-cvq79c.pages.dev,
 02a169af111011.beer
 02a1a1ec23b8564d37d2f451f1db9dad.info
 02a2e259fd91062a.com
@@ -9734,8 +9732,6 @@
 03:31:29,skocherhan,url,http://votingsplatformspro-ml.fwh.is,
 03:31:29,skocherhan,url,http://votingspprimes-lm.ct.ws,
 03:39:03,skocherhan,md5,930bcbd2d3f7227b51ad1439ad854fd8,,https://x.com/skocherhan/status/2091731988143091720
-03:45:03,patialavii,domain,scr33nc0nn3ctz00m.com,,https://x.com/patialavii/status/2091008723959623721
-03:45:03,patialavii,url,http://scr33nc0nn3ctz00m.com,,https://x.com/patialavii/status/2091008723959623721
 03:47:46,masaomi346,domain,sferyds.ceeww.xyz,
 03:50:03,patialavii,domain,us05webosportalzoomworkspacemeeting-live-invitation-m90x76.pages.dev,
 03:50:03,patialavii,url,https://us05webosportalzoomworkspacemeeting-live-invitation-m90x76.pages.dev,
@@ -10137,8 +10133,6 @@
 04:02:28,skocherhan,url,http://invite.fonoon.ae,
 04:21:26,skocherhan,domain,shopguoerve.pro,
 04:21:26,skocherhan,url,http://shopguoerve.pro,
-04:23:30,patialavii,domain,live-zoorn.com,
-04:23:30,patialavii,url,http://live-zoorn.com,
 04:30:03,scanmalware,domain,paypal3.vercel.app,
 04:30:03,scanmalware,url,http://paypal3.vercel.app,
 04:39:07,skocherhan,domain,00wxynu.dbuh.55og.wolkamo.com,
@@ -10227,10 +10221,6 @@
 04:39:07,skocherhan,url,http://yigu360.com,
 04:39:07,skocherhan,url,http://zjcounty.com,
 04:39:07,skocherhan,url,http://zuodx.com,
-04:50:02,scanmalware,domain,gfytvd-wiyn-np4qjd-g9ewg7.pages.dev,
-04:50:02,scanmalware,url,http://gfytvd-wiyn-np4qjd-g9ewg7.pages.dev,
-05:04:51,masaomi346,domain,macielsoaresimobiliaria.com.br,
-05:04:51,masaomi346,url,https://macielsoaresimobiliaria.com.br/lolipop/,
 05:08:09,masaomi346,domain,rakuten-card.dksclz.com,
 05:08:09,masaomi346,url,https://rakuten-card.dksclz.com/oak8kv,
 05:20:25,skocherhan,domain,mydpd.fhcqg.cc,
@@ -10294,10 +10284,6 @@
 06:31:16,fact_finder03,ip,72.56.241.175,
 06:33:04,fact_finder03,ip,144.202.20.30,
 06:50:00,fact_finder03,ip,169.58.190.196,
-06:58:32,tkemmerling,domain,indelibleaggravate.net,
-06:58:32,tkemmerling,domain,liveryfunky.org,
-06:58:32,tkemmerling,url,http://indelibleaggravate.net,
-06:58:32,tkemmerling,url,http://liveryfunky.org,
 07:00:51,phishunt_io,domain,xfinity101.duckdns.org,
 07:00:51,phishunt_io,ip,162.240.233.171,
 07:00:51,phishunt_io,url,http://xfinity101.duckdns.org/verify/payment,
@@ -10314,26 +10300,6 @@
 07:01:11,phishunt_io,url,http://trezor-walletfn.webflow.io,
 07:01:20,phishunt_io,domain,allegro.1200000498.casa,
 07:01:20,phishunt_io,url,http://allegro.1200000498.casa/lokalnie/home?id=1h5f9q2h2g4n5v0t3o4x4r6x9z8a7j0h,
-07:05:35,tkemmerling,domain,gwzfish.org,
-07:05:35,tkemmerling,domain,vkvfaith.com,
-07:05:35,tkemmerling,url,http://gwzfish.org,
-07:05:35,tkemmerling,url,http://vkvfaith.com,
-07:06:18,tkemmerling,domain,itnessequipmentfor.info,
-07:06:18,tkemmerling,domain,twomenandatruckdaytons.com,
-07:06:18,tkemmerling,url,http://itnessequipmentfor.info,
-07:06:18,tkemmerling,url,http://twomenandatruckdaytons.com,
-07:06:40,tkemmerling,domain,flashstoreshopping.net,
-07:06:40,tkemmerling,domain,usdxag.com,
-07:06:40,tkemmerling,url,http://flashstoreshopping.net,
-07:06:40,tkemmerling,url,http://usdxag.com,
-07:07:05,tkemmerling,domain,edufloat.org,
-07:07:05,tkemmerling,domain,lesliebernini.org,
-07:07:05,tkemmerling,url,http://edufloat.org,
-07:07:05,tkemmerling,url,http://lesliebernini.org,
-07:07:25,tkemmerling,domain,bayberryalgebraic.com,
-07:07:25,tkemmerling,domain,landmailman.com,
-07:07:25,tkemmerling,url,http://bayberryalgebraic.com,
-07:07:25,tkemmerling,url,http://landmailman.com,
 07:10:20,fact_finder03,ip,188.40.225.137,
 07:11:32,scanmalware,domain,urlshort-linkmri0w5kc3r96.5go.workers.dev,
 07:11:32,scanmalware,url,http://urlshort-linkmri0w5kc3r96.5go.workers.dev,
@@ -10398,20 +10364,8 @@
 07:38:22,tdatwja,sha256,7441c8aef0fc20a5d4feb31c7167df6bc63c64767528802b1377591d90d24282,,https://x.com/tdatwja/status/2091792215261757850
 07:42:46,masaomi346,domain,raster-80.com,
 07:42:46,masaomi346,url,http://raster-80.com,
-07:44:59,patialavii,domain,paypal-details.com,
-07:44:59,patialavii,url,http://paypal-details.com,
 07:49:00,fact_finder03,ip,109.107.168.189,
-07:55:54,skocherhan,domain,paypal-check.com,
-07:55:54,skocherhan,domain,paypal-payout.com,
-07:55:54,skocherhan,url,http://paypal-check.com,
-07:55:54,skocherhan,url,http://paypal-payout.com,
 08:03:00,fact_finder03,ip,140.245.30.231,
-08:05:59,skocherhan,domain,paypal-invoice.com,
-08:05:59,skocherhan,domain,paypal-receipt.com,
-08:05:59,skocherhan,domain,paypal-receipt.xyz,
-08:05:59,skocherhan,url,http://paypal-invoice.com,
-08:05:59,skocherhan,url,http://paypal-receipt.com,
-08:05:59,skocherhan,url,http://paypal-receipt.xyz,
 08:08:30,tdatwja,domain,kabereonjp.pages.dev,,https://x.com/tdatwja/status/2092162187158851672
 08:08:30,tdatwja,url,http://kabereonjp.pages.dev,,https://x.com/tdatwja/status/2092162187158851672
 08:21:01,tdatwja,domain,cicfo.com,,https://x.com/tdatwja/status/2092165335088783857
@@ -10480,18 +10434,7 @@
 09:40:50,bomccss,ip,121.127.253.206,,https://x.com/bomccss/status/2092185421711331386
 09:40:50,bomccss,url,http://121.127.253.206:8856,,https://x.com/bomccss/status/2092185421711331386
 09:40:50,bomccss,url,http://121.127.253.206:8868,,https://x.com/bomccss/status/2092185421711331386
-09:41:46,masaomi346,domain,cli-guides.com,
-09:41:46,masaomi346,domain,perchframe15.com,
-09:41:46,masaomi346,url,http://perchframe15.com,
-09:41:46,masaomi346,url,https://cli-guides.com,
 09:44:38,fact_finder03,ip,188.190.23.236,
-09:47:08,them3gatr0n,domain,quest-22.com,
-09:47:08,them3gatr0n,domain,triapfog.com,
-09:47:08,them3gatr0n,url,https://quest-22.com/curl/44tgqsi3ufvy/wv242quj7idscf3dze4.dat,
-09:47:08,them3gatr0n,url,https://triapfog.com/hex/traffic,
-09:47:08,them3gatr0n,url,https://triapfog.com/traffic/api,
-09:52:05,masaomi346,domain,canvas-35.com,
-09:52:05,masaomi346,url,http://canvas-35.com,
 09:53:06,fact_finder03,ip,187.79.192.24,
 09:56:20,bomccss,sha256,320763f4ac63a15f2a9b690c1d7adc753c3d8665b1371578f80a25417673ec95,,https://x.com/bomccss/status/2092189324901331195
 09:56:20,bomccss,url,https://kabereonjp.pages.dev,,https://x.com/bomccss/status/2092189322523091071
@@ -10581,7 +10524,6 @@
 13:27:43,shadowopcode,sha256,d86f647f3dfa6a53de7b531cb590636331f83afcea60d4b3d44de5ea3b7d33af,,https://x.com/shadowopcode/status/1968611205280338187
 13:31:03,suyog41,url,https://github.com/t1-317,
 13:31:03,suyog41,url,https://github.com/up-6626,
-13:35:34,fact_finder03,ip,84.247.187.67,
 13:42:00,suyog41,domain,lewokodwqko.icu,
 13:42:00,suyog41,url,http://lewokodwqko.icu,
 13:42:01,suyog41,md5,75cf5b7282924207d505260a2ac1d496,,https://x.com/suyog41/status/2092246118109499772
@@ -10726,8 +10668,8 @@
 18:00:07,phatomcandle,domain,syncrank.online,
 18:00:07,phatomcandle,url,http://k-cloud.auth-accounts.dynuddns.com,
 18:00:07,phatomcandle,url,http://syncrank.online,
-18:23:47,yusufcancakiir,domain,jb.cjian616.top,,https://x.com/yusufcancakiir/status/2091229864695083075
-18:23:47,yusufcancakiir,url,http://jb.cjian616.top,,https://x.com/yusufcancakiir/status/2091229864695083075
+19:32:10,g60930953,domain,ncloudtechlab.online,
+19:32:10,g60930953,url,http://www.ncloudtechlab.online,
 1ca43.appspot.com
 1topspy.com
 21:08:26,kubotaa3,domain,mu.umbjp27.shop,
@@ -10741,11 +10683,6 @@
 22:40:40,masaomi346,url,https://cartbotanica.com,
 22:45:42,masaomi346,domain,houseofironinc.com,
 22:45:42,masaomi346,url,https://houseofironinc.com/irkairpw/,
-23:02:40,1zrr4h,domain,portal.nuevosidiv.registrociivil.cl,,https://x.com/1zrr4h/status/2091300046964682777
-23:02:40,1zrr4h,domain,registrociivil.cl,,https://x.com/1zrr4h/status/2091300046964682777
-23:02:40,1zrr4h,ip,108.174.155.231,,https://x.com/1zrr4h/status/2091300046964682777
-23:02:40,1zrr4h,url,http://portal.nuevosidiv.registrociivil.cl,,https://x.com/1zrr4h/status/2091300046964682777
-23:02:40,1zrr4h,url,http://registrociivil.cl,,https://x.com/1zrr4h/status/2091300046964682777
 2baserec2.guru
 33across.com
 4-dot-all-tracker.appspot.com
