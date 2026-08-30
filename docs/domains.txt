@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-08-30 02:37 UTC
-# Domains: 13452
+# Updated: 2026-08-30 10:56 UTC
+# Domains: 13454
 
 -084-gls-223-www-9-k-0brasil.net.daraz.com
 -access-logs-1.net.daraz.com
@@ -10345,6 +10345,8 @@
 07:01:03,phishunt_io,url,http://exodus-wallet.global.ssl.fastly.net/exodus.html,
 07:01:11,phishunt_io,domain,trezor-walletfn.webflow.io,
 07:01:11,phishunt_io,url,http://trezor-walletfn.webflow.io,
+07:01:12,phishunt_io,domain,pub-d68525cbc6144dcaaac2fc0354aa17dd.r2.dev,
+07:01:12,phishunt_io,url,http://pub-d68525cbc6144dcaaac2fc0354aa17dd.r2.dev/new-docusignredir2.html,
 07:01:20,phishunt_io,domain,allegro.1200000498.casa,
 07:01:20,phishunt_io,url,http://allegro.1200000498.casa/lokalnie/home?id=1h5f9q2h2g4n5v0t3o4x4r6x9z8a7j0h,
 07:10:17,abodovic1,ip,49.51.230.17,
