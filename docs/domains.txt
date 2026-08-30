@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-08-30 10:56 UTC
-# Domains: 13454
+# Updated: 2026-08-30 15:45 UTC
+# Domains: 13456
 
 -084-gls-223-www-9-k-0brasil.net.daraz.com
 -access-logs-1.net.daraz.com
@@ -10497,6 +10497,8 @@
 11:41:07,kb4threatlabs,url,http://herzab.com/index/agreement.html,
 11:41:07,kb4threatlabs,url,http://staging.d1nonhkjybb8l5.amplifyapp.com,
 11:41:07,kb4threatlabs,url,http://t90141393265.p.clickup-attachments.com/.../screenconnect.clientsetup.msi,
+12:00:52,phishunt_io,domain,icloud.trienkhaiweb.com,
+12:00:52,phishunt_io,url,http://icloud.trienkhaiweb.com,
 12:01:14,phishunt_io,domain,icloud-i-cl.com,
 12:01:14,phishunt_io,url,http://icloud-i-cl.com,
 12:01:15,phishunt_io,domain,login-yahoo-verify.blogspot.com,
