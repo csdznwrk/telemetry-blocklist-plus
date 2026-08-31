@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-08-31 02:31 UTC
-# Domains: 13255
+# Updated: 2026-08-31 12:13 UTC
+# Domains: 13267
 
 -084-gls-223-www-9-k-0brasil.net.daraz.com
 -access-logs-1.net.daraz.com
@@ -9712,6 +9712,8 @@
 03:22:30,tkemmerling,url,http://wendygirard.com,
 03:30:20,skocherhan,domain,pinkfriend.top,
 03:30:20,skocherhan,url,http://pinkfriend.top,
+03:42:09,masaomi346,domain,rnwm.pvvchxh.cn,
+03:42:09,masaomi346,url,https://rnwm.pvvchxh.cn/t10ijauryj,
 03:47:46,masaomi346,domain,sferyds.ceeww.xyz,
 03:59:55,tkemmerling,domain,downloads.msaccesspro.com,
 03:59:55,tkemmerling,url,http://downloads.msaccesspro.com,
@@ -10213,6 +10215,13 @@
 06:28:10,sloirem,ip,118.107.44.153,
 06:28:10,sloirem,url,http://118.107.44.153,
 06:28:10,sloirem,url,http://baouie2.club,
+06:31:06,metemcyber,domain,apple.t8j4y7.cn,
+06:31:06,metemcyber,url,https://apple.t8j4y7.cn,
+06:37:28,metemcyber,ip,43.165.128.22,
+06:37:28,metemcyber,url,http://43.165.128.22,
+06:37:28,metemcyber,url,https://rnwm.pvvchxh.cn/ap/,
+06:43:42,metemcyber,ip,43.160.253.172,
+06:43:42,metemcyber,url,http://43.160.253.172,
 07:00:27,abodovic1,ip,154.94.224.35,
 07:00:27,abodovic1,url,http://154.94.224.35:54321,
 07:00:54,phishunt_io,domain,reentrega-seur-envio.cloudaccess.host,
@@ -10230,6 +10239,9 @@
 07:01:12,phishunt_io,url,http://pub-d68525cbc6144dcaaac2fc0354aa17dd.r2.dev/new-docusignredir2.html,
 07:01:20,phishunt_io,domain,allegro.1200000498.casa,
 07:01:20,phishunt_io,url,http://allegro.1200000498.casa/lokalnie/home?id=1h5f9q2h2g4n5v0t3o4x4r6x9z8a7j0h,
+07:01:21,phishunt_io,domain,instagram-accounts-login.duckdns.org,
+07:01:21,phishunt_io,ip,144.172.91.11,
+07:01:21,phishunt_io,url,http://instagram-accounts-login.duckdns.org,
 07:10:17,abodovic1,ip,49.51.230.17,
 07:10:17,abodovic1,url,http://49.51.230.17:8888,
 07:10:20,fact_finder03,ip,188.40.225.137,
