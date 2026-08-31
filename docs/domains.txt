@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-08-31 12:13 UTC
-# Domains: 13267
+# Updated: 2026-08-31 22:12 UTC
+# Domains: 13282
 
 -084-gls-223-www-9-k-0brasil.net.daraz.com
 -access-logs-1.net.daraz.com
@@ -10331,6 +10331,8 @@
 10:48:33,nextronresearch,sha256,47adb40e9ee04ee3a50e099fecd488f6eaf78a6e3abb9653d346cc5ae4648126,,https://x.com/nextronresearch/status/2092202464401392078
 10:48:33,nextronresearch,sha256,653520c24e3ad044c00503e3debccefaac3a6fdf76c5ca40b47b937fdbd389a7,,https://x.com/nextronresearch/status/2092202464401392078
 10:48:33,nextronresearch,sha256,8be68dea337a1e7ab1224a10c3c6ca640d55292d135194a5e5ec9454b3bda906,,https://x.com/nextronresearch/status/2092202464401392078
+11:57:12,masaomi346,domain,pine63.com,
+11:57:12,masaomi346,url,http://pine63.com,
 12:00:52,phishunt_io,domain,icloud.trienkhaiweb.com,
 12:00:52,phishunt_io,url,http://icloud.trienkhaiweb.com,
 12:01:14,phishunt_io,domain,icloud-i-cl.com,
@@ -10340,6 +10342,9 @@
 12:01:16,phishunt_io,domain,roblox-canjear.online,
 12:01:16,phishunt_io,ip,200.58.111.123,
 12:01:16,phishunt_io,url,http://roblox-canjear.online/login.html,
+12:01:48,phishunt_io,domain,facebook.securitylog.hu,
+12:01:48,phishunt_io,ip,193.32.234.161,
+12:01:48,phishunt_io,url,http://facebook.securitylog.hu,
 12:13:54,masaomi346,domain,rpc-mainnet.matic.quiknode.pro,
 12:13:54,masaomi346,url,http://rpc-mainnet.matic.quiknode.pro,
 12:20:51,masaomi346,domain,leaf68.com,
@@ -10347,6 +10352,8 @@
 12:34:04,kirkderpca,url,https://www.npmjs.com/package/hydration-cls-ui/v/1.0.0,,https://x.com/kirkderpca/status/2092229020687417560
 12:34:04,kirkderpca,url,https://www.npmjs.com/package/svelte-cls-ui/v/1.0.0,,https://x.com/kirkderpca/status/2092229020687417560
 12:34:22,kirkderpca,url,https://www.npmjs.com/package/chai-as-otc/v/1.0.5,,https://x.com/kirkderpca/status/2092229096013004826
+12:34:44,j_o_h_d_s,domain,cizitensports.com,
+12:34:44,j_o_h_d_s,url,http://cizitensports.com,
 12:35:47,masaomi346,domain,claude-macos-app.com,
 12:35:47,masaomi346,domain,opalblueprint10.com,
 12:35:47,masaomi346,url,http://opalblueprint10.com,
@@ -10393,6 +10400,8 @@
 15:43:38,marcelorivero,url,http://notification-portal.com,,https://x.com/marcelorivero/status/2092276724675281337
 15:59:10,coolcarlos17,domain,havan.vip,
 15:59:10,coolcarlos17,url,https://havan.vip/produto.php?slug=escada-articulada-16-degraus-alum-nio-botafogo-altura,
+16:03:22,tkemmerling,domain,itnessequipmentfor.info,
+16:03:22,tkemmerling,url,http://itnessequipmentfor.info,
 16:14:04,phishunt_io,domain,home-ledgrreliveapp.typedream.app,
 16:14:04,phishunt_io,url,http://home-ledgrreliveapp.typedream.app,
 16:15:08,tkemmerling,domain,pollenoodelight.com,
@@ -10441,13 +10450,19 @@
 17:01:02,phishunt_io,domain,fedexcustom.delivery,
 17:01:02,phishunt_io,ip,63.176.8.218,
 17:01:02,phishunt_io,url,http://fedexcustom.delivery,
+17:01:03,phishunt_io,domain,mail.icloud-i-cl.com,
+17:01:03,phishunt_io,url,http://mail.icloud-i-cl.com,
 17:01:06,phishunt_io,domain,partnerships.adobecreatives.com,
 17:01:06,phishunt_io,ip,216.150.1.193,
 17:01:06,phishunt_io,url,http://partnerships.adobecreatives.com,
+17:03:05,tkemmerling,domain,stories.myteenagedream.com,
+17:03:05,tkemmerling,url,http://stories.myteenagedream.com,
 18:00:04,phatomcandle,domain,disclousre.cyou,
 18:00:04,phatomcandle,domain,k-store.login-accounts.dynu.net,
 18:00:04,phatomcandle,url,http://disclousre.cyou,
 18:00:04,phatomcandle,url,http://k-store.login-accounts.dynu.net,
+18:00:05,phatomcandle,domain,xylevia.today,
+18:00:05,phatomcandle,url,http://xylevia.today,
 18:00:06,phatomcandle,domain,k-store.auth-accounts.dynu.org,
 18:00:06,phatomcandle,url,http://k-store.auth-accounts.dynu.org,
 18:00:07,phatomcandle,domain,syncrank.online,
