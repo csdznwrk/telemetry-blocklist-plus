@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-09-01 10:49 UTC
-# Domains: 13092
+# Updated: 2026-09-01 15:47 UTC
+# Domains: 13115
 
 -084-gls-223-www-9-k-0brasil.net.daraz.com
 -access-logs-1.net.daraz.com
@@ -10192,6 +10192,9 @@
 12:01:48,phishunt_io,domain,facebook.securitylog.hu,
 12:01:48,phishunt_io,ip,193.32.234.161,
 12:01:48,phishunt_io,url,http://facebook.securitylog.hu,
+12:04:30,phishunt_io,domain,instagram-app.cn,
+12:04:30,phishunt_io,ip,103.27.178.242,
+12:04:30,phishunt_io,url,http://instagram-app.cn,
 12:13:54,masaomi346,domain,rpc-mainnet.matic.quiknode.pro,
 12:13:54,masaomi346,url,http://rpc-mainnet.matic.quiknode.pro,
 12:20:51,masaomi346,domain,leaf68.com,
@@ -10212,6 +10215,26 @@
 13:09:02,fbgwls245,url,http://i7loab6thvz4lb7jdr3qoeumbvilwhbgnwsctnlfmvsv7g5s3vsiw6yd.onion,
 13:11:17,scanmalware,domain,potwierdzenie-bezpieczenstwa.vercel.app,
 13:11:17,scanmalware,url,http://www.potwierdzenie-bezpieczenstwa.vercel.app,
+14:16:08,coolcarlos17,domain,site-havan.com,
+14:16:08,coolcarlos17,url,https://site-havan.com,
+14:33:44,tkemmerling,domain,financialmarkets.info,
+14:33:44,tkemmerling,domain,jeffersongraphicsllc.com,
+14:33:44,tkemmerling,url,http://financialmarkets.info,
+14:33:44,tkemmerling,url,http://jeffersongraphicsllc.com,
+14:34:08,tkemmerling,domain,nsbpay.com,
+14:34:08,tkemmerling,url,http://nsbpay.com,
+14:34:42,tkemmerling,domain,jessicaleeinc.com,
+14:34:42,tkemmerling,domain,silvaveergygroup.com,
+14:34:42,tkemmerling,url,http://jessicaleeinc.com,
+14:34:42,tkemmerling,url,http://silvaveergygroup.com,
+14:35:06,tkemmerling,domain,cedarpointlabs.blog,
+14:35:06,tkemmerling,url,http://cedarpointlabs.blog,
+14:35:31,tkemmerling,domain,casinovirtualexperience.info,
+14:35:31,tkemmerling,url,http://casinovirtualexperience.info,
+14:47:46,coolcarlos17,domain,casaiutilidade.shop,
+14:47:46,coolcarlos17,url,https://www.casaiutilidade.shop,
+15:01:50,masaomi346,domain,acorlns.shop,
+15:01:50,masaomi346,url,https://acorlns.shop,
 15:07:36,chwrld24,domain,cartoonblastfun.cfd,
 15:07:36,chwrld24,url,http://cartoonblastfun.cfd,
 15:07:36,chwrld24,url,https://cartoonblastfun.cfd/ke1a1wixzsbqo1kied,
