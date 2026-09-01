@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-09-01 02:45 UTC
-# Domains: 13070
+# Updated: 2026-09-01 10:49 UTC
+# Domains: 13092
 
 -084-gls-223-www-9-k-0brasil.net.daraz.com
 -access-logs-1.net.daraz.com
@@ -9690,6 +9690,16 @@
 03:02:45,tkemmerling,url,http://2wp.de,
 03:02:45,tkemmerling,url,http://ezcapsforums.com,
 03:02:45,tkemmerling,url,http://ironrootsystems.nl,
+03:07:35,tkemmerling,domain,malahideproperty.com,
+03:07:35,tkemmerling,domain,revivesourhearts.com,
+03:07:35,tkemmerling,url,http://malahideproperty.com,
+03:07:35,tkemmerling,url,http://revivesourhearts.com,
+03:07:52,tkemmerling,domain,inspirationalframedpoems.com,
+03:07:52,tkemmerling,domain,itnessequipmentfor.info,
+03:07:52,tkemmerling,url,http://inspirationalframedpoems.com,
+03:07:52,tkemmerling,url,http://itnessequipmentfor.info,
+03:08:08,tkemmerling,domain,budgetweddingplanner.info,
+03:08:08,tkemmerling,url,http://budgetweddingplanner.info,
 03:17:25,masaomi346,domain,renxintong.com,
 03:17:25,masaomi346,url,https://renxintong.com/login/smbc-card/index.html/entah/jsp,
 03:42:09,masaomi346,domain,rnwm.pvvchxh.cn,
@@ -10108,6 +10118,8 @@
 06:37:28,metemcyber,url,https://rnwm.pvvchxh.cn/ap/,
 06:43:42,metemcyber,ip,43.160.253.172,
 06:43:42,metemcyber,url,http://43.160.253.172,
+06:44:07,masaomi346,domain,rbdvwwr.cn,
+06:44:07,masaomi346,url,https://rbdvwwr.cn/czvwqwkt/,
 07:00:27,abodovic1,ip,154.94.224.35,
 07:00:27,abodovic1,url,http://154.94.224.35:54321,
 07:00:54,phishunt_io,domain,reentrega-seur-envio.cloudaccess.host,
@@ -10126,10 +10138,18 @@
 07:01:21,phishunt_io,domain,instagram-accounts-login.duckdns.org,
 07:01:21,phishunt_io,ip,144.172.91.11,
 07:01:21,phishunt_io,url,http://instagram-accounts-login.duckdns.org,
+07:01:24,phishunt_io,domain,fls-a29a8cd9-0161-4493-bf5c-9f682b16d0c8.laravel.cloud,
+07:01:24,phishunt_io,ip,103.133.1.1,
+07:01:24,phishunt_io,url,http://fls-a29a8cd9-0161-4493-bf5c-9f682b16d0c8.laravel.cloud/hotmail%20inbox%20main.html,
 07:10:17,abodovic1,ip,49.51.230.17,
 07:10:17,abodovic1,url,http://49.51.230.17:8888,
 07:11:32,scanmalware,domain,urlshort-linkmri0w5kc3r96.5go.workers.dev,
 07:11:32,scanmalware,url,http://urlshort-linkmri0w5kc3r96.5go.workers.dev,
+08:31:33,scanmalware,domain,mkgheye78fdfb.sryoung56.workers.dev,
+08:31:33,scanmalware,url,http://mkgheye78fdfb.sryoung56.workers.dev,
+08:45:03,phishstats,domain,gk.bnznji.net,
+08:45:03,phishstats,ip,91.195.240.13,
+08:45:03,phishstats,url,https://gk.bnznji.net/adobe/adobe-digital-exe/download.html,
 08:52:16,metemcyber,domain,carlitostowing.com,
 08:52:16,metemcyber,ip,198.44.46.105,
 08:52:16,metemcyber,url,http://198.44.46.105,
@@ -10148,6 +10168,8 @@
 09:24:21,masaomi346,url,https://cli-stack.com,
 09:25:14,etugenio,ip,45.117.83.34,
 09:25:14,etugenio,url,http://45.117.83.34,
+09:28:05,masaomi346,domain,point-raka.com,
+09:28:05,masaomi346,url,https://point-raka.com,
 10:05:36,metemcyber,domain,iodqqji.info,
 10:05:36,metemcyber,domain,tjtnfat.cn,
 10:05:36,metemcyber,domain,wwufzpm.cn,
