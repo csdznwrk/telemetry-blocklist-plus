@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-09-01 15:47 UTC
-# Domains: 13115
+# Updated: 2026-09-01 20:19 UTC
+# Domains: 13120
 
 -084-gls-223-www-9-k-0brasil.net.daraz.com
 -access-logs-1.net.daraz.com
@@ -10283,7 +10283,10 @@
 17:01:02,phishunt_io,domain,fedexcustom.delivery,
 17:01:02,phishunt_io,ip,63.176.8.218,
 17:01:02,phishunt_io,url,http://fedexcustom.delivery,
+17:01:03,phishunt_io,domain,cm.instagram-g.com.cn,
 17:01:03,phishunt_io,domain,mail.icloud-i-cl.com,
+17:01:03,phishunt_io,ip,185.216.251.10,
+17:01:03,phishunt_io,url,http://cm.instagram-g.com.cn,
 17:01:03,phishunt_io,url,http://mail.icloud-i-cl.com,
 17:01:06,phishunt_io,domain,partnerships.adobecreatives.com,
 17:01:06,phishunt_io,ip,216.150.1.193,
@@ -10292,8 +10295,10 @@
 17:03:05,tkemmerling,url,http://stories.myteenagedream.com,
 18:00:04,phatomcandle,domain,disclousre.cyou,
 18:00:04,phatomcandle,domain,k-store.login-accounts.dynu.net,
+18:00:04,phatomcandle,domain,kakao-user.login-accounts.dynu.net,
 18:00:04,phatomcandle,url,http://disclousre.cyou,
 18:00:04,phatomcandle,url,http://k-store.login-accounts.dynu.net,
+18:00:04,phatomcandle,url,http://kakao-user.login-accounts.dynu.net,
 18:00:05,phatomcandle,domain,xylevia.today,
 18:00:05,phatomcandle,url,http://xylevia.today,
 18:00:06,phatomcandle,domain,k-store.auth-accounts.dynu.org,
