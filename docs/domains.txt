@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-09-02 10:14 UTC
-# Domains: 13114
+# Updated: 2026-09-02 15:40 UTC
+# Domains: 13125
 
 -084-gls-223-www-9-k-0brasil.net.daraz.com
 -access-logs-1.net.daraz.com
@@ -10199,8 +10199,11 @@
 12:04:30,phishunt_io,url,http://instagram-app.cn,
 12:13:54,masaomi346,domain,rpc-mainnet.matic.quiknode.pro,
 12:13:54,masaomi346,url,http://rpc-mainnet.matic.quiknode.pro,
+12:29:16,masaomi346,domain,rhigcrimelet.chktxw.info,
+12:29:16,masaomi346,url,https://rhigcrimelet.chktxw.info/h80aoo,
 12:34:44,j_o_h_d_s,domain,cizitensports.com,
 12:34:44,j_o_h_d_s,url,http://cizitensports.com,
+12:45:29,abuse_ch,ip,91.193.7.186,
 12d60.appspot.com
 12d60.firebaseio.com
 13-5.org
@@ -10209,6 +10212,14 @@
 13:09:02,fbgwls245,url,http://i7loab6thvz4lb7jdr3qoeumbvilwhbgnwsctnlfmvsv7g5s3vsiw6yd.onion,
 13:11:17,scanmalware,domain,potwierdzenie-bezpieczenstwa.vercel.app,
 13:11:17,scanmalware,url,http://www.potwierdzenie-bezpieczenstwa.vercel.app,
+14:05:37,tkemmerling,domain,anadolucuhuriyeti.info,
+14:05:37,tkemmerling,url,http://anadolucuhuriyeti.info,
+14:06:36,tkemmerling,domain,cartshopdaily.com,
+14:06:36,tkemmerling,domain,webologygroup.com,
+14:06:36,tkemmerling,url,http://cartshopdaily.com,
+14:06:36,tkemmerling,url,http://webologygroup.com,
+14:08:46,tkemmerling,domain,jessicaleeinc.com,
+14:08:46,tkemmerling,url,http://jessicaleeinc.com,
 14:16:08,coolcarlos17,domain,site-havan.com,
 14:16:08,coolcarlos17,url,https://site-havan.com,
 14:33:44,tkemmerling,domain,financialmarkets.info,
