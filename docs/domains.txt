@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-09-02 02:06 UTC
-# Domains: 13095
+# Updated: 2026-09-02 10:14 UTC
+# Domains: 13114
 
 -084-gls-223-www-9-k-0brasil.net.daraz.com
 -access-logs-1.net.daraz.com
@@ -8417,6 +8417,8 @@
 029www11w.top
 029www22w.top
 029yt.com
+02:56:19,tkemmerling,domain,topazbrasshardware.com,
+02:56:19,tkemmerling,url,http://topazbrasshardware.com,
 02:56:48,tkemmerling,domain,schoolgirstrikers.info,
 02:56:48,tkemmerling,url,http://schoolgirstrikers.info,
 02:56:54,tkemmerling,domain,anaridelight.com,
@@ -9684,6 +9686,10 @@
 039wz06.com
 039wz07.com
 039y4012f1.shop
+03:00:48,tkemmerling,domain,horizonpeak.shop,
+03:00:48,tkemmerling,domain,prosperityplanningguide.com,
+03:00:48,tkemmerling,url,http://horizonpeak.shop,
+03:00:48,tkemmerling,url,http://prosperityplanningguide.com,
 03:02:38,tkemmerling,domain,elegantwindowdoor.com,
 03:02:38,tkemmerling,domain,thebitcoincenter.info,
 03:02:38,tkemmerling,url,http://elegantwindowdoor.com,
@@ -10099,12 +10105,22 @@
 042e6fc826d8e48c.com
 042e830be90d0fea.top
 042f6c54e9e024818.com
+04:06:26,tkemmerling,domain,trendyvoguedesigns.com,
+04:06:26,tkemmerling,domain,webbottom.com,
+04:06:26,tkemmerling,url,http://trendyvoguedesigns.com,
+04:06:26,tkemmerling,url,http://webbottom.com,
+04:07:27,tkemmerling,domain,jeffersongraphicsllc.com,
+04:07:27,tkemmerling,domain,thebitcoincenter.info,
+04:07:27,tkemmerling,url,http://jeffersongraphicsllc.com,
+04:07:27,tkemmerling,url,http://thebitcoincenter.info,
 04:30:03,scanmalware,domain,paypal3.vercel.app,
 04:30:03,scanmalware,url,http://paypal3.vercel.app,
 05:00:05,addressintel,domain,feedsafepro.com,
 05:00:05,addressintel,url,https://feedsafepro.com/wp-content/themes/inps/auth/details,
 05:08:09,masaomi346,domain,rakuten-card.dksclz.com,
 05:08:09,masaomi346,url,https://rakuten-card.dksclz.com/oak8kv,
+05:59:29,metemcyber,domain,ukiona.asia,
+05:59:29,metemcyber,url,https://ukiona.asia/qbgqjrtb/,
 06:28:10,sloirem,domain,baouie2.club,
 06:28:10,sloirem,ip,118.107.44.153,
 06:28:10,sloirem,url,http://118.107.44.153,
@@ -10136,6 +10152,8 @@
 07:01:24,phishunt_io,domain,fls-a29a8cd9-0161-4493-bf5c-9f682b16d0c8.laravel.cloud,
 07:01:24,phishunt_io,ip,103.133.1.1,
 07:01:24,phishunt_io,url,http://fls-a29a8cd9-0161-4493-bf5c-9f682b16d0c8.laravel.cloud/hotmail%20inbox%20main.html,
+07:01:31,phishunt_io,domain,ledgerlivewebapp.com,
+07:01:31,phishunt_io,url,http://ledgerlivewebapp.com,
 07:10:17,abodovic1,ip,49.51.230.17,
 07:10:17,abodovic1,url,http://49.51.230.17:8888,
 08:31:33,scanmalware,domain,mkgheye78fdfb.sryoung56.workers.dev,
@@ -10147,6 +10165,7 @@
 08:52:16,metemcyber,ip,198.44.46.105,
 08:52:16,metemcyber,url,http://198.44.46.105,
 08:52:16,metemcyber,url,https://carlitostowing.com/lkpuwcdda/,
+08:59:16,phishstats,ip,155.138.208.58,
 08:59:24,masaomi346,domain,afterpartycandleco.com,
 08:59:24,masaomi346,url,https://afterpartycandleco.com/gbjynqku/,
 09:05:03,metemcyber,domain,uukuz.wanjiangmei.com,
