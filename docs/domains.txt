@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-09-03 10:25 UTC
-# Domains: 13087
+# Updated: 2026-09-03 15:31 UTC
+# Domains: 13099
 
 -084-gls-223-www-9-k-0brasil.net.daraz.com
 -access-logs-1.net.daraz.com
@@ -10149,6 +10149,16 @@
 09:24:21,masaomi346,url,https://cli-stack.com,
 09:28:05,masaomi346,domain,point-raka.com,
 09:28:05,masaomi346,url,https://point-raka.com,
+11:32:19,orlof_v,domain,rrr.12naga.org,
+11:32:19,orlof_v,domain,sha.sm188dvlv.icu,
+11:32:19,orlof_v,domain,tak.123ful.net,
+11:32:19,orlof_v,domain,tak.sm188dvlv.icu,
+11:32:19,orlof_v,domain,tra.12naga.org,
+11:32:19,orlof_v,url,http://rrr.12naga.org,
+11:32:19,orlof_v,url,http://sha.sm188dvlv.icu,
+11:32:19,orlof_v,url,http://tak.123ful.net,
+11:32:19,orlof_v,url,http://tak.sm188dvlv.icu,
+11:32:19,orlof_v,url,http://tra.12naga.org,
 11:57:12,masaomi346,domain,pine63.com,
 11:57:12,masaomi346,url,http://pine63.com,
 12:00:52,phishunt_io,domain,icloud.trienkhaiweb.com,
@@ -10166,6 +10176,8 @@
 12:04:30,phishunt_io,url,http://instagram-app.cn,
 12:13:54,masaomi346,domain,rpc-mainnet.matic.quiknode.pro,
 12:13:54,masaomi346,url,http://rpc-mainnet.matic.quiknode.pro,
+12:26:15,masaomi346,domain,ana-log.therealmasterwithin.com,
+12:26:15,masaomi346,url,https://ana-log.therealmasterwithin.com/login-ana/,
 12:29:16,masaomi346,domain,rhigcrimelet.chktxw.info,
 12:29:16,masaomi346,url,https://rhigcrimelet.chktxw.info/h80aoo,
 12:34:44,j_o_h_d_s,domain,cizitensports.com,
