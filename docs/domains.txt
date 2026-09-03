@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-09-03 02:12 UTC
-# Domains: 13080
+# Updated: 2026-09-03 10:25 UTC
+# Domains: 13087
 
 -084-gls-223-www-9-k-0brasil.net.daraz.com
 -access-logs-1.net.daraz.com
@@ -8398,6 +8398,10 @@
 029www11w.top
 029www22w.top
 029yt.com
+02:30:16,lawrencetech504,domain,btc6688.com,
+02:30:16,lawrencetech504,url,http://btc6688.com,
+02:38:40,masaomi346,domain,bravqhz.cfd,
+02:38:40,masaomi346,url,https://bravqhz.cfd/dsfd/
 02:56:19,tkemmerling,domain,topazbrasshardware.com,
 02:56:19,tkemmerling,url,http://topazbrasshardware.com,
 02:56:48,tkemmerling,domain,schoolgirstrikers.info,
@@ -10122,12 +10126,17 @@
 07:01:24,phishunt_io,domain,fls-a29a8cd9-0161-4493-bf5c-9f682b16d0c8.laravel.cloud,
 07:01:24,phishunt_io,ip,103.133.1.1,
 07:01:24,phishunt_io,url,http://fls-a29a8cd9-0161-4493-bf5c-9f682b16d0c8.laravel.cloud/hotmail%20inbox%20main.html,
+07:01:31,phishunt_io,domain,grupoimpaktu.ao,
 07:01:31,phishunt_io,domain,ledgerlivewebapp.com,
+07:01:31,phishunt_io,ip,135.181.34.42,
+07:01:31,phishunt_io,url,http://grupoimpaktu.ao/quotesss/onedrive-verify-obf.html,
 07:01:31,phishunt_io,url,http://ledgerlivewebapp.com,
 07:10:17,abodovic1,ip,49.51.230.17,
 07:10:17,abodovic1,url,http://49.51.230.17:8888,
 08:31:33,scanmalware,domain,mkgheye78fdfb.sryoung56.workers.dev,
 08:31:33,scanmalware,url,http://mkgheye78fdfb.sryoung56.workers.dev,
+08:33:06,phishstats,domain,mikjv2zuc2ct-pages-dev.translate.goog,
+08:33:06,phishstats,url,https://mikjv2zuc2ct-pages-dev.translate.goog/support.apple.com.html?_x_tr_sch=&amp;_x_tr_sl=monex&amp;_x_tr_tl=ja,
 08:45:03,phishstats,domain,gk.bnznji.net,
 08:45:03,phishstats,ip,91.195.240.13,
 08:45:03,phishstats,url,https://gk.bnznji.net/adobe/adobe-digital-exe/download.html,
@@ -13052,9 +13061,7 @@ zsxocjarsate.com
 ||tracking02.adweb.co.kr^$third-party
 ||tracking202.com^$third-party
 ||tracking3.vnncdn.net^
-||trackinglabs.com^$third-party
 ||trackingmyadsas.com^
-||treconeanalytics.com^
 ||trk.analytics.wisetracker.co.kr^
 ||tryzens-analytics.com^
 ||tver-metrics.streaks.jp^
