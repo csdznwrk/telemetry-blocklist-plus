@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-09-04 02:08 UTC
-# Domains: 13104
+# Updated: 2026-09-04 10:12 UTC
+# Domains: 13131
 
 -084-gls-223-www-9-k-0brasil.net.daraz.com
 -access-logs-1.net.daraz.com
@@ -8404,6 +8404,8 @@
 02:30:16,lawrencetech504,url,http://btc6688.com,
 02:38:40,masaomi346,domain,bravqhz.cfd,
 02:38:40,masaomi346,url,https://bravqhz.cfd/dsfd/
+02:50:06,tkemmerling,domain,se.nsbpay.com,
+02:50:06,tkemmerling,url,http://se.nsbpay.com,
 02:56:19,tkemmerling,domain,topazbrasshardware.com,
 02:56:19,tkemmerling,url,http://topazbrasshardware.com,
 02:56:48,tkemmerling,domain,schoolgirstrikers.info,
@@ -9677,6 +9679,8 @@
 03:00:48,tkemmerling,domain,prosperityplanningguide.com,
 03:00:48,tkemmerling,url,http://horizonpeak.shop,
 03:00:48,tkemmerling,url,http://prosperityplanningguide.com,
+03:01:53,tkemmerling,domain,ra.hbjbkf.com,
+03:01:53,tkemmerling,url,http://ra.hbjbkf.com,
 03:02:38,tkemmerling,domain,elegantwindowdoor.com,
 03:02:38,tkemmerling,domain,thebitcoincenter.info,
 03:02:38,tkemmerling,url,http://elegantwindowdoor.com,
@@ -9687,6 +9691,10 @@
 03:02:45,tkemmerling,url,http://2wp.de,
 03:02:45,tkemmerling,url,http://ezcapsforums.com,
 03:02:45,tkemmerling,url,http://ironrootsystems.nl,
+03:03:03,tkemmerling,domain,donateclothingmi.info,
+03:03:03,tkemmerling,url,http://donateclothingmi.info,
+03:04:15,tkemmerling,domain,ongannanzhuang.info,
+03:04:15,tkemmerling,url,http://ongannanzhuang.info,
 03:07:35,tkemmerling,domain,malahideproperty.com,
 03:07:35,tkemmerling,domain,revivesourhearts.com,
 03:07:35,tkemmerling,url,http://malahideproperty.com,
@@ -9697,6 +9705,8 @@
 03:07:52,tkemmerling,url,http://itnessequipmentfor.info,
 03:08:08,tkemmerling,domain,budgetweddingplanner.info,
 03:08:08,tkemmerling,url,http://budgetweddingplanner.info,
+03:12:41,scanmalware,domain,aadobe07.pages.dev,
+03:12:41,scanmalware,url,http://aadobe07.pages.dev,
 03:17:25,masaomi346,domain,renxintong.com,
 03:17:25,masaomi346,url,https://renxintong.com/login/smbc-card/index.html/entah/jsp,
 03:42:09,masaomi346,domain,rnwm.pvvchxh.cn,
@@ -10099,6 +10109,18 @@
 04:07:27,tkemmerling,domain,thebitcoincenter.info,
 04:07:27,tkemmerling,url,http://jeffersongraphicsllc.com,
 04:07:27,tkemmerling,url,http://thebitcoincenter.info,
+04:22:22,metemcyber,domain,support.inumm.asia,
+04:22:22,metemcyber,ip,182.161.66.236,
+04:22:22,metemcyber,url,http://182.161.66.236,
+04:22:22,metemcyber,url,https://www.support.inumm.asia/efn1cr2tu/,
+04:35:35,metemcyber,domain,aeon.kkbjnty.cn,
+04:35:35,metemcyber,ip,43.167.198.165,
+04:35:35,metemcyber,url,http://43.167.198.165,
+04:35:35,metemcyber,url,https://aeon.kkbjnty.cn/ltcq3p1txe,
+04:48:28,metemcyber,domain,zizhil.com,
+04:48:28,metemcyber,ip,43.128.228.199,
+04:48:28,metemcyber,url,http://43.128.228.199,
+04:48:28,metemcyber,url,https://zizhil.com/oeutfyax/,
 05:00:05,addressintel,domain,feedsafepro.com,
 05:00:05,addressintel,url,https://feedsafepro.com/wp-content/themes/inps/auth/details,
 05:59:29,metemcyber,domain,ukiona.asia,
@@ -10125,6 +10147,9 @@
 07:01:24,phishunt_io,domain,fls-a29a8cd9-0161-4493-bf5c-9f682b16d0c8.laravel.cloud,
 07:01:24,phishunt_io,ip,103.133.1.1,
 07:01:24,phishunt_io,url,http://fls-a29a8cd9-0161-4493-bf5c-9f682b16d0c8.laravel.cloud/hotmail%20inbox%20main.html,
+07:01:28,phishunt_io,domain,comecome.click,
+07:01:28,phishunt_io,ip,185.221.216.117,
+07:01:28,phishunt_io,url,http://comecome.click/zxm/xx/alibaba/index.html,
 07:01:31,phishunt_io,domain,grupoimpaktu.ao,
 07:01:31,phishunt_io,domain,ledgerlivewebapp.com,
 07:01:31,phishunt_io,ip,135.181.34.42,
@@ -10139,6 +10164,8 @@
 08:45:03,phishstats,domain,gk.bnznji.net,
 08:45:03,phishstats,ip,91.195.240.13,
 08:45:03,phishstats,url,https://gk.bnznji.net/adobe/adobe-digital-exe/download.html,
+08:53:54,masaomi346,domain,login.zylvshiw.com,
+08:53:54,masaomi346,url,https://login.zylvshiw.com/login,
 08:59:16,phishstats,ip,155.138.208.58,
 08:59:24,masaomi346,domain,afterpartycandleco.com,
 08:59:24,masaomi346,url,https://afterpartycandleco.com/gbjynqku/,
