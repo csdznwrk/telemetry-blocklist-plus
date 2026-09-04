@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-09-03 20:19 UTC
-# Domains: 13105
+# Updated: 2026-09-04 02:08 UTC
+# Domains: 13104
 
 -084-gls-223-www-9-k-0brasil.net.daraz.com
 -access-logs-1.net.daraz.com
@@ -3045,14 +3045,14 @@
 009www11w.top
 009www22w.top
 009www33w.top
-00:03:36,masaomi346,domain,richscity.com,
-00:03:36,masaomi346,url,https://richscity.com/smtpjp/,
 00:31:39,masaomi346,domain,point-plsidaw.com,
 00:31:39,masaomi346,url,https://point-plsidaw.com,
 00:33:42,sicehice,domain,satinmaple4.com,
 00:33:42,sicehice,domain,terminalbrewmac.com,
 00:33:42,sicehice,url,http://terminalbrewmac.com,
 00:33:42,sicehice,url,https://satinmaple4.com/curl/0djk1usgn/yrdkr6r6fyp8viva.txt,
+00:39:39,tkemmerling,domain,asianmassageporn.info,
+00:39:39,tkemmerling,url,http://asianmassageporn.info,
 00:53:10,coolcarlos17,domain,site-oficial-havan.online,
 00:53:10,coolcarlos17,url,https://site-oficial-havan.online,
 00a17677c75ed52b.com
@@ -7447,6 +7447,8 @@
 01:29:54,mugu_reporter,domain,claudpod.com,
 01:29:54,mugu_reporter,ip,5.135.193.194,
 01:29:54,mugu_reporter,url,http://claudpod.com,
+01:45:35,tkemmerling,domain,icubedtecnologies.info,
+01:45:35,tkemmerling,url,http://icubedtecnologies.info,
 01:50:03,scanmalware,domain,ss.idms-service-cloud2-651246814854185.workers.dev,
 01:50:03,scanmalware,url,http://ss.idms-service-cloud2-651246814854185.workers.dev,
 01a-v0-cat33.hostenko.net
@@ -9699,7 +9701,6 @@
 03:17:25,masaomi346,url,https://renxintong.com/login/smbc-card/index.html/entah/jsp,
 03:42:09,masaomi346,domain,rnwm.pvvchxh.cn,
 03:42:09,masaomi346,url,https://rnwm.pvvchxh.cn/t10ijauryj,
-03:47:46,masaomi346,domain,sferyds.ceeww.xyz,
 03a01d381c69453a.com
 03a087bc6ca6.top
 03a08ec40d0e.com
@@ -10116,8 +10117,6 @@
 07:01:03,phishunt_io,domain,exodus-wallet.global.ssl.fastly.net,
 07:01:03,phishunt_io,ip,146.75.117.194,
 07:01:03,phishunt_io,url,http://exodus-wallet.global.ssl.fastly.net/exodus.html,
-07:01:11,phishunt_io,domain,trezor-walletfn.webflow.io,
-07:01:11,phishunt_io,url,http://trezor-walletfn.webflow.io,
 07:01:12,phishunt_io,domain,pub-d68525cbc6144dcaaac2fc0354aa17dd.r2.dev,
 07:01:12,phishunt_io,url,http://pub-d68525cbc6144dcaaac2fc0354aa17dd.r2.dev/new-docusignredir2.html,
 07:01:21,phishunt_io,domain,instagram-accounts-login.duckdns.org,
@@ -10143,10 +10142,6 @@
 08:59:16,phishstats,ip,155.138.208.58,
 08:59:24,masaomi346,domain,afterpartycandleco.com,
 08:59:24,masaomi346,url,https://afterpartycandleco.com/gbjynqku/,
-09:24:21,masaomi346,domain,cli-stack.com,
-09:24:21,masaomi346,domain,stride25.com,
-09:24:21,masaomi346,url,http://stride25.com,
-09:24:21,masaomi346,url,https://cli-stack.com,
 09:28:05,masaomi346,domain,point-raka.com,
 09:28:05,masaomi346,url,https://point-raka.com,
 11:32:19,orlof_v,domain,rrr.12naga.org,
@@ -10163,8 +10158,6 @@
 11:57:12,masaomi346,url,http://pine63.com,
 12:00:52,phishunt_io,domain,icloud.trienkhaiweb.com,
 12:00:52,phishunt_io,url,http://icloud.trienkhaiweb.com,
-12:01:15,phishunt_io,domain,login-yahoo-verify.blogspot.com,
-12:01:15,phishunt_io,url,http://login-yahoo-verify.blogspot.com,
 12:01:16,phishunt_io,domain,roblox-canjear.online,
 12:01:16,phishunt_io,ip,200.58.111.123,
 12:01:16,phishunt_io,url,http://roblox-canjear.online/login.html,
@@ -10187,8 +10180,6 @@
 12d60.firebaseio.com
 13-5.org
 13-5.ru
-13:09:02,fbgwls245,domain,i7loab6thvz4lb7jdr3qoeumbvilwhbgnwsctnlfmvsv7g5s3vsiw6yd.onion,
-13:09:02,fbgwls245,url,http://i7loab6thvz4lb7jdr3qoeumbvilwhbgnwsctnlfmvsv7g5s3vsiw6yd.onion,
 14:05:37,tkemmerling,domain,anadolucuhuriyeti.info,
 14:05:37,tkemmerling,url,http://anadolucuhuriyeti.info,
 14:06:36,tkemmerling,domain,cartshopdaily.com,
@@ -10256,8 +10247,6 @@
 17:00:52,phishunt_io,domain,login.authorised-support.com,
 17:00:52,phishunt_io,ip,3.174.46.41,
 17:00:52,phishunt_io,url,http://login.authorised-support.com/microsoft365/mfa/y9iinybdokj6ijohvzyjurykmprt0uh_1ueq=4bq==1xfhsq15cxldfblxxug,
-17:00:55,phishunt_io,domain,support-ledgrcom-start-web.typedream.app,
-17:00:55,phishunt_io,url,http://support-ledgrcom-start-web.typedream.app,
 17:01:03,phishunt_io,domain,cm.instagram-g.com.cn,
 17:01:03,phishunt_io,domain,facebook.meweb.kz,
 17:01:03,phishunt_io,domain,mail.icloud-i-cl.com,
@@ -10273,7 +10262,9 @@
 17:03:05,tkemmerling,url,http://stories.myteenagedream.com,
 18:00:04,phatomcandle,domain,kakao-user.login-accounts.dynu.net,
 18:00:04,phatomcandle,url,http://kakao-user.login-accounts.dynu.net,
+18:00:05,phatomcandle,domain,login-accounts.dynu.net,
 18:00:05,phatomcandle,domain,xylevia.today,
+18:00:05,phatomcandle,url,http://www.login-accounts.dynu.net,
 18:00:05,phatomcandle,url,http://xylevia.today,
 18:00:06,phatomcandle,domain,k-store.auth-accounts.dynu.org,
 18:00:06,phatomcandle,url,http://k-store.auth-accounts.dynu.org,
@@ -10281,8 +10272,6 @@
 18:00:07,phatomcandle,url,http://velocty.cfd,
 18:28:39,tkemmerling,domain,asianmassageporn.info,
 18:28:39,tkemmerling,url,http://asianmassageporn.info,
-19:32:10,g60930953,domain,ncloudtechlab.online,
-19:32:10,g60930953,url,http://www.ncloudtechlab.online,
 19:49:21,tkemmerling,domain,budgetweddingplanner.info,
 19:49:21,tkemmerling,url,http://budgetweddingplanner.info,
 1ca43.appspot.com
@@ -10292,11 +10281,21 @@
 20:49:25,phishstats,domain,ananeosi-melous.com,
 20:49:25,phishstats,ip,45.74.47.19,
 20:49:25,phishstats,url,https://ananeosi-melous.com/captcha,
+20:52:10,skocherhan,domain,bvaco.com,
+20:52:10,skocherhan,domain,worksodsirius.ydns.eu,
+20:52:10,skocherhan,url,http://bvaco.com,
+20:52:10,skocherhan,url,http://worksodsirius.ydns.eu,
+21:28:23,tkemmerling,domain,mapletrailmedia.store,
+21:28:23,tkemmerling,url,http://mapletrailmedia.store,
 22:03:25,mugu_reporter,domain,ns1.serverjjtech1.cc,
 22:03:25,mugu_reporter,url,http://ns1.serverjjtech1.cc,
+22:29:02,tkemmerling,domain,mneylysis.info,
+22:29:02,tkemmerling,url,http://mneylysis.info,
 23:10:29,masaomi346,domain,apple.fnbbamg.cn,
 23:10:29,masaomi346,url,https://apple.fnbbamg.cn,
 23:25:14,masaomi346,domain,sferyds.ebhhn.xyz,
+23:34:14,tkemmerling,domain,lawsolutiondirect.info,
+23:34:14,tkemmerling,url,http://lawsolutiondirect.info,
 23:34:36,masaomi346,domain,csdgryg.buwrh.com,
 2baserec2.guru
 33across.com
