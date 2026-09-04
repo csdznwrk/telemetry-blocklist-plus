@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-09-04 15:29 UTC
-# Domains: 13131
+# Updated: 2026-09-04 20:04 UTC
+# Domains: 13138
 
 -084-gls-223-www-9-k-0brasil.net.daraz.com
 -access-logs-1.net.daraz.com
@@ -10235,6 +10235,8 @@
 14:47:46,coolcarlos17,url,https://www.casaiutilidade.shop,
 15:01:50,masaomi346,domain,acorlns.shop,
 15:01:50,masaomi346,url,https://acorlns.shop,
+15:32:14,_akatsukilegion,ip,101.42.136.73,
+15:32:14,_akatsukilegion,url,http://101.42.136.73,
 16:03:22,tkemmerling,domain,itnessequipmentfor.info,
 16:03:22,tkemmerling,url,http://itnessequipmentfor.info,
 16:14:04,phishunt_io,domain,home-ledgrreliveapp.typedream.app,
@@ -10285,6 +10287,9 @@
 17:01:06,phishunt_io,domain,partnerships.adobecreatives.com,
 17:01:06,phishunt_io,ip,216.150.1.193,
 17:01:06,phishunt_io,url,http://partnerships.adobecreatives.com,
+17:01:12,phishunt_io,domain,spotify-anniversary30th.com,
+17:01:12,phishunt_io,ip,178.16.54.253,
+17:01:12,phishunt_io,url,http://spotify-anniversary30th.com,
 17:03:05,tkemmerling,domain,stories.myteenagedream.com,
 17:03:05,tkemmerling,url,http://stories.myteenagedream.com,
 18:00:04,phatomcandle,domain,kakao-user.login-accounts.dynu.net,
@@ -10299,6 +10304,8 @@
 18:00:07,phatomcandle,url,http://velocty.cfd,
 18:28:39,tkemmerling,domain,asianmassageporn.info,
 18:28:39,tkemmerling,url,http://asianmassageporn.info,
+18:53:52,skocherhan,domain,telendszes.work,
+18:53:52,skocherhan,url,http://telendszes.work,
 19:49:21,tkemmerling,domain,budgetweddingplanner.info,
 19:49:21,tkemmerling,url,http://budgetweddingplanner.info,
 1ca43.appspot.com
