@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-09-05 02:08 UTC
-# Domains: 13078
+# Updated: 2026-09-05 09:41 UTC
+# Domains: 13096
 
 -084-gls-223-www-9-k-0brasil.net.daraz.com
 -access-logs-1.net.daraz.com
@@ -10086,6 +10086,16 @@
 06:43:42,metemcyber,url,http://43.160.253.172,
 06:44:07,masaomi346,domain,rbdvwwr.cn,
 06:44:07,masaomi346,url,https://rbdvwwr.cn/czvwqwkt/,
+07:00:45,masaomi346,domain,etax-olimw.com,
+07:00:45,masaomi346,domain,etax-pliwka.com,
+07:00:45,masaomi346,domain,etax-plwads.com,
+07:00:45,masaomi346,domain,etax-uwaiosd.com,
+07:00:45,masaomi346,domain,etax-wusasd.com,
+07:00:45,masaomi346,url,https://etax-olimw.com,
+07:00:45,masaomi346,url,https://etax-pliwka.com,
+07:00:45,masaomi346,url,https://etax-plwads.com,
+07:00:45,masaomi346,url,https://etax-uwaiosd.com,
+07:00:45,masaomi346,url,https://etax-wusasd.com,
 07:01:12,phishunt_io,domain,pub-d68525cbc6144dcaaac2fc0354aa17dd.r2.dev,
 07:01:12,phishunt_io,url,http://pub-d68525cbc6144dcaaac2fc0354aa17dd.r2.dev/new-docusignredir2.html,
 07:01:21,phishunt_io,domain,instagram-accounts-login.duckdns.org,
@@ -10109,8 +10119,16 @@
 08:45:03,phishstats,domain,gk.bnznji.net,
 08:45:03,phishstats,ip,91.195.240.13,
 08:45:03,phishstats,url,https://gk.bnznji.net/adobe/adobe-digital-exe/download.html,
+08:49:06,skocherhan,sha256,bc48086b5b9d893ad51224fe7425914ed4d76ec14f01d3125b6a7289d774aa6e,,https://x.com/skocherhan/status/2096158669339590946
+08:51:25,skocherhan,domain,finance-gov-pk.fetchdrives.info,
+08:51:25,skocherhan,domain,pk.fetchdrives.info,
+08:51:25,skocherhan,domain,www-finance-gov-pk.fetchdrives.info,
+08:51:25,skocherhan,url,http://finance-gov-pk.fetchdrives.info,
+08:51:25,skocherhan,url,http://pk.fetchdrives.info,
+08:51:25,skocherhan,url,http://www-finance-gov-pk.fetchdrives.info,
 08:53:54,masaomi346,domain,login.zylvshiw.com,
 08:53:54,masaomi346,url,https://login.zylvshiw.com/login,
+08:58:50,skocherhan,md5,8a7db4271f1103fe195591ce3e500faa,,https://x.com/skocherhan/status/2096161119836512463
 08:59:16,phishstats,ip,155.138.208.58,
 09:28:05,masaomi346,domain,point-raka.com,
 09:28:05,masaomi346,url,https://point-raka.com,
