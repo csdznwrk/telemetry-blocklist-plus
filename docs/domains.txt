@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-09-05 14:16 UTC
-# Domains: 13101
+# Updated: 2026-09-05 19:44 UTC
+# Domains: 13114
 
 -084-gls-223-www-9-k-0brasil.net.daraz.com
 -access-logs-1.net.daraz.com
@@ -10168,6 +10168,8 @@
 12d60.firebaseio.com
 13-5.org
 13-5.ru
+13:49:51,fbgwls245,domain,ybvjht7qcuhcml4pjcs7fgk57tzysplqtfq4i7yrwc6vjilin2dt2qad.onion,
+13:49:51,fbgwls245,url,http://ybvjht7qcuhcml4pjcs7fgk57tzysplqtfq4i7yrwc6vjilin2dt2qad.onion,
 14:05:37,tkemmerling,domain,anadolucuhuriyeti.info,
 14:05:37,tkemmerling,url,http://anadolucuhuriyeti.info,
 14:06:36,tkemmerling,domain,cartshopdaily.com,
@@ -10178,6 +10180,8 @@
 14:08:46,tkemmerling,url,http://jessicaleeinc.com,
 14:16:08,coolcarlos17,domain,site-havan.com,
 14:16:08,coolcarlos17,url,https://site-havan.com,
+14:32:24,masaomi346,domain,paintingth.iqlvebw.cn,
+14:32:24,masaomi346,url,https://paintingth.iqlvebw.cn/szhusg/potyunde,
 14:33:44,tkemmerling,domain,financialmarkets.info,
 14:33:44,tkemmerling,domain,jeffersongraphicsllc.com,
 14:33:44,tkemmerling,url,http://financialmarkets.info,
@@ -10237,6 +10241,9 @@
 17:00:52,phishunt_io,domain,login.authorised-support.com,
 17:00:52,phishunt_io,ip,3.174.46.41,
 17:00:52,phishunt_io,url,http://login.authorised-support.com/microsoft365/mfa/y9iinybdokj6ijohvzyjurykmprt0uh_1ueq=4bq==1xfhsq15cxldfblxxug,
+17:00:57,phishunt_io,domain,whatsapp.traviyo.in,
+17:00:57,phishunt_io,ip,103.234.185.7,
+17:00:57,phishunt_io,url,http://whatsapp.traviyo.in,
 17:01:03,phishunt_io,domain,cm.instagram-g.com.cn,
 17:01:03,phishunt_io,domain,facebook.meweb.kz,
 17:01:03,phishunt_io,domain,mail.icloud-i-cl.com,
@@ -10260,8 +10267,14 @@
 18:00:06,phatomcandle,url,http://k-store.auth-accounts.dynu.org,
 18:00:07,phatomcandle,domain,velocty.cfd,
 18:00:07,phatomcandle,url,http://velocty.cfd,
+18:14:57,ucpgoa23,domain,fp2e7a.wpc.2be4.phicdn.net,
+18:14:57,ucpgoa23,url,http://fp2e7a.wpc.2be4.phicdn.net,
 18:28:39,tkemmerling,domain,asianmassageporn.info,
 18:28:39,tkemmerling,url,http://asianmassageporn.info,
+18:45:44,muha2xmad,domain,f005.backblazeb2.com,
+18:45:44,muha2xmad,domain,submit-form.com,
+18:45:44,muha2xmad,url,https://f005.backblazeb2.com,
+18:45:44,muha2xmad,url,https://submit-form.com/xfgxjyepw,
 18:53:52,skocherhan,domain,telendszes.work,
 18:53:52,skocherhan,url,http://telendszes.work,
 19:37:37,skocherhan,md5,8b3d8de78681adc71667f6f687102183,,https://x.com/skocherhan/status/2095959489056846084
