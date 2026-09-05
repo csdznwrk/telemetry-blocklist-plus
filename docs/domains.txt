@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-09-05 09:41 UTC
-# Domains: 13096
+# Updated: 2026-09-05 14:16 UTC
+# Domains: 13101
 
 -084-gls-223-www-9-k-0brasil.net.daraz.com
 -access-logs-1.net.daraz.com
@@ -10132,6 +10132,9 @@
 08:59:16,phishstats,ip,155.138.208.58,
 09:28:05,masaomi346,domain,point-raka.com,
 09:28:05,masaomi346,url,https://point-raka.com,
+11:07:00,phishunt_io,domain,apk-google.cn,
+11:07:00,phishunt_io,ip,47.57.138.67,
+11:07:00,phishunt_io,url,http://apk-google.cn,
 11:32:19,orlof_v,domain,rrr.12naga.org,
 11:32:19,orlof_v,domain,sha.sm188dvlv.icu,
 11:32:19,orlof_v,domain,tak.123ful.net,
@@ -10146,6 +10149,8 @@
 11:57:12,masaomi346,url,http://pine63.com,
 12:00:52,phishunt_io,domain,icloud.trienkhaiweb.com,
 12:00:52,phishunt_io,url,http://icloud.trienkhaiweb.com,
+12:01:21,phishunt_io,domain,bankofamericanonline.com,
+12:01:21,phishunt_io,url,http://bankofamericanonline.com,
 12:01:48,phishunt_io,domain,facebook.securitylog.hu,
 12:01:48,phishunt_io,ip,193.32.234.161,
 12:01:48,phishunt_io,url,http://facebook.securitylog.hu,
