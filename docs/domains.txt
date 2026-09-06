@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-09-06 02:04 UTC
-# Domains: 13086
+# Updated: 2026-09-06 09:56 UTC
+# Domains: 13090
 
 -084-gls-223-www-9-k-0brasil.net.daraz.com
 -access-logs-1.net.daraz.com
@@ -10110,10 +10110,14 @@
 07:01:31,phishunt_io,ip,135.181.34.42,
 07:01:31,phishunt_io,url,http://grupoimpaktu.ao/quotesss/onedrive-verify-obf.html,
 07:01:31,phishunt_io,url,http://ledgerlivewebapp.com,
+07:40:03,scanmalware,domain,kxlrq279nhw-fghzdfyn-3y0x1g-wp833a.pages.dev,
+07:40:03,scanmalware,url,http://kxlrq279nhw-fghzdfyn-3y0x1g-wp833a.pages.dev,
 08:31:33,scanmalware,domain,mkgheye78fdfb.sryoung56.workers.dev,
 08:31:33,scanmalware,url,http://mkgheye78fdfb.sryoung56.workers.dev,
 08:33:06,phishstats,domain,mikjv2zuc2ct-pages-dev.translate.goog,
 08:33:06,phishstats,url,https://mikjv2zuc2ct-pages-dev.translate.goog/support.apple.com.html?_x_tr_sch=&amp;_x_tr_sl=monex&amp;_x_tr_tl=ja,
+08:35:09,phishstats,domain,mybroadbandservice.plutio.com,
+08:35:09,phishstats,url,https://mybroadbandservice.plutio.com/p/form/ittjkqd9fngbzrhnb,
 08:45:03,phishstats,domain,gk.bnznji.net,
 08:45:03,phishstats,ip,91.195.240.13,
 08:45:03,phishstats,url,https://gk.bnznji.net/adobe/adobe-digital-exe/download.html,
