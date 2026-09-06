@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-09-06 14:40 UTC
-# Domains: 13095
+# Updated: 2026-09-06 19:47 UTC
+# Domains: 13100
 
 -084-gls-223-www-9-k-0brasil.net.daraz.com
 -access-logs-1.net.daraz.com
@@ -10203,8 +10203,11 @@
 14:35:31,tkemmerling,url,http://casinovirtualexperience.info,
 14:47:46,coolcarlos17,domain,casaiutilidade.shop,
 14:47:46,coolcarlos17,url,https://www.casaiutilidade.shop,
+15:01:14,skocherhan,domain,microsoft-alpha.vercel.app,
+15:01:14,skocherhan,url,http://microsoft-alpha.vercel.app,
 15:01:50,masaomi346,domain,acorlns.shop,
 15:01:50,masaomi346,url,https://acorlns.shop,
+15:03:20,rakeshkrish12,ip,23.137.255.139,
 15:32:14,_akatsukilegion,ip,101.42.136.73,
 15:32:14,_akatsukilegion,url,http://101.42.136.73,
 16:03:22,tkemmerling,domain,itnessequipmentfor.info,
@@ -10222,6 +10225,8 @@
 17:01:03,phishunt_io,url,http://cm.instagram-g.com.cn,
 17:01:03,phishunt_io,url,http://facebook.meweb.kz,
 17:01:03,phishunt_io,url,http://mail.icloud-i-cl.com,
+17:01:05,phishunt_io,domain,restoration-google.com,
+17:01:05,phishunt_io,url,http://restoration-google.com,
 17:01:12,phishunt_io,domain,spotify-anniversary30th.com,
 17:01:12,phishunt_io,ip,178.16.54.253,
 17:01:12,phishunt_io,url,http://spotify-anniversary30th.com,
