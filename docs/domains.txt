@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-09-06 09:56 UTC
-# Domains: 13090
+# Updated: 2026-09-06 14:40 UTC
+# Domains: 13095
 
 -084-gls-223-www-9-k-0brasil.net.daraz.com
 -access-logs-1.net.daraz.com
@@ -10151,6 +10151,9 @@
 11:57:12,masaomi346,url,http://pine63.com,
 12:01:21,phishunt_io,domain,bankofamericanonline.com,
 12:01:21,phishunt_io,url,http://bankofamericanonline.com,
+12:01:26,phishunt_io,domain,simulador-credito-auto-bbva.ideeo.mx,
+12:01:26,phishunt_io,ip,200.76.161.229,
+12:01:26,phishunt_io,url,http://simulador-credito-auto-bbva.ideeo.mx,
 12:01:48,phishunt_io,domain,facebook.securitylog.hu,
 12:01:48,phishunt_io,ip,193.32.234.161,
 12:01:48,phishunt_io,url,http://facebook.securitylog.hu,
@@ -10168,6 +10171,8 @@
 12d60.firebaseio.com
 13-5.org
 13-5.ru
+13:48:03,masaomi346,domain,mfawke.com,
+13:48:03,masaomi346,url,http://mfawke.com,
 13:49:51,fbgwls245,domain,ybvjht7qcuhcml4pjcs7fgk57tzysplqtfq4i7yrwc6vjilin2dt2qad.onion,
 13:49:51,fbgwls245,url,http://ybvjht7qcuhcml4pjcs7fgk57tzysplqtfq4i7yrwc6vjilin2dt2qad.onion,
 14:05:37,tkemmerling,domain,anadolucuhuriyeti.info,
