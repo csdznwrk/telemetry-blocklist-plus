@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-09-07 02:01 UTC
-# Domains: 13104
+# Updated: 2026-09-07 11:06 UTC
+# Domains: 13128
 
 -084-gls-223-www-9-k-0brasil.net.daraz.com
 -access-logs-1.net.daraz.com
@@ -9661,6 +9661,10 @@
 03:08:08,tkemmerling,url,http://budgetweddingplanner.info,
 03:12:41,scanmalware,domain,aadobe07.pages.dev,
 03:12:41,scanmalware,url,http://aadobe07.pages.dev,
+03:25:26,npj8448,domain,medela.com,
+03:25:26,npj8448,url,http://medela.com,
+03:57:58,mugu_reporter,domain,quantum-forgex.com,
+03:57:58,mugu_reporter,url,http://quantum-forgex.com,
 03a01d381c69453a.com
 03a087bc6ca6.top
 03a08ec40d0e.com
@@ -10071,8 +10075,24 @@
 04:48:28,metemcyber,ip,43.128.228.199,
 04:48:28,metemcyber,url,http://43.128.228.199,
 04:48:28,metemcyber,url,https://zizhil.com/oeutfyax/,
+05:17:53,metemcyber,domain,cam-ana-jp.smpoodle.com,
+05:17:53,metemcyber,ip,107.149.105.29,
+05:17:53,metemcyber,url,http://107.149.105.29,
+05:17:53,metemcyber,url,https://cam-ana-jp.smpoodle.com/security/ap/loginlogout/login/creditlimit/inquirycreditlimit/d10203840,
+05:42:51,metemcyber,domain,rnwm.fpewppc.cn,
+05:42:51,metemcyber,ip,43.165.128.22,
+05:42:51,metemcyber,url,http://43.165.128.22,
+05:42:51,metemcyber,url,https://rnwm.fpewppc.cn/ap/signin,
+05:47:09,metemcyber,domain,stupfication.5s7htk.info,
+05:47:09,metemcyber,ip,43.165.167.152,
+05:47:09,metemcyber,url,http://43.165.167.152,
+05:47:09,metemcyber,url,https://stupfication.5s7htk.info/g3earg/jp,
+05:56:39,metemcyber,ip,43.165.196.142,
+05:56:39,metemcyber,url,http://43.165.196.142,
 05:59:29,metemcyber,domain,ukiona.asia,
 05:59:29,metemcyber,url,https://ukiona.asia/qbgqjrtb/,
+06:19:32,masaomi346,domain,xwmgm.com,
+06:19:32,masaomi346,url,https://xwmgm.com/login,
 06:44:07,masaomi346,domain,rbdvwwr.cn,
 06:44:07,masaomi346,url,https://rbdvwwr.cn/czvwqwkt/,
 07:00:45,masaomi346,domain,etax-olimw.com,
@@ -10085,6 +10105,8 @@
 07:00:45,masaomi346,url,https://etax-plwads.com,
 07:00:45,masaomi346,url,https://etax-uwaiosd.com,
 07:00:45,masaomi346,url,https://etax-wusasd.com,
+07:01:19,phishunt_io,domain,https-wwwv-roblox.co,
+07:01:19,phishunt_io,url,http://https-wwwv-roblox.co/login?returnurl=288280197,
 07:01:24,phishunt_io,domain,fls-a29a8cd9-0161-4493-bf5c-9f682b16d0c8.laravel.cloud,
 07:01:24,phishunt_io,ip,103.133.1.1,
 07:01:24,phishunt_io,url,http://fls-a29a8cd9-0161-4493-bf5c-9f682b16d0c8.laravel.cloud/hotmail%20inbox%20main.html,
@@ -10120,6 +10142,8 @@
 08:59:16,phishstats,ip,155.138.208.58,
 09:28:05,masaomi346,domain,point-raka.com,
 09:28:05,masaomi346,url,https://point-raka.com,
+10:00:05,phatomcandle,domain,lucidware.click,
+10:00:05,phatomcandle,url,http://lucidware.click,
 11:07:00,phishunt_io,domain,apk-google.cn,
 11:07:00,phishunt_io,ip,47.57.138.67,
 11:07:00,phishunt_io,url,http://apk-google.cn,
