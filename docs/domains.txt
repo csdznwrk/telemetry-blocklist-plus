@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-09-07 11:06 UTC
-# Domains: 13128
+# Updated: 2026-09-07 16:54 UTC
+# Domains: 13137
 
 -084-gls-223-www-9-k-0brasil.net.daraz.com
 -access-logs-1.net.daraz.com
@@ -10157,6 +10157,9 @@
 11:32:19,orlof_v,url,http://tak.123ful.net,
 11:32:19,orlof_v,url,http://tak.sm188dvlv.icu,
 11:32:19,orlof_v,url,http://tra.12naga.org,
+12:01:08,phishunt_io,domain,watco.microsoft-notifcation.com,
+12:01:08,phishunt_io,ip,3.145.232.22,
+12:01:08,phishunt_io,url,http://watco.microsoft-notifcation.com/wa4d1737192/78b65c00e4993df97452c88c/index.php?id=60f29657ebf9c47f483976bd43ae,
 12:01:21,phishunt_io,domain,bankofamericanonline.com,
 12:01:21,phishunt_io,url,http://bankofamericanonline.com,
 12:01:26,phishunt_io,domain,simulador-credito-auto-bbva.ideeo.mx,
@@ -10165,6 +10168,8 @@
 12:04:30,phishunt_io,domain,instagram-app.cn,
 12:04:30,phishunt_io,ip,103.27.178.242,
 12:04:30,phishunt_io,url,http://instagram-app.cn,
+12:21:24,_akatsukilegion,ip,124.223.221.83,
+12:21:24,_akatsukilegion,url,http://124.223.221.83:9999,
 12:26:15,masaomi346,domain,ana-log.therealmasterwithin.com,
 12:26:15,masaomi346,url,https://ana-log.therealmasterwithin.com/login-ana/,
 12:29:16,masaomi346,domain,rhigcrimelet.chktxw.info,
@@ -10174,6 +10179,10 @@
 12d60.firebaseio.com
 13-5.org
 13-5.ru
+13:01:18,klawlikula,domain,yylfoli.com,
+13:01:18,klawlikula,ip,31.210.61.15,
+13:01:18,klawlikula,url,http://31.210.61.15,
+13:01:18,klawlikula,url,https://yylfoli.com,
 13:48:03,masaomi346,domain,mfawke.com,
 13:48:03,masaomi346,url,http://mfawke.com,
 13:49:51,fbgwls245,domain,ybvjht7qcuhcml4pjcs7fgk57tzysplqtfq4i7yrwc6vjilin2dt2qad.onion,
