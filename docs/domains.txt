@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-09-08 02:13 UTC
-# Domains: 13138
+# Updated: 2026-09-08 10:19 UTC
+# Domains: 13169
 
 -084-gls-223-www-9-k-0brasil.net.daraz.com
 -access-logs-1.net.daraz.com
@@ -8402,12 +8402,24 @@
 029www11w.top
 029www22w.top
 029yt.com
+02:07:51,tkemmerling,domain,theoioalclumnist.com,
+02:07:51,tkemmerling,url,http://theoioalclumnist.com,
+02:22:56,tkemmerling,domain,kivokeyline.com,
+02:22:56,tkemmerling,url,http://kivokeyline.com,
+02:25:18,bomccss,domain,税務報告書.zip,,https://x.com/bomccss/status/2097149249226203236
+02:25:18,bomccss,url,http://税務報告書.zip,,https://x.com/bomccss/status/2097149249226203236
 02:30:16,lawrencetech504,domain,btc6688.com,
 02:30:16,lawrencetech504,url,http://btc6688.com,
+02:34:00,masaomi346,domain,dslld.com,
+02:34:00,masaomi346,url,https://dslld.com/login,
+02:38:02,tkemmerling,domain,granitepointmedia.fun,
+02:38:02,tkemmerling,url,http://granitepointmedia.fun,
 02:38:40,masaomi346,domain,bravqhz.cfd,
 02:38:40,masaomi346,url,https://bravqhz.cfd/dsfd/
 02:50:06,tkemmerling,domain,se.nsbpay.com,
 02:50:06,tkemmerling,url,http://se.nsbpay.com,
+02:52:55,tkemmerling,domain,tiernrinting.com,
+02:52:55,tkemmerling,url,http://tiernrinting.com,
 02:56:19,tkemmerling,domain,topazbrasshardware.com,
 02:56:19,tkemmerling,url,http://topazbrasshardware.com,
 02a169af111011.beer
@@ -9655,10 +9667,14 @@
 03:03:03,tkemmerling,url,http://donateclothingmi.info,
 03:04:15,tkemmerling,domain,ongannanzhuang.info,
 03:04:15,tkemmerling,url,http://ongannanzhuang.info,
+03:08:06,tkemmerling,domain,speedymarqueeonline.info,
+03:08:06,tkemmerling,url,http://speedymarqueeonline.info,
 03:12:41,scanmalware,domain,aadobe07.pages.dev,
 03:12:41,scanmalware,url,http://aadobe07.pages.dev,
 03:25:26,npj8448,domain,medela.com,
 03:25:26,npj8448,url,http://medela.com,
+03:38:04,tkemmerling,domain,glowvarietyshow.com,
+03:38:04,tkemmerling,url,http://glowvarietyshow.com,
 03:57:58,mugu_reporter,domain,quantum-forgex.com,
 03:57:58,mugu_reporter,url,http://quantum-forgex.com,
 03a01d381c69453a.com
@@ -10059,6 +10075,8 @@
 04:07:27,tkemmerling,domain,thebitcoincenter.info,
 04:07:27,tkemmerling,url,http://jeffersongraphicsllc.com,
 04:07:27,tkemmerling,url,http://thebitcoincenter.info,
+04:08:16,tkemmerling,domain,yancha123.com,
+04:08:16,tkemmerling,url,http://yancha123.com,
 04:22:22,metemcyber,domain,support.inumm.asia,
 04:22:22,metemcyber,ip,182.161.66.236,
 04:22:22,metemcyber,url,http://182.161.66.236,
@@ -10067,14 +10085,22 @@
 04:35:35,metemcyber,ip,43.167.198.165,
 04:35:35,metemcyber,url,http://43.167.198.165,
 04:35:35,metemcyber,url,https://aeon.kkbjnty.cn/ltcq3p1txe,
+04:38:00,tkemmerling,domain,ongannanzhuang.info,
+04:38:00,tkemmerling,url,http://ongannanzhuang.info,
 04:48:28,metemcyber,domain,zizhil.com,
 04:48:28,metemcyber,ip,43.128.228.199,
 04:48:28,metemcyber,url,http://43.128.228.199,
 04:48:28,metemcyber,url,https://zizhil.com/oeutfyax/,
+05:08:13,tkemmerling,domain,nimblemevia.com,
+05:08:13,tkemmerling,url,http://nimblemevia.com,
+05:10:52,scanmalware,domain,sso-godaddy-mxnbwzhrnswmmlwvkrtfdufx.pages.dev,
+05:10:52,scanmalware,url,http://sso-godaddy-mxnbwzhrnswmmlwvkrtfdufx.pages.dev,
 05:17:53,metemcyber,domain,cam-ana-jp.smpoodle.com,
 05:17:53,metemcyber,ip,107.149.105.29,
 05:17:53,metemcyber,url,http://107.149.105.29,
 05:17:53,metemcyber,url,https://cam-ana-jp.smpoodle.com/security/ap/loginlogout/login/creditlimit/inquirycreditlimit/d10203840,
+05:23:22,tkemmerling,domain,coasthaorhoper.com,
+05:23:22,tkemmerling,url,http://coasthaorhoper.com,
 05:42:51,metemcyber,domain,rnwm.fpewppc.cn,
 05:42:51,metemcyber,ip,43.165.128.22,
 05:42:51,metemcyber,url,http://43.165.128.22,
@@ -10101,6 +10127,9 @@
 07:00:45,masaomi346,url,https://etax-plwads.com,
 07:00:45,masaomi346,url,https://etax-uwaiosd.com,
 07:00:45,masaomi346,url,https://etax-wusasd.com,
+07:00:57,phishunt_io,domain,barclaysrewards-7bp3hxawof.edgeone.app,
+07:00:57,phishunt_io,ip,101.33.10.10,
+07:00:57,phishunt_io,url,http://barclaysrewards-7bp3hxawof.edgeone.app,
 07:01:19,phishunt_io,domain,https-wwwv-roblox.co,
 07:01:19,phishunt_io,url,http://https-wwwv-roblox.co/login?returnurl=288280197,
 07:01:28,phishunt_io,domain,comecome.click,
@@ -10131,6 +10160,8 @@
 08:53:54,masaomi346,url,https://login.zylvshiw.com/login,
 08:58:50,skocherhan,md5,8a7db4271f1103fe195591ce3e500faa,,https://x.com/skocherhan/status/2096161119836512463
 08:59:16,phishstats,ip,155.138.208.58,
+10:00:03,phatomcandle,domain,for8service.net,
+10:00:03,phatomcandle,url,http://for8service.net,
 10:00:05,phatomcandle,domain,lucidware.click,
 10:00:05,phatomcandle,url,http://lucidware.click,
 11:07:00,phishunt_io,domain,apk-google.cn,
