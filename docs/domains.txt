@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-09-08 10:19 UTC
-# Domains: 13169
+# Updated: 2026-09-08 15:42 UTC
+# Domains: 13185
 
 -084-gls-223-www-9-k-0brasil.net.daraz.com
 -access-logs-1.net.daraz.com
@@ -10164,9 +10164,13 @@
 10:00:03,phatomcandle,url,http://for8service.net,
 10:00:05,phatomcandle,domain,lucidware.click,
 10:00:05,phatomcandle,url,http://lucidware.click,
+10:07:40,nextronresearch,md5,924c410a520e6dc9aa1118474d9eb354,,https://x.com/nextronresearch/status/2097265605183234075
+10:07:40,nextronresearch,md5,a26abe238cc339da81f4853ab16e1a6a,,https://x.com/nextronresearch/status/2097265605183234075
 11:07:00,phishunt_io,domain,apk-google.cn,
 11:07:00,phishunt_io,ip,47.57.138.67,
 11:07:00,phishunt_io,url,http://apk-google.cn,
+11:26:51,coolcarlos17,domain,site-maga-zine-luiza.com,
+11:26:51,coolcarlos17,url,https://site-maga-zine-luiza.com/produto/escada-articulada-de-aluminio-12-degraus-350-metros-de-altura,
 11:32:19,orlof_v,domain,rrr.12naga.org,
 11:32:19,orlof_v,domain,sha.sm188dvlv.icu,
 11:32:19,orlof_v,domain,tak.123ful.net,
@@ -10186,12 +10190,19 @@
 12:01:26,phishunt_io,domain,simulador-credito-auto-bbva.ideeo.mx,
 12:01:26,phishunt_io,ip,200.76.161.229,
 12:01:26,phishunt_io,url,http://simulador-credito-auto-bbva.ideeo.mx,
+12:01:57,phishunt_io,domain,trezorzlatovna.com,
+12:01:57,phishunt_io,ip,158.94.210.119,
+12:01:57,phishunt_io,url,http://trezorzlatovna.com,
 12:21:24,_akatsukilegion,ip,124.223.221.83,
 12:21:24,_akatsukilegion,url,http://124.223.221.83:9999,
 12:26:15,masaomi346,domain,ana-log.therealmasterwithin.com,
 12:26:15,masaomi346,url,https://ana-log.therealmasterwithin.com/login-ana/,
 12:29:16,masaomi346,domain,rhigcrimelet.chktxw.info,
 12:29:16,masaomi346,url,https://rhigcrimelet.chktxw.info/h80aoo,
+12:31:22,masaomi346,domain,aexshorthoaod.05cy1a.info,
+12:31:22,masaomi346,url,https://aexshorthoaod.05cy1a.info/2ymmlo/hepe,
+12:33:01,webamon_search,domain,sqllq.com,,https://x.com/webamon_search/status/2097302183872024687
+12:33:01,webamon_search,url,http://sqllq.com,,https://x.com/webamon_search/status/2097302183872024687
 12:36:19,nextronresearch,sha256,3063285af5c7586ad04178c52b55da2bc1970cb7ae4fadba2195ad4a3fb8ac50,,https://x.com/nextronresearch/status/2066497577206325421
 12:36:19,nextronresearch,sha256,853ed3a26188e4cd89db50ebf50dd0c7b9392c056f637ba3af042c0156877a65,,https://x.com/nextronresearch/status/2066497577206325421
 12:36:19,nextronresearch,sha256,abfac8026d1974220871568caf9344cbffed19a184ff098c0912ffbb4f1e42d5,,https://x.com/nextronresearch/status/2066497577206325421
@@ -10205,6 +10216,10 @@
 13:01:18,klawlikula,ip,31.210.61.15,
 13:01:18,klawlikula,url,http://31.210.61.15,
 13:01:18,klawlikula,url,https://yylfoli.com,
+13:02:12,klawlikula,domain,jsmyvlm.com,
+13:02:12,klawlikula,ip,103.136.41.20,
+13:02:12,klawlikula,url,http://103.136.41.20,
+13:02:12,klawlikula,url,https://jsmyvlm.com,
 13:48:03,masaomi346,domain,mfawke.com,
 13:48:03,masaomi346,url,http://mfawke.com,
 13:49:51,fbgwls245,domain,ybvjht7qcuhcml4pjcs7fgk57tzysplqtfq4i7yrwc6vjilin2dt2qad.onion,
@@ -10219,6 +10234,7 @@
 14:06:36,tkemmerling,url,http://webologygroup.com,
 14:08:46,tkemmerling,domain,jessicaleeinc.com,
 14:08:46,tkemmerling,url,http://jessicaleeinc.com,
+14:25:01,masaomi346,domain,pesgsa.zoyrd.com,
 14:32:24,masaomi346,domain,paintingth.iqlvebw.cn,
 14:32:24,masaomi346,url,https://paintingth.iqlvebw.cn/szhusg/potyunde,
 15:01:14,skocherhan,domain,microsoft-alpha.vercel.app,
