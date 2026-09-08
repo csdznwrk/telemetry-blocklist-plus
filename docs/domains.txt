@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-09-08 15:42 UTC
-# Domains: 13185
+# Updated: 2026-09-08 20:30 UTC
+# Domains: 13187
 
 -084-gls-223-www-9-k-0brasil.net.daraz.com
 -access-logs-1.net.daraz.com
@@ -10247,6 +10247,8 @@
 17:00:57,phishunt_io,domain,whatsapp.traviyo.in,
 17:00:57,phishunt_io,ip,103.234.185.7,
 17:00:57,phishunt_io,url,http://whatsapp.traviyo.in,
+17:00:58,phishunt_io,domain,whatsapp.viewclass.com,
+17:00:58,phishunt_io,url,http://whatsapp.viewclass.com/login,
 17:01:03,phishunt_io,domain,facebook.meweb.kz,
 17:01:03,phishunt_io,ip,195.210.46.27,
 17:01:03,phishunt_io,url,http://facebook.meweb.kz,
