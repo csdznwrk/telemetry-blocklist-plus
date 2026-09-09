@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-09-09 15:37 UTC
-# Domains: 13259
+# Updated: 2026-09-09 20:13 UTC
+# Domains: 13272
 
 -084-gls-223-www-9-k-0brasil.net.daraz.com
 -access-logs-1.net.daraz.com
@@ -10307,6 +10307,11 @@
 15:32:14,_akatsukilegion,url,http://101.42.136.73,
 16:27:08,tkemmerling,domain,pinebridgedigital.shop,
 16:27:08,tkemmerling,url,http://pinebridgedigital.shop,
+16:51:19,harugasumi,domain,aexshorthoo26d.w287qb.info,
+16:51:19,harugasumi,ip,43.165.196.142,
+16:51:19,harugasumi,url,https://aexshorthoo26d.w287qb.info/2ymmlo/hepe,
+16:56:53,tkemmerling,domain,goodsecomfinder.com,
+16:56:53,tkemmerling,url,http://goodsecomfinder.com,
 17:00:57,phishunt_io,domain,whatsapp.traviyo.in,
 17:00:57,phishunt_io,ip,103.234.185.7,
 17:00:57,phishunt_io,url,http://whatsapp.traviyo.in,
@@ -10321,8 +10326,14 @@
 17:01:24,phishunt_io,ip,203.175.9.165,
 17:01:24,phishunt_io,url,http://robloxr.com.es/login?returlurl=1179291790,
 17:02:48,hunters_ledger,url,http://193.233.202.17,
+17:39:36,tkemmerling,domain,nextgenshoppingcardeals.info,
+17:39:36,tkemmerling,url,http://nextgenshoppingcardeals.info,
 18:00:05,phatomcandle,domain,login-accounts.dynu.net,
 18:00:05,phatomcandle,url,http://www.login-accounts.dynu.net,
+18:04:51,bomccss,url,https://share.google/ntler766zlgnakzu4,,https://x.com/bomccss/status/2097748082033299462
+18:05:55,bomccss,ip,64.90.4.167,,https://x.com/bomccss/status/2097748351429247386
+18:05:55,bomccss,url,http://64.90.4.167,,https://x.com/bomccss/status/2097748351429247386
+18:05:55,bomccss,url,https://jp.thkiind.com,,https://x.com/bomccss/status/2097748351429247386
 18:14:57,ucpgoa23,domain,fp2e7a.wpc.2be4.phicdn.net,
 18:14:57,ucpgoa23,url,http://fp2e7a.wpc.2be4.phicdn.net,
 18:28:39,tkemmerling,domain,asianmassageporn.info,
@@ -10331,6 +10342,8 @@
 18:45:44,muha2xmad,domain,submit-form.com,
 18:45:44,muha2xmad,url,https://f005.backblazeb2.com,
 18:45:44,muha2xmad,url,https://submit-form.com/xfgxjyepw,
+18:51:16,scanmalware,domain,navquro-gld-belxita-r6t2hc95.pages.dev,
+18:51:16,scanmalware,url,http://navquro-gld-belxita-r6t2hc95.pages.dev,
 18:53:52,skocherhan,domain,telendszes.work,
 18:53:52,skocherhan,url,http://telendszes.work,
 19:29:39,tkemmerling,domain,celocozy.com,
