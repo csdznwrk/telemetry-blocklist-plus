@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-09-09 10:27 UTC
-# Domains: 13245
+# Updated: 2026-09-09 15:37 UTC
+# Domains: 13259
 
 -084-gls-223-www-9-k-0brasil.net.daraz.com
 -access-logs-1.net.daraz.com
@@ -10221,7 +10221,9 @@
 09:23:17,tdatwja,md5,1b44f3a593c2e00e6f0a6dad7f8f1d74,,https://x.com/tdatwja/status/2097616823273562264
 09:23:17,tdatwja,sha256,d97dae8f8aafa75dd7c13e3b3018cbb3667bb8d990bd4fac1aee54ad492a51e6,,https://x.com/tdatwja/status/2097616823273562264
 10:00:03,phatomcandle,domain,for8service.net,
+10:00:03,phatomcandle,domain,k-cloud.login-accounts.dynu.net,
 10:00:03,phatomcandle,url,http://for8service.net,
+10:00:03,phatomcandle,url,http://k-cloud.login-accounts.dynu.net,
 10:00:05,phatomcandle,domain,lucidware.click,
 10:00:05,phatomcandle,url,http://lucidware.click,
 10:07:40,nextronresearch,md5,924c410a520e6dc9aa1118474d9eb354,,https://x.com/nextronresearch/status/2097265605183234075
@@ -10257,6 +10259,10 @@
 12:21:24,_akatsukilegion,url,http://124.223.221.83:9999,
 12:26:15,masaomi346,domain,ana-log.therealmasterwithin.com,
 12:26:15,masaomi346,url,https://ana-log.therealmasterwithin.com/login-ana/,
+12:28:09,masaomi346,domain,poiwamsd.com,
+12:28:09,masaomi346,domain,wuyouwaosd.com,
+12:28:09,masaomi346,url,https://poiwamsd.com,
+12:28:09,masaomi346,url,https://wuyouwaosd.com,
 12:31:22,masaomi346,domain,aexshorthoaod.05cy1a.info,
 12:31:22,masaomi346,url,https://aexshorthoaod.05cy1a.info/2ymmlo/hepe,
 12:33:01,webamon_search,domain,sqllq.com,,https://x.com/webamon_search/status/2097302183872024687
@@ -10265,6 +10271,8 @@
 12:36:19,nextronresearch,sha256,853ed3a26188e4cd89db50ebf50dd0c7b9392c056f637ba3af042c0156877a65,,https://x.com/nextronresearch/status/2066497577206325421
 12:36:19,nextronresearch,sha256,abfac8026d1974220871568caf9344cbffed19a184ff098c0912ffbb4f1e42d5,,https://x.com/nextronresearch/status/2066497577206325421
 12:36:19,nextronresearch,sha256,befcffc4494e71f0efa03db4b3cfb71f72eab2ee9b406e867569062f238d4c3b,,https://x.com/nextronresearch/status/2066497577206325421
+12:49:16,suyog41,md5,06c28847ae844a6766e435e99185c052,,https://x.com/suyog41/status/2097668662450675730
+12:49:16,suyog41,url,http://github.com/xwrex327-coder,,https://x.com/suyog41/status/2097668662450675730
 12d60.appspot.com
 12d60.firebaseio.com
 13-5.org
@@ -10273,10 +10281,16 @@
 13:01:18,klawlikula,ip,31.210.61.15,
 13:01:18,klawlikula,url,http://31.210.61.15,
 13:01:18,klawlikula,url,https://yylfoli.com,
+13:01:40,klawlikula,domain,luflzkx.com,
+13:01:40,klawlikula,ip,103.136.41.20,
+13:01:40,klawlikula,url,http://103.136.41.20,
+13:01:40,klawlikula,url,https://luflzkx.com,
 13:02:12,klawlikula,domain,jsmyvlm.com,
 13:02:12,klawlikula,ip,103.136.41.20,
 13:02:12,klawlikula,url,http://103.136.41.20,
 13:02:12,klawlikula,url,https://jsmyvlm.com,
+13:19:53,suyog41,domain,lewokodwqko.icu,
+13:19:53,suyog41,url,http://lewokodwqko.icu,
 13:48:03,masaomi346,domain,mfawke.com,
 13:48:03,masaomi346,url,http://mfawke.com,
 13:49:51,fbgwls245,domain,ybvjht7qcuhcml4pjcs7fgk57tzysplqtfq4i7yrwc6vjilin2dt2qad.onion,
