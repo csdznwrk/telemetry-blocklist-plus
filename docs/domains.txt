@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-09-10 02:15 UTC
-# Domains: 13260
+# Updated: 2026-09-10 10:17 UTC
+# Domains: 13309
 
 -084-gls-223-www-9-k-0brasil.net.daraz.com
 -access-logs-1.net.daraz.com
@@ -8431,8 +8431,12 @@
 02:25:18,bomccss,url,http://税務報告書.zip,,https://x.com/bomccss/status/2097149249226203236
 02:34:00,masaomi346,domain,dslld.com,
 02:34:00,masaomi346,url,https://dslld.com/login,
+02:34:53,phishstats,domain,elheidgr.com,
+02:34:53,phishstats,url,http://elheidgr.com/vps/,
 02:38:02,tkemmerling,domain,granitepointmedia.fun,
 02:38:02,tkemmerling,url,http://granitepointmedia.fun,
+02:46:16,tkemmerling,domain,moneycedarvale.com,
+02:46:16,tkemmerling,url,http://moneycedarvale.com,
 02:50:06,tkemmerling,domain,se.nsbpay.com,
 02:50:06,tkemmerling,url,http://se.nsbpay.com,
 02:52:55,tkemmerling,domain,tiernrinting.com,
@@ -10086,6 +10090,8 @@
 042f6c54e9e024818.com
 04:00:38,tkemmerling,domain,theoioalclumnist.com,
 04:00:38,tkemmerling,url,http://theoioalclumnist.com,
+04:07:04,tkemmerling,domain,anaridelight.com,
+04:07:04,tkemmerling,url,http://anaridelight.com,
 04:08:16,tkemmerling,domain,yancha123.com,
 04:08:16,tkemmerling,url,http://yancha123.com,
 04:15:57,tkemmerling,domain,wholenura.com,
@@ -10108,6 +10114,8 @@
 04:48:28,metemcyber,ip,43.128.228.199,
 04:48:28,metemcyber,url,http://43.128.228.199,
 04:48:28,metemcyber,url,https://zizhil.com/oeutfyax/,
+04:53:52,tkemmerling,domain,forwardingsupport.com,
+04:53:52,tkemmerling,url,http://forwardingsupport.com,
 05:00:35,tkemmerling,domain,celocozy.com,
 05:00:35,tkemmerling,url,http://celocozy.com,
 05:08:13,tkemmerling,domain,nimblemevia.com,
@@ -10171,6 +10179,8 @@
 07:00:57,phishunt_io,domain,barclaysrewards-7bp3hxawof.edgeone.app,
 07:00:57,phishunt_io,ip,101.33.10.10,
 07:00:57,phishunt_io,url,http://barclaysrewards-7bp3hxawof.edgeone.app,
+07:01:03,phishunt_io,domain,facebook85.blogspot.com,
+07:01:03,phishunt_io,url,http://facebook85.blogspot.com,
 07:01:19,phishunt_io,domain,https-wwwv-roblox.co,
 07:01:19,phishunt_io,url,http://https-wwwv-roblox.co/login?returnurl=288280197,
 07:01:28,phishunt_io,domain,comecome.click,
@@ -10189,6 +10199,8 @@
 07:45:32,tkemmerling,url,http://illeseahwarrant.com,
 08:02:14,tkemmerling,domain,dealfluxo.com,
 08:02:14,tkemmerling,url,http://dealfluxo.com,
+08:08:49,tkemmerling,domain,nsbpay.com,
+08:08:49,tkemmerling,url,http://nsbpay.com,
 08:15:43,tkemmerling,domain,primethreein.s3.us-east-1.amazonaws.com,
 08:15:43,tkemmerling,url,http://primethreein.s3.us-east-1.amazonaws.com,
 08:28:58,phishstats,domain,allegro.92381928h75.rest,
@@ -10212,18 +10224,55 @@
 08:58:50,skocherhan,md5,8a7db4271f1103fe195591ce3e500faa,,https://x.com/skocherhan/status/2096161119836512463
 09:01:00,tkemmerling,domain,eampengencangpayudara.info,
 09:01:00,tkemmerling,url,http://eampengencangpayudara.info,
+09:02:56,tkemmerling,domain,djgaza.com,
+09:02:56,tkemmerling,url,http://djgaza.com,
+09:15:10,tdatwja,domain,devin-us.com,,https://x.com/tdatwja/status/2097977167946961341
+09:15:10,tdatwja,domain,pfokq.cyou,,https://x.com/tdatwja/status/2097977167946961341
+09:15:10,tdatwja,domain,rrrjp.shop,,https://x.com/tdatwja/status/2097977167946961341
+09:15:10,tdatwja,domain,vjtpcxof.top,,https://x.com/tdatwja/status/2097977167946961341
+09:15:10,tdatwja,domain,wecqb.cyou,,https://x.com/tdatwja/status/2097977167946961341
+09:15:10,tdatwja,url,http://devin-us.com,,https://x.com/tdatwja/status/2097977167946961341
+09:15:10,tdatwja,url,http://pfokq.cyou,,https://x.com/tdatwja/status/2097977167946961341
+09:15:10,tdatwja,url,http://rrrjp.shop,,https://x.com/tdatwja/status/2097977167946961341
+09:15:10,tdatwja,url,http://vjtpcxof.top,,https://x.com/tdatwja/status/2097977167946961341
+09:15:10,tdatwja,url,http://wecqb.cyou,,https://x.com/tdatwja/status/2097977167946961341
+09:15:26,metemcyber,domain,lzhuixin.com,
+09:15:26,metemcyber,url,https://www.lzhuixin.com/login,
 09:15:26,tkemmerling,domain,uspsin.s3.us-east-1.amazonaws.com,
 09:15:26,tkemmerling,url,http://uspsin.s3.us-east-1.amazonaws.com,
 09:15:43,tdatwja,domain,jp.thkiind.com,,https://x.com/tdatwja/status/2097614922490454494
 09:15:43,tdatwja,url,http://jp.thkiind.com,,https://x.com/tdatwja/status/2097614922490454494
 09:23:17,tdatwja,md5,1b44f3a593c2e00e6f0a6dad7f8f1d74,,https://x.com/tdatwja/status/2097616823273562264
 09:23:17,tdatwja,sha256,d97dae8f8aafa75dd7c13e3b3018cbb3667bb8d990bd4fac1aee54ad492a51e6,,https://x.com/tdatwja/status/2097616823273562264
+09:26:26,tdatwja,url,http://share.google/6l88qzwd8liiqotuz,,https://x.com/tdatwja/status/2097980003422208243
+09:27:15,metemcyber,domain,bqvek.hg60000.com,
+09:27:15,metemcyber,ip,47.91.18.143,
+09:27:15,metemcyber,url,http://47.91.18.143,
+09:27:15,metemcyber,url,https://bqvek.hg60000.com,
+09:30:13,tkemmerling,domain,nimblemevia.com,
+09:30:13,tkemmerling,url,http://nimblemevia.com,
+09:33:53,tdatwja,md5,8f6de985ba77ec0c5449db53dda9674a,,https://x.com/tdatwja/status/2097981881346318827
+09:33:53,tdatwja,sha256,0a70890afb11af40ac7b59808f9dda8cbff6a0e30ca298f85bd0993a8f250ccf,,https://x.com/tdatwja/status/2097981881346318827
+09:43:42,nextronresearch,sha256,07429b8ad51ef42911c152921a392911c083a175ee28e817a1f9283c3c38911b,,https://x.com/nextronresearch/status/2097984350629380377
+09:43:42,nextronresearch,sha256,2cb31d6f254f736381ce61e68e0d93bafd8ae073c23671c0748d026702d10f7d,,https://x.com/nextronresearch/status/2097984350629380377
+09:43:42,nextronresearch,sha256,2ec75dc4d5bff995ec58c211edaedfec150c4c02c6d6b3820b9e960dfeceb3e9,,https://x.com/nextronresearch/status/2097984350629380377
+09:43:42,nextronresearch,sha256,74236629c068cf2e5de53eabec9a93eb0efe7de38abc721dc5bca5d040f2ba20,,https://x.com/nextronresearch/status/2097984350629380377
+09:43:42,nextronresearch,sha256,e7de0f35607a4251237adab2128510007ea25fc00a500749940e054f067ac75d,,https://x.com/nextronresearch/status/2097984350629380377
+09:44:20,metemcyber,domain,yorvanthelian.cfd,
+09:44:20,metemcyber,url,https://yorvanthelian.cfd/screen/
+09:50:24,tdatwja,domain,bbrii.oss-ap-southeast-1.aliyuncs.com,,https://x.com/tdatwja/status/2097986037792506209
+09:50:24,tdatwja,domain,u112900813.ct.sendgrid.net,,https://x.com/tdatwja/status/2097986037792506209
+09:50:24,tdatwja,url,http://bbrii.oss-ap-southeast-1.aliyuncs.com,,https://x.com/tdatwja/status/2097986037792506209
+09:57:03,tkemmerling,domain,pinebridgedigital.shop,
+09:57:03,tkemmerling,url,http://pinebridgedigital.shop,
 10:00:03,phatomcandle,domain,for8service.net,
 10:00:03,phatomcandle,domain,k-cloud.login-accounts.dynu.net,
 10:00:03,phatomcandle,url,http://for8service.net,
 10:00:03,phatomcandle,url,http://k-cloud.login-accounts.dynu.net,
 10:00:05,phatomcandle,domain,lucidware.click,
+10:00:05,phatomcandle,domain,signning.cloud,
 10:00:05,phatomcandle,url,http://lucidware.click,
+10:00:05,phatomcandle,url,http://signning.cloud,
 10:07:40,nextronresearch,md5,924c410a520e6dc9aa1118474d9eb354,,https://x.com/nextronresearch/status/2097265605183234075
 10:07:40,nextronresearch,md5,a26abe238cc339da81f4853ab16e1a6a,,https://x.com/nextronresearch/status/2097265605183234075
 11:07:00,phishunt_io,domain,apk-google.cn,
