@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-09-10 10:17 UTC
-# Domains: 13309
+# Updated: 2026-09-10 15:32 UTC
+# Domains: 13345
 
 -084-gls-223-www-9-k-0brasil.net.daraz.com
 -access-logs-1.net.daraz.com
@@ -10275,12 +10275,22 @@
 10:00:05,phatomcandle,url,http://signning.cloud,
 10:07:40,nextronresearch,md5,924c410a520e6dc9aa1118474d9eb354,,https://x.com/nextronresearch/status/2097265605183234075
 10:07:40,nextronresearch,md5,a26abe238cc339da81f4853ab16e1a6a,,https://x.com/nextronresearch/status/2097265605183234075
+10:25:19,tkemmerling,domain,altiora.fun,
+10:25:19,tkemmerling,url,http://altiora.fun,
+10:51:49,tkemmerling,domain,primethreein.s3.us-east-1.amazonaws.com,
+10:51:49,tkemmerling,url,http://primethreein.s3.us-east-1.amazonaws.com,
 11:07:00,phishunt_io,domain,apk-google.cn,
 11:07:00,phishunt_io,ip,47.57.138.67,
 11:07:00,phishunt_io,url,http://apk-google.cn,
+11:18:27,tkemmerling,domain,ongannanzhuang.info,
+11:18:27,tkemmerling,url,http://ongannanzhuang.info,
 11:26:51,coolcarlos17,domain,site-maga-zine-luiza.com,
 11:26:51,coolcarlos17,url,https://site-maga-zine-luiza.com/produto/escada-articulada-de-aluminio-12-degraus-350-metros-de-altura,
 11:35:14,suyog41,md5,54f26190e57f196c26b8cb3b6168424e,,https://x.com/suyog41/status/2096925256661295607
+11:57:03,masaomi346,domain,elvanthoris.cfd,
+11:57:03,masaomi346,url,https://elvanthoris.cfd/screen/
+12:00:56,phishunt_io,domain,accounts-mail-google.com,
+12:00:56,phishunt_io,url,http://accounts-mail-google.com,
 12:01:08,phishunt_io,domain,watco.microsoft-notifcation.com,
 12:01:08,phishunt_io,ip,3.145.232.22,
 12:01:08,phishunt_io,url,http://watco.microsoft-notifcation.com/wa4d1737192/78b65c00e4993df97452c88c/index.php?id=60f29657ebf9c47f483976bd43ae,
@@ -10292,8 +10302,17 @@
 12:01:57,phishunt_io,domain,trezorzlatovna.com,
 12:01:57,phishunt_io,ip,158.94.210.119,
 12:01:57,phishunt_io,url,http://trezorzlatovna.com,
+12:19:49,bomccss,url,https://pfokq.cyou,,https://x.com/bomccss/status/2098023639514051050
+12:19:49,bomccss,url,https://rrrjp.shop,,https://x.com/bomccss/status/2098023639514051050
+12:19:49,bomccss,url,https://vjtpcxof.top,,https://x.com/bomccss/status/2098023639514051050
+12:19:49,bomccss,url,https://wecqb.cyou,,https://x.com/bomccss/status/2098023639514051050
 12:21:24,_akatsukilegion,ip,124.223.221.83,
 12:21:24,_akatsukilegion,url,http://124.223.221.83:9999,
+12:22:00,bomccss,url,https://share.google/6l88qzwd8liiqotuz,,https://x.com/bomccss/status/2098024187000721867
+12:22:26,masaomi346,domain,pirloz.com,
+12:22:26,masaomi346,url,http://pirloz.com,
+12:23:01,bomccss,sha256,f39d3db051d7117488cabf4ac38077f4c2f0d87198b4425e22317ab454fecece,,https://x.com/bomccss/status/2098024445948694650
+12:23:54,bomccss,url,https://u112900813.ct.sendgrid.net/ls/click,,https://x.com/bomccss/status/2098024664354443440
 12:28:09,masaomi346,domain,poiwamsd.com,
 12:28:09,masaomi346,domain,wuyouwaosd.com,
 12:28:09,masaomi346,url,https://poiwamsd.com,
@@ -10312,6 +10331,8 @@
 12d60.firebaseio.com
 13-5.org
 13-5.ru
+13:01:01,klawlikula,domain,ufgewxi.com,
+13:01:01,klawlikula,url,https://ufgewxi.com,
 13:01:18,klawlikula,domain,yylfoli.com,
 13:01:18,klawlikula,ip,31.210.61.15,
 13:01:18,klawlikula,url,http://31.210.61.15,
@@ -10326,12 +10347,27 @@
 13:02:12,klawlikula,url,https://jsmyvlm.com,
 13:19:53,suyog41,domain,lewokodwqko.icu,
 13:19:53,suyog41,url,http://lewokodwqko.icu,
+13:29:48,tkemmerling,domain,belynooecho.com,
+13:29:48,tkemmerling,url,http://belynooecho.com,
+13:30:14,bomccss,domain,bkifs.cyou,,https://x.com/bomccss/status/2098023653619507705
+13:30:14,bomccss,domain,caneroute.cyou,,https://x.com/bomccss/status/2098023653619507705
+13:30:14,bomccss,domain,pwoap.cyou,,https://x.com/bomccss/status/2098023653619507705
+13:30:14,bomccss,domain,xyghs.cyou,,https://x.com/bomccss/status/2098023653619507705
+13:30:14,bomccss,sha256,b22636d3b2af75bc84f65e21ce719c0ea2fb246a697f6515b8c1d659630776d2,,https://x.com/bomccss/status/2098023653619507705
+13:30:14,bomccss,url,http://bkifs.cyou,,https://x.com/bomccss/status/2098023653619507705
+13:30:14,bomccss,url,http://caneroute.cyou,,https://x.com/bomccss/status/2098023653619507705
+13:30:14,bomccss,url,http://pwoap.cyou,,https://x.com/bomccss/status/2098023653619507705
+13:30:14,bomccss,url,http://xyghs.cyou,,https://x.com/bomccss/status/2098023653619507705
 13:48:03,masaomi346,domain,mfawke.com,
 13:48:03,masaomi346,url,http://mfawke.com,
 13:49:51,fbgwls245,domain,ybvjht7qcuhcml4pjcs7fgk57tzysplqtfq4i7yrwc6vjilin2dt2qad.onion,
 13:49:51,fbgwls245,url,http://ybvjht7qcuhcml4pjcs7fgk57tzysplqtfq4i7yrwc6vjilin2dt2qad.onion,
 13:51:04,500mk500,domain,omeglebang.lol,,https://x.com/500mk500/status/2096959437965582356
 13:51:04,500mk500,url,http://omeglebang.lol,,https://x.com/500mk500/status/2096959437965582356
+13:57:14,tkemmerling,domain,eampengencangpayudara.info,
+13:57:14,tkemmerling,url,http://eampengencangpayudara.info,
+14:23:30,tkemmerling,domain,medicinalhealthca.com,
+14:23:30,tkemmerling,url,http://medicinalhealthca.com,
 14:25:01,masaomi346,domain,pesgsa.zoyrd.com,
 14:32:24,masaomi346,domain,paintingth.iqlvebw.cn,
 14:32:24,masaomi346,url,https://paintingth.iqlvebw.cn/szhusg/potyunde,
