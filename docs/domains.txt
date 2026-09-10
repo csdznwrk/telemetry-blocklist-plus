@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-09-10 15:32 UTC
-# Domains: 13345
+# Updated: 2026-09-10 20:14 UTC
+# Domains: 13355
 
 -084-gls-223-www-9-k-0brasil.net.daraz.com
 -access-logs-1.net.daraz.com
@@ -10374,8 +10374,12 @@
 15:01:14,skocherhan,domain,microsoft-alpha.vercel.app,
 15:01:14,skocherhan,url,http://microsoft-alpha.vercel.app,
 15:03:20,rakeshkrish12,ip,23.137.255.139,
+15:17:21,etugenio,domain,anekuan.org,
+15:17:21,etugenio,ip,62.146.232.72,
+15:17:21,etugenio,url,https://anekuan.org/anekuanshell.txt,
 15:32:14,_akatsukilegion,ip,101.42.136.73,
 15:32:14,_akatsukilegion,url,http://101.42.136.73,
+15:44:46,spamradarcol,ip,35.200.112.216,
 16:51:19,harugasumi,domain,aexshorthoo26d.w287qb.info,
 16:51:19,harugasumi,ip,43.165.196.142,
 16:51:19,harugasumi,url,https://aexshorthoo26d.w287qb.info/2ymmlo/hepe,
@@ -10394,6 +10398,8 @@
 17:01:24,phishunt_io,domain,robloxr.com.es,
 17:01:24,phishunt_io,ip,203.175.9.165,
 17:01:24,phishunt_io,url,http://robloxr.com.es/login?returlurl=1179291790,
+17:01:31,phishunt_io,domain,https-wvvw-roblox.com,
+17:01:31,phishunt_io,url,http://https-wvvw-roblox.com/login?returnurl=1505481875,
 17:02:48,hunters_ledger,url,http://193.233.202.17,
 17:39:36,tkemmerling,domain,nextgenshoppingcardeals.info,
 17:39:36,tkemmerling,url,http://nextgenshoppingcardeals.info,
@@ -10411,6 +10417,10 @@
 18:51:16,scanmalware,url,http://navquro-gld-belxita-r6t2hc95.pages.dev,
 18:53:52,skocherhan,domain,telendszes.work,
 18:53:52,skocherhan,url,http://telendszes.work,
+19:22:11,muha2xmad,domain,dev-connetpoint.pantheonsite.io,
+19:22:11,muha2xmad,domain,servermailprotection-1sfinfomembers.s3.eu-west-1.amazonaws.com,
+19:22:11,muha2xmad,url,https://dev-connetpoint.pantheonsite.io/sparkiopanel/mo/pan/index.php,
+19:22:11,muha2xmad,url,https://servermailprotection-1sfinfomembers.s3.eu-west-1.amazonaws.com/log.html
 19:29:39,tkemmerling,domain,celocozy.com,
 19:29:39,tkemmerling,url,http://celocozy.com,
 19:37:37,skocherhan,md5,8b3d8de78681adc71667f6f687102183,,https://x.com/skocherhan/status/2095959489056846084
