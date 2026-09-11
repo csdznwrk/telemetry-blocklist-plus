@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-09-11 02:11 UTC
-# Domains: 13339
+# Updated: 2026-09-11 10:17 UTC
+# Domains: 13358
 
 -084-gls-223-www-9-k-0brasil.net.daraz.com
 -access-logs-1.net.daraz.com
@@ -8443,6 +8443,13 @@
 02:34:53,phishstats,url,http://elheidgr.com/vps/,
 02:38:02,tkemmerling,domain,granitepointmedia.fun,
 02:38:02,tkemmerling,url,http://granitepointmedia.fun,
+02:39:20,eqv_sec,domain,jihfrs.burswel.sbs,
+02:39:20,eqv_sec,domain,tyuik.zelldqo.sbs,
+02:39:20,eqv_sec,ip,154.6.234.129,
+02:39:20,eqv_sec,ip,223.29.138.236,
+02:39:20,eqv_sec,ip,45.131.15.21,
+02:39:20,eqv_sec,url,http://jihfrs.burswel.sbs,
+02:39:20,eqv_sec,url,http://tyuik.zelldqo.sbs,
 02:46:16,tkemmerling,domain,moneycedarvale.com,
 02:46:16,tkemmerling,url,http://moneycedarvale.com,
 02:52:55,tkemmerling,domain,tiernrinting.com,
@@ -10148,6 +10155,10 @@
 06:16:36,tkemmerling,url,http://valledaostaconvention.info,
 06:19:32,masaomi346,domain,xwmgm.com,
 06:19:32,masaomi346,url,https://xwmgm.com/login,
+06:28:59,suyog41,domain,a2.cdnresolver.com,
+06:28:59,suyog41,domain,e1.cdnresolver.com,
+06:28:59,suyog41,url,http://a2.cdnresolver.com,
+06:28:59,suyog41,url,http://e1.cdnresolver.com,
 06:45:48,tkemmerling,domain,truenorthworks.fun,
 06:45:48,tkemmerling,url,http://truenorthworks.fun,
 07:00:28,tkemmerling,domain,pinebridgedigital.shop,
@@ -10169,6 +10180,9 @@
 07:01:03,phishunt_io,url,http://facebook85.blogspot.com,
 07:01:19,phishunt_io,domain,https-wwwv-roblox.co,
 07:01:19,phishunt_io,url,http://https-wwwv-roblox.co/login?returnurl=288280197,
+07:01:43,phishunt_io,domain,usps.avaturefed.net,
+07:01:43,phishunt_io,ip,18.214.131.173,
+07:01:43,phishunt_io,url,http://usps.avaturefed.net/fieldhrevent/,
 07:15:27,tkemmerling,domain,harborstonegroup.shop,
 07:15:27,tkemmerling,url,http://harborstonegroup.shop,
 07:30:36,tkemmerling,domain,secondhandhouses.info,
@@ -10188,6 +10202,9 @@
 08:15:43,tkemmerling,url,http://primethreein.s3.us-east-1.amazonaws.com,
 08:28:58,phishstats,domain,allegro.92381928h75.rest,
 08:28:58,phishstats,url,http://allegro.92381928h75.rest,
+08:30:41,phishstats,domain,nl.finanzen.net,
+08:30:41,phishstats,ip,213.239.243.107,
+08:30:41,phishstats,url,https://nl.finanzen.net,
 08:31:10,tkemmerling,domain,foolthor.com,
 08:31:10,tkemmerling,url,http://foolthor.com,
 08:35:08,tdatwja,url,http://share.google/ntler766zlgnakzu4,,https://x.com/tdatwja/status/2097604707107934373
@@ -10223,6 +10240,8 @@
 09:15:26,tkemmerling,url,http://uspsin.s3.us-east-1.amazonaws.com,
 09:15:43,tdatwja,domain,jp.thkiind.com,,https://x.com/tdatwja/status/2097614922490454494
 09:15:43,tdatwja,url,http://jp.thkiind.com,,https://x.com/tdatwja/status/2097614922490454494
+09:20:01,masaomi346,domain,cyazggwbt.icu,
+09:20:01,masaomi346,url,https://cyazggwbt.icu/jeremytemple/,
 09:23:17,tdatwja,md5,1b44f3a593c2e00e6f0a6dad7f8f1d74,,https://x.com/tdatwja/status/2097616823273562264
 09:23:17,tdatwja,sha256,d97dae8f8aafa75dd7c13e3b3018cbb3667bb8d990bd4fac1aee54ad492a51e6,,https://x.com/tdatwja/status/2097616823273562264
 09:26:26,tdatwja,url,http://share.google/6l88qzwd8liiqotuz,,https://x.com/tdatwja/status/2097980003422208243
