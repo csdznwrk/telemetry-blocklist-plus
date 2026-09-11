@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-09-11 15:34 UTC
-# Domains: 13366
+# Updated: 2026-09-11 20:14 UTC
+# Domains: 13367
 
 -084-gls-223-www-9-k-0brasil.net.daraz.com
 -access-logs-1.net.daraz.com
@@ -11952,6 +11952,7 @@ orthb.pulsepoint.com
 otel.nr-data.net
 otelcol.aspecto.io
 otelcol.honeycomb.io
+otheve.beacon.qq.com
 otlp-gateway-prod-eu-west-0.grafana.net
 otlp-gateway-prod-us-east-0.grafana.net
 outlogic.io
