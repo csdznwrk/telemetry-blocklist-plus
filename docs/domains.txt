@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-09-11 10:17 UTC
-# Domains: 13358
+# Updated: 2026-09-11 15:34 UTC
+# Domains: 13366
 
 -084-gls-223-www-9-k-0brasil.net.daraz.com
 -access-logs-1.net.daraz.com
@@ -10337,6 +10337,14 @@
 13:01:18,klawlikula,ip,31.210.61.15,
 13:01:18,klawlikula,url,http://31.210.61.15,
 13:01:18,klawlikula,url,https://yylfoli.com,
+13:01:31,klawlikula,domain,jlfnqhz.com,
+13:01:31,klawlikula,ip,161.38.202.170,
+13:01:31,klawlikula,ip,199.59.150.93,
+13:01:31,klawlikula,ip,85.122.121.192,
+13:01:31,klawlikula,url,http://161.38.202.170,
+13:01:31,klawlikula,url,http://199.59.150.93,
+13:01:31,klawlikula,url,http://85.122.121.192,
+13:01:31,klawlikula,url,https://jlfnqhz.com,
 13:01:40,klawlikula,domain,luflzkx.com,
 13:01:40,klawlikula,ip,103.136.41.20,
 13:01:40,klawlikula,url,http://103.136.41.20,
