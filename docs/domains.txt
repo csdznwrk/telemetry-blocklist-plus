@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-09-12 09:49 UTC
-# Domains: 13359
+# Updated: 2026-09-12 14:40 UTC
+# Domains: 13362
 
 -084-gls-223-www-9-k-0brasil.net.daraz.com
 -access-logs-1.net.daraz.com
@@ -10328,6 +10328,7 @@
 12:36:19,nextronresearch,sha256,853ed3a26188e4cd89db50ebf50dd0c7b9392c056f637ba3af042c0156877a65,,https://x.com/nextronresearch/status/2066497577206325421
 12:36:19,nextronresearch,sha256,abfac8026d1974220871568caf9344cbffed19a184ff098c0912ffbb4f1e42d5,,https://x.com/nextronresearch/status/2066497577206325421
 12:36:19,nextronresearch,sha256,befcffc4494e71f0efa03db4b3cfb71f72eab2ee9b406e867569062f238d4c3b,,https://x.com/nextronresearch/status/2066497577206325421
+12:37:42,ghostyak,ip,118.194.249.91,
 12:49:16,suyog41,md5,06c28847ae844a6766e435e99185c052,,https://x.com/suyog41/status/2097668662450675730
 12:49:16,suyog41,url,http://github.com/xwrex327-coder,,https://x.com/suyog41/status/2097668662450675730
 12d60.appspot.com
@@ -10358,6 +10359,8 @@
 13:02:12,klawlikula,url,https://jsmyvlm.com,
 13:19:53,suyog41,domain,lewokodwqko.icu,
 13:19:53,suyog41,url,http://lewokodwqko.icu,
+13:21:41,scanmalware,domain,mavzura-mpt-felvuni-p6d9ka41.pages.dev,
+13:21:41,scanmalware,url,http://mavzura-mpt-felvuni-p6d9ka41.pages.dev,
 13:29:48,tkemmerling,domain,belynooecho.com,
 13:29:48,tkemmerling,url,http://belynooecho.com,
 13:30:14,bomccss,domain,bkifs.cyou,,https://x.com/bomccss/status/2098023653619507705
