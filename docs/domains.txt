@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-09-12 14:40 UTC
-# Domains: 13362
+# Updated: 2026-09-12 19:53 UTC
+# Domains: 13371
 
 -084-gls-223-www-9-k-0brasil.net.daraz.com
 -access-logs-1.net.daraz.com
@@ -10388,6 +10388,14 @@
 15:17:21,etugenio,ip,62.146.232.72,
 15:17:21,etugenio,url,https://anekuan.org/anekuanshell.txt,
 15:44:46,spamradarcol,ip,35.200.112.216,
+15:50:01,masaomi346,domain,app.datinglive-jp.com,
+15:50:01,masaomi346,domain,datinglive-jp.com,
+15:50:01,masaomi346,url,https://app.datinglive-jp.com,
+15:50:01,masaomi346,url,https://datinglive-jp.com,
+16:02:43,masaomi346,domain,secret-loves.com,
+16:02:43,masaomi346,url,https://secret-loves.com,
+16:07:03,fact_finder03,ip,5.175.221.206,
+16:38:00,fact_finder03,ip,178.128.173.9,
 16:51:19,harugasumi,domain,aexshorthoo26d.w287qb.info,
 16:51:19,harugasumi,ip,43.165.196.142,
 16:51:19,harugasumi,url,https://aexshorthoo26d.w287qb.info/2ymmlo/hepe,
@@ -10403,6 +10411,7 @@
 17:01:31,phishunt_io,domain,https-wvvw-roblox.com,
 17:01:31,phishunt_io,url,http://https-wvvw-roblox.com/login?returnurl=1505481875,
 17:02:48,hunters_ledger,url,http://193.233.202.17,
+17:16:00,fact_finder03,ip,43.157.198.190,
 17:39:36,tkemmerling,domain,nextgenshoppingcardeals.info,
 17:39:36,tkemmerling,url,http://nextgenshoppingcardeals.info,
 18:04:51,bomccss,url,https://share.google/ntler766zlgnakzu4,,https://x.com/bomccss/status/2097748082033299462
