@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-09-12 02:17 UTC
-# Domains: 13337
+# Updated: 2026-09-12 09:49 UTC
+# Domains: 13359
 
 -084-gls-223-www-9-k-0brasil.net.daraz.com
 -access-logs-1.net.daraz.com
@@ -8437,6 +8437,8 @@
 02:01:29,tkemmerling,url,http://icubedtecnologies.info,
 02:07:51,tkemmerling,domain,theoioalclumnist.com,
 02:07:51,tkemmerling,url,http://theoioalclumnist.com,
+02:20:45,scanmalware,domain,awsforensicl3ns-west1apprunner-dprd03feve9j.edgeone.dev,
+02:20:45,scanmalware,url,http://awsforensicl3ns-west1apprunner-dprd03feve9j.edgeone.dev,
 02:22:56,tkemmerling,domain,kivokeyline.com,
 02:22:56,tkemmerling,url,http://kivokeyline.com,
 02:25:18,bomccss,domain,税務報告書.zip,,https://x.com/bomccss/status/2097149249226203236
@@ -9695,6 +9697,12 @@
 039y4012f1.shop
 03:08:06,tkemmerling,domain,speedymarqueeonline.info,
 03:08:06,tkemmerling,url,http://speedymarqueeonline.info,
+03:20:33,masaomi346,domain,daqian-point.com,
+03:20:33,masaomi346,domain,huibao-point.com,
+03:20:33,masaomi346,domain,qdxinr-point.com,
+03:20:33,masaomi346,url,https://daqian-point.com,
+03:20:33,masaomi346,url,https://huibao-point.com,
+03:20:33,masaomi346,url,https://qdxinr-point.com,
 03:25:26,npj8448,domain,medela.com,
 03:25:26,npj8448,url,http://medela.com,
 03:30:00,e_protect360_,domain,eprotect360.com,
@@ -9703,6 +9711,12 @@
 03:38:04,tkemmerling,url,http://glowvarietyshow.com,
 03:38:43,masaomi346,domain,prime.madjizz.com,
 03:38:43,masaomi346,url,https://www.prime.madjizz.com/primes/login/singin/app/servers/openid/return_to=3a2f,
+03:50:32,masaomi346,domain,pontihdunedinconjuncture-rakunde.com,
+03:50:32,masaomi346,domain,pontiheadphhawthorn-rakunde.com,
+03:50:32,masaomi346,domain,pontihearthhedgehogn-rakunde.com,
+03:50:32,masaomi346,url,https://pontihdunedinconjuncture-rakunde.com,
+03:50:32,masaomi346,url,https://pontiheadphhawthorn-rakunde.com,
+03:50:32,masaomi346,url,https://pontihearthhedgehogn-rakunde.com,
 03:52:08,tkemmerling,domain,speedymarqueeonline.info,
 03:52:08,tkemmerling,url,http://speedymarqueeonline.info,
 03:57:58,mugu_reporter,domain,quantum-forgex.com,
@@ -10119,6 +10133,8 @@
 05:08:13,tkemmerling,url,http://nimblemevia.com,
 05:10:52,scanmalware,domain,sso-godaddy-mxnbwzhrnswmmlwvkrtfdufx.pages.dev,
 05:10:52,scanmalware,url,http://sso-godaddy-mxnbwzhrnswmmlwvkrtfdufx.pages.dev,
+05:12:59,scanmalware,domain,sp12ct-prandor-biz-fravik-lazsel.pages.dev,
+05:12:59,scanmalware,url,http://sp12ct-prandor-biz-fravik-lazsel.pages.dev,
 05:15:44,tkemmerling,domain,post.xero.com,
 05:15:44,tkemmerling,url,http://post.xero.com,
 05:17:53,metemcyber,domain,cam-ana-jp.smpoodle.com,
@@ -10177,6 +10193,9 @@
 07:01:43,phishunt_io,domain,usps.avaturefed.net,
 07:01:43,phishunt_io,ip,18.214.131.173,
 07:01:43,phishunt_io,url,http://usps.avaturefed.net/fieldhrevent/,
+07:01:45,phishunt_io,domain,facebookbonus.emmanueldegreatltd.com,
+07:01:45,phishunt_io,ip,147.124.219.81,
+07:01:45,phishunt_io,url,http://facebookbonus.emmanueldegreatltd.com,
 07:15:27,tkemmerling,domain,harborstonegroup.shop,
 07:15:27,tkemmerling,url,http://harborstonegroup.shop,
 07:30:36,tkemmerling,domain,secondhandhouses.info,
@@ -10201,6 +10220,9 @@
 08:30:41,phishstats,url,https://nl.finanzen.net,
 08:31:10,tkemmerling,domain,foolthor.com,
 08:31:10,tkemmerling,url,http://foolthor.com,
+08:32:05,phishstats,domain,canjearapuntos.click,
+08:32:05,phishstats,ip,43.172.77.148,
+08:32:05,phishstats,url,https://canjearapuntos.click/pa/,
 08:35:08,tdatwja,url,http://share.google/ntler766zlgnakzu4,,https://x.com/tdatwja/status/2097604707107934373
 08:35:09,phishstats,domain,mybroadbandservice.plutio.com,
 08:35:09,phishstats,url,https://mybroadbandservice.plutio.com/p/form/ittjkqd9fngbzrhnb,
