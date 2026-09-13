@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-09-13 10:50 UTC
-# Domains: 13348
+# Updated: 2026-09-13 15:20 UTC
+# Domains: 13354
 
 -084-gls-223-www-9-k-0brasil.net.daraz.com
 -access-logs-1.net.daraz.com
@@ -10317,6 +10317,8 @@
 12:01:08,phishunt_io,domain,watco.microsoft-notifcation.com,
 12:01:08,phishunt_io,ip,3.145.232.22,
 12:01:08,phishunt_io,url,http://watco.microsoft-notifcation.com/wa4d1737192/78b65c00e4993df97452c88c/index.php?id=60f29657ebf9c47f483976bd43ae,
+12:01:25,phishunt_io,domain,kucoins-signin.com,
+12:01:25,phishunt_io,url,http://kucoins-signin.com,
 12:01:57,phishunt_io,domain,trezorzlatovna.com,
 12:01:57,phishunt_io,ip,158.94.210.119,
 12:01:57,phishunt_io,url,http://trezorzlatovna.com,
@@ -10387,6 +10389,10 @@
 13:30:14,bomccss,url,http://caneroute.cyou,,https://x.com/bomccss/status/2098023653619507705
 13:30:14,bomccss,url,http://pwoap.cyou,,https://x.com/bomccss/status/2098023653619507705
 13:30:14,bomccss,url,http://xyghs.cyou,,https://x.com/bomccss/status/2098023653619507705
+13:37:27,muha2xmad,domain,swiftblooms.com,
+13:37:27,muha2xmad,domain,vinocab.com,
+13:37:27,muha2xmad,url,http://swiftblooms.com,
+13:37:27,muha2xmad,url,http://vinocab.com,
 13:51:04,500mk500,domain,omeglebang.lol,,https://x.com/500mk500/status/2096959437965582356
 13:51:04,500mk500,url,http://omeglebang.lol,,https://x.com/500mk500/status/2096959437965582356
 13:57:14,tkemmerling,domain,eampengencangpayudara.info,
