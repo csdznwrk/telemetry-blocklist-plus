@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-09-13 15:20 UTC
-# Domains: 13354
+# Updated: 2026-09-13 20:01 UTC
+# Domains: 13362
 
 -084-gls-223-www-9-k-0brasil.net.daraz.com
 -access-logs-1.net.daraz.com
@@ -10403,6 +10403,10 @@
 15:17:21,etugenio,domain,anekuan.org,
 15:17:21,etugenio,ip,62.146.232.72,
 15:17:21,etugenio,url,https://anekuan.org/anekuanshell.txt,
+15:42:38,skocherhan,domain,intecs.in,
+15:42:38,skocherhan,url,http://intecs.in/jpweb,
+15:44:08,skocherhan,domain,ufcgymmexico.com,
+15:44:08,skocherhan,url,http://ufcgymmexico.com/galaxy/val.php,
 15:44:46,spamradarcol,ip,35.200.112.216,
 15:50:01,masaomi346,domain,app.datinglive-jp.com,
 15:50:01,masaomi346,domain,datinglive-jp.com,
@@ -10410,6 +10414,7 @@
 15:50:01,masaomi346,url,https://datinglive-jp.com,
 16:02:43,masaomi346,domain,secret-loves.com,
 16:02:43,masaomi346,url,https://secret-loves.com,
+16:04:56,phishstats,ip,64.202.189.173,
 16:07:03,fact_finder03,ip,5.175.221.206,
 16:38:00,fact_finder03,ip,178.128.173.9,
 16:51:19,harugasumi,domain,aexshorthoo26d.w287qb.info,
@@ -10424,6 +10429,9 @@
 17:01:24,phishunt_io,url,http://robloxr.com.es/login?returlurl=1179291790,
 17:01:31,phishunt_io,domain,https-wvvw-roblox.com,
 17:01:31,phishunt_io,url,http://https-wvvw-roblox.com/login?returnurl=1505481875,
+17:02:16,phishunt_io,domain,troubleshoots-google.com,
+17:02:16,phishunt_io,ip,64.89.161.140,
+17:02:16,phishunt_io,url,http://troubleshoots-google.com,
 17:02:48,hunters_ledger,url,http://193.233.202.17,
 17:16:00,fact_finder03,ip,43.157.198.190,
 17:39:36,tkemmerling,domain,nextgenshoppingcardeals.info,
