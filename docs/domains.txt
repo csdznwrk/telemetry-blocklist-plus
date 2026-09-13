@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-09-13 02:14 UTC
-# Domains: 13326
+# Updated: 2026-09-13 10:50 UTC
+# Domains: 13348
 
 -084-gls-223-www-9-k-0brasil.net.daraz.com
 -access-logs-1.net.daraz.com
@@ -8437,6 +8437,8 @@
 02:01:29,tkemmerling,url,http://icubedtecnologies.info,
 02:07:51,tkemmerling,domain,theoioalclumnist.com,
 02:07:51,tkemmerling,url,http://theoioalclumnist.com,
+02:10:58,scanmalware,domain,rainbow-kataifi-98620f.netlify.app,
+02:10:58,scanmalware,url,http://rainbow-kataifi-98620f.netlify.app,
 02:20:45,scanmalware,domain,awsforensicl3ns-west1apprunner-dprd03feve9j.edgeone.dev,
 02:20:45,scanmalware,url,http://awsforensicl3ns-west1apprunner-dprd03feve9j.edgeone.dev,
 02:22:56,tkemmerling,domain,kivokeyline.com,
@@ -8456,6 +8458,8 @@
 02:39:20,eqv_sec,ip,45.131.15.21,
 02:39:20,eqv_sec,url,http://jihfrs.burswel.sbs,
 02:39:20,eqv_sec,url,http://tyuik.zelldqo.sbs,
+02:40:22,masaomi346,domain,roszo.com,
+02:40:22,masaomi346,url,http://roszo.com,
 02:46:16,tkemmerling,domain,moneycedarvale.com,
 02:46:16,tkemmerling,url,http://moneycedarvale.com,
 02:52:55,tkemmerling,domain,tiernrinting.com,
@@ -10119,6 +10123,7 @@
 04:08:16,tkemmerling,url,http://yancha123.com,
 04:15:57,tkemmerling,domain,wholenura.com,
 04:15:57,tkemmerling,url,http://wholenura.com,
+04:30:00,fact_finder03,ip,95.181.213.21,
 04:30:31,tkemmerling,domain,policysshieldpro.com,
 04:30:31,tkemmerling,url,http://policysshieldpro.com,
 04:38:00,tkemmerling,domain,ongannanzhuang.info,
@@ -10141,6 +10146,20 @@
 05:17:53,metemcyber,ip,107.149.105.29,
 05:17:53,metemcyber,url,http://107.149.105.29,
 05:17:53,metemcyber,url,https://cam-ana-jp.smpoodle.com/security/ap/loginlogout/login/creditlimit/inquirycreditlimit/d10203840,
+05:22:06,curious_drac0,domain,qaxtbrl.ntinvoicepload.dynu.net,
+05:22:06,curious_drac0,domain,qhswrb.ntinvoicepload.dynu.net,
+05:22:06,curious_drac0,domain,tmqulsyl.ntinvoicepload.dynu.net,
+05:22:06,curious_drac0,domain,xieolrrb.ntinvoicepload.dynu.net,
+05:22:06,curious_drac0,domain,xlgaee.ntinvoicepload.dynu.net,
+05:22:06,curious_drac0,domain,ydijgw.ntinvoicepload.dynu.net,
+05:22:06,curious_drac0,ip,152.32.138.81,
+05:22:06,curious_drac0,url,http://152.32.138.81,
+05:22:06,curious_drac0,url,http://qaxtbrl.ntinvoicepload.dynu.net,
+05:22:06,curious_drac0,url,http://qhswrb.ntinvoicepload.dynu.net,
+05:22:06,curious_drac0,url,http://tmqulsyl.ntinvoicepload.dynu.net,
+05:22:06,curious_drac0,url,http://xieolrrb.ntinvoicepload.dynu.net,
+05:22:06,curious_drac0,url,http://xlgaee.ntinvoicepload.dynu.net,
+05:22:06,curious_drac0,url,http://ydijgw.ntinvoicepload.dynu.net,
 05:23:22,tkemmerling,domain,coasthaorhoper.com,
 05:23:22,tkemmerling,url,http://coasthaorhoper.com,
 05:30:43,tkemmerling,domain,arvispark.com,
@@ -10190,6 +10209,9 @@
 07:01:03,phishunt_io,url,http://facebook85.blogspot.com,
 07:01:19,phishunt_io,domain,https-wwwv-roblox.co,
 07:01:19,phishunt_io,url,http://https-wwwv-roblox.co/login?returnurl=288280197,
+07:01:30,phishunt_io,domain,wellsfargoverify.net,
+07:01:30,phishunt_io,ip,185.199.109.153,
+07:01:30,phishunt_io,url,http://wellsfargoverify.net,
 07:01:43,phishunt_io,domain,usps.avaturefed.net,
 07:01:43,phishunt_io,ip,18.214.131.173,
 07:01:43,phishunt_io,url,http://usps.avaturefed.net/fieldhrevent/,
