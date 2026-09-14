@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-09-14 11:18 UTC
-# Domains: 13303
+# Updated: 2026-09-14 17:17 UTC
+# Domains: 13334
 
 -084-gls-223-www-9-k-0brasil.net.daraz.com
 -access-logs-1.net.daraz.com
@@ -10301,19 +10301,33 @@
 11:18:27,tkemmerling,url,http://ongannanzhuang.info,
 11:26:51,coolcarlos17,domain,site-maga-zine-luiza.com,
 11:26:51,coolcarlos17,url,https://site-maga-zine-luiza.com/produto/escada-articulada-de-aluminio-12-degraus-350-metros-de-altura,
+11:46:31,coolcarlos17,url,http://havan.oficial.com,
+11:49:21,coolcarlos17,domain,havan.oficial.com,
+11:49:21,coolcarlos17,url,https://havan.oficial.com,
+11:53:36,0xb1lal,ip,144.172.65.54,
+11:53:41,coolcarlos17,domain,site-ma-ga-zine-luiza.com,
+11:53:41,coolcarlos17,url,https://site-ma-ga-zine-luiza.com,
 11:57:03,masaomi346,domain,elvanthoris.cfd,
 11:57:03,masaomi346,url,https://elvanthoris.cfd/screen/
 12:00:56,phishunt_io,domain,accounts-mail-google.com,
 12:00:56,phishunt_io,url,http://accounts-mail-google.com,
 12:01:25,phishunt_io,domain,kucoins-signin.com,
 12:01:25,phishunt_io,url,http://kucoins-signin.com,
+12:01:51,phishunt_io,domain,appeal-case.about-help.com,
+12:01:51,phishunt_io,url,http://facebook.com%2f@appeal-case.about-help.com/app=xs,
 12:01:57,phishunt_io,domain,trezorzlatovna.com,
 12:01:57,phishunt_io,ip,158.94.210.119,
 12:01:57,phishunt_io,url,http://trezorzlatovna.com,
+12:07:00,masaomi346,domain,claude-tools.com,
+12:07:00,masaomi346,url,https://claude-tools.com,
 12:19:49,bomccss,url,https://pfokq.cyou,,https://x.com/bomccss/status/2098023639514051050
 12:19:49,bomccss,url,https://rrrjp.shop,,https://x.com/bomccss/status/2098023639514051050
 12:19:49,bomccss,url,https://vjtpcxof.top,,https://x.com/bomccss/status/2098023639514051050
 12:19:49,bomccss,url,https://wecqb.cyou,,https://x.com/bomccss/status/2098023639514051050
+12:20:45,masaomi346,domain,codex-desk.com,
+12:20:45,masaomi346,domain,plume-compass.com,
+12:20:45,masaomi346,url,http://plume-compass.com,
+12:20:45,masaomi346,url,https://codex-desk.com,
 12:22:00,bomccss,url,https://share.google/6l88qzwd8liiqotuz,,https://x.com/bomccss/status/2098024187000721867
 12:22:26,masaomi346,domain,pirloz.com,
 12:22:26,masaomi346,url,http://pirloz.com,
@@ -10352,6 +10366,10 @@
 13:02:12,klawlikula,ip,103.136.41.20,
 13:02:12,klawlikula,url,http://103.136.41.20,
 13:02:12,klawlikula,url,https://jsmyvlm.com,
+13:15:10,jameswt_wt,domain,iampe-agenziaentrate-gov.store,
+13:15:10,jameswt_wt,domain,uhu7535b.s3.amazonaws.com,
+13:15:10,jameswt_wt,url,https://uhu7535b.s3.amazonaws.com/5.html,
+13:15:10,jameswt_wt,url,https://www.iampe-agenziaentrate-gov.store/1krj4nkmb-dihwrl-hqtnvk-aax5sn4/index.html,
 13:19:53,suyog41,domain,lewokodwqko.icu,
 13:19:53,suyog41,url,http://lewokodwqko.icu,
 13:21:41,scanmalware,domain,mavzura-mpt-felvuni-p6d9ka41.pages.dev,
@@ -10371,14 +10389,27 @@
 13:37:27,muha2xmad,domain,vinocab.com,
 13:37:27,muha2xmad,url,http://swiftblooms.com,
 13:37:27,muha2xmad,url,http://vinocab.com,
+13:52:30,coolcarlos17,domain,flerast.com,
+13:52:30,coolcarlos17,url,http://flerast.com,
 13:57:14,tkemmerling,domain,eampengencangpayudara.info,
 13:57:14,tkemmerling,url,http://eampengencangpayudara.info,
+14:13:52,coolcarlos17,domain,tudaria.com,
+14:13:52,coolcarlos17,url,https://www.tudaria.com,
 14:23:30,tkemmerling,domain,medicinalhealthca.com,
 14:23:30,tkemmerling,url,http://medicinalhealthca.com,
 14:25:01,masaomi346,domain,pesgsa.zoyrd.com,
 15:17:21,etugenio,domain,anekuan.org,
 15:17:21,etugenio,ip,62.146.232.72,
 15:17:21,etugenio,url,https://anekuan.org/anekuanshell.txt,
+15:35:29,copy_and_paster,domain,argeninese.dothome.co.kr,
+15:35:29,copy_and_paster,domain,bbcnews04.dothome.co.kr,
+15:35:29,copy_and_paster,domain,minecrafter.mygamesonline.org,
+15:35:29,copy_and_paster,domain,wanver.dothome.co.kr,
+15:35:29,copy_and_paster,url,http://argeninese.dothome.co.kr,
+15:35:29,copy_and_paster,url,http://bbcnews04.dothome.co.kr,
+15:35:29,copy_and_paster,url,http://github.com/chromeweb78,
+15:35:29,copy_and_paster,url,http://minecrafter.mygamesonline.org,
+15:35:29,copy_and_paster,url,http://wanver.dothome.co.kr,
 15:42:38,skocherhan,domain,intecs.in,
 15:42:38,skocherhan,url,http://intecs.in/jpweb,
 15:44:08,skocherhan,domain,ufcgymmexico.com,
