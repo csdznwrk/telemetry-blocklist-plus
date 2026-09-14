@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-09-14 17:17 UTC
-# Domains: 13334
+# Updated: 2026-09-14 21:12 UTC
+# Domains: 13340
 
 -084-gls-223-www-9-k-0brasil.net.daraz.com
 -access-logs-1.net.daraz.com
@@ -10436,13 +10436,19 @@
 17:02:16,phishunt_io,domain,troubleshoots-google.com,
 17:02:16,phishunt_io,ip,64.89.161.140,
 17:02:16,phishunt_io,url,http://troubleshoots-google.com,
+17:13:32,tkemmerling,domain,goodsecomfinder.com,
+17:13:32,tkemmerling,url,http://goodsecomfinder.com,
 17:16:00,fact_finder03,ip,43.157.198.190,
 17:39:36,tkemmerling,domain,nextgenshoppingcardeals.info,
 17:39:36,tkemmerling,url,http://nextgenshoppingcardeals.info,
+17:49:06,tkemmerling,domain,truenorthworks.fun,
+17:49:06,tkemmerling,url,http://truenorthworks.fun,
 18:04:51,bomccss,url,https://share.google/ntler766zlgnakzu4,,https://x.com/bomccss/status/2097748082033299462
 18:05:55,bomccss,ip,64.90.4.167,,https://x.com/bomccss/status/2097748351429247386
 18:05:55,bomccss,url,http://64.90.4.167,,https://x.com/bomccss/status/2097748351429247386
 18:05:55,bomccss,url,https://jp.thkiind.com,,https://x.com/bomccss/status/2097748351429247386
+18:21:35,tkemmerling,domain,financeoakmont.com,
+18:21:35,tkemmerling,url,http://financeoakmont.com,
 18:51:16,scanmalware,domain,navquro-gld-belxita-r6t2hc95.pages.dev,
 18:51:16,scanmalware,url,http://navquro-gld-belxita-r6t2hc95.pages.dev,
 19:22:11,muha2xmad,domain,dev-connetpoint.pantheonsite.io,
