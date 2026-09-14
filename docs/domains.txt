@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-09-14 02:32 UTC
-# Domains: 13282
+# Updated: 2026-09-14 11:18 UTC
+# Domains: 13303
 
 -084-gls-223-www-9-k-0brasil.net.daraz.com
 -access-logs-1.net.daraz.com
@@ -8445,6 +8445,8 @@
 02:22:56,tkemmerling,url,http://kivokeyline.com,
 02:25:18,bomccss,domain,税務報告書.zip,,https://x.com/bomccss/status/2097149249226203236
 02:25:18,bomccss,url,http://税務報告書.zip,,https://x.com/bomccss/status/2097149249226203236
+02:29:27,skocherhan,domain,gasystemautomacao.com.br,
+02:29:27,skocherhan,url,http://gasystemautomacao.com.br/ay/,
 02:34:00,masaomi346,domain,dslld.com,
 02:34:00,masaomi346,url,https://dslld.com/login,
 02:34:53,phishstats,domain,elheidgr.com,
@@ -10122,6 +10124,8 @@
 04:30:00,fact_finder03,ip,95.181.213.21,
 04:30:31,tkemmerling,domain,policysshieldpro.com,
 04:30:31,tkemmerling,url,http://policysshieldpro.com,
+04:33:25,phishstats,domain,allegro.pry84327h45.help,
+04:33:25,phishstats,url,http://allegro.pry84327h45.help,
 04:38:00,tkemmerling,domain,ongannanzhuang.info,
 04:38:00,tkemmerling,url,http://ongannanzhuang.info,
 04:45:53,tkemmerling,domain,lyravelvet.com,
@@ -10138,6 +10142,8 @@
 05:12:59,scanmalware,url,http://sp12ct-prandor-biz-fravik-lazsel.pages.dev,
 05:15:44,tkemmerling,domain,post.xero.com,
 05:15:44,tkemmerling,url,http://post.xero.com,
+05:20:03,scanmalware,domain,sp12ct-zomdel-biz-pranik-lorsik.pages.dev,
+05:20:03,scanmalware,url,http://sp12ct-zomdel-biz-pranik-lorsik.pages.dev,
 05:22:06,curious_drac0,domain,qaxtbrl.ntinvoicepload.dynu.net,
 05:22:06,curious_drac0,domain,qhswrb.ntinvoicepload.dynu.net,
 05:22:06,curious_drac0,domain,tmqulsyl.ntinvoicepload.dynu.net,
@@ -10156,10 +10162,14 @@
 05:23:22,tkemmerling,url,http://coasthaorhoper.com,
 05:30:43,tkemmerling,domain,arvispark.com,
 05:30:43,tkemmerling,url,http://arvispark.com,
+05:33:24,scanmalware,domain,americandreamlost.com,
+05:33:24,scanmalware,url,http://americandreamlost.com,
 05:45:44,tkemmerling,domain,cyraecraft.com,
 05:45:44,tkemmerling,url,http://cyraecraft.com,
 06:00:28,tkemmerling,domain,flatpackcabiinfos.info,
 06:00:28,tkemmerling,url,http://flatpackcabiinfos.info,
+06:10:00,tkemmerling,domain,sb.anaridelight.com,
+06:10:00,tkemmerling,url,http://sb.anaridelight.com,
 06:14:18,masaomi346,domain,piwuaskdas.com,
 06:14:18,masaomi346,domain,poiwalsd.com,
 06:14:18,masaomi346,domain,uiolasdd.com,
@@ -10178,6 +10188,8 @@
 06:28:59,suyog41,url,http://e1.cdnresolver.com,
 06:45:48,tkemmerling,domain,truenorthworks.fun,
 06:45:48,tkemmerling,url,http://truenorthworks.fun,
+06:46:32,tkemmerling,domain,se.norahadraivnig.com,
+06:46:32,tkemmerling,url,http://se.norahadraivnig.com,
 07:00:28,tkemmerling,domain,pinebridgedigital.shop,
 07:00:28,tkemmerling,url,http://pinebridgedigital.shop,
 07:00:57,phishunt_io,domain,barclaysrewards-7bp3hxawof.edgeone.app,
@@ -10194,12 +10206,19 @@
 07:01:45,phishunt_io,domain,facebookbonus.emmanueldegreatltd.com,
 07:01:45,phishunt_io,ip,147.124.219.81,
 07:01:45,phishunt_io,url,http://facebookbonus.emmanueldegreatltd.com,
+07:01:53,phishunt_io,domain,whatsapp.wooflers.com,
+07:01:53,phishunt_io,ip,68.178.238.223,
+07:01:53,phishunt_io,url,http://whatsapp.wooflers.com/livewire-742499fa,
 07:15:27,tkemmerling,domain,harborstonegroup.shop,
 07:15:27,tkemmerling,url,http://harborstonegroup.shop,
+07:18:45,tkemmerling,domain,sa.oskatrace.com,
+07:18:45,tkemmerling,url,http://sa.oskatrace.com,
 07:30:36,tkemmerling,domain,secondhandhouses.info,
 07:30:36,tkemmerling,url,http://secondhandhouses.info,
 07:45:32,tkemmerling,domain,illeseahwarrant.com,
 07:45:32,tkemmerling,url,http://illeseahwarrant.com,
+07:51:04,tkemmerling,domain,vb.wholenura.com,
+07:51:04,tkemmerling,url,http://vb.wholenura.com,
 08:02:14,tkemmerling,domain,dealfluxo.com,
 08:02:14,tkemmerling,url,http://dealfluxo.com,
 08:08:49,tkemmerling,domain,nsbpay.com,
@@ -10264,6 +10283,8 @@
 09:50:24,tdatwja,url,http://bbrii.oss-ap-southeast-1.aliyuncs.com,,https://x.com/tdatwja/status/2097986037792506209
 09:57:03,tkemmerling,domain,pinebridgedigital.shop,
 09:57:03,tkemmerling,url,http://pinebridgedigital.shop,
+09:57:15,masaomi346,domain,vnatf.gmy59.com,
+09:57:15,masaomi346,url,https://vnatf.gmy59.com,
 10:00:03,phatomcandle,domain,for8service.net,
 10:00:03,phatomcandle,domain,k-cloud.login-accounts.dynu.net,
 10:00:03,phatomcandle,url,http://for8service.net,
