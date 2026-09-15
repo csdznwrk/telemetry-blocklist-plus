@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-09-15 15:56 UTC
-# Domains: 13411
+# Updated: 2026-09-15 20:40 UTC
+# Domains: 13420
 
 -084-gls-223-www-9-k-0brasil.net.daraz.com
 -access-logs-1.net.daraz.com
@@ -10506,12 +10506,21 @@
 16:02:43,masaomi346,url,https://secret-loves.com,
 16:04:56,phishstats,ip,64.202.189.173,
 16:07:03,fact_finder03,ip,5.175.221.206,
+16:09:58,patialavii,domain,roya-dev.com,
+16:09:58,patialavii,url,https://roya-dev.com/mreger/,
+16:23:21,patialavii,domain,innosoft.ro,
+16:23:21,patialavii,domain,multistore-lb.com,
+16:23:21,patialavii,url,https://innosoft.ro/ftx,
+16:23:21,patialavii,url,https://multistore-lb.com/docsign/,
 16:38:00,fact_finder03,ip,178.128.173.9,
 16:51:19,harugasumi,domain,aexshorthoo26d.w287qb.info,
 16:51:19,harugasumi,ip,43.165.196.142,
 16:51:19,harugasumi,url,https://aexshorthoo26d.w287qb.info/2ymmlo/hepe,
 16:56:53,tkemmerling,domain,goodsecomfinder.com,
 16:56:53,tkemmerling,url,http://goodsecomfinder.com,
+17:01:20,phishunt_io,domain,zfkmasinac.com,
+17:01:20,phishunt_io,ip,208.91.199.49,
+17:01:20,phishunt_io,url,http://zfkmasinac.com/pe/alibaba/,
 17:01:31,phishunt_io,domain,https-wvvw-roblox.com,
 17:01:31,phishunt_io,url,http://https-wvvw-roblox.com/login?returnurl=1505481875,
 17:02:16,phishunt_io,domain,troubleshoots-google.com,
