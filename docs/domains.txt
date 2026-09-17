@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-09-17 02:34 UTC
-# Domains: 13462
+# Updated: 2026-09-17 10:41 UTC
+# Domains: 13496
 
 -084-gls-223-www-9-k-0brasil.net.daraz.com
 -access-logs-1.net.daraz.com
@@ -9709,6 +9709,8 @@
 03:20:33,masaomi346,url,https://qdxinr-point.com,
 03:27:08,tkemmerling,domain,se.norahadraivnig.com,
 03:27:08,tkemmerling,url,http://se.norahadraivnig.com,
+03:41:33,patialavii,domain,dhofareng.com,
+03:41:33,patialavii,url,https://dhofareng.com/docusign/,
 03:48:52,tkemmerling,domain,sb.zeyoluxe.com,
 03:48:52,tkemmerling,url,http://sb.zeyoluxe.com,
 03:50:32,masaomi346,domain,pontihdunedinconjuncture-rakunde.com,
@@ -10107,17 +10109,36 @@
 042e6fc826d8e48c.com
 042e830be90d0fea.top
 042f6c54e9e024818.com
+04:00:55,patialavii,domain,zzoom.pages.dev,
+04:00:55,patialavii,url,https://docsend.com/v/g44y3/uszoom3invite,
+04:00:55,patialavii,url,https://zzoom.pages.dev,
+04:05:38,patialavii,domain,zoomeventlive.com,
+04:05:38,patialavii,url,https://zoomeventlive.com,
 04:11:49,tkemmerling,domain,rd.helioszyra.com,
 04:11:49,tkemmerling,url,http://rd.helioszyra.com,
+04:12:24,patialavii,domain,invitezoommeeting.xyz,
+04:12:24,patialavii,url,https://invitezoommeeting.xyz/win23/,
+04:20:39,patialavii,domain,z00minvite1.pages.dev,
+04:20:39,patialavii,url,https://z00minvite1.pages.dev,
 04:22:08,patialavii,domain,durnakphotography.com,
 04:22:08,patialavii,url,https://durnakphotography.com/poshevite/,
 04:23:43,tkemmerling,domain,altiora.fun,
 04:23:43,tkemmerling,url,http://altiora.fun,
+04:25:08,patialavii,domain,coxcommunication.screenconnect.com,
+04:25:08,patialavii,domain,heavenrock.pk,
+04:25:08,patialavii,url,https://coxcommunication.screenconnect.com/bin/screenconnect.clientsetup.exe,
+04:25:08,patialavii,url,https://heavenrock.pk/file/installer.html,
 04:30:00,fact_finder03,ip,95.181.213.21,
+04:30:31,patialavii,domain,kh3a.de,
+04:30:31,patialavii,domain,s-31niukey.s3.us-east-2.amazonaws.com,
+04:30:31,patialavii,url,https://kh3a.de/internationalmicro/,
+04:30:31,patialavii,url,https://s-31niukey.s3.us-east-2.amazonaws.com/mineminenow.msi,
 04:33:25,phishstats,domain,allegro.pry84327h45.help,
 04:33:25,phishstats,url,http://allegro.pry84327h45.help,
 04:34:41,tkemmerling,domain,se.kivokeyline.com,
 04:34:41,tkemmerling,url,http://se.kivokeyline.com,
+04:40:29,masaomi346,domain,miaohuaqb.com,
+04:40:29,masaomi346,url,https://miaohuaqb.com/kxodtsjh/,
 04:43:07,patialavii,domain,ony.srb.temporary.site,
 04:43:07,patialavii,domain,strafordhomes.screenconnect.com,
 04:43:07,patialavii,url,https://ony.srb.temporary.site/en/,
@@ -10198,6 +10219,8 @@
 07:01:12,phishunt_io,domain,netflix.patelrudra.in,
 07:01:12,phishunt_io,ip,66.33.60.66,
 07:01:12,phishunt_io,url,http://netflix.patelrudra.in,
+07:01:24,phishunt_io,domain,robloxc.com.es,
+07:01:24,phishunt_io,url,http://robloxc.com.es/login?returlurl=1445876836,
 07:01:30,phishunt_io,domain,wellsfargoverify.net,
 07:01:30,phishunt_io,ip,185.199.109.153,
 07:01:30,phishunt_io,url,http://wellsfargoverify.net,
@@ -10210,6 +10233,10 @@
 07:01:53,phishunt_io,domain,whatsapp.wooflers.com,
 07:01:53,phishunt_io,ip,68.178.238.223,
 07:01:53,phishunt_io,url,http://whatsapp.wooflers.com/livewire-742499fa,
+07:06:38,coolcarlos17,domain,blockmania.com.br,
+07:06:38,coolcarlos17,domain,blockmanialoja.com,
+07:06:38,coolcarlos17,url,http://blockmania.com.br,
+07:06:38,coolcarlos17,url,https://blockmanialoja.com,
 07:11:34,tkemmerling,domain,aestheticearthgems.info,
 07:11:34,tkemmerling,url,http://aestheticearthgems.info,
 07:14:50,bomccss,ip,149.104.24.197,,https://x.com/bomccss/status/2099758827386319001
@@ -10403,8 +10430,11 @@
 08:56:12,tdatwja,url,http://123.pdf1.zip,,https://x.com/tdatwja/status/2100146724035875034
 09:11:07,ransomonitor,domain,pnzr4delgur5dlhtqcy7qqm6m7dkivxwh742enezpks5kswfpx7qrsid.onion,
 09:11:07,ransomonitor,url,http://pnzr4delgur5dlhtqcy7qqm6m7dkivxwh742enezpks5kswfpx7qrsid.onion,
+09:11:30,scanmalware,domain,5958heh59585958.theloopblog.com,
+09:11:30,scanmalware,url,http://5958heh59585958.theloopblog.com,
 09:14:12,masaomi346,domain,shultectise.xa5ttg.info,
 09:14:12,masaomi346,url,https://shultectise.xa5ttg.info/aztipuif/indx/,
+09:16:22,fact_finder03,ip,89.167.72.221,
 09:20:01,masaomi346,domain,cyazggwbt.icu,
 09:20:01,masaomi346,url,https://cyazggwbt.icu/jeremytemple/,
 09:31:00,fact_finder03,ip,158.247.255.167,
@@ -10414,6 +10444,10 @@
 10:00:00,phatomcandle,ip,101.36.114.215,
 10:00:00,phatomcandle,url,http://101.36.114.215,
 10:00:00,phatomcandle,url,http://requires1.dynuddns.net,
+10:01:29,fact_finder03,ip,154.86.19.127,
+10:01:29,fact_finder03,ip,154.86.19.3,
+10:01:29,fact_finder03,ip,154.86.19.41,
+10:09:00,fact_finder03,ip,160.119.71.8,
 10:33:33,phishstats,ip,79.98.28.8,
 10:33:33,phishstats,url,https://www.geltonayraviskas.lt,
 11:29:01,nextronresearch,domain,api.npoint.io,,https://x.com/nextronresearch/status/2100185180220629166
@@ -13153,6 +13187,7 @@ zsxocjarsate.com
 ||brandmetrics.com^$third-party
 ||browser-intake-*-datadoghq.com^
 ||browser-intake-datadoghq.com^
+||browser-intake-datadoghq.eu^
 ||burstbeacon.com^$third-party
 ||c3metrics.com^$third-party
 ||c4tracking01.com^$third-party
@@ -13265,7 +13300,6 @@ zsxocjarsate.com
 ||lk.vectoranalytics.ru^$third-party
 ||log.trackingio.com^
 ||logr-ingest.com^
-||logs.browser-intake-datadoghq.eu^
 ||logs.datadoghq.com^$third-party
 ||logs.datadoghq.eu^
 ||lr-ingest.com^
