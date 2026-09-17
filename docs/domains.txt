@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-09-17 10:41 UTC
-# Domains: 13496
+# Updated: 2026-09-17 15:55 UTC
+# Domains: 13508
 
 -084-gls-223-www-9-k-0brasil.net.daraz.com
 -access-logs-1.net.daraz.com
@@ -10450,6 +10450,9 @@
 10:09:00,fact_finder03,ip,160.119.71.8,
 10:33:33,phishstats,ip,79.98.28.8,
 10:33:33,phishstats,url,https://www.geltonayraviskas.lt,
+10:54:20,fact_finder03,domain,5oyninql4mekvjepei7yc3jnakfxi5bt5yky53cgqqrfwvfj4yvlpdad.onion,
+10:54:20,fact_finder03,ip,87.106.6.79,
+10:54:20,fact_finder03,url,http://5oyninql4mekvjepei7yc3jnakfxi5bt5yky53cgqqrfwvfj4yvlpdad.onion,
 11:29:01,nextronresearch,domain,api.npoint.io,,https://x.com/nextronresearch/status/2100185180220629166
 11:29:01,nextronresearch,ip,103.170.217.184,,https://x.com/nextronresearch/status/2100185180220629166
 11:29:01,nextronresearch,url,http://103.170.217.184:8787,,https://x.com/nextronresearch/status/2100185180220629166
@@ -10466,6 +10469,7 @@
 11:53:36,0xb1lal,ip,144.172.65.54,
 11:53:41,coolcarlos17,domain,site-ma-ga-zine-luiza.com,
 11:53:41,coolcarlos17,url,https://site-ma-ga-zine-luiza.com,
+12:00:03,fact_finder03,ip,167.71.213.136,
 12:01:23,phishunt_io,domain,apple-icloud.azurewebsites.net,
 12:01:23,phishunt_io,ip,52.173.36.83,
 12:01:23,phishunt_io,url,http://apple-icloud.azurewebsites.net,
@@ -10473,18 +10477,26 @@
 12:01:25,phishunt_io,url,http://kucoins-signin.com,
 12:01:51,phishunt_io,domain,appeal-case.about-help.com,
 12:01:51,phishunt_io,url,http://facebook.com%2f@appeal-case.about-help.com/app=xs,
+12:07:00,fact_finder03,ip,31.57.38.94,
+12:07:00,fact_finder03,ip,51.79.128.217,
 12:07:00,masaomi346,domain,claude-tools.com,
 12:07:00,masaomi346,url,https://claude-tools.com,
+12:13:22,masaomi346,domain,misty-arc-rook-sleoor.com,
+12:13:22,masaomi346,url,http://misty-arc-rook-sleoor.com,
 12:20:45,masaomi346,domain,codex-desk.com,
 12:20:45,masaomi346,domain,plume-compass.com,
 12:20:45,masaomi346,url,http://plume-compass.com,
 12:20:45,masaomi346,url,https://codex-desk.com,
+12:36:52,masaomi346,domain,oricvn.zmbc3c.info,
+12:36:52,masaomi346,url,https://oricvn.zmbc3c.info/iricyygen/,
 12:37:42,ghostyak,ip,118.194.249.91,
 12:41:38,suyog41,md5,7d31da1f0b4edcacd1d466b5bf95ade3,,https://x.com/suyog41/status/2100203457885974813
 12d60.appspot.com
 12d60.firebaseio.com
 13-5.org
 13-5.ru
+13:00:03,scanmalware,domain,trust-wallet-bnb.vercel.app,
+13:00:03,scanmalware,url,http://www.trust-wallet-bnb.vercel.app,
 13:01:31,klawlikula,domain,jlfnqhz.com,
 13:01:31,klawlikula,ip,161.38.202.170,
 13:01:31,klawlikula,ip,199.59.150.93,
