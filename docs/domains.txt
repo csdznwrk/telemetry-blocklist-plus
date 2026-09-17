@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-09-17 15:55 UTC
-# Domains: 13508
+# Updated: 2026-09-17 20:46 UTC
+# Domains: 13537
 
 -084-gls-223-www-9-k-0brasil.net.daraz.com
 -access-logs-1.net.daraz.com
@@ -10586,14 +10586,32 @@
 16:23:21,patialavii,domain,multistore-lb.com,
 16:23:21,patialavii,url,https://innosoft.ro/ftx,
 16:23:21,patialavii,url,https://multistore-lb.com/docsign/,
+16:25:02,copy_and_paster,domain,pythoncomunity.wasmer.app,
+16:25:02,copy_and_paster,domain,pythons.mywebcommunity.org,
+16:25:02,copy_and_paster,url,http://github.com/checkey04,
+16:25:02,copy_and_paster,url,http://github.com/decryptionkey1,
+16:25:02,copy_and_paster,url,http://github.com/hazama-khan,
+16:25:02,copy_and_paster,url,http://github.com/reyanshera,
+16:25:02,copy_and_paster,url,http://github.com/xufengwangsui,
+16:25:02,copy_and_paster,url,http://github.com/yaosiyaosi26,
+16:25:02,copy_and_paster,url,http://pythoncomunity.wasmer.app,
+16:25:02,copy_and_paster,url,http://pythons.mywebcommunity.org,
 16:29:50,tkemmerling,domain,se.norahadraivnig.com,
 16:29:50,tkemmerling,url,http://se.norahadraivnig.com,
 16:38:00,fact_finder03,ip,178.128.173.9,
+16:41:41,phishstats,domain,teamliftss.com,
+16:41:41,phishstats,ip,108.167.183.47,
+16:41:41,phishstats,url,https://teamliftss.com/zz/index.html,
 16:52:32,tkemmerling,domain,hbphotographystudios.nl,
 16:52:32,tkemmerling,url,http://hbphotographystudios.nl,
+16:56:25,coolcarlos17,domain,casasbah.com,
+16:56:25,coolcarlos17,url,https://casasbah.com/produto.php?slug=mag-849-escada-articulada-16-degraus-aluminio-botafogo-altura,
 17:01:20,phishunt_io,domain,zfkmasinac.com,
 17:01:20,phishunt_io,ip,208.91.199.49,
 17:01:20,phishunt_io,url,http://zfkmasinac.com/pe/alibaba/,
+17:01:23,phishunt_io,domain,intermezzoconsultoria.com.br,
+17:01:23,phishunt_io,ip,18.229.174.63,
+17:01:23,phishunt_io,url,http://intermezzoconsultoria.com.br/docs042/onedrive-verify-obf.html,
 17:02:16,phishunt_io,domain,troubleshoots-google.com,
 17:02:16,phishunt_io,ip,64.89.161.140,
 17:02:16,phishunt_io,url,http://troubleshoots-google.com,
@@ -10606,14 +10624,23 @@
 17:15:46,tkemmerling,url,http://www.ntiksangatindah.info,
 17:16:00,fact_finder03,ip,43.157.198.190,
 17:16:20,spamauditor,ip,167.89.20.171,
+17:22:49,coolcarlos17,domain,magaz-ine-lu-iza.com,
+17:22:49,coolcarlos17,url,http://magaz-ine-lu-iza.com,
 17:32:35,phishstats,domain,kolaybet.guncelgirisadresleri.icu,
 17:32:35,phishstats,url,https://kolaybet.guncelgirisadresleri.icu,
+17:35:50,coolcarlos17,domain,userieza.com,
+17:35:50,coolcarlos17,url,https://userieza.com/products/escada-telescopica,
 17:38:16,tkemmerling,domain,dailyhealthylines.com,
 17:38:16,tkemmerling,url,http://dailyhealthylines.com,
 17:49:06,tkemmerling,domain,truenorthworks.fun,
 17:49:06,tkemmerling,url,http://truenorthworks.fun,
 18:21:35,tkemmerling,domain,financeoakmont.com,
 18:21:35,tkemmerling,url,http://financeoakmont.com,
+19:03:31,_akatsukilegion,ip,188.63.231.182,
+19:03:31,_akatsukilegion,url,http://188.63.231.182,
+19:28:44,0xb1lal,ip,216.126.236.22,
+19:28:44,0xb1lal,ip,38.110.228.33,
+19:28:44,0xb1lal,ip,8.138.137.232,
 19:39:42,500mk500,domain,cdn.wp-js.com,,https://x.com/500mk500/status/2100308666347884973
 19:39:42,500mk500,domain,files.wp-js.com,,https://x.com/500mk500/status/2100308666347884973
 19:39:42,500mk500,domain,js.wp-js.com,,https://x.com/500mk500/status/2100308666347884973
@@ -10656,6 +10683,8 @@
 19:54:02,skocherhan,url,http://polanddec.duckdns.org,,https://x.com/skocherhan/status/2100312272778244396
 1ca43.appspot.com
 1topspy.com
+20:09:40,skocherhan,domain,yscf988.club,
+20:09:40,skocherhan,url,http://yscf988.club,
 20:34:08,phishstats,domain,lkntansr.net,
 20:34:08,phishstats,ip,64.89.160.238,
 20:34:08,phishstats,ip,86.104.125.81,
