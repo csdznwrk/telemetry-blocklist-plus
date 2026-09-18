@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-09-18 15:29 UTC
-# Domains: 13548
+# Updated: 2026-09-18 20:10 UTC
+# Domains: 13561
 
 -084-gls-223-www-9-k-0brasil.net.daraz.com
 -access-logs-1.net.daraz.com
@@ -10459,9 +10459,11 @@
 10:31:50,phishstats,url,https://siastrategy.com/docusign-updating/windows/utility.php,
 10:33:33,phishstats,ip,79.98.28.8,
 10:33:33,phishstats,url,https://www.geltonayraviskas.lt,
+10:36:00,suyog41,md5,cfaa9eead8f27ecc01803a5eb9fc463c,,https://x.com/suyog41/status/2100896616832000092
 10:54:20,fact_finder03,domain,5oyninql4mekvjepei7yc3jnakfxi5bt5yky53cgqqrfwvfj4yvlpdad.onion,
 10:54:20,fact_finder03,ip,87.106.6.79,
 10:54:20,fact_finder03,url,http://5oyninql4mekvjepei7yc3jnakfxi5bt5yky53cgqqrfwvfj4yvlpdad.onion,
+10:55:42,suyog41,md5,08893a34162293cf77c045ff030e4748,,https://x.com/suyog41/status/2100901574088282392
 11:11:56,tkemmerling,domain,researchcentral.info,
 11:11:56,tkemmerling,url,http://researchcentral.info,
 11:29:01,nextronresearch,domain,api.npoint.io,,https://x.com/nextronresearch/status/2100185180220629166
@@ -10593,6 +10595,8 @@
 15:50:01,masaomi346,url,https://datinglive-jp.com,
 16:02:43,masaomi346,domain,secret-loves.com,
 16:02:43,masaomi346,url,https://secret-loves.com,
+16:04:29,mugu_reporter,domain,get-verification.to,
+16:04:29,mugu_reporter,url,http://get-verification.to,
 16:04:56,phishstats,ip,64.202.189.173,
 16:06:46,tkemmerling,domain,re.pineayra.com,
 16:06:46,tkemmerling,url,http://re.pineayra.com,
@@ -10617,6 +10621,8 @@
 16:25:02,copy_and_paster,url,http://pythons.mywebcommunity.org,
 16:29:50,tkemmerling,domain,se.norahadraivnig.com,
 16:29:50,tkemmerling,url,http://se.norahadraivnig.com,
+16:30:52,tkemmerling,domain,harborstonegroup.shop,
+16:30:52,tkemmerling,url,http://harborstonegroup.shop,
 16:38:00,fact_finder03,ip,178.128.173.9,
 16:41:41,phishstats,domain,teamliftss.com,
 16:41:41,phishstats,ip,108.167.183.47,
@@ -10631,6 +10637,9 @@
 17:01:23,phishunt_io,domain,intermezzoconsultoria.com.br,
 17:01:23,phishunt_io,ip,18.229.174.63,
 17:01:23,phishunt_io,url,http://intermezzoconsultoria.com.br/docs042/onedrive-verify-obf.html,
+17:01:36,phishunt_io,domain,icloudxtzsopoe.click,
+17:01:36,phishunt_io,ip,217.60.103.74,
+17:01:36,phishunt_io,url,http://icloudxtzsopoe.click/isignesp.php,
 17:02:16,phishunt_io,domain,troubleshoots-google.com,
 17:02:16,phishunt_io,ip,64.89.161.140,
 17:02:16,phishunt_io,url,http://troubleshoots-google.com,
@@ -10653,8 +10662,12 @@
 17:38:16,tkemmerling,url,http://dailyhealthylines.com,
 17:49:06,tkemmerling,domain,truenorthworks.fun,
 17:49:06,tkemmerling,url,http://truenorthworks.fun,
+18:20:04,coolcarlos17,domain,loja1-havan.com,
+18:20:04,coolcarlos17,url,https://loja1-havan.com/produto/32812,
 18:21:35,tkemmerling,domain,financeoakmont.com,
 18:21:35,tkemmerling,url,http://financeoakmont.com,
+18:25:18,coolcarlos17,domain,magablack.com,
+18:25:18,coolcarlos17,url,https://magablack.com/produto.php?slug=escada-articulada-16-degraus-aluminio-botafogo-altura,
 19:03:31,_akatsukilegion,ip,188.63.231.182,
 19:03:31,_akatsukilegion,url,http://188.63.231.182,
 19:28:44,0xb1lal,ip,216.126.236.22,
