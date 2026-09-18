@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-09-17 20:46 UTC
-# Domains: 13537
+# Updated: 2026-09-18 02:20 UTC
+# Domains: 13492
 
 -084-gls-223-www-9-k-0brasil.net.daraz.com
 -access-logs-1.net.daraz.com
@@ -3055,8 +3055,6 @@
 00:07:31,masaomi346,url,https://knittedjack-smbice.com,
 00:07:31,masaomi346,url,https://mandasirika-smbice.com,
 00:07:31,masaomi346,url,https://pfflzcifes-smbice.com,
-00:10:11,tkemmerling,domain,beliobeam.com,
-00:10:11,tkemmerling,url,http://beliobeam.com,
 00:20:20,masaomi346,domain,daqianzib-rakunde.com,
 00:20:20,masaomi346,domain,ditankaofa-rakunde.com,
 00:20:20,masaomi346,domain,haieryunsh-rakunde.com,
@@ -3069,14 +3067,6 @@
 00:20:20,masaomi346,url,https://jiongryturte-rakunde.com,
 00:31:30,tkemmerling,domain,rd.helioszyra.com,
 00:31:30,tkemmerling,url,http://rd.helioszyra.com,
-00:39:38,masaomi346,domain,secretlive-jp.com,
-00:39:38,masaomi346,domain,secretlivei-jp.com,
-00:39:38,masaomi346,domain,secretliveo-jp.com,
-00:39:38,masaomi346,url,https://secretlive-jp.com,
-00:39:38,masaomi346,url,https://secretlivei-jp.com,
-00:39:38,masaomi346,url,https://secretliveo-jp.com,
-00:47:26,tkemmerling,domain,yancha123.com,
-00:47:26,tkemmerling,url,http://yancha123.com,
 00:53:34,scanmalware,domain,geltonayraviskas.lt,
 00:53:34,scanmalware,url,http://geltonayraviskas.lt,
 00a17677c75ed52b.com
@@ -7462,8 +7452,6 @@
 019gvfn88n0.top
 019www11w.top
 019www22w.top
-01:22:29,tkemmerling,domain,financialmarkets.info,
-01:22:29,tkemmerling,url,http://financialmarkets.info,
 01:33:58,tkemmerling,domain,sb.zeyoluxe.com,
 01:33:58,tkemmerling,url,http://sb.zeyoluxe.com,
 01:37:12,cyberwar_15,domain,babarahoney.wuaze.com,
@@ -7482,6 +7470,8 @@
 01:37:12,cyberwar_15,url,http://doput5rg.myartsonline.com,
 01:37:12,cyberwar_15,url,http://edcv89ik.onlinewebshop.net,
 01:37:12,cyberwar_15,url,http://ej7ieb9bn.myartsonline.com,
+01:40:04,scanmalware,domain,berquni-mpt-zavfelo-r4x8ka65.pages.dev,
+01:40:04,scanmalware,url,http://berquni-mpt-zavfelo-r4x8ka65.pages.dev,
 01:41:53,skocherhan,domain,kingroyal10066.com,,https://x.com/skocherhan/status/2100037424524959810
 01:41:53,skocherhan,url,http://kingroyal10066.com,,https://x.com/skocherhan/status/2100037424524959810
 01:48:35,hackprotectlabs,domain,trustwallet-help.online,
@@ -8447,13 +8437,6 @@
 02:29:27,skocherhan,url,http://gasystemautomacao.com.br/ay/,
 02:35:57,coolcarlos17,domain,casabahia.online,
 02:35:57,coolcarlos17,url,https://casabahia.online,
-02:39:20,eqv_sec,domain,jihfrs.burswel.sbs,
-02:39:20,eqv_sec,domain,tyuik.zelldqo.sbs,
-02:39:20,eqv_sec,ip,154.6.234.129,
-02:39:20,eqv_sec,ip,223.29.138.236,
-02:39:20,eqv_sec,ip,45.131.15.21,
-02:39:20,eqv_sec,url,http://jihfrs.burswel.sbs,
-02:39:20,eqv_sec,url,http://tyuik.zelldqo.sbs,
 02:40:22,masaomi346,domain,roszo.com,
 02:40:22,masaomi346,url,http://roszo.com,
 02:40:55,tkemmerling,domain,rc.veyosilk.com,
@@ -10205,10 +10188,6 @@
 06:26:27,tkemmerling,domain,sa.oskatrace.com,
 06:26:27,tkemmerling,url,http://sa.oskatrace.com,
 06:27:06,fact_finder03,ip,5.39.202.95,
-06:28:59,suyog41,domain,a2.cdnresolver.com,
-06:28:59,suyog41,domain,e1.cdnresolver.com,
-06:28:59,suyog41,url,http://a2.cdnresolver.com,
-06:28:59,suyog41,url,http://e1.cdnresolver.com,
 06:45:29,bomccss,domain,dnswwt.club,,https://x.com/bomccss/status/2099751438268457277
 06:45:29,bomccss,url,https://dnswwt.club/jp.html,,https://x.com/bomccss/status/2099751438268457277
 06:46:32,tkemmerling,domain,se.norahadraivnig.com,
@@ -10224,9 +10203,6 @@
 07:01:30,phishunt_io,domain,wellsfargoverify.net,
 07:01:30,phishunt_io,ip,185.199.109.153,
 07:01:30,phishunt_io,url,http://wellsfargoverify.net,
-07:01:43,phishunt_io,domain,usps.avaturefed.net,
-07:01:43,phishunt_io,ip,18.214.131.173,
-07:01:43,phishunt_io,url,http://usps.avaturefed.net/fieldhrevent/,
 07:01:45,phishunt_io,domain,facebookbonus.emmanueldegreatltd.com,
 07:01:45,phishunt_io,ip,147.124.219.81,
 07:01:45,phishunt_io,url,http://facebookbonus.emmanueldegreatltd.com,
@@ -10268,9 +10244,6 @@
 08:22:20,tdatwja,url,http://v02.zip,,https://x.com/tdatwja/status/2100138202166415386
 08:25:47,tkemmerling,domain,rd.helioszyra.com,
 08:25:47,tkemmerling,url,http://rd.helioszyra.com,
-08:30:41,phishstats,domain,nl.finanzen.net,
-08:30:41,phishstats,ip,213.239.243.107,
-08:30:41,phishstats,url,https://nl.finanzen.net,
 08:31:00,fact_finder03,ip,111.229.198.6,
 08:32:05,phishstats,domain,canjearapuntos.click,
 08:32:05,phishstats,ip,43.172.77.148,
@@ -10435,8 +10408,6 @@
 09:14:12,masaomi346,domain,shultectise.xa5ttg.info,
 09:14:12,masaomi346,url,https://shultectise.xa5ttg.info/aztipuif/indx/,
 09:16:22,fact_finder03,ip,89.167.72.221,
-09:20:01,masaomi346,domain,cyazggwbt.icu,
-09:20:01,masaomi346,url,https://cyazggwbt.icu/jeremytemple/,
 09:31:00,fact_finder03,ip,158.247.255.167,
 09:57:15,masaomi346,domain,vnatf.gmy59.com,
 09:57:15,masaomi346,url,https://vnatf.gmy59.com,
@@ -10497,14 +10468,6 @@
 13-5.ru
 13:00:03,scanmalware,domain,trust-wallet-bnb.vercel.app,
 13:00:03,scanmalware,url,http://www.trust-wallet-bnb.vercel.app,
-13:01:31,klawlikula,domain,jlfnqhz.com,
-13:01:31,klawlikula,ip,161.38.202.170,
-13:01:31,klawlikula,ip,199.59.150.93,
-13:01:31,klawlikula,ip,85.122.121.192,
-13:01:31,klawlikula,url,http://161.38.202.170,
-13:01:31,klawlikula,url,http://199.59.150.93,
-13:01:31,klawlikula,url,http://85.122.121.192,
-13:01:31,klawlikula,url,https://jlfnqhz.com,
 13:11:03,patialavii,domain,kohenalexander.screenconnect.com,
 13:11:03,patialavii,domain,rinitiative.org,
 13:11:03,patialavii,url,https://kohenalexander.screenconnect.com/bin/screenconnect.clientsetup.msi,
@@ -10689,16 +10652,8 @@
 20:34:08,phishstats,ip,64.89.160.238,
 20:34:08,phishstats,ip,86.104.125.81,
 20:34:08,phishstats,url,https://lkntansr.net,
-21:09:16,masaomi346,domain,rucebive-rakntanoapp.com,
-21:09:16,masaomi346,domain,rucefive-rakntanoapp.com,
-21:09:16,masaomi346,domain,rucehive-rakntanoapp.com,
-21:09:16,masaomi346,domain,ruceiive-rakntanoapp.com,
-21:09:16,masaomi346,domain,rucepive-rakntanoapp.com,
-21:09:16,masaomi346,url,https://rucebive-rakntanoapp.com,
-21:09:16,masaomi346,url,https://rucefive-rakntanoapp.com,
-21:09:16,masaomi346,url,https://rucehive-rakntanoapp.com,
-21:09:16,masaomi346,url,https://ruceiive-rakntanoapp.com,
-21:09:16,masaomi346,url,https://rucepive-rakntanoapp.com,
+20:54:00,ex_raritas,domain,soundcloudapp.com,
+20:54:00,ex_raritas,url,http://soundcloudapp.com,
 21:18:20,ransomonitor,domain,cock.li,
 21:18:20,ransomonitor,domain,morke.org,
 21:18:20,ransomonitor,url,http://cock.li,
@@ -10710,15 +10665,13 @@
 21:50:47,skocherhan,md5,ba331092a9bb6d8f60b9c26441a17b28,,https://x.com/skocherhan/status/2100341655211491551
 22:02:59,etugenio,ip,23.159.248.93,
 22:02:59,etugenio,url,http://23.159.248.93,
-22:08:17,500mk500,ip,144.172.100.105,
-22:08:17,500mk500,ip,46.226.162.32,
-22:08:17,500mk500,url,http://144.172.100.105:4444,
-22:08:17,500mk500,url,http://144.172.100.105:8080,
-22:08:17,500mk500,url,http://144.172.100.105:8081,
-22:08:17,500mk500,url,http://46.226.162.32:8888,
 22:36:36,phishstats,domain,myid-telstra.flutterflow.app,
 22:36:36,phishstats,url,https://myid-telstra.flutterflow.app,
 22:42:27,skocherhan,md5,5d91609062fd39d477103958146fda3e,,https://x.com/skocherhan/status/2099992268547453222
+22:43:12,scanmalware,domain,berquni-mpt-zavfelo-r4x8ka65.pages.dev,
+22:43:12,scanmalware,url,http://berquni-mpt-zavfelo-r4x8ka65.pages.dev,
+22:44:56,skocherhan,domain,report-gilead.com,,https://x.com/skocherhan/status/2100717668487602283
+22:44:56,skocherhan,url,http://report-gilead.com,,https://x.com/skocherhan/status/2100717668487602283
 22:54:21,skocherhan,domain,downin.club,,https://x.com/skocherhan/status/2099995263737712810
 22:54:21,skocherhan,domain,ssmail.ink,,https://x.com/skocherhan/status/2099995263737712810
 22:54:21,skocherhan,url,http://downin.club,,https://x.com/skocherhan/status/2099995263737712810
@@ -10729,6 +10682,8 @@
 23:00:24,coolcarlos17,url,http://magablack.com,
 23:29:21,tkemmerling,domain,mmsiriusss.s3.us-east-1.amazonaws.com,
 23:29:21,tkemmerling,url,http://mmsiriusss.s3.us-east-1.amazonaws.com,
+23:33:32,masaomi346,domain,externalbsnle-smbice.com,
+23:33:32,masaomi346,url,https://externalbsnle-smbice.com,
 2baserec2.guru
 33across.com
 4-dot-all-tracker.appspot.com
