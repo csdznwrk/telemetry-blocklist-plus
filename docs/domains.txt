@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-09-19 09:59 UTC
-# Domains: 13591
+# Updated: 2026-09-19 15:04 UTC
+# Domains: 13597
 
 -084-gls-223-www-9-k-0brasil.net.daraz.com
 -access-logs-1.net.daraz.com
@@ -10528,6 +10528,9 @@
 12:01:23,phishunt_io,url,http://apple-icloud.azurewebsites.net,
 12:01:25,phishunt_io,domain,kucoins-signin.com,
 12:01:25,phishunt_io,url,http://kucoins-signin.com,
+12:01:29,phishunt_io,domain,xfinity-updateform.square.site,
+12:01:29,phishunt_io,ip,74.115.51.5,
+12:01:29,phishunt_io,url,http://xfinity-updateform.square.site,
 12:01:35,phishunt_io,domain,metapay.facebook-secure.shop,
 12:01:35,phishunt_io,ip,62.60.227.68,
 12:01:35,phishunt_io,url,http://metapay.facebook-secure.shop/order/09066807,
@@ -10561,6 +10564,8 @@
 13:11:03,patialavii,domain,rinitiative.org,
 13:11:03,patialavii,url,https://kohenalexander.screenconnect.com/bin/screenconnect.clientsetup.msi,
 13:11:03,patialavii,url,https://rinitiative.org/ftx,
+13:11:10,byrne_emmy12099,domain,afc-security-report.duckdns.org,
+13:11:10,byrne_emmy12099,url,http://afc-security-report.duckdns.org,
 13:11:55,tkemmerling,domain,re.myloisle.com,
 13:11:55,tkemmerling,url,http://re.myloisle.com,
 13:15:10,jameswt_wt,domain,iampe-agenziaentrate-gov.store,
@@ -10590,6 +10595,7 @@
 14:17:34,james_inthe_box,url,https://periods-genetic-stones-government.trycloudflare.com,
 14:30:09,fbgwls245,domain,nongzecboljwv3yfndkggsybsglfrkffw7bvk2zemuteoxe6etpusnad.onion,
 14:30:09,fbgwls245,url,http://nongzecboljwv3yfndkggsybsglfrkffw7bvk2zemuteoxe6etpusnad.onion,
+14:31:27,skocherhan,md5,15ee29ea4f475fb13fba61e185e4fac5,,https://x.com/skocherhan/status/2101318257311383698
 14:33:00,fbgwls245,domain,spiralstfe7rtbna7zlv6szdwmjvjszf2d64zkf6z5jykrwnw5jbgpyd.onion,
 14:33:00,fbgwls245,url,http://spiralstfe7rtbna7zlv6szdwmjvjszf2d64zkf6z5jykrwnw5jbgpyd.onion,
 14:34:48,0xb1lal,ip,45.88.186.96,
