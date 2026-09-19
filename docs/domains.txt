@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-09-19 02:22 UTC
-# Domains: 13549
+# Updated: 2026-09-19 09:59 UTC
+# Domains: 13591
 
 -084-gls-223-www-9-k-0brasil.net.daraz.com
 -access-logs-1.net.daraz.com
@@ -9698,6 +9698,10 @@
 039y4012f1.shop
 03:04:05,tkemmerling,domain,altiora.fun,
 03:04:05,tkemmerling,url,http://altiora.fun,
+03:07:08,tkemmerling,domain,moneycedarvale.com,
+03:07:08,tkemmerling,domain,moneylaunchway.info,
+03:07:08,tkemmerling,url,http://moneycedarvale.com,
+03:07:08,tkemmerling,url,http://moneylaunchway.info,
 03:15:24,masaomi346,domain,ancientcpus-jprakutansui-copoint.com,
 03:15:24,masaomi346,domain,averygruckus-jprakutansui-copoint.com,
 03:15:24,masaomi346,domain,bulwasandburg-jprakutansui-copoint.com,
@@ -9706,6 +9710,8 @@
 03:15:24,masaomi346,url,https://bulwasandburg-jprakutansui-copoint.com,
 03:27:08,tkemmerling,domain,se.norahadraivnig.com,
 03:27:08,tkemmerling,url,http://se.norahadraivnig.com,
+03:36:26,masaomi346,domain,cdfloq.cfd,
+03:36:26,masaomi346,url,https://cdfloq.cfd/netbk/
 03:41:33,patialavii,domain,dhofareng.com,
 03:41:33,patialavii,url,https://dhofareng.com/docusign/,
 03:48:52,tkemmerling,domain,sb.zeyoluxe.com,
@@ -10141,7 +10147,13 @@
 04:43:07,patialavii,domain,strafordhomes.screenconnect.com,
 04:43:07,patialavii,url,https://ony.srb.temporary.site/en/,
 04:43:07,patialavii,url,https://strafordhomes.screenconnect.com/bin/screenconnect.clientsetup.exe,
+04:47:37,patialavii,domain,taslimaenterprise.com,
+04:47:37,patialavii,domain,taslimaenterprise.screenconnect.com,
+04:47:37,patialavii,url,https://taslimaenterprise.screenconnect.com/bin/screenconnect.clientsetup.msi,
+04:47:37,patialavii,url,https://www.taslimaenterprise.com/adobe/,
 04:54:06,phatomcandle,ip,101.35.219.220,
+04:56:50,patialavii,domain,zoominviite.pages.dev,
+04:56:50,patialavii,url,https://zoominviite.pages.dev,
 04:57:19,tkemmerling,domain,re.myloisle.com,
 04:57:19,tkemmerling,url,http://re.myloisle.com,
 04:57:30,tkemmerling,domain,te.cyraecraft.com,
@@ -10154,6 +10166,9 @@
 05:07:34,tdatwja,md5,6ed3fa391a14acd768de91f921eb0d95,,https://x.com/tdatwja/status/2099726797437026701
 05:07:34,tdatwja,sha256,a42a573ec173f10e0ccae940d8ebaa739ddf443bd751a66aa4b92b0e26c7152f,,https://x.com/tdatwja/status/2099726797437026701
 05:07:34,tdatwja,url,http://v02.zip,,https://x.com/tdatwja/status/2099726797437026701
+05:07:55,patialavii,domain,pixeldrain.com,
+05:07:55,patialavii,domain,zoominvite06-efq.pages.dev,
+05:07:55,patialavii,url,https://zoominvite06-efq.pages.dev,
 05:08:14,patialavii,domain,op.lepiceriedestoits.com,
 05:08:14,patialavii,url,https://op.lepiceriedestoits.com/kirby/,
 05:08:14,patialavii,url,https://op.lepiceriedestoits.com/kirby/download.php,
@@ -10191,10 +10206,14 @@
 05:43:05,tdatwja,domain,mjdou.vip,,https://x.com/tdatwja/status/2099735738174878019
 05:43:05,tdatwja,url,http://devin-us.com,,https://x.com/tdatwja/status/2099735738174878019
 05:43:05,tdatwja,url,http://mjdou.vip,,https://x.com/tdatwja/status/2099735738174878019
+05:51:42,skocherhan,domain,usclimatologist.com,
+05:51:42,skocherhan,url,http://usclimatologist.com,
 06:04:31,tkemmerling,domain,vb.wholenura.com,
 06:04:31,tkemmerling,url,http://vb.wholenura.com,
 06:10:00,tkemmerling,domain,sb.anaridelight.com,
 06:10:00,tkemmerling,url,http://sb.anaridelight.com,
+06:10:02,scanmalware,domain,hkgnclub.com,
+06:10:02,scanmalware,url,http://hkgnclub.com,
 06:16:32,masaomi346,domain,aniv.czklwfl.cn,
 06:16:32,masaomi346,url,https://aniv.czklwfl.cn/t10ijauryj,
 06:20:11,bomccss,domain,結婚式のご招待.zip,,https://x.com/bomccss/status/2099745072027947391
@@ -10203,6 +10222,9 @@
 06:26:27,tkemmerling,domain,sa.oskatrace.com,
 06:26:27,tkemmerling,url,http://sa.oskatrace.com,
 06:27:06,fact_finder03,ip,5.39.202.95,
+06:33:55,phishstats,domain,hero111.online,
+06:33:55,phishstats,ip,201.7.16.43,
+06:33:55,phishstats,url,https://hero111.online/g/aru6q/web/authen.php,
 06:40:37,metemcyber,domain,sanjinshdfuli.igb56k.info,
 06:40:37,metemcyber,ip,43.165.130.182,
 06:40:37,metemcyber,url,http://43.165.130.182,
@@ -10228,18 +10250,36 @@
 07:01:30,phishunt_io,domain,wellsfargoverify.net,
 07:01:30,phishunt_io,ip,185.199.109.153,
 07:01:30,phishunt_io,url,http://wellsfargoverify.net,
+07:01:39,phishunt_io,domain,www-robloxk.com,
+07:01:39,phishunt_io,url,http://www-robloxk.com/login?returlurl=1445876836,
 07:01:53,phishunt_io,domain,whatsapp.wooflers.com,
 07:01:53,phishunt_io,ip,68.178.238.223,
 07:01:53,phishunt_io,url,http://whatsapp.wooflers.com/livewire-742499fa,
 07:02:22,phishunt_io,domain,iberdrolatrade.com,
 07:02:22,phishunt_io,ip,158.94.210.119,
 07:02:22,phishunt_io,url,http://iberdrolatrade.com,
+07:02:24,ransomonitor,domain,atomicmail.io,
+07:02:24,ransomonitor,domain,endzonezgz3sqzmtqg4acp4z7ao7xc6vunfhezjsnfqrm2ksudsredyd.onion,
+07:02:24,ransomonitor,url,http://atomicmail.io,
+07:02:24,ransomonitor,url,http://endzonezgz3sqzmtqg4acp4z7ao7xc6vunfhezjsnfqrm2ksudsredyd.onion,
 07:06:38,coolcarlos17,domain,blockmania.com.br,
 07:06:38,coolcarlos17,domain,blockmanialoja.com,
 07:06:38,coolcarlos17,url,http://blockmania.com.br,
 07:06:38,coolcarlos17,url,https://blockmanialoja.com,
+07:06:38,tkemmerling,domain,oskatrace.com,
+07:06:38,tkemmerling,domain,revaotrace.com,
+07:06:38,tkemmerling,url,http://oskatrace.com,
+07:06:38,tkemmerling,url,http://revaotrace.com,
+07:11:10,tkemmerling,domain,healthassistcarepro.com,
+07:11:10,tkemmerling,domain,healthprimeflow.com,
+07:11:10,tkemmerling,url,http://healthassistcarepro.com,
+07:11:10,tkemmerling,url,http://healthprimeflow.com,
 07:11:34,tkemmerling,domain,aestheticearthgems.info,
 07:11:34,tkemmerling,url,http://aestheticearthgems.info,
+07:14:25,tkemmerling,domain,equitygrandview.com,
+07:14:25,tkemmerling,domain,treasurymoneybase.info,
+07:14:25,tkemmerling,url,http://equitygrandview.com,
+07:14:25,tkemmerling,url,http://treasurymoneybase.info,
 07:14:50,bomccss,ip,149.104.24.197,,https://x.com/bomccss/status/2099758827386319001
 07:14:50,bomccss,url,http://149.104.24.197,,https://x.com/bomccss/status/2099758827386319001
 07:14:50,bomccss,url,https://mjdou.vip,,https://x.com/bomccss/status/2099758827386319001
@@ -10429,6 +10469,8 @@
 08:43:19,aaroncti,url,http://whatsapp-report.com,,https://x.com/aaroncti/status/2100143481482022925
 08:43:19,aaroncti,url,http://workday.report,,https://x.com/aaroncti/status/2100143481482022925
 08:43:19,aaroncti,url,http://xing.report,,https://x.com/aaroncti/status/2100143481482022925
+08:55:03,raghav127001,ip,162.35.122.140,
+08:55:03,raghav127001,url,http://162.35.122.140:5000,
 08:56:12,tdatwja,domain,123.pdf1.zip,,https://x.com/tdatwja/status/2100146724035875034
 08:56:12,tdatwja,url,http://123.pdf1.zip,,https://x.com/tdatwja/status/2100146724035875034
 09:10:21,tkemmerling,domain,financeoakmont.com,
