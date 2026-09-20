@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-09-20 10:19 UTC
-# Domains: 13662
+# Updated: 2026-09-20 15:09 UTC
+# Domains: 13670
 
 -084-gls-223-www-9-k-0brasil.net.daraz.com
 -access-logs-1.net.daraz.com
@@ -10520,6 +10520,12 @@
 10:33:33,phishstats,ip,79.98.28.8,
 10:33:33,phishstats,url,https://www.geltonayraviskas.lt,
 10:36:00,suyog41,md5,cfaa9eead8f27ecc01803a5eb9fc463c,,https://x.com/suyog41/status/2100896616832000092
+10:40:51,ethanaleja5m3,domain,dsjex.net,
+10:40:51,ethanaleja5m3,url,http://dsjex.net,
+10:41:17,ethanaleja5m3,domain,m.comex3.online,
+10:41:17,ethanaleja5m3,url,http://m.comex3.online,
+10:44:33,ethanaleja5m3,domain,phtmviso.com,
+10:44:33,ethanaleja5m3,url,http://phtmviso.com,
 10:54:20,fact_finder03,domain,5oyninql4mekvjepei7yc3jnakfxi5bt5yky53cgqqrfwvfj4yvlpdad.onion,
 10:54:20,fact_finder03,ip,87.106.6.79,
 10:54:20,fact_finder03,url,http://5oyninql4mekvjepei7yc3jnakfxi5bt5yky53cgqqrfwvfj4yvlpdad.onion,
@@ -10593,6 +10599,8 @@
 13:22:44,skocherhan,domain,lewokodwqko.icu,,https://x.com/skocherhan/status/2099851412645593438
 13:22:44,skocherhan,md5,e0189e82b8308b1241c6985480182524,,https://x.com/skocherhan/status/2099851412645593438
 13:22:44,skocherhan,url,http://lewokodwqko.icu,,https://x.com/skocherhan/status/2099851412645593438
+13:27:10,gesturepul_,domain,bitcoinset.com,
+13:27:10,gesturepul_,url,http://bitcoinset.com,
 13:34:45,patialavii,domain,alphamedglobal.com,
 13:34:45,patialavii,domain,beyondfitness.com.br,
 13:34:45,patialavii,url,http://alphamedglobal.com/home.php,
