@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-09-20 02:32 UTC
-# Domains: 13634
+# Updated: 2026-09-20 10:19 UTC
+# Domains: 13662
 
 -084-gls-223-www-9-k-0brasil.net.daraz.com
 -access-logs-1.net.daraz.com
@@ -3082,6 +3082,9 @@
 00:28:47,phishstats,url,https://bik1nc.webwave.dev,
 00:35:07,g60930953,ip,185.235.137.35,
 00:35:07,g60930953,url,http://185.235.137.35:9000,
+00:45:31,skocherhan,domain,upwebbmaster.com,,https://x.com/skocherhan/status/2101472791585308970
+00:45:31,skocherhan,md5,6776d89b4b33d48cae6eb2b6165deef1,,https://x.com/skocherhan/status/2101472791585308970
+00:45:31,skocherhan,url,http://www.upwebbmaster.com/gj785pl/2mnfpwlh/,,https://x.com/skocherhan/status/2101472791585308970
 00:47:30,masaomi346,domain,hasoadwaznqps.com,
 00:47:30,masaomi346,domain,polisdaaqopx.com,
 00:47:30,masaomi346,domain,suwakdsdowa.com,
@@ -8472,6 +8475,10 @@
 02:35:57,coolcarlos17,url,https://casabahia.online,
 02:40:55,tkemmerling,domain,rc.veyosilk.com,
 02:40:55,tkemmerling,url,http://rc.veyosilk.com,
+02:45:29,tkemmerling,domain,healthspringway.com,
+02:45:29,tkemmerling,domain,investcreditlane.com,
+02:45:29,tkemmerling,url,http://healthspringway.com,
+02:45:29,tkemmerling,url,http://investcreditlane.com,
 02a169af111011.beer
 02a1a1ec23b8564d37d2f451f1db9dad.info
 02a2e259fd91062a.com
@@ -9719,6 +9726,8 @@
 03:15:24,masaomi346,url,https://ancientcpus-jprakutansui-copoint.com,
 03:15:24,masaomi346,url,https://averygruckus-jprakutansui-copoint.com,
 03:15:24,masaomi346,url,https://bulwasandburg-jprakutansui-copoint.com,
+03:21:02,tkemmerling,domain,havokindle.com,
+03:21:02,tkemmerling,url,http://havokindle.com,
 03:27:08,tkemmerling,domain,se.norahadraivnig.com,
 03:27:08,tkemmerling,url,http://se.norahadraivnig.com,
 03:36:26,masaomi346,domain,cdfloq.cfd,
@@ -9727,6 +9736,10 @@
 03:41:33,patialavii,url,https://dhofareng.com/docusign/,
 03:48:52,tkemmerling,domain,sb.zeyoluxe.com,
 03:48:52,tkemmerling,url,http://sb.zeyoluxe.com,
+03:56:12,tkemmerling,domain,financeoakmont.com,
+03:56:12,tkemmerling,domain,financespringboard.info,
+03:56:12,tkemmerling,url,http://financeoakmont.com,
+03:56:12,tkemmerling,url,http://financespringboard.info,
 03a01d381c69453a.com
 03a087bc6ca6.top
 03a08ec40d0e.com
@@ -10146,6 +10159,8 @@
 04:30:31,patialavii,domain,s-31niukey.s3.us-east-2.amazonaws.com,
 04:30:31,patialavii,url,https://kh3a.de/internationalmicro/,
 04:30:31,patialavii,url,https://s-31niukey.s3.us-east-2.amazonaws.com/mineminenow.msi,
+04:32:51,tkemmerling,domain,viraoasis.com,
+04:32:51,tkemmerling,url,http://viraoasis.com,
 04:33:25,phishstats,domain,allegro.pry84327h45.help,
 04:33:25,phishstats,url,http://allegro.pry84327h45.help,
 04:34:41,tkemmerling,domain,se.kivokeyline.com,
@@ -10153,14 +10168,26 @@
 04:35:46,phishstats,url,https://mez.ink/bell_mts,
 04:40:29,masaomi346,domain,miaohuaqb.com,
 04:40:29,masaomi346,url,https://miaohuaqb.com/kxodtsjh/,
+04:42:02,scanmalware,domain,security-server-landing-page--spencer-hunt1.replit.app,
+04:42:02,scanmalware,url,http://security-server-landing-page--spencer-hunt1.replit.app,
 04:43:07,patialavii,domain,ony.srb.temporary.site,
 04:43:07,patialavii,domain,strafordhomes.screenconnect.com,
 04:43:07,patialavii,url,https://ony.srb.temporary.site/en/,
 04:43:07,patialavii,url,https://strafordhomes.screenconnect.com/bin/screenconnect.clientsetup.exe,
+04:46:00,masaomi346,domain,cnplacen-jprakutanziu.com,
+04:46:00,masaomi346,domain,jkvapesto-jprakutanziu.com,
+04:46:00,masaomi346,domain,loushiha-jprakutanziu.com,
+04:46:00,masaomi346,domain,wuhuanlo-jprakutanziu.com,
+04:46:00,masaomi346,url,https://cnplacen-jprakutanziu.com,
+04:46:00,masaomi346,url,https://jkvapesto-jprakutanziu.com,
+04:46:00,masaomi346,url,https://loushiha-jprakutanziu.com,
+04:46:00,masaomi346,url,https://wuhuanlo-jprakutanziu.com,
 04:47:37,patialavii,domain,taslimaenterprise.com,
 04:47:37,patialavii,domain,taslimaenterprise.screenconnect.com,
 04:47:37,patialavii,url,https://taslimaenterprise.screenconnect.com/bin/screenconnect.clientsetup.msi,
 04:47:37,patialavii,url,https://www.taslimaenterprise.com/adobe/,
+04:48:43,tkemmerling,domain,troll8.com,
+04:48:43,tkemmerling,url,http://troll8.com,
 04:54:06,phatomcandle,ip,101.35.219.220,
 04:56:50,patialavii,domain,zoominviite.pages.dev,
 04:56:50,patialavii,url,https://zoominviite.pages.dev,
@@ -10971,6 +10998,7 @@ analytics.mobile.yandex.net
 analytics.momentum-institut.at
 analytics.myfinance.com
 analytics.nest.com
+analytics.org.coveo.com
 analytics.ostr.io
 analytics.phando.com
 analytics.picsart.com
