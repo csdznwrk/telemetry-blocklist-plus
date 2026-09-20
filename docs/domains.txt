@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-09-20 15:09 UTC
-# Domains: 13670
+# Updated: 2026-09-20 20:01 UTC
+# Domains: 13677
 
 -084-gls-223-www-9-k-0brasil.net.daraz.com
 -access-logs-1.net.daraz.com
@@ -10647,6 +10647,8 @@
 15:22:46,masaomi346,url,http://mesa-braior-k3w3b.life,
 15:27:18,skocherhan,domain,chocolate65.beer,
 15:27:18,skocherhan,url,http://chocolate65.beer,
+15:32:34,skocherhan,domain,steamupdate.ydns.eu,,https://x.com/skocherhan/status/2101696026377613675
+15:32:34,skocherhan,url,http://steamupdate.ydns.eu,,https://x.com/skocherhan/status/2101696026377613675
 15:35:29,copy_and_paster,domain,argeninese.dothome.co.kr,
 15:35:29,copy_and_paster,domain,bbcnews04.dothome.co.kr,
 15:35:29,copy_and_paster,domain,minecrafter.mygamesonline.org,
@@ -10656,6 +10658,9 @@
 15:35:29,copy_and_paster,url,http://github.com/chromeweb78,
 15:35:29,copy_and_paster,url,http://minecrafter.mygamesonline.org,
 15:35:29,copy_and_paster,url,http://wanver.dothome.co.kr,
+15:38:34,muha2xmad,domain,v6-nq.global.ssl.fastly.net,
+15:38:34,muha2xmad,url,https://api.telegram.org/bot8804559396:aaebtnnqlsgaq8km0ipeduajakwprvusvws/sendmessage,
+15:38:34,muha2xmad,url,https://v6-nq.global.ssl.fastly.net/pep1/30/veri.html?e=temo@microsoft.com,
 15:44:40,tkemmerling,domain,ra.myvegaly.com,
 15:44:40,tkemmerling,url,http://ra.myvegaly.com,
 16:04:29,mugu_reporter,domain,get-verification.to,
@@ -10736,6 +10741,8 @@
 18:41:05,skocherhan,url,http://promptkernelrun.com,
 19:03:31,_akatsukilegion,ip,188.63.231.182,
 19:03:31,_akatsukilegion,url,http://188.63.231.182,
+19:13:52,breachhistorybh,domain,expresspros.com,
+19:13:52,breachhistorybh,url,http://expresspros.com,
 19:28:44,0xb1lal,ip,216.126.236.22,
 19:28:44,0xb1lal,ip,38.110.228.33,
 19:28:44,0xb1lal,ip,8.138.137.232,
