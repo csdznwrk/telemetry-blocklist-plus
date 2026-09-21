@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-09-21 02:30 UTC
-# Domains: 13632
+# Updated: 2026-09-21 11:31 UTC
+# Domains: 13669
 
 -084-gls-223-www-9-k-0brasil.net.daraz.com
 -access-logs-1.net.daraz.com
@@ -8469,6 +8469,8 @@
 02:06:18,tkemmerling,url,http://wholenura.com,
 02:10:41,tkemmerling,domain,casibom0862.com,
 02:10:41,tkemmerling,url,http://casibom0862.com,
+02:12:02,scanmalware,domain,hyundaiservisiankara.com,
+02:12:02,scanmalware,url,http://www.hyundaiservisiankara.com,
 02:18:26,tkemmerling,domain,se.nsbpay.com,
 02:18:26,tkemmerling,url,http://se.nsbpay.com,
 02:35:57,coolcarlos17,domain,casabahia.online,
@@ -9720,6 +9722,8 @@
 03:07:08,tkemmerling,domain,moneylaunchway.info,
 03:07:08,tkemmerling,url,http://moneycedarvale.com,
 03:07:08,tkemmerling,url,http://moneylaunchway.info,
+03:10:02,scanmalware,domain,sp11ct-fardok-biz8-molvik-keslor.pages.dev,
+03:10:02,scanmalware,url,http://sp11ct-fardok-biz8-molvik-keslor.pages.dev,
 03:15:24,masaomi346,domain,ancientcpus-jprakutansui-copoint.com,
 03:15:24,masaomi346,domain,averygruckus-jprakutansui-copoint.com,
 03:15:24,masaomi346,domain,bulwasandburg-jprakutansui-copoint.com,
@@ -9732,6 +9736,8 @@
 03:27:08,tkemmerling,url,http://se.norahadraivnig.com,
 03:36:26,masaomi346,domain,cdfloq.cfd,
 03:36:26,masaomi346,url,https://cdfloq.cfd/netbk/
+03:39:27,todd_cadwell56,domain,bitcoinset.com,
+03:39:27,todd_cadwell56,url,http://bitcoinset.com,
 03:41:33,patialavii,domain,dhofareng.com,
 03:41:33,patialavii,url,https://dhofareng.com/docusign/,
 03:48:52,tkemmerling,domain,sb.zeyoluxe.com,
@@ -10143,6 +10149,8 @@
 04:12:24,patialavii,url,https://invitezoommeeting.xyz/win23/,
 04:12:50,patialavii,domain,miicrosofteamm.com,
 04:12:50,patialavii,url,https://miicrosofteamm.com/teams/windows/,
+04:18:55,tkemmerling,domain,myloisle.com,
+04:18:55,tkemmerling,url,http://myloisle.com,
 04:20:39,patialavii,domain,z00minvite1.pages.dev,
 04:20:39,patialavii,url,https://z00minvite1.pages.dev,
 04:22:08,patialavii,domain,durnakphotography.com,
@@ -10161,6 +10169,8 @@
 04:30:31,patialavii,url,https://s-31niukey.s3.us-east-2.amazonaws.com/mineminenow.msi,
 04:32:51,tkemmerling,domain,viraoasis.com,
 04:32:51,tkemmerling,url,http://viraoasis.com,
+04:34:25,masaomi346,domain,daxueshengwz.com,
+04:34:25,masaomi346,url,https://daxueshengwz.com/0a0i4gfm
 04:34:41,tkemmerling,domain,se.kivokeyline.com,
 04:34:41,tkemmerling,url,http://se.kivokeyline.com,
 04:35:46,phishstats,url,https://mez.ink/bell_mts,
@@ -10186,6 +10196,8 @@
 04:47:37,patialavii,url,https://www.taslimaenterprise.com/adobe/,
 04:48:43,tkemmerling,domain,troll8.com,
 04:48:43,tkemmerling,url,http://troll8.com,
+04:52:19,tkemmerling,domain,troll8.com,
+04:52:19,tkemmerling,url,http://troll8.com,
 04:54:06,phatomcandle,ip,101.35.219.220,
 04:56:50,patialavii,domain,zoominviite.pages.dev,
 04:56:50,patialavii,url,https://zoominviite.pages.dev,
@@ -10207,6 +10219,9 @@
 05:08:14,patialavii,domain,op.lepiceriedestoits.com,
 05:08:14,patialavii,url,https://op.lepiceriedestoits.com/kirby/,
 05:08:14,patialavii,url,https://op.lepiceriedestoits.com/kirby/download.php,
+05:14:29,byrne_emmy12099,domain,files.surveillance-online.com,
+05:14:29,byrne_emmy12099,url,https://files.surveillance-online.com,
+05:14:29,byrne_emmy12099,url,https://www.dropbox.com/scl/fi/eiy657ap3ncis7liuklvj/.html?rlkey=3epkpzh4t1y8zapwf87xfcn1x&st=hxqht8jp,
 05:16:43,patialavii,domain,pub-e1d9577cada440b39dc4a1e0fa09e7bc.r2.dev,
 05:16:43,patialavii,domain,yonataxi.at,
 05:16:43,patialavii,url,https://pub-e1d9577cada440b39dc4a1e0fa09e7bc.r2.dev/invoceapril2026-pyment.msi,
@@ -10260,6 +10275,9 @@
 07:01:12,phishunt_io,url,http://netflix.patelrudra.in,
 07:01:24,phishunt_io,domain,robloxc.com.es,
 07:01:24,phishunt_io,url,http://robloxc.com.es/login?returlurl=1445876836,
+07:01:25,phishunt_io,domain,htttps-www-roblox.co,
+07:01:25,phishunt_io,ip,169.58.26.182,
+07:01:25,phishunt_io,url,http://htttps-www-roblox.co/login?returnurl=1789978322,
 07:01:39,phishunt_io,domain,www-robloxk.com,
 07:01:39,phishunt_io,url,http://www-robloxk.com/login?returlurl=1445876836,
 07:02:22,phishunt_io,domain,iberdrolatrade.com,
@@ -10290,6 +10308,10 @@
 07:14:50,bomccss,ip,149.104.24.197,,https://x.com/bomccss/status/2099758827386319001
 07:14:50,bomccss,url,http://149.104.24.197,,https://x.com/bomccss/status/2099758827386319001
 07:14:50,bomccss,url,https://mjdou.vip,,https://x.com/bomccss/status/2099758827386319001
+07:16:56,suyog41,md5,ee9d66099e941003d97c97ed0b88d03d,,https://x.com/suyog41/status/2101933680587333792
+07:21:02,scanmalware,domain,urlshort-linkmu9uwm4tctbb.banksystem.workers.dev,
+07:21:02,scanmalware,url,http://urlshort-linkmu9uwm4tctbb.banksystem.workers.dev,
+07:30:28,fact_finder03,ip,37.60.232.250,
 07:32:41,scanmalware,domain,sign-in-to-xfinity-090.weebly.com,
 07:32:41,scanmalware,url,http://www.sign-in-to-xfinity-090.weebly.com,
 07:33:00,fact_finder03,ip,31.76.30.87,
@@ -10301,8 +10323,10 @@
 07:34:00,fact_finder03,ip,205.209.125.247,
 07:34:08,tkemmerling,domain,re.myloisle.com,
 07:34:08,tkemmerling,url,http://re.myloisle.com,
+07:35:50,suyog41,md5,50eb3d47e565d0e7fcd861032e806de5,,https://x.com/suyog41/status/2101938438630945064
 07:42:00,fact_finder03,ip,45.76.83.205,
 07:46:18,suyog41,md5,d5deec0ee2aa398f296b79e6da0a5d80,,https://x.com/suyog41/status/2099766743338033361
+07:53:00,fact_finder03,ip,82.26.91.80,
 07:55:00,fact_finder03,ip,95.85.236.244,
 07:57:11,tkemmerling,domain,sb.anaridelight.com,
 07:57:11,tkemmerling,url,http://sb.anaridelight.com,
@@ -10318,10 +10342,14 @@
 08:22:20,tdatwja,url,http://v02.zip,,https://x.com/tdatwja/status/2100138202166415386
 08:25:47,tkemmerling,domain,rd.helioszyra.com,
 08:25:47,tkemmerling,url,http://rd.helioszyra.com,
+08:25:59,tkemmerling,domain,norahadraivnig.com,
+08:25:59,tkemmerling,url,http://norahadraivnig.com,
 08:31:00,fact_finder03,ip,111.229.198.6,
 08:33:00,fact_finder03,ip,209.99.186.221,
 08:34:23,skocherhan,domain,phantomc2.cc,,https://x.com/skocherhan/status/2100866009624187355
 08:34:23,skocherhan,url,http://phantomc2.cc,,https://x.com/skocherhan/status/2100866009624187355
+08:40:02,scanmalware,domain,sp12ct-zavmor-biz-pransik-holdek.pages.dev,
+08:40:02,scanmalware,url,http://sp12ct-zavmor-biz-pransik-holdek.pages.dev,
 08:43:19,aaroncti,domain,ahrefs.report,,https://x.com/aaroncti/status/2100143481482022925
 08:43:19,aaroncti,domain,airramp.report,,https://x.com/aaroncti/status/2100143481482022925
 08:43:19,aaroncti,domain,algoseek-report.com,,https://x.com/aaroncti/status/2100143481482022925
@@ -10476,6 +10504,8 @@
 08:55:03,raghav127001,url,http://162.35.122.140:5000,
 08:56:12,tdatwja,domain,123.pdf1.zip,,https://x.com/tdatwja/status/2100146724035875034
 08:56:12,tdatwja,url,http://123.pdf1.zip,,https://x.com/tdatwja/status/2100146724035875034
+08:59:35,suyog41,md5,97b7b06fc46806775d2ba0f97985269b,,https://x.com/suyog41/status/2101959514333327375
+09:02:00,fact_finder03,ip,191.223.218.5,
 09:10:21,tkemmerling,domain,financeoakmont.com,
 09:10:21,tkemmerling,url,http://financeoakmont.com,
 09:11:07,ransomonitor,domain,pnzr4delgur5dlhtqcy7qqm6m7dkivxwh742enezpks5kswfpx7qrsid.onion,
@@ -10486,6 +10516,7 @@
 09:14:12,masaomi346,url,https://shultectise.xa5ttg.info/aztipuif/indx/,
 09:16:22,fact_finder03,ip,89.167.72.221,
 09:31:00,fact_finder03,ip,158.247.255.167,
+09:53:27,fact_finder03,ip,31.56.176.4,
 10:00:00,phatomcandle,domain,requires1.dynuddns.net,
 10:00:00,phatomcandle,ip,101.36.114.215,
 10:00:00,phatomcandle,url,http://101.36.114.215,
@@ -10494,6 +10525,9 @@
 10:01:29,fact_finder03,ip,154.86.19.3,
 10:01:29,fact_finder03,ip,154.86.19.41,
 10:09:00,fact_finder03,ip,160.119.71.8,
+10:09:45,phishstats,domain,vodafoneelevation.de,
+10:09:45,phishstats,ip,216.150.1.1,
+10:09:45,phishstats,url,https://vodafoneelevation.de/info/,
 10:11:42,tkemmerling,domain,ebikein.s3.us-east-1.amazonaws.com,
 10:11:42,tkemmerling,url,http://ebikein.s3.us-east-1.amazonaws.com,
 10:31:50,phishstats,ip,69.175.101.194,
@@ -10501,6 +10535,8 @@
 10:33:33,phishstats,ip,79.98.28.8,
 10:33:33,phishstats,url,https://www.geltonayraviskas.lt,
 10:36:00,suyog41,md5,cfaa9eead8f27ecc01803a5eb9fc463c,,https://x.com/suyog41/status/2100896616832000092
+10:38:04,opcodeintel,domain,n0n.to,
+10:38:04,opcodeintel,url,http://n0n.to,
 10:40:51,ethanaleja5m3,domain,dsjex.net,
 10:40:51,ethanaleja5m3,url,http://dsjex.net,
 10:41:17,ethanaleja5m3,domain,m.comex3.online,
@@ -10511,6 +10547,7 @@
 10:54:20,fact_finder03,ip,87.106.6.79,
 10:54:20,fact_finder03,url,http://5oyninql4mekvjepei7yc3jnakfxi5bt5yky53cgqqrfwvfj4yvlpdad.onion,
 10:55:42,suyog41,md5,08893a34162293cf77c045ff030e4748,,https://x.com/suyog41/status/2100901574088282392
+11:05:35,fact_finder03,ip,177.3.208.49,
 11:11:56,tkemmerling,domain,researchcentral.info,
 11:11:56,tkemmerling,url,http://researchcentral.info,
 11:29:01,nextronresearch,domain,api.npoint.io,,https://x.com/nextronresearch/status/2100185180220629166
