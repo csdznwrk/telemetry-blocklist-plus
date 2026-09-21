@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-09-21 17:29 UTC
-# Domains: 13707
+# Updated: 2026-09-21 21:27 UTC
+# Domains: 13714
 
 -084-gls-223-www-9-k-0brasil.net.daraz.com
 -access-logs-1.net.daraz.com
@@ -10743,6 +10743,8 @@
 17:15:46,tkemmerling,domain,ntiksangatindah.info,
 17:15:46,tkemmerling,url,http://www.ntiksangatindah.info,
 17:16:20,spamauditor,ip,167.89.20.171,
+17:20:29,tkemmerling,domain,stylishhomegallery.com,
+17:20:29,tkemmerling,url,http://stylishhomegallery.com,
 17:22:49,coolcarlos17,domain,magaz-ine-lu-iza.com,
 17:22:49,coolcarlos17,url,http://magaz-ine-lu-iza.com,
 17:32:35,phishstats,domain,kolaybet.guncelgirisadresleri.icu,
@@ -10755,6 +10757,11 @@
 18:20:04,coolcarlos17,url,https://loja1-havan.com/produto/32812,
 18:25:18,coolcarlos17,domain,magablack.com,
 18:25:18,coolcarlos17,url,https://magablack.com/produto.php?slug=escada-articulada-16-degraus-aluminio-botafogo-altura,
+18:27:59,phishstats,domain,wuweizhe.com,
+18:27:59,phishstats,ip,172.247.42.180,
+18:27:59,phishstats,url,https://wuweizhe.com,
+18:35:53,coolcarlos17,domain,showdepromos.com,
+18:35:53,coolcarlos17,url,http://showdepromos.com,
 18:41:05,skocherhan,domain,promptkernelrun.com,
 18:41:05,skocherhan,url,http://promptkernelrun.com,
 19:03:31,_akatsukilegion,ip,188.63.231.182,
