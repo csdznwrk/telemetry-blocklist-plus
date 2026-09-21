@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-09-20 20:01 UTC
-# Domains: 13677
+# Updated: 2026-09-21 02:30 UTC
+# Domains: 13632
 
 -084-gls-223-www-9-k-0brasil.net.daraz.com
 -access-logs-1.net.daraz.com
@@ -3045,6 +3045,8 @@
 009www11w.top
 009www22w.top
 009www33w.top
+00:01:52,recoverwithbrad,domain,m.comex3.online,
+00:01:52,recoverwithbrad,url,http://m.comex3.online,
 00:05:54,masaomi346,domain,oiuwaksdiw.com,
 00:05:54,masaomi346,domain,poiwaksuwa.com,
 00:05:54,masaomi346,domain,polisdaaqopx.com,
@@ -3095,6 +3097,8 @@
 00:47:30,masaomi346,url,https://tver.gopuwas.com/nenkin/download/,
 00:47:43,recoverwitherik,domain,ju.com,
 00:47:43,recoverwitherik,url,http://ju.com,
+00:51:31,scanmalware,domain,sp30ct-zavun-biz-kemir-qolax.pages.dev,
+00:51:31,scanmalware,url,http://sp30ct-zavun-biz-kemir-qolax.pages.dev,
 00:53:34,scanmalware,domain,geltonayraviskas.lt,
 00:53:34,scanmalware,url,http://geltonayraviskas.lt,
 00:59:29,tkemmerling,domain,oskatrace.com,
@@ -8459,8 +8463,6 @@
 029www11w.top
 029www22w.top
 029yt.com
-02:02:14,masaomi346,domain,secret-lovei.com,
-02:02:14,masaomi346,url,https://secret-lovei.com,
 02:06:18,tkemmerling,domain,nimblemevia.com,
 02:06:18,tkemmerling,domain,wholenura.com,
 02:06:18,tkemmerling,url,http://nimblemevia.com,
@@ -8469,8 +8471,6 @@
 02:10:41,tkemmerling,url,http://casibom0862.com,
 02:18:26,tkemmerling,domain,se.nsbpay.com,
 02:18:26,tkemmerling,url,http://se.nsbpay.com,
-02:29:27,skocherhan,domain,gasystemautomacao.com.br,
-02:29:27,skocherhan,url,http://gasystemautomacao.com.br/ay/,
 02:35:57,coolcarlos17,domain,casabahia.online,
 02:35:57,coolcarlos17,url,https://casabahia.online,
 02:40:55,tkemmerling,domain,rc.veyosilk.com,
@@ -10161,8 +10161,6 @@
 04:30:31,patialavii,url,https://s-31niukey.s3.us-east-2.amazonaws.com/mineminenow.msi,
 04:32:51,tkemmerling,domain,viraoasis.com,
 04:32:51,tkemmerling,url,http://viraoasis.com,
-04:33:25,phishstats,domain,allegro.pry84327h45.help,
-04:33:25,phishstats,url,http://allegro.pry84327h45.help,
 04:34:41,tkemmerling,domain,se.kivokeyline.com,
 04:34:41,tkemmerling,url,http://se.kivokeyline.com,
 04:35:46,phishstats,url,https://mez.ink/bell_mts,
@@ -10213,16 +10211,12 @@
 05:16:43,patialavii,domain,yonataxi.at,
 05:16:43,patialavii,url,https://pub-e1d9577cada440b39dc4a1e0fa09e7bc.r2.dev/invoceapril2026-pyment.msi,
 05:16:43,patialavii,url,https://yonataxi.at/ftx/,
-05:20:03,scanmalware,domain,sp12ct-zomdel-biz-pranik-lorsik.pages.dev,
-05:20:03,scanmalware,url,http://sp12ct-zomdel-biz-pranik-lorsik.pages.dev,
 05:20:06,tkemmerling,domain,sb.celocozy.com,
 05:20:06,tkemmerling,url,http://sb.celocozy.com,
 05:20:40,tdatwja,md5,8b9f58d8ed798d4e75f1efa8934ac892,,https://x.com/tdatwja/status/2099730097188299034
 05:20:40,tdatwja,sha256,c0a8a134dfbc3445598f8dcb5af0b52f4b691a5d13484b5384fb61d4d30545a4,,https://x.com/tdatwja/status/2099730097188299034
 05:29:41,masaomi346,domain,accoun.iwsgsas.cn,
 05:29:41,masaomi346,url,https://accoun.iwsgsas.cn/09ayzojtgr,
-05:33:24,scanmalware,domain,americandreamlost.com,
-05:33:24,scanmalware,url,http://americandreamlost.com,
 05:42:28,tkemmerling,domain,re.pineayra.com,
 05:42:28,tkemmerling,url,http://re.pineayra.com,
 05:43:05,tdatwja,domain,devin-us.com,,https://x.com/tdatwja/status/2099735738174878019
@@ -10233,8 +10227,6 @@
 05:51:42,skocherhan,url,http://usclimatologist.com,
 06:04:31,tkemmerling,domain,vb.wholenura.com,
 06:04:31,tkemmerling,url,http://vb.wholenura.com,
-06:10:00,tkemmerling,domain,sb.anaridelight.com,
-06:10:00,tkemmerling,url,http://sb.anaridelight.com,
 06:10:02,scanmalware,domain,hkgnclub.com,
 06:10:02,scanmalware,url,http://hkgnclub.com,
 06:16:32,masaomi346,domain,aniv.czklwfl.cn,
@@ -10254,8 +10246,6 @@
 06:40:37,metemcyber,url,https://sanjinshdfuli.igb56k.info/tptvakto/,
 06:45:29,bomccss,domain,dnswwt.club,,https://x.com/bomccss/status/2099751438268457277
 06:45:29,bomccss,url,https://dnswwt.club/jp.html,,https://x.com/bomccss/status/2099751438268457277
-06:46:32,tkemmerling,domain,se.norahadraivnig.com,
-06:46:32,tkemmerling,url,http://se.norahadraivnig.com,
 06:49:04,tkemmerling,domain,tb.rilobreeze.com,
 06:49:04,tkemmerling,url,http://tb.rilobreeze.com,
 06:49:11,metemcyber,domain,miparohuze.cfd,
@@ -10272,9 +10262,6 @@
 07:01:24,phishunt_io,url,http://robloxc.com.es/login?returlurl=1445876836,
 07:01:39,phishunt_io,domain,www-robloxk.com,
 07:01:39,phishunt_io,url,http://www-robloxk.com/login?returlurl=1445876836,
-07:01:53,phishunt_io,domain,whatsapp.wooflers.com,
-07:01:53,phishunt_io,ip,68.178.238.223,
-07:01:53,phishunt_io,url,http://whatsapp.wooflers.com/livewire-742499fa,
 07:02:22,phishunt_io,domain,iberdrolatrade.com,
 07:02:22,phishunt_io,ip,158.94.210.119,
 07:02:22,phishunt_io,url,http://iberdrolatrade.com,
@@ -10303,8 +10290,6 @@
 07:14:50,bomccss,ip,149.104.24.197,,https://x.com/bomccss/status/2099758827386319001
 07:14:50,bomccss,url,http://149.104.24.197,,https://x.com/bomccss/status/2099758827386319001
 07:14:50,bomccss,url,https://mjdou.vip,,https://x.com/bomccss/status/2099758827386319001
-07:18:45,tkemmerling,domain,sa.oskatrace.com,
-07:18:45,tkemmerling,url,http://sa.oskatrace.com,
 07:32:41,scanmalware,domain,sign-in-to-xfinity-090.weebly.com,
 07:32:41,scanmalware,url,http://www.sign-in-to-xfinity-090.weebly.com,
 07:33:00,fact_finder03,ip,31.76.30.87,
@@ -10318,8 +10303,6 @@
 07:34:08,tkemmerling,url,http://re.myloisle.com,
 07:42:00,fact_finder03,ip,45.76.83.205,
 07:46:18,suyog41,md5,d5deec0ee2aa398f296b79e6da0a5d80,,https://x.com/suyog41/status/2099766743338033361
-07:51:04,tkemmerling,domain,vb.wholenura.com,
-07:51:04,tkemmerling,url,http://vb.wholenura.com,
 07:55:00,fact_finder03,ip,95.85.236.244,
 07:57:11,tkemmerling,domain,sb.anaridelight.com,
 07:57:11,tkemmerling,url,http://sb.anaridelight.com,
@@ -10503,8 +10486,6 @@
 09:14:12,masaomi346,url,https://shultectise.xa5ttg.info/aztipuif/indx/,
 09:16:22,fact_finder03,ip,89.167.72.221,
 09:31:00,fact_finder03,ip,158.247.255.167,
-09:57:15,masaomi346,domain,vnatf.gmy59.com,
-09:57:15,masaomi346,url,https://vnatf.gmy59.com,
 10:00:00,phatomcandle,domain,requires1.dynuddns.net,
 10:00:00,phatomcandle,ip,101.36.114.215,
 10:00:00,phatomcandle,url,http://101.36.114.215,
@@ -10542,12 +10523,6 @@
 11:29:01,nextronresearch,url,http://api.npoint.io/ddae72efbb6714fae922,,https://x.com/nextronresearch/status/2100185180220629166
 11:31:24,c9lab_soc,domain,joyalukkas-karama.store,
 11:31:24,c9lab_soc,url,http://www.joyalukkas-karama.store,
-11:46:31,coolcarlos17,url,http://havan.oficial.com,
-11:49:21,coolcarlos17,domain,havan.oficial.com,
-11:49:21,coolcarlos17,url,https://havan.oficial.com,
-11:53:36,0xb1lal,ip,144.172.65.54,
-11:53:41,coolcarlos17,domain,site-ma-ga-zine-luiza.com,
-11:53:41,coolcarlos17,url,https://site-ma-ga-zine-luiza.com,
 12:00:03,fact_finder03,ip,167.71.213.136,
 12:01:23,phishunt_io,domain,apple-icloud.azurewebsites.net,
 12:01:23,phishunt_io,ip,52.173.36.83,
@@ -10558,12 +10533,8 @@
 12:01:35,phishunt_io,domain,metapay.facebook-secure.shop,
 12:01:35,phishunt_io,ip,62.60.227.68,
 12:01:35,phishunt_io,url,http://metapay.facebook-secure.shop/order/09066807,
-12:01:51,phishunt_io,domain,appeal-case.about-help.com,
-12:01:51,phishunt_io,url,http://facebook.com%2f@appeal-case.about-help.com/app=xs,
 12:07:00,fact_finder03,ip,31.57.38.94,
 12:07:00,fact_finder03,ip,51.79.128.217,
-12:07:00,masaomi346,domain,claude-tools.com,
-12:07:00,masaomi346,url,https://claude-tools.com,
 12:11:11,tkemmerling,domain,mmchart.s3.us-east-1.amazonaws.com,
 12:11:11,tkemmerling,url,http://mmchart.s3.us-east-1.amazonaws.com,
 12:13:22,masaomi346,domain,misty-arc-rook-sleoor.com,
@@ -10571,10 +10542,6 @@
 12:18:10,mugu_reporter,domain,robotichosting.com,
 12:18:10,mugu_reporter,ip,198.251.81.14,
 12:18:10,mugu_reporter,url,http://robotichosting.com,
-12:20:45,masaomi346,domain,codex-desk.com,
-12:20:45,masaomi346,domain,plume-compass.com,
-12:20:45,masaomi346,url,http://plume-compass.com,
-12:20:45,masaomi346,url,https://codex-desk.com,
 12:36:52,masaomi346,domain,oricvn.zmbc3c.info,
 12:36:52,masaomi346,url,https://oricvn.zmbc3c.info/iricyygen/,
 12:41:38,suyog41,md5,7d31da1f0b4edcacd1d466b5bf95ade3,,https://x.com/suyog41/status/2100203457885974813
@@ -10592,10 +10559,6 @@
 13:11:10,byrne_emmy12099,url,http://afc-security-report.duckdns.org,
 13:11:55,tkemmerling,domain,re.myloisle.com,
 13:11:55,tkemmerling,url,http://re.myloisle.com,
-13:15:10,jameswt_wt,domain,iampe-agenziaentrate-gov.store,
-13:15:10,jameswt_wt,domain,uhu7535b.s3.amazonaws.com,
-13:15:10,jameswt_wt,url,https://uhu7535b.s3.amazonaws.com/5.html,
-13:15:10,jameswt_wt,url,https://www.iampe-agenziaentrate-gov.store/1krj4nkmb-dihwrl-hqtnvk-aax5sn4/index.html,
 13:22:44,skocherhan,domain,lewokodwqko.icu,,https://x.com/skocherhan/status/2099851412645593438
 13:22:44,skocherhan,md5,e0189e82b8308b1241c6985480182524,,https://x.com/skocherhan/status/2099851412645593438
 13:22:44,skocherhan,url,http://lewokodwqko.icu,,https://x.com/skocherhan/status/2099851412645593438
@@ -10605,12 +10568,8 @@
 13:34:45,patialavii,domain,beyondfitness.com.br,
 13:34:45,patialavii,url,http://alphamedglobal.com/home.php,
 13:34:45,patialavii,url,https://beyondfitness.com.br/wp-includes/zlc/zoom-installer-silent.vbs,
-13:52:30,coolcarlos17,domain,flerast.com,
-13:52:30,coolcarlos17,url,http://flerast.com,
 14:11:48,tkemmerling,domain,aestheticearthgems.info,
 14:11:48,tkemmerling,url,http://aestheticearthgems.info,
-14:13:52,coolcarlos17,domain,tudaria.com,
-14:13:52,coolcarlos17,url,https://www.tudaria.com,
 14:17:34,james_inthe_box,domain,interactions-according-reports-syndication.trycloudflare.com,
 14:17:34,james_inthe_box,domain,periods-genetic-stones-government.trycloudflare.com,
 14:17:34,james_inthe_box,url,https://interactions-according-reports-syndication.trycloudflare.com,
@@ -10649,15 +10608,6 @@
 15:27:18,skocherhan,url,http://chocolate65.beer,
 15:32:34,skocherhan,domain,steamupdate.ydns.eu,,https://x.com/skocherhan/status/2101696026377613675
 15:32:34,skocherhan,url,http://steamupdate.ydns.eu,,https://x.com/skocherhan/status/2101696026377613675
-15:35:29,copy_and_paster,domain,argeninese.dothome.co.kr,
-15:35:29,copy_and_paster,domain,bbcnews04.dothome.co.kr,
-15:35:29,copy_and_paster,domain,minecrafter.mygamesonline.org,
-15:35:29,copy_and_paster,domain,wanver.dothome.co.kr,
-15:35:29,copy_and_paster,url,http://argeninese.dothome.co.kr,
-15:35:29,copy_and_paster,url,http://bbcnews04.dothome.co.kr,
-15:35:29,copy_and_paster,url,http://github.com/chromeweb78,
-15:35:29,copy_and_paster,url,http://minecrafter.mygamesonline.org,
-15:35:29,copy_and_paster,url,http://wanver.dothome.co.kr,
 15:38:34,muha2xmad,domain,v6-nq.global.ssl.fastly.net,
 15:38:34,muha2xmad,url,https://api.telegram.org/bot8804559396:aaebtnnqlsgaq8km0ipeduajakwprvusvws/sendmessage,
 15:38:34,muha2xmad,url,https://v6-nq.global.ssl.fastly.net/pep1/30/veri.html?e=temo@microsoft.com,
@@ -10713,8 +10663,6 @@
 17:01:36,phishunt_io,domain,icloudxtzsopoe.click,
 17:01:36,phishunt_io,ip,217.60.103.74,
 17:01:36,phishunt_io,url,http://icloudxtzsopoe.click/isignesp.php,
-17:13:32,tkemmerling,domain,goodsecomfinder.com,
-17:13:32,tkemmerling,url,http://goodsecomfinder.com,
 17:14:33,phishstats,domain,webtycoons.co.in,
 17:14:33,phishstats,ip,111.118.212.38,
 17:14:33,phishstats,url,https://webtycoons.co.in/next/aruba071126/web/authen.php,
@@ -10729,12 +10677,8 @@
 17:35:50,coolcarlos17,url,https://userieza.com/products/escada-telescopica,
 17:38:16,tkemmerling,domain,dailyhealthylines.com,
 17:38:16,tkemmerling,url,http://dailyhealthylines.com,
-17:49:06,tkemmerling,domain,truenorthworks.fun,
-17:49:06,tkemmerling,url,http://truenorthworks.fun,
 18:20:04,coolcarlos17,domain,loja1-havan.com,
 18:20:04,coolcarlos17,url,https://loja1-havan.com/produto/32812,
-18:21:35,tkemmerling,domain,financeoakmont.com,
-18:21:35,tkemmerling,url,http://financeoakmont.com,
 18:25:18,coolcarlos17,domain,magablack.com,
 18:25:18,coolcarlos17,url,https://magablack.com/produto.php?slug=escada-articulada-16-degraus-aluminio-botafogo-altura,
 18:41:05,skocherhan,domain,promptkernelrun.com,
@@ -10793,26 +10737,27 @@
 20:16:46,todd_cadwell56,domain,cristalpoker.site,
 20:16:46,todd_cadwell56,url,http://cristalpoker.site,
 20:29:23,skocherhan,md5,1af419dc138c624b20069d63712e56a4,,https://x.com/skocherhan/status/2101408331063521740
+20:31:59,phishstats,domain,appleidmapa.com,
+20:31:59,phishstats,ip,217.60.103.74,
+20:31:59,phishstats,url,https://appleidmapa.com/isignesp.php,
 20:39:55,skocherhan,md5,dc813075da61d2a26872c8bf932062b3,,https://x.com/skocherhan/status/2101410983684047185
 20:46:10,skocherhan,domain,onemainfinancial-report.com,,https://x.com/skocherhan/status/2101050167726129334
 20:46:10,skocherhan,url,http://onemainfinancial-report.com,,https://x.com/skocherhan/status/2101050167726129334
 20:54:00,ex_raritas,domain,soundcloudapp.com,
 20:54:00,ex_raritas,url,http://soundcloudapp.com,
-21:18:20,ransomonitor,domain,cock.li,
-21:18:20,ransomonitor,domain,morke.org,
-21:18:20,ransomonitor,url,http://cock.li,
-21:18:20,ransomonitor,url,http://morke.org,
 21:25:49,skocherhan,md5,64323fe47e3d4b3fab63fcc5e95ff596,,https://x.com/skocherhan/status/2099972983427076156
+21:31:19,oroshi0064,domain,babipoom-ertaxjpzu.com,
+21:31:19,oroshi0064,domain,futurerock-ertaxjpzu.com,
+21:31:19,oroshi0064,domain,martiala-ertaxjpzu.com,
+21:31:19,oroshi0064,url,https://babipoom-ertaxjpzu.com,
+21:31:19,oroshi0064,url,https://futurerock-ertaxjpzu.com,
+21:31:19,oroshi0064,url,https://martiala-ertaxjpzu.com,
 21:49:23,skocherhan,domain,zledu-sx.oss-cn-beijing.aliyuncs.com,,https://x.com/skocherhan/status/2099978912121938297
 21:49:23,skocherhan,md5,2a1a97e6d958e0518dd8b4c05d988ddb,,https://x.com/skocherhan/status/2099978912121938297
 21:49:23,skocherhan,url,http://zledu-sx.oss-cn-beijing.aliyuncs.com,,https://x.com/skocherhan/status/2099978912121938297
 21:50:47,skocherhan,md5,ba331092a9bb6d8f60b9c26441a17b28,,https://x.com/skocherhan/status/2100341655211491551
 22:00:04,tkemmerling,domain,pineayra.com,
 22:00:04,tkemmerling,url,http://pineayra.com,
-22:02:59,etugenio,ip,23.159.248.93,
-22:02:59,etugenio,url,http://23.159.248.93,
-22:36:36,phishstats,domain,myid-telstra.flutterflow.app,
-22:36:36,phishstats,url,https://myid-telstra.flutterflow.app,
 22:42:27,skocherhan,md5,5d91609062fd39d477103958146fda3e,,https://x.com/skocherhan/status/2099992268547453222
 22:43:12,scanmalware,domain,berquni-mpt-zavfelo-r4x8ka65.pages.dev,
 22:43:12,scanmalware,url,http://berquni-mpt-zavfelo-r4x8ka65.pages.dev,
@@ -10866,8 +10811,18 @@
 23:00:24,coolcarlos17,url,http://magablack.com,
 23:04:31,tkemmerling,domain,myloisle.com,
 23:04:31,tkemmerling,url,http://myloisle.com,
+23:15:04,masaomi346,domain,barabax.com,
+23:15:04,masaomi346,domain,carsonhow-ertaxjpzu.com,
+23:15:04,masaomi346,domain,etax.mampnagf.co.uk,
+23:15:04,masaomi346,domain,fengniaop-ertaxjpzu.com,
+23:15:04,masaomi346,url,https://barabax.com,
+23:15:04,masaomi346,url,https://carsonhow-ertaxjpzu.com,
+23:15:04,masaomi346,url,https://etax.mampnagf.co.uk,
+23:15:04,masaomi346,url,https://fengniaop-ertaxjpzu.com,
 23:33:32,masaomi346,domain,externalbsnle-smbice.com,
 23:33:32,masaomi346,url,https://externalbsnle-smbice.com,
+23:35:02,masaomi346,domain,se.kuashouban.com,
+23:35:02,masaomi346,url,https://se.kuashouban.com,
 2baserec2.guru
 33across.com
 4-dot-all-tracker.appspot.com
