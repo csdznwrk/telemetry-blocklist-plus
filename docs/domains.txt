@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-09-22 10:37 UTC
-# Domains: 13601
+# Updated: 2026-09-22 15:59 UTC
+# Domains: 13639
 
 -084-gls-223-www-9-k-0brasil.net.daraz.com
 -access-logs-1.net.daraz.com
@@ -10183,6 +10183,7 @@
 05:29:41,masaomi346,url,https://accoun.iwsgsas.cn/09ayzojtgr,
 05:51:42,skocherhan,domain,usclimatologist.com,
 05:51:42,skocherhan,url,http://usclimatologist.com,
+05:54:30,suyog41,md5,11f757550de8b2ba07ef20ce7e00d8ff,,https://x.com/suyog41/status/2102275324331577737
 06:10:02,scanmalware,domain,hkgnclub.com,
 06:10:02,scanmalware,url,http://hkgnclub.com,
 06:16:32,masaomi346,domain,aniv.czklwfl.cn,
@@ -10458,6 +10459,8 @@
 10:09:45,phishstats,url,https://vodafoneelevation.de/info/,
 10:11:42,tkemmerling,domain,ebikein.s3.us-east-1.amazonaws.com,
 10:11:42,tkemmerling,url,http://ebikein.s3.us-east-1.amazonaws.com,
+10:12:17,tkemmerling,domain,securedeliverfast.com,
+10:12:17,tkemmerling,url,http://securedeliverfast.com,
 10:31:50,phishstats,ip,69.175.101.194,
 10:31:50,phishstats,url,https://siastrategy.com/docusign-updating/windows/utility.php,
 10:33:33,phishstats,ip,79.98.28.8,
@@ -10465,19 +10468,30 @@
 10:36:00,suyog41,md5,cfaa9eead8f27ecc01803a5eb9fc463c,,https://x.com/suyog41/status/2100896616832000092
 10:38:04,opcodeintel,domain,n0n.to,
 10:38:04,opcodeintel,url,http://n0n.to,
+10:40:35,fact_finder03,ip,159.195.79.60,
 10:40:51,ethanaleja5m3,domain,dsjex.net,
 10:40:51,ethanaleja5m3,url,http://dsjex.net,
 10:41:17,ethanaleja5m3,domain,m.comex3.online,
 10:41:17,ethanaleja5m3,url,http://m.comex3.online,
+10:44:21,tkemmerling,domain,greenerpasturetrading.info,
+10:44:21,tkemmerling,domain,moabrivers.com,
+10:44:21,tkemmerling,url,http://greenerpasturetrading.info,
+10:44:21,tkemmerling,url,http://moabrivers.com,
 10:44:33,ethanaleja5m3,domain,phtmviso.com,
 10:44:33,ethanaleja5m3,url,http://phtmviso.com,
 10:54:20,fact_finder03,domain,5oyninql4mekvjepei7yc3jnakfxi5bt5yky53cgqqrfwvfj4yvlpdad.onion,
 10:54:20,fact_finder03,ip,87.106.6.79,
 10:54:20,fact_finder03,url,http://5oyninql4mekvjepei7yc3jnakfxi5bt5yky53cgqqrfwvfj4yvlpdad.onion,
 10:55:42,suyog41,md5,08893a34162293cf77c045ff030e4748,,https://x.com/suyog41/status/2100901574088282392
+10:56:23,sdcyberresearch,domain,krestmoais-reed.life,
+10:56:23,sdcyberresearch,url,http://45.150.33.128,
+10:56:23,sdcyberresearch,url,http://krestmoais-reed.life,
 11:05:35,fact_finder03,ip,177.3.208.49,
 11:11:56,tkemmerling,domain,researchcentral.info,
 11:11:56,tkemmerling,url,http://researchcentral.info,
+11:17:18,tkemmerling,domain,healthcare.com,
+11:17:18,tkemmerling,url,http://healthcare.com,
+11:18:00,fact_finder03,ip,185.53.179.200,
 11:29:01,nextronresearch,domain,api.npoint.io,,https://x.com/nextronresearch/status/2100185180220629166
 11:29:01,nextronresearch,ip,103.170.217.184,,https://x.com/nextronresearch/status/2100185180220629166
 11:29:01,nextronresearch,url,http://103.170.217.184:8787,,https://x.com/nextronresearch/status/2100185180220629166
@@ -10488,6 +10502,10 @@
 11:29:01,nextronresearch,url,http://api.npoint.io/ddae72efbb6714fae922,,https://x.com/nextronresearch/status/2100185180220629166
 11:31:24,c9lab_soc,domain,joyalukkas-karama.store,
 11:31:24,c9lab_soc,url,http://www.joyalukkas-karama.store,
+11:50:26,tkemmerling,domain,harborstonegroup.shop,
+11:50:26,tkemmerling,domain,mortgageclearbrook.info,
+11:50:26,tkemmerling,url,http://harborstonegroup.shop,
+11:50:26,tkemmerling,url,http://mortgageclearbrook.info,
 11:55:55,byrne_emmy12099,domain,uoyleep.yzz.me,
 11:55:55,byrne_emmy12099,url,https://uoyleep.yzz.me,
 12:00:03,fact_finder03,ip,167.71.213.136,
@@ -10513,6 +10531,8 @@
 12:07:00,fact_finder03,ip,51.79.128.217,
 12:09:49,byrne_emmy12099,domain,files.offshore.cx,
 12:09:49,byrne_emmy12099,url,https://files.offshore.cx/api/file/28d15eb2-e9da-490b-8255-7df3ec683419,
+12:10:06,coolcarlos17,domain,google-havan.com,
+12:10:06,coolcarlos17,url,http://google-havan.com,
 12:11:11,tkemmerling,domain,mmchart.s3.us-east-1.amazonaws.com,
 12:11:11,tkemmerling,url,http://mmchart.s3.us-east-1.amazonaws.com,
 12:13:22,masaomi346,domain,misty-arc-rook-sleoor.com,
@@ -10520,17 +10540,26 @@
 12:18:10,mugu_reporter,domain,robotichosting.com,
 12:18:10,mugu_reporter,ip,198.251.81.14,
 12:18:10,mugu_reporter,url,http://robotichosting.com,
+12:22:59,tkemmerling,domain,portfoliomoneyline.com,
+12:22:59,tkemmerling,domain,truenorthworks.fun,
+12:22:59,tkemmerling,url,http://portfoliomoneyline.com,
+12:22:59,tkemmerling,url,http://truenorthworks.fun,
+12:25:03,coolcarlos17,domain,ludaluvemserfeliz.com,
+12:25:03,coolcarlos17,url,https://ludaluvemserfeliz.com/produto.php?slug=escada-multifuncional-de-alum-nio-4x4-com-16-degraus,
 12:31:57,masaomi346,domain,gonfuirkgroao.life,
 12:31:57,masaomi346,url,http://gonfuirkgroao.life,
 12:36:52,masaomi346,domain,oricvn.zmbc3c.info,
 12:36:52,masaomi346,url,https://oricvn.zmbc3c.info/iricyygen/,
 12:41:38,suyog41,md5,7d31da1f0b4edcacd1d466b5bf95ade3,,https://x.com/suyog41/status/2100203457885974813
+12:55:24,tkemmerling,domain,equitybrookstone.info,
+12:55:24,tkemmerling,url,http://equitybrookstone.info,
 12d60.appspot.com
 12d60.firebaseio.com
 13-5.org
 13-5.ru
 13:00:03,scanmalware,domain,trust-wallet-bnb.vercel.app,
 13:00:03,scanmalware,url,http://www.trust-wallet-bnb.vercel.app,
+13:04:50,suyog41,md5,7bb31c069c828109c99495bd91a36a69,,https://x.com/suyog41/status/2102383622598922267
 13:11:10,byrne_emmy12099,domain,afc-security-report.duckdns.org,
 13:11:10,byrne_emmy12099,url,http://afc-security-report.duckdns.org,
 13:11:55,tkemmerling,domain,re.myloisle.com,
@@ -10539,6 +10568,12 @@
 13:13:17,opcodeintel,url,http://net121.site,
 13:27:10,gesturepul_,domain,bitcoinset.com,
 13:27:10,gesturepul_,url,http://bitcoinset.com,
+13:27:58,tkemmerling,domain,follwtrk.com,
+13:27:58,tkemmerling,domain,grabtrendingoffer.com,
+13:27:58,tkemmerling,domain,yournestmakeover.com,
+13:27:58,tkemmerling,url,http://follwtrk.com,
+13:27:58,tkemmerling,url,http://grabtrendingoffer.com,
+13:27:58,tkemmerling,url,http://yournestmakeover.com,
 14:08:13,muha2xmad,domain,mail.ananworks.com,
 14:08:13,muha2xmad,url,https://mail.ananworks.com/wp-content/plugins/elementor/includes/tee6/time.php,
 14:08:13,muha2xmad,url,https://storage.googleapis.com/narpotelsgh332bsp/765100084431/3003125112/tee6/index.html
@@ -10548,6 +10583,7 @@
 14:17:34,james_inthe_box,domain,periods-genetic-stones-government.trycloudflare.com,
 14:17:34,james_inthe_box,url,https://interactions-according-reports-syndication.trycloudflare.com,
 14:17:34,james_inthe_box,url,https://periods-genetic-stones-government.trycloudflare.com,
+14:19:56,akaclandestine,ip,87.106.5.5,
 14:30:09,fbgwls245,domain,nongzecboljwv3yfndkggsybsglfrkffw7bvk2zemuteoxe6etpusnad.onion,
 14:30:09,fbgwls245,url,http://nongzecboljwv3yfndkggsybsglfrkffw7bvk2zemuteoxe6etpusnad.onion,
 14:31:27,skocherhan,md5,15ee29ea4f475fb13fba61e185e4fac5,,https://x.com/skocherhan/status/2101318257311383698
@@ -10574,6 +10610,8 @@
 15:27:18,skocherhan,url,http://chocolate65.beer,
 15:32:34,skocherhan,domain,steamupdate.ydns.eu,,https://x.com/skocherhan/status/2101696026377613675
 15:32:34,skocherhan,url,http://steamupdate.ydns.eu,,https://x.com/skocherhan/status/2101696026377613675
+15:33:21,slvlombardo,domain,first-global.in,
+15:33:21,slvlombardo,url,https://first-global.in/lkcmccd/f00g2ffr/d000s2/n0g2ff/,
 15:38:34,muha2xmad,domain,v6-nq.global.ssl.fastly.net,
 15:38:34,muha2xmad,url,https://api.telegram.org/bot8804559396:aaebtnnqlsgaq8km0ipeduajakwprvusvws/sendmessage,
 15:38:34,muha2xmad,url,https://v6-nq.global.ssl.fastly.net/pep1/30/veri.html?e=temo@microsoft.com,
