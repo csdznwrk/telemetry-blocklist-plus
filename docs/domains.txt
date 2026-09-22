@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-09-22 15:59 UTC
-# Domains: 13639
+# Updated: 2026-09-22 20:40 UTC
+# Domains: 13665
 
 -084-gls-223-www-9-k-0brasil.net.daraz.com
 -access-logs-1.net.daraz.com
@@ -9708,8 +9708,6 @@
 03:29:51,masaomi346,url,https://bc1963.com,
 03:36:26,masaomi346,domain,cdfloq.cfd,
 03:36:26,masaomi346,url,https://cdfloq.cfd/netbk/
-03:39:27,todd_cadwell56,domain,bitcoinset.com,
-03:39:27,todd_cadwell56,url,http://bitcoinset.com,
 03:41:33,patialavii,domain,dhofareng.com,
 03:41:33,patialavii,url,https://dhofareng.com/docusign/,
 03:56:12,tkemmerling,domain,financeoakmont.com,
@@ -10566,8 +10564,6 @@
 13:11:55,tkemmerling,url,http://re.myloisle.com,
 13:13:17,opcodeintel,domain,net121.site,
 13:13:17,opcodeintel,url,http://net121.site,
-13:27:10,gesturepul_,domain,bitcoinset.com,
-13:27:10,gesturepul_,url,http://bitcoinset.com,
 13:27:58,tkemmerling,domain,follwtrk.com,
 13:27:58,tkemmerling,domain,grabtrendingoffer.com,
 13:27:58,tkemmerling,domain,yournestmakeover.com,
@@ -10619,8 +10615,9 @@
 15:42:08,tkemmerling,url,http://bluesummithq.blog,
 15:44:40,tkemmerling,domain,ra.myvegaly.com,
 15:44:40,tkemmerling,url,http://ra.myvegaly.com,
-15:51:36,eternos974,domain,eternos974.live,
-15:51:36,eternos974,url,https://eternos974.live/index.php/2026/09/21/arnaque-par-remboursement-ciblant-les-vacanciers-via-des-hotels-pirates/,
+15:48:40,rakeshkrish12,ip,176.97.114.92,
+15:48:40,rakeshkrish12,url,http://176.97.114.92:9080,
+15:48:40,rakeshkrish12,url,https://176.97.114.92:9443,
 16:04:29,mugu_reporter,domain,get-verification.to,
 16:04:29,mugu_reporter,url,http://get-verification.to,
 16:06:46,tkemmerling,domain,re.pineayra.com,
@@ -10674,6 +10671,11 @@
 17:20:29,tkemmerling,url,http://stylishhomegallery.com,
 17:22:49,coolcarlos17,domain,magaz-ine-lu-iza.com,
 17:22:49,coolcarlos17,url,http://magaz-ine-lu-iza.com,
+17:26:59,muha2xmad,domain,get-verification.to,
+17:26:59,muha2xmad,domain,imacos.cc,
+17:26:59,muha2xmad,ip,94.103.1.233,
+17:26:59,muha2xmad,url,https://get-verification.to,
+17:26:59,muha2xmad,url,https://imacos.cc/captcha/faa4bf0505d1a824,
 17:32:35,phishstats,domain,kolaybet.guncelgirisadresleri.icu,
 17:32:35,phishstats,url,https://kolaybet.guncelgirisadresleri.icu,
 17:35:50,coolcarlos17,domain,userieza.com,
@@ -10691,10 +10693,35 @@
 18:35:53,coolcarlos17,url,http://showdepromos.com,
 18:41:05,skocherhan,domain,promptkernelrun.com,
 18:41:05,skocherhan,url,http://promptkernelrun.com,
+19:03:30,coolcarlos17,domain,site-google-havan.com,
+19:03:30,coolcarlos17,url,https://site-google-havan.com/produto/32812,
 19:03:31,_akatsukilegion,ip,188.63.231.182,
 19:03:31,_akatsukilegion,url,http://188.63.231.182,
 19:13:52,breachhistorybh,domain,expresspros.com,
 19:13:52,breachhistorybh,url,http://expresspros.com,
+19:27:18,500mk500,ip,159.100.20.154,,https://x.com/500mk500/status/2102479874485366794
+19:27:18,500mk500,ip,185.208.158.40,,https://x.com/500mk500/status/2102479874485366794
+19:27:18,500mk500,ip,185.233.166.109,,https://x.com/500mk500/status/2102479874485366794
+19:27:18,500mk500,ip,198.13.158.114,,https://x.com/500mk500/status/2102479874485366794
+19:27:18,500mk500,ip,209.99.184.230,,https://x.com/500mk500/status/2102479874485366794
+19:27:18,500mk500,ip,209.99.191.44,,https://x.com/500mk500/status/2102479874485366794
+19:27:18,500mk500,ip,38.146.25.248,,https://x.com/500mk500/status/2102479874485366794
+19:27:18,500mk500,ip,64.94.85.209,,https://x.com/500mk500/status/2102479874485366794
+19:27:18,500mk500,ip,84.201.20.103,,https://x.com/500mk500/status/2102479874485366794
+19:27:18,500mk500,ip,86.54.42.14,,https://x.com/500mk500/status/2102479874485366794
+19:27:18,500mk500,url,http://159.100.20.154:5000,,https://x.com/500mk500/status/2102479874485366794
+19:27:18,500mk500,url,http://185.208.158.40:5000,,https://x.com/500mk500/status/2102479874485366794
+19:27:18,500mk500,url,http://185.233.166.109:5000,,https://x.com/500mk500/status/2102479874485366794
+19:27:18,500mk500,url,http://198.13.158.114:5000,,https://x.com/500mk500/status/2102479874485366794
+19:27:18,500mk500,url,http://209.99.184.230:5000,,https://x.com/500mk500/status/2102479874485366794
+19:27:18,500mk500,url,http://209.99.191.44,,https://x.com/500mk500/status/2102479874485366794
+19:27:18,500mk500,url,http://209.99.191.44:5000,,https://x.com/500mk500/status/2102479874485366794
+19:27:18,500mk500,url,http://38.146.25.248:5000,,https://x.com/500mk500/status/2102479874485366794
+19:27:18,500mk500,url,http://64.94.85.209:5000,,https://x.com/500mk500/status/2102479874485366794
+19:27:18,500mk500,url,http://84.201.20.103:5000,,https://x.com/500mk500/status/2102479874485366794
+19:27:18,500mk500,url,http://86.54.42.14:5000,,https://x.com/500mk500/status/2102479874485366794
+19:27:18,_akatsukilegion,domain,auth-msftpage.com,,https://x.com/_akatsukilegion/status/2102182327572963650
+19:27:18,_akatsukilegion,url,http://auth-msftpage.com,,https://x.com/_akatsukilegion/status/2102182327572963650
 19:28:44,0xb1lal,ip,216.126.236.22,
 19:28:44,0xb1lal,ip,38.110.228.33,
 19:28:44,0xb1lal,ip,8.138.137.232,
@@ -10740,10 +10767,9 @@
 19:54:02,skocherhan,url,http://polanddec.duckdns.org,,https://x.com/skocherhan/status/2100312272778244396
 1ca43.appspot.com
 1topspy.com
+20:08:06,phishstats,ip,165.140.71.100,
 20:09:40,skocherhan,domain,yscf988.club,
 20:09:40,skocherhan,url,http://yscf988.club,
-20:16:46,todd_cadwell56,domain,cristalpoker.site,
-20:16:46,todd_cadwell56,url,http://cristalpoker.site,
 20:29:23,skocherhan,md5,1af419dc138c624b20069d63712e56a4,,https://x.com/skocherhan/status/2101408331063521740
 20:31:59,phishstats,domain,appleidmapa.com,
 20:31:59,phishstats,ip,217.60.103.74,
