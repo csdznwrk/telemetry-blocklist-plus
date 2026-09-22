@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-09-22 02:33 UTC
-# Domains: 13569
+# Updated: 2026-09-22 10:37 UTC
+# Domains: 13601
 
 -084-gls-223-www-9-k-0brasil.net.daraz.com
 -access-logs-1.net.daraz.com
@@ -9704,6 +9704,8 @@
 03:10:02,scanmalware,url,http://sp11ct-fardok-biz8-molvik-keslor.pages.dev,
 03:21:02,tkemmerling,domain,havokindle.com,
 03:21:02,tkemmerling,url,http://havokindle.com,
+03:29:51,masaomi346,domain,bc1963.com,
+03:29:51,masaomi346,url,https://bc1963.com,
 03:36:26,masaomi346,domain,cdfloq.cfd,
 03:36:26,masaomi346,url,https://cdfloq.cfd/netbk/
 03:39:27,todd_cadwell56,domain,bitcoinset.com,
@@ -10107,10 +10109,17 @@
 04:00:55,patialavii,domain,zzoom.pages.dev,
 04:00:55,patialavii,url,https://docsend.com/v/g44y3/uszoom3invite,
 04:00:55,patialavii,url,https://zzoom.pages.dev,
+04:02:35,patialavii,domain,keepgreentb.com,
+04:02:35,patialavii,url,https://keepgreentb.com/doc/,
+04:02:35,patialavii,url,https://keepgreentb.com/doc/screenconnect.clientsetup.exe,
 04:05:38,patialavii,domain,zoomeventlive.com,
 04:05:38,patialavii,url,https://zoomeventlive.com,
 04:06:35,patialavii,domain,geotehnica.com,
 04:06:35,patialavii,url,https://www.geotehnica.com/docusignreader/,
+04:08:09,patialavii,domain,taslimaenterprise.com,
+04:08:09,patialavii,domain,taslimaenterprise.screenconnect.com,
+04:08:09,patialavii,url,https://taslimaenterprise.com/adobe/,
+04:08:09,patialavii,url,https://taslimaenterprise.screenconnect.com/bin/screenconnect.clientsetup.msi,
 04:12:24,patialavii,domain,invitezoommeeting.xyz,
 04:12:24,patialavii,url,https://invitezoommeeting.xyz/win23/,
 04:12:50,patialavii,domain,miicrosofteamm.com,
@@ -10166,6 +10175,10 @@
 05:14:29,byrne_emmy12099,domain,files.surveillance-online.com,
 05:14:29,byrne_emmy12099,url,https://files.surveillance-online.com,
 05:14:29,byrne_emmy12099,url,https://www.dropbox.com/scl/fi/eiy657ap3ncis7liuklvj/.html?rlkey=3epkpzh4t1y8zapwf87xfcn1x&st=hxqht8jp,
+05:14:45,patialavii,domain,scr33nc0nn3ctz00m.com,
+05:14:45,patialavii,domain,zoom.frash.org,
+05:14:45,patialavii,url,http://scr33nc0nn3ctz00m.com:8041,
+05:14:45,patialavii,url,http://zoom.frash.org,
 05:29:41,masaomi346,domain,accoun.iwsgsas.cn,
 05:29:41,masaomi346,url,https://accoun.iwsgsas.cn/09ayzojtgr,
 05:51:42,skocherhan,domain,usclimatologist.com,
@@ -10175,6 +10188,7 @@
 06:16:32,masaomi346,domain,aniv.czklwfl.cn,
 06:16:32,masaomi346,url,https://aniv.czklwfl.cn/t10ijauryj,
 06:24:48,suyog41,md5,42630ea995230f738f2993b92b20c546,,https://x.com/suyog41/status/2100108622495707481
+06:33:22,fact_finder03,ip,108.160.133.24,
 06:33:55,phishstats,domain,hero111.online,
 06:33:55,phishstats,ip,201.7.16.43,
 06:33:55,phishstats,url,https://hero111.online/g/aru6q/web/authen.php,
@@ -10189,6 +10203,8 @@
 06:57:13,metemcyber,ip,47.245.4.14,
 06:57:13,metemcyber,url,http://47.245.4.14,
 06:57:13,metemcyber,url,https://rrbzy.jntqty.com,
+07:01:15,phishunt_io,domain,eu-assets.contentstack.com,
+07:01:15,phishunt_io,url,http://eu-assets.contentstack.com/v3/assets/blt006917f377bafe00/blt00551acf2896d62b/6aadb627e407560bc3b47223/wet,
 07:01:24,phishunt_io,domain,robloxc.com.es,
 07:01:24,phishunt_io,url,http://robloxc.com.es/login?returlurl=1445876836,
 07:01:25,phishunt_io,domain,htttps-www-roblox.co,
@@ -10229,6 +10245,12 @@
 07:33:32,masaomi346,url,https://lovelyday-app.com,
 07:34:00,fact_finder03,ip,205.209.125.247,
 07:35:50,suyog41,md5,50eb3d47e565d0e7fcd861032e806de5,,https://x.com/suyog41/status/2101938438630945064
+07:40:06,phishstats,domain,allegro.12300h945b4vnj.best,
+07:40:06,phishstats,url,http://allegro.12300h945b4vnj.best,
+07:50:54,tkemmerling,domain,hometransformideas.com,
+07:50:54,tkemmerling,domain,shop.buyexclusivecart.com,
+07:50:54,tkemmerling,url,http://hometransformideas.com,
+07:50:54,tkemmerling,url,http://shop.buyexclusivecart.com,
 07:53:00,fact_finder03,ip,82.26.91.80,
 08:03:00,fact_finder03,ip,198.46.188.133,
 08:03:21,tkemmerling,domain,sb.mivoefocus.com,
@@ -10244,6 +10266,10 @@
 08:25:59,tkemmerling,domain,norahadraivnig.com,
 08:25:59,tkemmerling,url,http://norahadraivnig.com,
 08:33:00,fact_finder03,ip,209.99.186.221,
+08:34:07,tkemmerling,domain,financeoakmont.com,
+08:34:07,tkemmerling,domain,prosperitymarketwatch.info,
+08:34:07,tkemmerling,url,http://financeoakmont.com,
+08:34:07,tkemmerling,url,http://prosperitymarketwatch.info,
 08:34:23,skocherhan,domain,phantomc2.cc,,https://x.com/skocherhan/status/2100866009624187355
 08:34:23,skocherhan,url,http://phantomc2.cc,,https://x.com/skocherhan/status/2100866009624187355
 08:40:02,scanmalware,domain,sp12ct-zavmor-biz-pransik-holdek.pages.dev,
@@ -10404,6 +10430,8 @@
 08:56:12,tdatwja,url,http://123.pdf1.zip,,https://x.com/tdatwja/status/2100146724035875034
 08:59:35,suyog41,md5,97b7b06fc46806775d2ba0f97985269b,,https://x.com/suyog41/status/2101959514333327375
 09:02:00,fact_finder03,ip,191.223.218.5,
+09:07:07,tkemmerling,domain,altiora.fun,
+09:07:07,tkemmerling,url,http://altiora.fun,
 09:10:21,tkemmerling,domain,financeoakmont.com,
 09:10:21,tkemmerling,url,http://financeoakmont.com,
 09:11:07,ransomonitor,domain,pnzr4delgur5dlhtqcy7qqm6m7dkivxwh742enezpks5kswfpx7qrsid.onion,
@@ -10412,6 +10440,10 @@
 09:11:30,scanmalware,url,http://5958heh59585958.theloopblog.com,
 09:16:22,fact_finder03,ip,89.167.72.221,
 09:31:00,fact_finder03,ip,158.247.255.167,
+09:39:26,tkemmerling,domain,buyernestle.info,
+09:39:26,tkemmerling,domain,stylishhomegallery.com,
+09:39:26,tkemmerling,url,http://buyernestle.info,
+09:39:26,tkemmerling,url,http://stylishhomegallery.com,
 09:53:27,fact_finder03,ip,31.56.176.4,
 10:00:00,phatomcandle,domain,requires1.dynuddns.net,
 10:00:00,phatomcandle,ip,101.36.114.215,
