@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-09-23 10:30 UTC
-# Domains: 13441
+# Updated: 2026-09-23 15:49 UTC
+# Domains: 13446
 
 -084-gls-223-www-9-k-0brasil.net.daraz.com
 -access-logs-1.net.daraz.com
@@ -10326,6 +10326,8 @@
 10:40:51,ethanaleja5m3,url,http://dsjex.net,
 10:41:17,ethanaleja5m3,domain,m.comex3.online,
 10:41:17,ethanaleja5m3,url,http://m.comex3.online,
+10:42:14,phishstats,domain,allegrolokalnie.oferta65487.click,
+10:42:14,phishstats,url,http://allegrolokalnie.oferta65487.click/oferta/brak-nazwy,
 10:44:21,tkemmerling,domain,greenerpasturetrading.info,
 10:44:21,tkemmerling,domain,moabrivers.com,
 10:44:21,tkemmerling,url,http://greenerpasturetrading.info,
@@ -10406,6 +10408,9 @@
 13:11:55,tkemmerling,url,http://re.myloisle.com,
 13:13:17,opcodeintel,domain,net121.site,
 13:13:17,opcodeintel,url,http://net121.site,
+13:22:54,suyog41,md5,1dc0f32bf189fecc040be8e85ca9a3d3,,https://x.com/suyog41/status/2102750558268301739
+13:26:41,masaomi346,domain,ashen-trace-zephyr-draeix.life,
+13:26:41,masaomi346,url,http://ashen-trace-zephyr-draeix.life,
 13:27:58,tkemmerling,domain,follwtrk.com,
 13:27:58,tkemmerling,domain,grabtrendingoffer.com,
 13:27:58,tkemmerling,domain,yournestmakeover.com,
