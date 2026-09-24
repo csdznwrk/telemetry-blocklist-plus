@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-09-24 16:11 UTC
-# Domains: 13616
+# Updated: 2026-09-24 20:57 UTC
+# Domains: 13645
 
 -084-gls-223-www-9-k-0brasil.net.daraz.com
 -access-logs-1.net.daraz.com
@@ -10595,6 +10595,8 @@
 13:11:55,tkemmerling,url,http://re.myloisle.com,
 13:13:17,opcodeintel,domain,net121.site,
 13:13:17,opcodeintel,url,http://net121.site,
+13:22:37,malwrhunterteam,domain,data-service.online,,https://x.com/malwrhunterteam/status/2103112873308455162
+13:22:37,malwrhunterteam,url,http://data-service.online,,https://x.com/malwrhunterteam/status/2103112873308455162
 13:22:54,suyog41,md5,1dc0f32bf189fecc040be8e85ca9a3d3,,https://x.com/suyog41/status/2102750558268301739
 13:26:41,masaomi346,domain,ashen-trace-zephyr-draeix.life,
 13:26:41,masaomi346,url,http://ashen-trace-zephyr-draeix.life,
@@ -10651,14 +10653,21 @@
 15:48:40,rakeshkrish12,ip,176.97.114.92,
 15:48:40,rakeshkrish12,url,http://176.97.114.92:9080,
 15:48:40,rakeshkrish12,url,https://176.97.114.92:9443,
+15:54:07,tkemmerling,domain,products.trafobaule.com,
+15:54:07,tkemmerling,url,http://products.trafobaule.com,
 16:04:29,mugu_reporter,domain,get-verification.to,
 16:04:29,mugu_reporter,url,http://get-verification.to,
+16:07:54,james_inthe_box,domain,interactions-according-reports-syndication.trycloudflare.com,
+16:07:54,james_inthe_box,domain,periods-genetic-stones-government.trycloudflare.com,
+16:07:54,james_inthe_box,url,https://interactions-according-reports-syndication.trycloudflare.com,
+16:07:54,james_inthe_box,url,https://periods-genetic-stones-government.trycloudflare.com,
 16:14:49,tkemmerling,domain,mapletrailmedia.store,
 16:14:49,tkemmerling,url,http://mapletrailmedia.store,
 16:20:42,skocherhan,domain,1902-cf.com,
 16:20:42,skocherhan,domain,basednewsarticle.com,
 16:20:42,skocherhan,url,http://1902-cf.com,
 16:20:42,skocherhan,url,http://basednewsarticle.com,
+16:21:26,smica83,sha256,afcc9ef22dce6325cbb04fcc582018814025af6889e2bfc0278f28d176155c91,,https://x.com/smica83/status/2103157874377597339
 16:30:52,tkemmerling,domain,harborstonegroup.shop,
 16:30:52,tkemmerling,url,http://harborstonegroup.shop,
 16:54:04,phishstats,domain,am-prime-sonnerie.com,
@@ -10672,6 +10681,8 @@
 17:01:36,phishunt_io,ip,217.60.103.74,
 17:01:36,phishunt_io,url,http://icloudxtzsopoe.click/isignesp.php,
 17:02:18,geekontheloose,ip,5.7.1.34,
+17:06:14,phishstats,domain,dongwana.com,
+17:06:14,phishstats,url,https://www.dongwana.com/amex_tgmail202609/turnstile-check,
 17:20:29,tkemmerling,domain,stylishhomegallery.com,
 17:20:29,tkemmerling,url,http://stylishhomegallery.com,
 17:26:59,muha2xmad,domain,get-verification.to,
@@ -10679,8 +10690,19 @@
 17:26:59,muha2xmad,ip,94.103.1.233,
 17:26:59,muha2xmad,url,https://get-verification.to,
 17:26:59,muha2xmad,url,https://imacos.cc/captcha/faa4bf0505d1a824,
+17:40:16,it4int,url,http://third-party.com,
+17:55:11,tkemmerling,domain,preventhealthsupport.com,
+17:55:11,tkemmerling,domain,wellnesscarenutri.com,
+17:55:11,tkemmerling,url,http://preventhealthsupport.com,
+17:55:11,tkemmerling,url,http://wellnesscarenutri.com,
+17:57:34,malwrhunterteam,ip,103.180.163.204,,https://x.com/malwrhunterteam/status/2103182067240485358
+17:57:34,malwrhunterteam,url,http://103.180.163.204,,https://x.com/malwrhunterteam/status/2103182067240485358
 18:20:04,coolcarlos17,domain,loja1-havan.com,
 18:20:04,coolcarlos17,url,https://loja1-havan.com/produto/32812,
+18:24:58,tkemmerling,domain,altiora.fun,
+18:24:58,tkemmerling,domain,financerelaypoint.com,
+18:24:58,tkemmerling,url,http://altiora.fun,
+18:24:58,tkemmerling,url,http://financerelaypoint.com,
 18:25:18,coolcarlos17,domain,magablack.com,
 18:25:18,coolcarlos17,url,https://magablack.com/produto.php?slug=escada-articulada-16-degraus-aluminio-botafogo-altura,
 18:27:59,phishstats,domain,wuweizhe.com,
@@ -10690,6 +10712,12 @@
 18:35:53,coolcarlos17,url,http://showdepromos.com,
 18:41:05,skocherhan,domain,promptkernelrun.com,
 18:41:05,skocherhan,url,http://promptkernelrun.com,
+18:56:40,malwrhunterteam,domain,goodnfortunes.com,,https://x.com/malwrhunterteam/status/2103196939827433973
+18:56:40,malwrhunterteam,url,http://goodnfortunes.com,,https://x.com/malwrhunterteam/status/2103196939827433973
+18:59:36,tkemmerling,domain,activehealthzone.com,
+18:59:36,tkemmerling,domain,help.financesolutiontips.com,
+18:59:36,tkemmerling,url,http://activehealthzone.com,
+18:59:36,tkemmerling,url,http://help.financesolutiontips.com,
 19:03:30,coolcarlos17,domain,site-google-havan.com,
 19:03:30,coolcarlos17,url,https://site-google-havan.com/produto/32812,
 19:27:18,500mk500,ip,159.100.20.154,,https://x.com/500mk500/status/2102479874485366794
@@ -10717,6 +10745,7 @@
 19:27:18,_akatsukilegion,url,http://auth-msftpage.com,,https://x.com/_akatsukilegion/status/2102182327572963650
 1ca43.appspot.com
 1topspy.com
+20:05:12,smica83,sha256,c71e3a48ae93fba3a407d04430cf13234c843a10caa7b64081115c7b5aec89f4,,https://x.com/smica83/status/2103214186339934256
 20:08:06,phishstats,ip,165.140.71.100,
 20:29:23,skocherhan,md5,1af419dc138c624b20069d63712e56a4,,https://x.com/skocherhan/status/2101408331063521740
 20:31:59,phishstats,domain,appleidmapa.com,
