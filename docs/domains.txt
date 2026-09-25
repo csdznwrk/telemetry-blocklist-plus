@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-09-25 02:39 UTC
-# Domains: 13596
+# Updated: 2026-09-25 10:52 UTC
+# Domains: 13650
 
 -084-gls-223-www-9-k-0brasil.net.daraz.com
 -access-logs-1.net.daraz.com
@@ -8445,10 +8445,18 @@
 02:10:41,tkemmerling,url,http://casibom0862.com,
 02:12:02,scanmalware,domain,hyundaiservisiankara.com,
 02:12:02,scanmalware,url,http://www.hyundaiservisiankara.com,
+02:20:23,tkemmerling,domain,everyonesamentor.com,
+02:20:23,tkemmerling,domain,vermontsolidsurface.info,
+02:20:23,tkemmerling,url,http://everyonesamentor.com,
+02:20:23,tkemmerling,url,http://vermontsolidsurface.info,
 02:45:29,tkemmerling,domain,healthspringway.com,
 02:45:29,tkemmerling,domain,investcreditlane.com,
 02:45:29,tkemmerling,url,http://healthspringway.com,
 02:45:29,tkemmerling,url,http://investcreditlane.com,
+02:50:27,tkemmerling,domain,immersionhousing.com,
+02:50:27,tkemmerling,domain,missvalledeladrome.info,
+02:50:27,tkemmerling,url,http://immersionhousing.com,
+02:50:27,tkemmerling,url,http://missvalledeladrome.info,
 02a169af111011.beer
 02a1a1ec23b8564d37d2f451f1db9dad.info
 02a2e259fd91062a.com
@@ -10125,6 +10133,9 @@
 04:33:37,phishstats,url,https://therawcusclu-jp-etaxrefund.com,
 04:34:25,masaomi346,domain,daxueshengwz.com,
 04:34:25,masaomi346,url,https://daxueshengwz.com/0a0i4gfm
+04:36:49,phishstats,domain,help.financesolutiontips.com,
+04:36:49,phishstats,ip,88.223.87.162,
+04:36:49,phishstats,url,https://help.financesolutiontips.com,
 04:42:02,scanmalware,domain,security-server-landing-page--spencer-hunt1.replit.app,
 04:42:02,scanmalware,url,http://security-server-landing-page--spencer-hunt1.replit.app,
 04:46:00,masaomi346,domain,cnplacen-jprakutanziu.com,
@@ -10161,9 +10172,19 @@
 05:14:45,patialavii,domain,zoom.frash.org,
 05:14:45,patialavii,url,http://scr33nc0nn3ctz00m.com:8041,
 05:14:45,patialavii,url,http://zoom.frash.org,
+05:14:48,patialavii,domain,mauihost.qpon,
+05:14:48,patialavii,domain,optonline22.screenconnect.com,
+05:14:48,patialavii,url,https://mauihost.qpon/adobeinstaller.html,
+05:14:48,patialavii,url,https://optonline22.screenconnect.com/bin/screenconnect.clientsetup.msi,
 05:16:15,threatresq,domain,third-party.com,
 05:16:15,threatresq,url,http://third-party.com,
+05:20:42,patialavii,domain,pdfinstalls-2.vercel.app,
+05:20:42,patialavii,domain,pub-6c532f29d3c34c6a910620ee29dd906a.r2.dev,
+05:20:42,patialavii,url,https://pdfinstalls-2.vercel.app,
+05:20:42,patialavii,url,https://pub-6c532f29d3c34c6a910620ee29dd906a.r2.dev/install-t7pbrn6ycawj9p4p2licum.exe,
+05:27:48,fact_finder03,ip,87.58.154.153,
 05:32:47,fact_finder03,ip,195.20.239.207,
+05:51:00,fact_finder03,ip,5.181.158.54,
 05:51:42,skocherhan,domain,usclimatologist.com,
 05:51:42,skocherhan,url,http://usclimatologist.com,
 05:54:30,suyog41,md5,11f757550de8b2ba07ef20ce7e00d8ff,,https://x.com/suyog41/status/2102275324331577737
@@ -10173,6 +10194,7 @@
 06:14:01,suyog41,md5,86737266db2e71cfcccf7ba183b75bd4,,https://x.com/suyog41/status/2103005010766557573
 06:14:01,suyog41,url,http://lewokodwqko.icu,,https://x.com/suyog41/status/2103005010766557573
 06:30:00,fact_finder03,ip,120.25.213.232,
+06:30:00,fact_finder03,ip,176.125.242.162,
 06:33:22,fact_finder03,ip,108.160.133.24,
 06:33:55,phishstats,domain,hero111.online,
 06:33:55,phishstats,ip,201.7.16.43,
@@ -10201,6 +10223,8 @@
 06:52:04,etugenio,url,http://c2.linuxsupportsystem.com,
 06:52:04,etugenio,url,http://linuxsupportsystem.com,
 06:52:04,etugenio,url,http://svc.linuxsupportsystem.com,
+07:00:03,scanmalware,domain,authmail.edgeone.app,
+07:00:03,scanmalware,url,http://authmail.edgeone.app,
 07:01:15,phishunt_io,domain,eu-assets.contentstack.com,
 07:01:15,phishunt_io,domain,wellsfargogethelp.com,
 07:01:15,phishunt_io,ip,159.100.9.61,
@@ -10219,6 +10243,7 @@
 07:01:45,suyog41,url,http://files.surveillance-online.com/files/9e26792b-84a3-44c1-886a-d92c9f46e1ff,,https://x.com/suyog41/status/2103017026436362279
 07:02:24,ransomonitor,domain,endzonezgz3sqzmtqg4acp4z7ao7xc6vunfhezjsnfqrm2ksudsredyd.onion,
 07:02:24,ransomonitor,url,http://endzonezgz3sqzmtqg4acp4z7ao7xc6vunfhezjsnfqrm2ksudsredyd.onion,
+07:04:07,smica83,sha256,10111b02ef35a94c8e8c1d42cf7870f20a59aeed1ddcc94eb592dd59c97bec5d,,https://x.com/smica83/status/2103380009830224069
 07:06:38,tkemmerling,domain,oskatrace.com,
 07:06:38,tkemmerling,domain,revaotrace.com,
 07:06:38,tkemmerling,url,http://oskatrace.com,
@@ -10241,6 +10266,8 @@
 07:21:00,fact_finder03,sha256,cdb4ee2aea69cc6a83331bbe96dc2caa9a299d21329efb0336fc02a82e1839a8,,https://x.com/fact_finder03/status/2102659479959654618
 07:21:02,scanmalware,domain,urlshort-linkmu9uwm4tctbb.banksystem.workers.dev,
 07:21:02,scanmalware,url,http://urlshort-linkmu9uwm4tctbb.banksystem.workers.dev,
+07:21:46,malwrhunterteam,ip,178.16.53.67,,https://x.com/malwrhunterteam/status/2103384450927047026
+07:21:46,malwrhunterteam,url,http://178.16.53.67:8899/veilt/,,https://x.com/malwrhunterteam/status/2103384450927047026
 07:30:28,fact_finder03,ip,37.60.232.250,
 07:35:50,suyog41,md5,50eb3d47e565d0e7fcd861032e806de5,,https://x.com/suyog41/status/2101938438630945064
 07:40:06,phishstats,domain,allegro.12300h945b4vnj.best,
@@ -10254,6 +10281,8 @@
 07:56:00,fact_finder03,ip,209.99.186.221,
 07:58:42,ax_sharma,domain,third-party.com,
 07:58:42,ax_sharma,url,http://third-party.com,
+08:10:42,tlp_r3d,domain,ssosettings.com,,https://x.com/tlp_r3d/status/2103396765684965662
+08:10:42,tlp_r3d,url,http://ssosettings.com,,https://x.com/tlp_r3d/status/2103396765684965662
 08:11:33,curious_drac0,ip,74.204.158.81,
 08:11:33,curious_drac0,url,http://74.204.158.81,
 08:25:59,tkemmerling,domain,norahadraivnig.com,
@@ -10264,6 +10293,9 @@
 08:34:07,tkemmerling,domain,prosperitymarketwatch.info,
 08:34:07,tkemmerling,url,http://financeoakmont.com,
 08:34:07,tkemmerling,url,http://prosperitymarketwatch.info,
+08:39:07,smica83,domain,image.becreativefest.com,,https://x.com/smica83/status/2103403916973015132
+08:39:07,smica83,sha256,9d5dae158e928f5c8c49d92a462d932a7e39f7c76510ab11b666e4e2d5783ca0,,https://x.com/smica83/status/2103403916973015132
+08:39:07,smica83,url,http://image.becreativefest.com/images/dgfdgagad,,https://x.com/smica83/status/2103403916973015132
 08:40:02,scanmalware,domain,sp12ct-zavmor-biz-pransik-holdek.pages.dev,
 08:40:02,scanmalware,url,http://sp12ct-zavmor-biz-pransik-holdek.pages.dev,
 08:55:03,raghav127001,ip,162.35.122.140,
@@ -10272,10 +10304,25 @@
 09:02:00,fact_finder03,ip,191.223.218.5,
 09:07:07,tkemmerling,domain,altiora.fun,
 09:07:07,tkemmerling,url,http://altiora.fun,
+09:10:58,anyrun_app,domain,chimefusion.com,
+09:10:58,anyrun_app,domain,elxxvvx.xyz,
+09:10:58,anyrun_app,domain,kayoanime.com,
+09:10:58,anyrun_app,domain,rhodesquality.com,
+09:10:58,anyrun_app,domain,third-party.com,
+09:10:58,anyrun_app,ip,158.94.209.188,
+09:10:58,anyrun_app,url,http://158.94.209.188:3333,
+09:10:58,anyrun_app,url,http://chimefusion.com/u/,
+09:10:58,anyrun_app,url,http://elxxvvx.xyz/i/,
+09:10:58,anyrun_app,url,http://third-party.com,
+09:10:58,anyrun_app,url,https://kayoanime.com,
+09:10:58,anyrun_app,url,https://rhodesquality.com/about-rhodes/,
+09:10:58,anyrun_app,url,https://third-party.com,
 09:20:03,scanmalware,domain,coinbaseverify.vercel.app,
 09:20:03,scanmalware,url,http://coinbaseverify.vercel.app,
 09:34:14,smica83,domain,fever-recommendations-martha-durable.trycloudflare.com,
 09:34:14,smica83,url,https://fever-recommendations-martha-durable.trycloudflare.com,
+09:39:21,malwrhunterteam,domain,surround-tough-method-zinc.trycloudflare.com,,https://x.com/malwrhunterteam/status/2103419074231583044
+09:39:21,malwrhunterteam,url,http://surround-tough-method-zinc.trycloudflare.com,,https://x.com/malwrhunterteam/status/2103419074231583044
 09:39:26,tkemmerling,domain,buyernestle.info,
 09:39:26,tkemmerling,domain,stylishhomegallery.com,
 09:39:26,tkemmerling,url,http://buyernestle.info,
@@ -10290,6 +10337,13 @@
 10:09:45,phishstats,url,https://vodafoneelevation.de/info/,
 10:12:17,tkemmerling,domain,securedeliverfast.com,
 10:12:17,tkemmerling,url,http://securedeliverfast.com,
+10:20:57,smica83,domain,ik.imagekit.io,,https://x.com/smica83/status/2103429542509424706
+10:20:57,smica83,ip,51.255.9.163,,https://x.com/smica83/status/2103429542509424706
+10:20:57,smica83,sha256,939a602b569d795a1bebace69b1f41843a5deb49f67fecb8b3a55dfea69524f4,,https://x.com/smica83/status/2103429542509424706
+10:20:57,smica83,url,http://51.255.9.163/images/2.jpg,,https://x.com/smica83/status/2103429542509424706
+10:20:57,smica83,url,https://ik.imagekit.io/xpml3eydq/kkdaikm.txt,,https://x.com/smica83/status/2103429542509424706
+10:21:22,malwrhunterteam,domain,corecloudwave.online,,https://x.com/malwrhunterteam/status/2103429649749680556
+10:21:22,malwrhunterteam,url,http://corecloudwave.online:7843/documents_more_authority_services/,,https://x.com/malwrhunterteam/status/2103429649749680556
 10:38:04,opcodeintel,domain,n0n.to,
 10:38:04,opcodeintel,url,http://n0n.to,
 10:40:35,fact_finder03,ip,159.195.79.60,
