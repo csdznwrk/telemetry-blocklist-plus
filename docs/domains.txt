@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-09-25 16:11 UTC
-# Domains: 13749
+# Updated: 2026-09-25 20:53 UTC
+# Domains: 13768
 
 -084-gls-223-www-9-k-0brasil.net.daraz.com
 -access-logs-1.net.daraz.com
@@ -10768,6 +10768,13 @@
 16:20:42,skocherhan,url,http://1902-cf.com,
 16:20:42,skocherhan,url,http://basednewsarticle.com,
 16:21:26,smica83,sha256,afcc9ef22dce6325cbb04fcc582018814025af6889e2bfc0278f28d176155c91,,https://x.com/smica83/status/2103157874377597339
+16:45:18,them3gatr0n,domain,accounts-auth.com,,https://x.com/them3gatr0n/status/2103526269455671473
+16:45:18,them3gatr0n,domain,passkey-settings.com,,https://x.com/them3gatr0n/status/2103526269455671473
+16:45:18,them3gatr0n,url,http://accounts-auth.com,,https://x.com/them3gatr0n/status/2103526269455671473
+16:45:18,them3gatr0n,url,http://passkey-settings.com,,https://x.com/them3gatr0n/status/2103526269455671473
+16:48:00,phishstats,domain,checkoutv2.inflowpay.com,
+16:48:00,phishstats,ip,216.24.57.18,
+16:48:00,phishstats,url,https://checkoutv2.inflowpay.com/pay/sess_fsnhleobxbntqbjrgawxp,
 16:54:04,phishstats,domain,am-prime-sonnerie.com,
 16:54:04,phishstats,ip,45.74.61.8,
 16:54:04,phishstats,url,https://am-prime-sonnerie.com/blog/blog.php,
@@ -10779,11 +10786,15 @@
 17:06:14,phishstats,url,https://www.dongwana.com/amex_tgmail202609/turnstile-check,
 17:20:29,tkemmerling,domain,stylishhomegallery.com,
 17:20:29,tkemmerling,url,http://stylishhomegallery.com,
+17:21:30,them3gatr0n,domain,account-passkey.com,,https://x.com/them3gatr0n/status/2103535378162720830
+17:21:30,them3gatr0n,url,http://account-passkey.com,,https://x.com/them3gatr0n/status/2103535378162720830
 17:26:59,muha2xmad,domain,get-verification.to,
 17:26:59,muha2xmad,domain,imacos.cc,
 17:26:59,muha2xmad,ip,94.103.1.233,
 17:26:59,muha2xmad,url,https://get-verification.to,
 17:26:59,muha2xmad,url,https://imacos.cc/captcha/faa4bf0505d1a824,
+17:32:31,opcodeintel,domain,llamafile.info,
+17:32:31,opcodeintel,url,http://llamafile.info,
 17:40:16,it4int,url,http://third-party.com,
 17:55:11,tkemmerling,domain,preventhealthsupport.com,
 17:55:11,tkemmerling,domain,wellnesscarenutri.com,
@@ -10791,6 +10802,9 @@
 17:55:11,tkemmerling,url,http://wellnesscarenutri.com,
 17:57:34,malwrhunterteam,ip,103.180.163.204,,https://x.com/malwrhunterteam/status/2103182067240485358
 17:57:34,malwrhunterteam,url,http://103.180.163.204,,https://x.com/malwrhunterteam/status/2103182067240485358
+18:00:46,skocherhan,md5,ac52c45a93d452c8864a408e01ca74b3,,https://x.com/skocherhan/status/2103545259221557418
+18:14:06,malwrhunterteam,domain,mparivahan-gov.org,,https://x.com/malwrhunterteam/status/2103548616866722123
+18:14:06,malwrhunterteam,url,https://mparivahan-gov.org/3/,,https://x.com/malwrhunterteam/status/2103548616866722123
 18:24:58,tkemmerling,domain,altiora.fun,
 18:24:58,tkemmerling,domain,financerelaypoint.com,
 18:24:58,tkemmerling,url,http://altiora.fun,
@@ -10837,6 +10851,7 @@
 1topspy.com
 20:05:12,smica83,sha256,c71e3a48ae93fba3a407d04430cf13234c843a10caa7b64081115c7b5aec89f4,,https://x.com/smica83/status/2103214186339934256
 20:08:06,phishstats,ip,165.140.71.100,
+20:14:52,0xb1lal,ip,189.49.3.54,
 20:29:23,skocherhan,md5,1af419dc138c624b20069d63712e56a4,,https://x.com/skocherhan/status/2101408331063521740
 20:31:59,phishstats,domain,appleidmapa.com,
 20:31:59,phishstats,ip,217.60.103.74,
@@ -10939,6 +10954,10 @@
 23:27:05,tkemmerling,url,http://youcanwinfriendswithsalad.com,
 23:35:02,masaomi346,domain,se.kuashouban.com,
 23:35:02,masaomi346,url,https://se.kuashouban.com,
+23:40:04,muha2xmad,domain,jinong.shop,
+23:40:04,muha2xmad,domain,lemon-1789655480294.staticrun.app,
+23:40:04,muha2xmad,url,https://jinong.shop/iykk2/iykk2.php,
+23:40:04,muha2xmad,url,https://lemon-1789655480294.staticrun.app/index.htm
 2baserec2.guru
 33across.com
 4-dot-all-tracker.appspot.com
