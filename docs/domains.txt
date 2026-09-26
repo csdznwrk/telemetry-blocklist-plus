@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-09-26 10:32 UTC
-# Domains: 13699
+# Updated: 2026-09-26 15:25 UTC
+# Domains: 13710
 
 -084-gls-223-www-9-k-0brasil.net.daraz.com
 -access-logs-1.net.daraz.com
@@ -10344,6 +10344,9 @@
 11:15:27,opcodeintel,url,http://111.90.147.209,
 11:15:27,opcodeintel,url,http://sarcomagroup.com,
 11:18:00,fact_finder03,ip,185.53.179.200,
+11:24:49,farghlymal,sha256,125525a38abc45e855f848d499582a8100f1428938d4bd3d3eba957072e64e7a,,https://x.com/farghlymal/status/2103808005296857408
+11:24:49,farghlymal,sha256,40529ac470591b84adabe7cebdea8f67d8303d52c3cb4502590bae1e746cd360,,https://x.com/farghlymal/status/2103808005296857408
+11:24:49,farghlymal,sha256,a47279e4ee703092263e7030c43c61533146c00689e7cb8f2080f18e57d5cf7f,,https://x.com/farghlymal/status/2103808005296857408
 11:50:26,tkemmerling,domain,harborstonegroup.shop,
 11:50:26,tkemmerling,domain,mortgageclearbrook.info,
 11:50:26,tkemmerling,url,http://harborstonegroup.shop,
@@ -10571,6 +10574,7 @@
 12:25:03,coolcarlos17,url,https://ludaluvemserfeliz.com/produto.php?slug=escada-multifuncional-de-alum-nio-4x4-com-16-degraus,
 12:31:57,masaomi346,domain,gonfuirkgroao.life,
 12:31:57,masaomi346,url,http://gonfuirkgroao.life,
+12:34:28,phishstats,url,https://vodafone-staging-alt.voltsystems.de,
 12:36:20,q8cyberti,domain,thenewsn-news.com,,https://x.com/q8cyberti/status/2103463614283649166
 12:36:20,q8cyberti,url,http://thenewsn-news.com/nlp/qdu,,https://x.com/q8cyberti/status/2103463614283649166
 12:48:57,them3gatr0n,domain,fffenterprisesinternal.com,,https://x.com/them3gatr0n/status/2103466787660820871
@@ -10604,8 +10608,13 @@
 13:30:47,masaomi346,url,http://indigo-finch-misgoaen.life,
 13:30:56,sicehice,ip,222.127.60.98,,https://x.com/sicehice/status/2103114964890271781
 13:30:56,sicehice,url,http://222.127.60.98:47898/mozi.m,,https://x.com/sicehice/status/2103114964890271781
+13:43:21,malwrhunterteam,ip,20.102.117.176,,https://x.com/malwrhunterteam/status/2103842866573484177
+13:43:21,malwrhunterteam,url,http://20.102.117.176:8080/login,,https://x.com/malwrhunterteam/status/2103842866573484177
+13:44:56,fact_finder03,ip,103.101.178.218,
 13:51:29,skocherhan,domain,bigbigvol.qd.je,,https://x.com/skocherhan/status/2103120137691750822
 13:51:29,skocherhan,url,http://bigbigvol.qd.je,,https://x.com/skocherhan/status/2103120137691750822
+13:51:55,scanmalware,domain,netflix-71f05.firebaseapp.com,
+13:51:55,scanmalware,url,http://netflix-71f05.firebaseapp.com,
 14:00:00,teamcymru_s2,ip,103.143.81.147,,https://x.com/teamcymru_s2/status/2103484670486659111
 14:00:00,teamcymru_s2,ip,103.143.81.167,,https://x.com/teamcymru_s2/status/2103484670486659111
 14:00:00,teamcymru_s2,ip,109.172.94.188,,https://x.com/teamcymru_s2/status/2103484670486659111
@@ -10629,6 +10638,8 @@
 14:19:48,malwrhunterteam,ip,8.216.48.50,,https://x.com/malwrhunterteam/status/2103489650967122186
 14:19:48,malwrhunterteam,url,http://8.216.48.50/s/l3.sh,,https://x.com/malwrhunterteam/status/2103489650967122186
 14:19:56,akaclandestine,ip,87.106.5.5,
+14:20:57,byrne_emmy12099,domain,youwillneverstopus.top,
+14:20:57,byrne_emmy12099,url,http://youwillneverstopus.top/mart/res/bb.php,
 14:31:15,spiderlabs,domain,beacon-surge-sync.workers.dev,
 14:31:15,spiderlabs,domain,beton-beton.eu,
 14:31:15,spiderlabs,domain,bike-msca.eu,
