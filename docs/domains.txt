@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-09-26 15:25 UTC
-# Domains: 13710
+# Updated: 2026-09-26 20:24 UTC
+# Domains: 13765
 
 -084-gls-223-www-9-k-0brasil.net.daraz.com
 -access-logs-1.net.daraz.com
@@ -10741,6 +10741,7 @@
 16:48:00,phishstats,domain,checkoutv2.inflowpay.com,
 16:48:00,phishstats,ip,216.24.57.18,
 16:48:00,phishstats,url,https://checkoutv2.inflowpay.com/pay/sess_fsnhleobxbntqbjrgawxp,
+16:53:58,fact_finder03,ip,213.252.232.182,
 16:54:04,phishstats,domain,am-prime-sonnerie.com,
 16:54:04,phishstats,ip,45.74.61.8,
 16:54:04,phishstats,url,https://am-prime-sonnerie.com/blog/blog.php,
@@ -10776,6 +10777,8 @@
 18:27:59,phishstats,url,https://wuweizhe.com,
 18:35:53,coolcarlos17,domain,showdepromos.com,
 18:35:53,coolcarlos17,url,http://showdepromos.com,
+18:37:16,skocherhan,domain,tenayant.jp.net,,https://x.com/skocherhan/status/2103916833359491329
+18:37:16,skocherhan,url,http://tenayant.jp.net,,https://x.com/skocherhan/status/2103916833359491329
 18:56:40,malwrhunterteam,domain,goodnfortunes.com,,https://x.com/malwrhunterteam/status/2103196939827433973
 18:56:40,malwrhunterteam,url,http://goodnfortunes.com,,https://x.com/malwrhunterteam/status/2103196939827433973
 18:59:36,tkemmerling,domain,activehealthzone.com,
@@ -10807,8 +10810,60 @@
 19:27:18,500mk500,url,http://86.54.42.14:5000,,https://x.com/500mk500/status/2102479874485366794
 19:27:18,_akatsukilegion,domain,auth-msftpage.com,,https://x.com/_akatsukilegion/status/2102182327572963650
 19:27:18,_akatsukilegion,url,http://auth-msftpage.com,,https://x.com/_akatsukilegion/status/2102182327572963650
+19:47:37,500mk500,domain,analytics-secure.com,
+19:47:37,500mk500,domain,assets-bundle.com,
+19:47:37,500mk500,domain,captchatimestamp.com,
+19:47:37,500mk500,domain,doubleclickpro.com,
+19:47:37,500mk500,domain,feedback-bundle.com,
+19:47:37,500mk500,domain,feedback-hotjar.com,
+19:47:37,500mk500,domain,feedbackbundle.com,
+19:47:37,500mk500,domain,jquery-bootstrap.com,
+19:47:37,500mk500,domain,lurkershield.com,
+19:47:37,500mk500,domain,safepayguard.com,
+19:47:37,500mk500,domain,static-secure.com,
+19:47:37,500mk500,domain,webcache-cache.com,
+19:47:37,500mk500,domain,webcachecache.com,
+19:47:37,500mk500,url,http://analytics-secure.com,
+19:47:37,500mk500,url,http://assets-bundle.com,
+19:47:37,500mk500,url,http://captchatimestamp.com,
+19:47:37,500mk500,url,http://doubleclickpro.com,
+19:47:37,500mk500,url,http://feedback-bundle.com,
+19:47:37,500mk500,url,http://feedback-hotjar.com,
+19:47:37,500mk500,url,http://feedbackbundle.com,
+19:47:37,500mk500,url,http://jquery-bootstrap.com,
+19:47:37,500mk500,url,http://lurkershield.com,
+19:47:37,500mk500,url,http://safepayguard.com,
+19:47:37,500mk500,url,http://static-secure.com,
+19:47:37,500mk500,url,http://webcache-cache.com,
+19:47:37,500mk500,url,http://webcachecache.com,
+19:47:37,reporturi,domain,assetsbundle.com,
+19:47:37,reporturi,domain,doubleclickcache.com,
+19:47:37,reporturi,domain,explorerbrowser.com,
+19:47:37,reporturi,domain,gtmtimestamp.com,
+19:47:37,reporturi,domain,review-cdn.com,
+19:47:37,reporturi,domain,safeprocessmaster.com,
+19:47:37,reporturi,domain,safeprocessor.com,
+19:47:37,reporturi,domain,solutionjquery.com,
+19:47:37,reporturi,domain,specterguardian.com,
+19:47:37,reporturi,domain,websitewebcache.com,
+19:47:37,reporturi,url,http://assetsbundle.com,
+19:47:37,reporturi,url,http://doubleclickcache.com,
+19:47:37,reporturi,url,http://explorerbrowser.com,
+19:47:37,reporturi,url,http://gtmtimestamp.com,
+19:47:37,reporturi,url,http://review-cdn.com,
+19:47:37,reporturi,url,http://safeprocessmaster.com,
+19:47:37,reporturi,url,http://safeprocessor.com,
+19:47:37,reporturi,url,http://solutionjquery.com,
+19:47:37,reporturi,url,http://specterguardian.com,
+19:47:37,reporturi,url,http://websitewebcache.com,
+19:48:43,skocherhan,domain,anunds.com,,https://x.com/skocherhan/status/2103934814671745035
+19:48:43,skocherhan,url,http://anunds.com,,https://x.com/skocherhan/status/2103934814671745035
+19:54:58,midnight_comms,domain,jadxgui.com,,https://x.com/midnight_comms/status/2103936387083022546
+19:54:58,midnight_comms,url,http://jadxgui.com,,https://x.com/midnight_comms/status/2103936387083022546
+19:55:39,smica83,sha256,82b6f8b1671bfcebe13007d11ba79e06554b260b3d610b4a2a721d12f7ec3f96,,https://x.com/smica83/status/2103936559628345718
 1ca43.appspot.com
 1topspy.com
+20:01:20,smica83,sha256,1ec7d1c20c93f562405cb4833d12e06357b66865eb13eaf8e43aeb4e71ebe718,,https://x.com/smica83/status/2103937990351290873
 20:05:12,smica83,sha256,c71e3a48ae93fba3a407d04430cf13234c843a10caa7b64081115c7b5aec89f4,,https://x.com/smica83/status/2103214186339934256
 20:08:06,phishstats,ip,165.140.71.100,
 20:14:52,0xb1lal,ip,189.49.3.54,
