@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-09-26 02:41 UTC
-# Domains: 13684
+# Updated: 2026-09-26 10:32 UTC
+# Domains: 13699
 
 -084-gls-223-www-9-k-0brasil.net.daraz.com
 -access-logs-1.net.daraz.com
@@ -10201,6 +10201,9 @@
 06:52:04,etugenio,url,http://svc.linuxsupportsystem.com,
 07:00:03,scanmalware,domain,authmail.edgeone.app,
 07:00:03,scanmalware,url,http://authmail.edgeone.app,
+07:01:04,phishunt_io,domain,vodafone-staging-alt.voltsystems.de,
+07:01:04,phishunt_io,ip,85.13.166.85,
+07:01:04,phishunt_io,url,http://vodafone-staging-alt.voltsystems.de,
 07:01:15,phishunt_io,domain,eu-assets.contentstack.com,
 07:01:15,phishunt_io,domain,wellsfargogethelp.com,
 07:01:15,phishunt_io,ip,159.100.9.61,
@@ -10232,12 +10235,16 @@
 07:40:06,phishstats,domain,allegro.12300h945b4vnj.best,
 07:40:06,phishstats,url,http://allegro.12300h945b4vnj.best,
 07:44:36,byrne_emmy12099,url,https://www.dropbox.com/scl/fi/kpj24ilqwva3kmknn8hps/kb_-_.pdf,
+07:48:37,masaomi346,domain,uwaiskdas.com,
+07:48:37,masaomi346,url,https://uwaiskdas.com/cash/downloadopwad,
 07:50:54,tkemmerling,domain,hometransformideas.com,
 07:50:54,tkemmerling,domain,shop.buyexclusivecart.com,
 07:50:54,tkemmerling,url,http://hometransformideas.com,
 07:50:54,tkemmerling,url,http://shop.buyexclusivecart.com,
 07:53:00,fact_finder03,ip,82.26.91.80,
 07:56:00,fact_finder03,ip,209.99.186.221,
+07:57:15,masaomi346,domain,benditongoto.com,
+07:57:15,masaomi346,url,https://benditongoto.com,
 07:58:42,ax_sharma,domain,third-party.com,
 07:58:42,ax_sharma,url,http://third-party.com,
 08:10:42,tlp_r3d,domain,ssosettings.com,,https://x.com/tlp_r3d/status/2103396765684965662
@@ -10257,6 +10264,9 @@
 08:39:07,smica83,url,http://image.becreativefest.com/images/dgfdgagad,,https://x.com/smica83/status/2103403916973015132
 08:40:02,scanmalware,domain,sp12ct-zavmor-biz-pransik-holdek.pages.dev,
 08:40:02,scanmalware,url,http://sp12ct-zavmor-biz-pransik-holdek.pages.dev,
+08:43:43,smica83,ip,91.210.146.50,,https://x.com/smica83/status/2103767459090088116
+08:43:43,smica83,sha256,2e770af3d707c8c1b3bf157ab6d540c1d7e1044ddb0175bde03c35d1b955558b,,https://x.com/smica83/status/2103767459090088116
+08:43:43,smica83,url,http://91.210.146.50,,https://x.com/smica83/status/2103767459090088116
 08:59:35,suyog41,md5,97b7b06fc46806775d2ba0f97985269b,,https://x.com/suyog41/status/2101959514333327375
 09:02:00,fact_finder03,ip,191.223.218.5,
 09:07:07,tkemmerling,domain,altiora.fun,
@@ -10274,8 +10284,13 @@
 09:10:58,anyrun_app,url,https://kayoanime.com,
 09:10:58,anyrun_app,url,https://rhodesquality.com/about-rhodes/,
 09:10:58,anyrun_app,url,https://third-party.com,
+09:14:42,wilmichels,domain,canabit.ai,
+09:14:42,wilmichels,domain,canabit.ca,
+09:14:42,wilmichels,url,http://canabit.ai,
+09:14:42,wilmichels,url,http://canabit.ca,
 09:20:03,scanmalware,domain,coinbaseverify.vercel.app,
 09:20:03,scanmalware,url,http://coinbaseverify.vercel.app,
+09:30:39,skocherhan,md5,ba0ec19a36d0e08979ae38a2c8977a9c,,https://x.com/skocherhan/status/2103779270833365038
 09:34:14,smica83,domain,fever-recommendations-martha-durable.trycloudflare.com,
 09:34:14,smica83,url,https://fever-recommendations-martha-durable.trycloudflare.com,
 09:39:21,malwrhunterteam,domain,surround-tough-method-zinc.trycloudflare.com,,https://x.com/malwrhunterteam/status/2103419074231583044
