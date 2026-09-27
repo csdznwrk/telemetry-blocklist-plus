@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-09-27 16:04 UTC
-# Domains: 13927
+# Updated: 2026-09-27 20:38 UTC
+# Domains: 13938
 
 -084-gls-223-www-9-k-0brasil.net.daraz.com
 -access-logs-1.net.daraz.com
@@ -10722,6 +10722,8 @@
 16:54:04,phishstats,domain,am-prime-sonnerie.com,
 16:54:04,phishstats,ip,45.74.61.8,
 16:54:04,phishstats,url,https://am-prime-sonnerie.com/blog/blog.php,
+16:59:54,skocherhan,domain,sc88qt.com,
+16:59:54,skocherhan,url,http://sc88qt.com,
 17:06:14,phishstats,domain,dongwana.com,
 17:06:14,phishstats,url,https://www.dongwana.com/amex_tgmail202609/turnstile-check,
 17:20:29,tkemmerling,domain,stylishhomegallery.com,
@@ -10735,6 +10737,8 @@
 17:26:59,muha2xmad,url,https://imacos.cc/captcha/faa4bf0505d1a824,
 17:32:31,opcodeintel,domain,llamafile.info,
 17:32:31,opcodeintel,url,http://llamafile.info,
+17:36:32,redrabytes,ip,176.65.139.250,
+17:36:32,redrabytes,url,http://176.65.139.250,
 17:40:16,it4int,url,http://third-party.com,
 17:55:11,tkemmerling,domain,preventhealthsupport.com,
 17:55:11,tkemmerling,domain,wellnesscarenutri.com,
@@ -10787,6 +10791,11 @@
 19:27:18,500mk500,url,http://86.54.42.14:5000,,https://x.com/500mk500/status/2102479874485366794
 19:27:18,_akatsukilegion,domain,auth-msftpage.com,,https://x.com/_akatsukilegion/status/2102182327572963650
 19:27:18,_akatsukilegion,url,http://auth-msftpage.com,,https://x.com/_akatsukilegion/status/2102182327572963650
+19:39:39,phishstats,domain,i0tjgjgm.xyz,
+19:39:39,phishstats,ip,43.167.235.101,
+19:39:39,phishstats,url,https://i0tjgjgm.xyz/knaebynf/,
+19:41:21,tlp_r3d,domain,slaughterandmay.ssosettings.com,,https://x.com/tlp_r3d/status/2104295349120819626
+19:41:21,tlp_r3d,url,http://slaughterandmay.ssosettings.com,,https://x.com/tlp_r3d/status/2104295349120819626
 19:47:37,500mk500,domain,analytics-secure.com,
 19:47:37,500mk500,domain,assets-bundle.com,
 19:47:37,500mk500,domain,captchatimestamp.com,
@@ -10841,6 +10850,8 @@
 1ca43.appspot.com
 1topspy.com
 20:01:20,smica83,sha256,1ec7d1c20c93f562405cb4833d12e06357b66865eb13eaf8e43aeb4e71ebe718,,https://x.com/smica83/status/2103937990351290873
+20:01:59,tlp_r3d,domain,ssosettings.com,,https://x.com/tlp_r3d/status/2104300538376651256
+20:01:59,tlp_r3d,url,http://ssosettings.com,,https://x.com/tlp_r3d/status/2104300538376651256
 20:05:12,smica83,sha256,c71e3a48ae93fba3a407d04430cf13234c843a10caa7b64081115c7b5aec89f4,,https://x.com/smica83/status/2103214186339934256
 20:05:54,smica83,domain,leadingspacetechnology.top,,https://x.com/smica83/status/2103939137330204900
 20:05:54,smica83,sha256,a2c895dac1f192ecbafff199405e45cfffc5f033627890ab9b60ab5937be8cca,,https://x.com/smica83/status/2103939137330204900
