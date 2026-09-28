@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-09-28 15:45 UTC
-# Domains: 12803
+# Updated: 2026-09-28 22:47 UTC
+# Domains: 12808
 
 0--foodwarez.da.ru
 0--skitch--0.tt.omtrdc.net
@@ -11120,6 +11120,7 @@ hoverwatch.com
 hpapp.mywebsearch.com
 hpscdn.beer
 hs-analytics.net
+httpworkbench.com
 hubstaff.com
 human.security
 humanab.com
@@ -11257,6 +11258,7 @@ izspy-1313.firebaseio.com
 jadxgui.com
 jailbreak-gateway.thd.cc
 jampp.com
+jcanskjihdajio.cyou
 jeedefort.net
 jetcapital.eu
 jinong.shop
@@ -11372,6 +11374,7 @@ lovezramexar.info
 lozatechai-jprakutanziu.com
 lr-ingest.io
 lsnsdns.beer
+luckyprint52.ru
 ludaluvemserfeliz.com
 lum-res31.luminati.io
 luminati.io
@@ -11607,6 +11610,7 @@ nexus-websocket-b.intercom.io
 ngc77.com
 nice-protect.com
 nielseniq.com
+nildex.com
 ninjatech.io
 nitlebuf.com
 nmtracking.netflix.com
@@ -11914,6 +11918,7 @@ proxy.reptilicus.net
 prozhe.vip
 ps97mailer.logger.mobi
 psd.markets
+pso-ngd.ru
 psznaoehteeh.com
 pub-6c532f29d3c34c6a910620ee29dd906a.r2.dev
 publicismedia.com
