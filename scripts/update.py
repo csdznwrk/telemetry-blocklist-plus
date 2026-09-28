@@ -90,14 +90,25 @@ def fetch_url(url, timeout=20):
         return ""
 
 
+import re
+DOMAIN_RE = re.compile(r'^(?=.{4,253}$)([a-z0-9_](?:[a-z0-9_-]{0,61}[a-z0-9])?\.)+[a-z]{2,63}$')
+
+
 def parse_plain(text, unfiltered=False, max_domains=None):
     domains = set()
     for line in text.splitlines():
         line = line.split("#")[0].strip().lower()
-        # strip hosts-file format (e.g. "0.0.0.0 domain.com")
-        parts = line.split()
-        domain = parts[-1] if parts else ""
-        if domain and "." in domain and not domain.startswith("."):
+        if "," in line:
+            # CSV feeds (TweetFeed): date,user,type,value,tags — keep only type=domain
+            f = [x.strip() for x in line.split(",")]
+            if len(f) < 4 or f[2] != "domain":
+                continue
+            domain = f[3]
+        else:
+            # strip hosts-file format (e.g. "0.0.0.0 domain.com")
+            parts = line.split()
+            domain = parts[-1] if parts else ""
+        if domain and DOMAIN_RE.match(domain):
             if unfiltered or any(kw in domain for kw in TELEMETRY_KEYWORDS):
                 domains.add(domain)
                 if max_domains and len(domains) >= max_domains:
