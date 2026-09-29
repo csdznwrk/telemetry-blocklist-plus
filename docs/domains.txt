@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-09-29 17:19 UTC
-# Domains: 12813
+# Updated: 2026-09-29 21:40 UTC
+# Domains: 12816
 
 0--foodwarez.da.ru
 0--skitch--0.tt.omtrdc.net
@@ -10124,6 +10124,7 @@ alert.xiz4me.com
 aleverifocation.beer
 alex.a2z.com
 alexaresponse.amazon.com
+alexis17capit.cc
 alhotel-pau-etzax.com
 ali.panspy.com
 all-imager-hst.click
@@ -10964,6 +10965,7 @@ eyeota.com
 eyezy.com
 eyezyapp.thd.cc
 f.appjiagu.com
+fa.windows32.men
 factual.com
 fakeupdate.net
 fanotablid.net
@@ -11805,6 +11807,7 @@ preventhealthsupport.com
 prmtracking.com
 pro.logger.mobi
 proalamir.dz
+proceso-personal-inf2026ac.hstn.me
 process.agent.datadoghq.com
 prod.euid.eu
 prod.uidapi.com
