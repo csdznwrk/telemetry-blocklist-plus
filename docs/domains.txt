@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-09-29 11:50 UTC
-# Domains: 12796
+# Updated: 2026-09-29 17:19 UTC
+# Domains: 12813
 
 0--foodwarez.da.ru
 0--skitch--0.tt.omtrdc.net
@@ -10651,6 +10651,8 @@ chimefusion.com
 chondritic.top
 chrome-update-required.com
 chromeupdatenow.com
+ciksecrets.net
+cinematicjazzorchestra.info
 circana.com
 cisco-appdynamics.com
 clainasns.beer
@@ -10769,6 +10771,7 @@ cryptowallet-verify.com
 cs-repl.com
 cs.cobaltstrike.com
 cuebiq.com
+curehealthway.com
 currentware.com
 cushiondrum.com
 customer.io
@@ -10828,6 +10831,7 @@ dct-1t9.pages.dev
 ddiutilities.com
 dealply.com
 deals.homeitemsonline.com
+debtriversideledger.info
 decide.mixpanel.com
 deepminer.com
 delighted.com
@@ -10929,6 +10933,7 @@ epsilon.com
 epsilonpeoplecloud.com
 epsilonpersonalizedmedia.com
 equifax.com
+equitygrandview.com
 errors.trackjs.com
 esign-document.help
 ethercdnns.beer
@@ -11052,6 +11057,7 @@ glassworm-update.com
 glassworm.net
 gleisso.org
 global.uidapi.com
+globalco44t2yl6ltgj74cwthr6b6olggl3srg7engqfhx72f6ni3cyd.onion
 glossmagazine.shop
 gmslb.net
 go.urbanairship.com
@@ -11086,6 +11092,7 @@ hadronid.net
 hallo.jiaoyang677.sbs
 hannaileid.com
 haqerra.com
+harborstonegroup.shop
 hasmeverdcdn.beer
 hasoadwaznqps.com
 healingmybrai-etaxrefund.com
@@ -11216,6 +11223,7 @@ inscape.tv
 insight.adsrvr.org
 insightful.io
 insights.hotjar.com
+insigniafinancial.ssosettings.com
 inssighog.net
 instabug.com
 instacart.com
@@ -11299,6 +11307,7 @@ kvshdi.birxpk.com
 kyc-holdings.com
 kypler.com
 l.servidor.in
+labinuri.z23.web.core.windows.net
 labrador.ua
 languagesforwork.eu
 las-js-claud.beer
@@ -11567,6 +11576,7 @@ mycloud.wisemo.com
 mycloud1.wisemo.com
 mydwnd.com
 mylead-tracking.tracknow.info
+myonlinemarkets.com
 mywebsearch.com
 mzpgfh.uhabq9.com
 n.servidor.in
@@ -11575,6 +11585,7 @@ nadalicach.com
 namanami.top
 nargilecimur-jp-etaxrefund.com
 narrative.io
+nationalcollaborationinitiative.info
 nativesdks.mparticle.com
 nbi-training.eu
 ncsolutions.com
@@ -11596,6 +11607,8 @@ netspy-7b8ec.firebaseio.com
 new.androidlost.com
 newrelic.com
 nexsnield.com
+nexus-mods.biz
+nexus-mods.net
 nexus-websocket-a.intercom.io
 nexus-websocket-b.intercom.io
 ngc77.com
@@ -12183,6 +12196,7 @@ shadow-spy.com
 shadowappbundle-default-rtdb.firebaseio.com
 shadowlogspanel.firebaseio.com
 sharethrough.com
+shopmagnetism.info
 shopsmartlog.com
 siealinank.com
 sierneroru.com
@@ -12519,7 +12533,9 @@ transmitsecurity.com
 transunion.com
 traveltoeuro-saisanpolnts.com
 treasuredata.com
+treasurywisechoice.com
 treboarkez.lol
+treeservicekingstonil.info
 triplelift.com
 tritpuned.com
 trk.dtignite.com
@@ -12665,6 +12681,7 @@ vys.me
 wallet-security-check.net
 walmartconnect.com
 wasm.web.mine.tf
+watermarkatgatewayplace.info
 waws-prod-blu-247-e7b3.eastus.cloudapp.azure.com
 waws-prod-blu-247.sip.azurewebsites.windows.net
 wealthfocushub.net
