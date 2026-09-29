@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-09-28 22:47 UTC
-# Domains: 12808
+# Updated: 2026-09-29 03:25 UTC
+# Domains: 12779
 
 0--foodwarez.da.ru
 0--skitch--0.tt.omtrdc.net
@@ -10128,7 +10128,6 @@ ali.panspy.com
 all-imager-hst.click
 all-tracker.appspot.com
 all-tracker.firebaseio.com
-allegro.12300h945b4vnj.best
 allegrolokalnie.oferta65487.click
 allownotification.net
 allowpush.net
@@ -10462,7 +10461,6 @@ auramatrixa.com
 aurapanel.cfd
 aurastealer.shop
 auth-code-check.info
-auth-msftpage.com
 auth.split.io
 authenticated-traffic-solution.rlcdn.com
 authentication.liveramp.com
@@ -10492,7 +10490,6 @@ baremetrics.com
 bark-android-media.s3.amazonaws.com
 bbdsnssserver.beer
 bbrp.co
-bc1963.com
 bcp.crwdcntrl.net
 bd.api.iqiyi.com
 beacon-surge-sync.workers.dev
@@ -10566,7 +10563,6 @@ btmob.net
 bugsnag.com
 bulensop.my
 buy.newarriveproduct.com
-buyernestle.info
 bysh.me
 byte-armor.com
 byte-buff.com
@@ -10927,10 +10923,8 @@ epsilon.com
 epsilonpeoplecloud.com
 epsilonpersonalizedmedia.com
 equifax.com
-equitybrookstone.info
 errors.trackjs.com
 ethercdnns.beer
-eu-assets.contentstack.com
 eu.api.fpjs.io
 eu.i.posthog.com
 euid.eu
@@ -10995,7 +10989,6 @@ firebaseinstallations.googleapis.com
 firebaselogging-pa.googleapis.com
 firebaseremoteconfig.googleapis.com
 fireworkanalytics.com
-first-global.in
 flexible-networks.com
 flexispy.com
 flibbertigibbet.top
@@ -11012,7 +11005,6 @@ flushdata4.hellospy.com
 flushdata5.hellospy.com
 flushdbd.maxxspy.com
 fogdatascience.com
-follwtrk.com
 fonemonitor.vip
 fontawesome-js-cdn.beer
 foreverspy.com
@@ -11037,7 +11029,6 @@ gcdsdk.appsflyer.com
 gclsi-powers.org
 gdnssljs.beer
 generator-qrcode.online
-get-verification.to
 get.snoopza.com
 getfeedback.com
 getmspy.net
@@ -11057,19 +11048,16 @@ gmslb.net
 go.urbanairship.com
 goodnfortunes.com
 google-analytics.com
-google-havan.com
 googleanalytics.com
 googletagmanager.com
 googletagservices.com
 gormandize.top
 gotruemotion.com
 gppcdnns.beer
-grabtrendingoffer.com
 gracenote.com
 grafana.net
 gravy.ai
 gravyanalytics.com
-greenerpasturetrading.info
 gricatpert.com
 grid-push.com
 groundtruth.com
@@ -11088,8 +11076,8 @@ hadronid.net
 hallo.jiaoyang677.sbs
 hannaileid.com
 haqerra.com
-harborstonegroup.shop
 hasmeverdcdn.beer
+hasoadwaznqps.com
 healingmybrai-etaxrefund.com
 healthrevampsupport.com
 healthumi.info
@@ -11099,13 +11087,13 @@ hellospy.com
 help.financesolutiontips.com
 help.spylive360.com
 hftplcnsns.beer
+hhmjjdfwzx.com
 highstermobi.com
 hippocratic.top
 hitorerrid.com
 hlk.criteo.com
 holochtorf.com
 homearea.googleapis.com
-hometransformideas.com
 honeybadger.io
 honeygain.com
 horusian.com
@@ -11176,7 +11164,6 @@ ikm.awsapi.io
 illuminatedminds.eu
 im.brunoespiao.com.br
 im.theonespy.com
-imacos.cc
 image.becreativefest.com
 image6.pubmatic.com
 images.appspy.com
@@ -11222,7 +11209,6 @@ insights.hotjar.com
 inssighog.net
 instabug.com
 instacart.com
-instagram-verify.dynv6.net
 install.branch.io
 install.mspy.com
 installcore.com
@@ -11262,7 +11248,6 @@ jcanskjihdajio.cyou
 jeedefort.net
 jetcapital.eu
 jinong.shop
-jiuyuetongf-saisanpolnts.com
 jjspy.com
 jjspy.ml
 joinmatchube.com
@@ -11276,11 +11261,9 @@ kadam.net
 kawaiimechasoul.cfd
 kayoanime.com
 kbmgroup.com
-keepgreentb.com
 key-logger-90fff.firebaseio.com
 keylogger-pro-us.imonitorsoft.com
 keylogger-software-org.imonitorsoft.com
-kezhanpaimi-saisanpolnts.com
 kickidler.com
 kidlogger.net
 kidsguard-6c6a9.firebaseio.com
@@ -11296,7 +11279,6 @@ klg.a-spy.com
 kochava.com
 kokum.ru
 komodia.com
-krestmoais-reed.life
 krogerads.com
 krux.com
 kruxdigital.com
@@ -11375,7 +11357,6 @@ lozatechai-jprakutanziu.com
 lr-ingest.io
 lsnsdns.beer
 luckyprint52.ru
-ludaluvemserfeliz.com
 lum-res31.luminati.io
 luminati.io
 lumma5b6r.com
@@ -11496,7 +11477,6 @@ mlite-app.thd.cc
 mlite-socket.thd.cc
 mliteapp.alter757.info
 mnoskemp.beer
-moabrivers.com
 mob-app-gw.spynger.net
 mob.eurotrans.kz
 mobi22.com
@@ -11523,7 +11503,6 @@ monitask.com
 monitor-android.android-monitor.ru
 monitor-ultra.com
 moolkalis.net
-mortgageclearbrook.info
 motorolasolutions.com
 mparivahan-gov.org
 mparticle.com
@@ -11679,6 +11658,7 @@ openfpcdn.io
 openx.com
 openx.net
 operator-integ.uidapi.com
+oppsite.dothome.co.kr
 optimizely.com
 optonline22.screenconnect.com
 optoo.me
@@ -11774,7 +11754,7 @@ politicalsciencestudent.com
 polskaprezydencjacsr.eu
 polygon-c2-relay.com
 portal.flexispy.com
-portfoliomoneyline.com
+posidwaksd.com
 posta-hr.live
 postbacks.appsflyer.com
 posthog.com
@@ -11808,7 +11788,6 @@ prog-money.com
 project-323448153542050953.firebaseio.com
 project-7991479181228723357.firebaseio.com
 propellerads.com
-prosperitymarketwatch.info
 prospybubble.com
 protocol-a.copy9.com
 protocol-a.exactspy.com
@@ -11921,6 +11900,7 @@ psd.markets
 pso-ngd.ru
 psznaoehteeh.com
 pub-6c532f29d3c34c6a910620ee29dd906a.r2.dev
+pub-780cf773478848a69b30738c3423d481.r2.dev
 publicismedia.com
 pubmatic.com
 pubnative.net
@@ -12093,7 +12073,6 @@ scocaboade.com
 scongalper.com
 scorecardresearch.com
 scoreeneol.com
-scr33nc0nn3ctz00m.com
 screentimelabs.appspot.com
 sdk.embrace.io
 sdk.fra-01.braze.eu
@@ -12114,14 +12093,12 @@ sdk.x-mode.io
 sdk.zeotap.com
 sdkhub.com
 sdnssmdf-js.beer
-seafoodcenterofmaine.com
 search.tb.ask.com
 searchagent.cfd
 searchservice.cfd
 secondclone-2d312.firebaseio.com
 secure.adnxs.com
 securebackuponline.net
-securedeliverfast.com
 securemetrics.apple.com
 securemetrics.apple.com.cn
 sedotracker.com
@@ -12191,7 +12168,6 @@ shadow-spy.com
 shadowappbundle-default-rtdb.firebaseio.com
 shadowlogspanel.firebaseio.com
 sharethrough.com
-shop.buyexclusivecart.com
 shopsmartlog.com
 siealinank.com
 sierneroru.com
@@ -12202,7 +12178,6 @@ simage2.pubmatic.com
 simpleanalytics.io
 sin3.ib.adnxs.com
 singular.net
-site-google-havan.com
 siteimproveanalytics.com
 siteimproveanalytics.io
 skadnetwork.apple.com
@@ -12404,8 +12379,6 @@ tamoco.com
 tapad.com
 target.demdex.net
 targeting.foursquare.com
-taslimaenterprise.com
-taslimaenterprise.screenconnect.com
 tb.ask.com
 tchsrvce.com
 tdos.io
@@ -12461,12 +12434,14 @@ tjbiaoben.com
 tls.telemetry.swe.quicinc.com
 tlx.3lift.com
 tmsapi.com
+tnfqjy.cfd
 tnttravelblo-jp-etzax.com
 tookps.net
 toontitanlegends.cfd
 topzaloha.cz
 towerdata.com
 tpc.googlesyndication.com
+tqi21.vercel.app
 tr.appmia.com
 traccar-client-app.firebaseio.com
 traccar.org
@@ -12537,7 +12512,6 @@ trk.jampp.com
 trkps.com
 truaudience.com
 true-truck-86810.firebaseio.com
-truenorthworks.fun
 truewebmedia.com
 trustbastion.com
 trustdevice.ai
@@ -12720,6 +12694,7 @@ wmt.com
 wndws-pip3ln-sql3-waf3-purv3-gdprsx-dfn-azfn-appsvc-0ffapx.workers.dev
 workcdnmass.beer
 worktime.com
+worldprimenew-jp.com
 wppspy.tech
 wrs.clevertap.com
 ws.spylive360.com
@@ -12790,16 +12765,13 @@ xv57j3d.scienceontheweb.net
 xxxmu.top
 xynero.xyz
 yablochnisok.com
-yaledoorlocks.com
 yandexmetrica.com
 yieldmo.com
 ymetrica1.com
 ynvcxcv.vercel.app
 youcanwinfriendswithsalad.com
-yournestmakeover.com
 youwillneverstopus.top
 yverodumbo.com
-yw8.net
 z-na.amazon-adsystem.com
 z.smartbrandsinternational.net
 zabbxsoftware.com
@@ -12808,5 +12780,4 @@ zdalnakontrola.pl
 zendrive.com
 zeotap.com
 zion-telemetry.api.cnn.io
-zoom.frash.org
 zsxocjarsate.com
