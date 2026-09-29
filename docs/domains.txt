@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-09-29 03:25 UTC
-# Domains: 12779
+# Updated: 2026-09-29 11:50 UTC
+# Domains: 12796
 
 0--foodwarez.da.ru
 0--skitch--0.tt.omtrdc.net
@@ -10039,6 +10039,7 @@ aax-us-east.amazon-adsystem.com
 aax.amazon-adsystem.com
 absolutesoftsystem.in
 ac480.firebaseio.com
+accessonline989876653783documentation.cloud-storage-0935784.workers.dev
 accoun.jvenher.cn
 account-passkey.com
 account.cellphone-remote-tracker.com
@@ -10725,6 +10726,7 @@ connupdate.cfd
 contentsquare.net
 context.bidswitch.net
 contextweb.com
+controedatoerpestanavidroslat.com
 control-phone-a05a3.firebaseio.com
 control.kochava.com
 controlio.net
@@ -10821,6 +10823,7 @@ datorama.com
 db.spylive360.com
 db8.io
 dc-static.wondershare.cn
+dcmentservceportl.sbs
 dct-1t9.pages.dev
 ddiutilities.com
 dealply.com
@@ -10867,6 +10870,8 @@ dmw.cc
 dncloteam.beer
 dnetk.com
 docomoser.shop
+docu-sign.click
+documentsonlineaccessonedrivelinksreview.top
 domenpozh.net
 dongwana.com
 dotmetrics.net
@@ -10875,6 +10880,7 @@ doubleclickpro.com
 downapk.spytoapp.com
 download.webwatcherdata.com
 downloads.refog.com
+dpfuhk.cfd
 drawbridge.com
 drive-surge.com
 drivertuner.com
@@ -10924,7 +10930,9 @@ epsilonpeoplecloud.com
 epsilonpersonalizedmedia.com
 equifax.com
 errors.trackjs.com
+esign-document.help
 ethercdnns.beer
+etu-sbe.screenconnect.com
 eu.api.fpjs.io
 eu.i.posthog.com
 euid.eu
@@ -11029,6 +11037,7 @@ gcdsdk.appsflyer.com
 gclsi-powers.org
 gdnssljs.beer
 generator-qrcode.online
+get-acrobat-adobe.pages.dev
 get.snoopza.com
 getfeedback.com
 getmspy.net
@@ -11067,6 +11076,7 @@ guestspy.com
 gum.criteo.com
 gusso.info
 gw.api.dh.comcast.com
+gzmingan.com
 h.appjiagu.com
 h.audigent.com
 h.online-metrix.net
@@ -11221,6 +11231,7 @@ intercom.io
 interguard.com
 internal-justeattakeaway.com
 inv.logger.mobi
+inviteteamsmeeting.fit
 inwardatti-jp-etaxrefund.com
 ioi.life
 ios-gw.spynger.net
@@ -11257,6 +11268,7 @@ js-sec.indexww.com
 js.intercom.io
 jsecoin.com
 jwscaiwu.com
+jzqixing.com
 kadam.net
 kawaiimechasoul.cfd
 kayoanime.com
@@ -11674,6 +11686,7 @@ otheve.beacon.qq.com
 otlp-gateway-prod-eu-west-0.grafana.net
 otlp-gateway-prod-us-east-0.grafana.net
 outlogic.io
+outlookinboxmessage.com
 ownseeking.com
 ownspy.com
 p2p.peer2profit.com
@@ -11901,6 +11914,7 @@ pso-ngd.ru
 psznaoehteeh.com
 pub-6c532f29d3c34c6a910620ee29dd906a.r2.dev
 pub-780cf773478848a69b30738c3423d481.r2.dev
+pub-b42d42acf73b4e5887636c7e58ea9500.r2.dev
 publicismedia.com
 pubmatic.com
 pubnative.net
@@ -12123,6 +12137,7 @@ sentry-product-new.bbrp.co
 sentry.io
 sentrypc.net
 seon.io
+sergiomarshall.com
 servedbyopenx.com
 server.androidmonitor.com
 server.freeandroidspy.com
@@ -12752,6 +12767,7 @@ x-mode.io
 x.pgv4.com
 x1panel.com
 xad.com
+xfinity-security-update.webflow.io
 xinsebache.my
 xmode.io
 xmrig.com
@@ -12780,4 +12796,5 @@ zdalnakontrola.pl
 zendrive.com
 zeotap.com
 zion-telemetry.api.cnn.io
+zo0mnneet.top
 zsxocjarsate.com
