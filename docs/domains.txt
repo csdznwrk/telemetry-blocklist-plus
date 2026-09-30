@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-09-30 17:17 UTC
-# Domains: 12849
+# Updated: 2026-09-30 21:41 UTC
+# Domains: 12851
 
 0--foodwarez.da.ru
 0--skitch--0.tt.omtrdc.net
@@ -11084,6 +11084,7 @@ gracenote.com
 grafana.net
 gravy.ai
 gravyanalytics.com
+greenerpasturetrading.info
 gricatpert.com
 grid-push.com
 groundtruth.com
@@ -12351,6 +12352,7 @@ ssl.google-analytics.com
 sslwidget.criteo.com
 sso-justeattakeaway.com
 ssosettings.com
+ssossossosss.duckdns.org
 ssosvc-m365s-kvl-dv0pshb-s3ntln-c0mply-4zrmonx-apimgwx-evnthb.workers.dev
 sspstats.smartadserver.com
 stabcdnvlc.beer
