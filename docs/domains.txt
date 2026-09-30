@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-09-29 21:40 UTC
-# Domains: 12816
+# Updated: 2026-09-30 03:08 UTC
+# Domains: 12812
 
 0--foodwarez.da.ru
 0--skitch--0.tt.omtrdc.net
@@ -10021,6 +10021,7 @@
 84-51.com
 8916f.appspot.com
 89685.firebaseio.com
+8l0cpp.cn
 97.logger.mobi
 a-qa3.thd.cc
 a-spy.com
@@ -10130,19 +10131,16 @@ ali.panspy.com
 all-imager-hst.click
 all-tracker.appspot.com
 all-tracker.firebaseio.com
-allegrolokalnie.oferta65487.click
 allownotification.net
 allowpush.net
 allstatics.wondershare.cn
 alltracker.org
 alog.umeng.com
 alphabitcapital.info
-alphashoppingdock.org
 alphonso.tv
 alter757.info
 altiora.fun
 altzserberin.info
-am-prime-sonnerie.com
 aminacompliance.info
 amon.android-monitor.ru
 amon1.android-monitor.ru
@@ -10442,7 +10440,6 @@ arkoselabs.com
 armydevice.shop
 arvax.xyz
 asgard-f8c53.firebaseio.com
-ashen-trace-zephyr-draeix.life
 ask.com
 ass.absolutesoftsystem.in
 assandrew.com
@@ -10572,7 +10569,6 @@ c-phone.ru
 c.amazon-adsystem.com
 c.appjiagu.com
 c1.panspy.com
-c2.linuxsupportsystem.com
 ca-ndaxcdn.framer.media
 cabinet.ecohouse-eg.com
 cabinet.gps-monitor.uz
@@ -10590,7 +10586,6 @@ cambridgemobiletelematicsdata.com
 canabit.ai
 canabit.ca
 capcha-cdn-js.beer
-capitaltrackspro.com
 captchatimestamp.com
 carboniferous.top
 cardamomo.eu
@@ -10710,7 +10705,6 @@ cohezo.com
 cohezo.io
 coin-have.com
 coin-hive.com
-coinbaseverify.vercel.app
 coinblind.com
 coinhive.com
 coinimp.com
@@ -10786,7 +10780,6 @@ d.corn-cob.com
 d.d-app-apk.com
 d.tispy.net
 d1.panspy.com
-d18i529.onlinewebshop.net
 d1gslyvqtipqvi.cloudfront.net
 d24lo6rmha82nf.cloudfront.net
 d2nipadu1fr4ne.cloudfront.net
@@ -10824,6 +10817,7 @@ data241.mrec24.com
 dataform.googleapis.com
 dataplane.rudderstack.com
 datorama.com
+daxcwczu.cn
 db.spylive360.com
 db8.io
 dc-static.wondershare.cn
@@ -10831,7 +10825,6 @@ dcmentservceportl.sbs
 dct-1t9.pages.dev
 ddiutilities.com
 dealply.com
-deals.homeitemsonline.com
 debtriversideledger.info
 decide.mixpanel.com
 deepminer.com
@@ -10886,6 +10879,7 @@ downapk.spytoapp.com
 download.webwatcherdata.com
 downloads.refog.com
 dpfuhk.cfd
+dr5beljvyqljgq5ppro57pgetg4yeslcsexmuhvv3p46wod3odsh3fid.onion
 drawbridge.com
 drive-surge.com
 drivertuner.com
@@ -10945,6 +10939,7 @@ euid.eu
 eum-eu.instana.io
 eum-us.instana.io
 euniverza.eu
+eurhynqq.cn
 europe.nym1.b.adnxs.com
 evadav.com
 eventdelivery.segment.io
@@ -10978,6 +10973,7 @@ feedback-bundle.com
 feedback-hotjar.com
 feedbackbundle.com
 feedbackws.apple.com
+feibidawuli-jp.com
 ferreteriadepot.com
 fever-recommendations-martha-durable.trycloudflare.com
 fffenterprisesinternal.com
@@ -11093,13 +11089,13 @@ hacsg.com
 hadronid.net
 hallo.jiaoyang677.sbs
 hannaileid.com
+haoniuzibe-jp.com
 haqerra.com
 harborstonegroup.shop
 hasmeverdcdn.beer
 hasoadwaznqps.com
 healingmybrai-etaxrefund.com
 healthrevampsupport.com
-healthumi.info
 heap.com
 heapanalytics.com
 hellospy.com
@@ -11242,7 +11238,6 @@ interguard.com
 internal-justeattakeaway.com
 inv.logger.mobi
 inviteteamsmeeting.fit
-inwardatti-jp-etaxrefund.com
 ioi.life
 ios-gw.spynger.net
 iovation.com
@@ -11272,6 +11267,7 @@ jinong.shop
 jjspy.com
 jjspy.ml
 joinmatchube.com
+jokqumkm.cn
 jquery-bootstrap.com
 js-agent.newrelic.com
 js-sec.indexww.com
@@ -11330,7 +11326,6 @@ leanplum.com
 leiber.top
 lelinhore.net
 lemon-1789655480294.staticrun.app
-lervuni-mpt-qazvoro-c3d6me71.pages.dev
 lesbolides.eu
 letmespy.com
 lever-analytics.com
@@ -11341,7 +11336,6 @@ lifecircle-223805.firebaseio.com
 link-flux.com
 linkmob.org
 links.iterable.com
-linuxsupportsystem.com
 liveramp.com
 liveramp.net
 livesmeet.us
@@ -11372,6 +11366,7 @@ logs.activtrak.com
 logs.browser-intake-datadoghq.com
 logs.roborock.com
 logx.optimizely.com
+loin-annzn.mydw88.com
 lollu.lol
 lotame.com
 loverman.net
@@ -11479,8 +11474,8 @@ metrics.gfycat.com
 metrics.govexec.com
 metrics.icloud.com
 metrics.mzstatic.com
-mf3goke.getenjoyment.net
 mflx.biz
+mfqyqprt.cn
 mg-spyzie.oss-us-west-1.aliyuncs.com
 mi.thd.cc
 miao.wondershare.cn
@@ -11582,6 +11577,7 @@ myonlinemarkets.com
 mywebsearch.com
 mzpgfh.uhabq9.com
 n.servidor.in
+n1if3c.cn
 n6sm2m.celltracker.io
 nadalicach.com
 namanami.top
@@ -11589,6 +11585,7 @@ nargilecimur-jp-etaxrefund.com
 narrative.io
 nationalcollaborationinitiative.info
 nativesdks.mparticle.com
+nbablazersz-jp.com
 nbi-training.eu
 ncsolutions.com
 near.co
@@ -11928,6 +11925,8 @@ ps97mailer.logger.mobi
 psd.markets
 pso-ngd.ru
 psznaoehteeh.com
+pub-2deedb30aff5494b826a955e4e27f0d5.r2.dev
+pub-313b636324fd4678a4a5d96493f238eb.r2.dev
 pub-6c532f29d3c34c6a910620ee29dd906a.r2.dev
 pub-780cf773478848a69b30738c3423d481.r2.dev
 pub-b42d42acf73b4e5887636c7e58ea9500.r2.dev
@@ -11959,6 +11958,7 @@ q95294fs.beget.tech
 qa-analytics.com
 qakbot-update.com
 qakbot.net
+qbitetmt.cn
 qbot-c2.net
 quanly24h.net
 quantcount.com
@@ -12200,7 +12200,6 @@ shadowappbundle-default-rtdb.firebaseio.com
 shadowlogspanel.firebaseio.com
 sharethrough.com
 shopmagnetism.info
-shopsmartlog.com
 siealinank.com
 sierneroru.com
 signalfx.com
@@ -12351,7 +12350,6 @@ stream.launchdarkly.com
 studio11-7e288.firebaseio.com
 stupendoussleet.com
 stupendoussnow.com
-stylishhomegallery.com
 suggestqueries.google.com
 sumologic.com
 superfish.com
@@ -12363,7 +12361,6 @@ surround-tough-method-zinc.trycloudflare.com
 surveygizmobeacon.s3.amazonaws.com
 surveymonkey.com
 surveys.medallia.com
-svc.linuxsupportsystem.com
 sverlogina.com
 svlogin.asia
 swrve.com
@@ -12452,7 +12449,6 @@ thefirmos.com
 thenewsn-news.com
 theodoi24h.com
 therawcusclu-jp-etaxrefund.com
-theswagbusu-jp-etaxrefund.com
 thetruth-db94a.firebaseio.com
 thetruthspy.com
 thiefguardbd.com
@@ -12566,6 +12562,7 @@ turntablesky.pro
 tvzc49.sportsontheweb.net
 typeform.com
 u1.panspy.com
+u5v4o3.cn
 ua.brunoespiao.com.br
 ua.evaspy.com
 ua.tispy.net
@@ -12636,6 +12633,7 @@ uu01webzoom.us
 uu03webzoom.us
 uwaiskdas.com
 uxcam.com
+uzivebwt.cn
 v2raytun-online.ru
 v4vw4ytvo4.execute-api.us-east-2.amazonaws.com
 varenie.live
@@ -12797,14 +12795,12 @@ xnspy.com
 xp.apple.com
 xpcpanel.com
 xtracker.logimeter.com
-xv57j3d.scienceontheweb.net
 xxxmu.top
 xynero.xyz
 yablochnisok.com
 yandexmetrica.com
 yieldmo.com
 ymetrica1.com
-ynvcxcv.vercel.app
 youcanwinfriendswithsalad.com
 youwillneverstopus.top
 yverodumbo.com
