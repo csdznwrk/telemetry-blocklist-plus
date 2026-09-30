@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-09-30 03:08 UTC
-# Domains: 12812
+# Updated: 2026-09-30 11:37 UTC
+# Domains: 12836
 
 0--foodwarez.da.ru
 0--skitch--0.tt.omtrdc.net
@@ -10017,6 +10017,7 @@
 6-dot-all-tracker.appspot.com
 6kvses.com
 77tracking.com
+7zip.com
 83dd4.appspot.com
 84-51.com
 8916f.appspot.com
@@ -10586,6 +10587,7 @@ cambridgemobiletelematicsdata.com
 canabit.ai
 canabit.ca
 capcha-cdn-js.beer
+capitalwillowgate.com
 captchatimestamp.com
 carboniferous.top
 cardamomo.eu
@@ -10824,6 +10826,7 @@ dc-static.wondershare.cn
 dcmentservceportl.sbs
 dct-1t9.pages.dev
 ddiutilities.com
+dealcartdirect.com
 dealply.com
 debtriversideledger.info
 decide.mixpanel.com
@@ -10866,8 +10869,10 @@ dmtracking2.alibaba.com
 dmw.bz
 dmw.cc
 dncloteam.beer
+dndair.com
 dnetk.com
 docomoser.shop
+docsharepoint.top
 docu-sign.click
 documentsonlineaccessonedrivelinksreview.top
 domenpozh.net
@@ -10910,10 +10915,12 @@ edlnc255s2q.s3.amazonaws.com
 edmondhairsalo-jp.com
 edvdafc.prozhe.vip
 eeresofeuae.com
+egm34gsyx65wb6jyqds4esvkskl34barx4robuebjhqpc4dfeavg7fyd.onion
 einformatiks.com
 elcore-api.azurewebsites.net
 electroloys.com
 electronic72.pro
+elitewealthdaily.com
 elxxvvx.xyz
 em.awsapi.io
 embrace.io
@@ -10961,6 +10968,8 @@ eyezy.com
 eyezyapp.thd.cc
 f.appjiagu.com
 fa.windows32.men
+facai.mwkwnnn.click
+facebook.sioll.net
 factual.com
 fakeupdate.net
 fanotablid.net
@@ -11035,6 +11044,7 @@ funcaptcha.com
 funmoodsearch.com
 g-globalapp.com
 g.appjiagu.com
+galaxycoinmix.com
 gamedb.shop
 gcdsdk.appsflyer.com
 gclsi-powers.org
@@ -11108,6 +11118,7 @@ hippocratic.top
 hitorerrid.com
 hlk.criteo.com
 holochtorf.com
+home.productforhome.info
 homearea.googleapis.com
 honeybadger.io
 honeygain.com
@@ -11276,6 +11287,7 @@ jsecoin.com
 jwscaiwu.com
 jzqixing.com
 kadam.net
+karkarkar.top
 kawaiimechasoul.cfd
 kayoanime.com
 kbmgroup.com
@@ -11385,6 +11397,7 @@ lumsheeray.com
 lurkershield.com
 lvl99.store
 lytics.com
+lzqhvj.cfd
 m-media.thd.cc
 m.a-spy.com
 m.asgardtech.ru
@@ -11404,6 +11417,7 @@ matchube.com
 matheranalytics.com
 mauihost.qpon
 maxxspy.com
+mbrgwn.cfd
 mcloud-api.thd.cc
 mdiament.eu
 medallia.com
@@ -11481,6 +11495,7 @@ mi.thd.cc
 miao.wondershare.cn
 microsoft.authorised-support.com
 microtracker-1ca43.firebaseio.com
+mikoblico.xyz
 mindspark.com
 minergates.com
 minero.cc
@@ -11581,6 +11596,7 @@ n1if3c.cn
 n6sm2m.celltracker.io
 nadalicach.com
 namanami.top
+naomiwellness.screenconnect.com
 nargilecimur-jp-etaxrefund.com
 narrative.io
 nationalcollaborationinitiative.info
@@ -11663,6 +11679,7 @@ okobot-update.com
 okobot.net
 okon.enslatural.org
 olalietide.com
+old.cricketpavers.com
 olnsclaud.beer
 olurdaolurdediler.shop
 olympmarskiniailietuva.info
@@ -11734,6 +11751,7 @@ pccvioo.com
 pctattletale.com
 pctattletalev2.s3.amazonaws.com
 pdfinstalls-2.vercel.app
+pdfsharepoint.top
 pdx.saasgw.appdynamics.com
 peakhealthbalance.com
 peer2profit.com
@@ -11762,6 +11780,7 @@ phonetracking-dd226.firebaseio.com
 phonetracking.net
 pi.info-taxi.info
 pilgrim.foursquare.com
+pinebridgedigital.shop
 ping.chartbeat.net
 pipe.thd.cc
 pixel.eyeota.com
@@ -11925,11 +11944,13 @@ ps97mailer.logger.mobi
 psd.markets
 pso-ngd.ru
 psznaoehteeh.com
+ptai.in
 pub-2deedb30aff5494b826a955e4e27f0d5.r2.dev
 pub-313b636324fd4678a4a5d96493f238eb.r2.dev
 pub-6c532f29d3c34c6a910620ee29dd906a.r2.dev
 pub-780cf773478848a69b30738c3423d481.r2.dev
 pub-b42d42acf73b4e5887636c7e58ea9500.r2.dev
+pub-cfed504c29ce4abfb436fd9297bceb4e.r2.dev
 publicismedia.com
 pubmatic.com
 pubnative.net
@@ -12022,6 +12043,7 @@ review-cdn.com
 rhodesquality.com
 rhythmone.com
 richpush.co
+riverglasstop.top
 rl.dc.rubiconproject.com
 rlcdn.com
 rncdn1.com
@@ -12813,4 +12835,6 @@ zendrive.com
 zeotap.com
 zion-telemetry.api.cnn.io
 zo0mnneet.top
+zoominvite-9ld.pages.dev
+zoommeeting-7m2.pages.dev
 zsxocjarsate.com
