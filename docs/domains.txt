@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-09-30 11:37 UTC
-# Domains: 12836
+# Updated: 2026-09-30 17:17 UTC
+# Domains: 12849
 
 0--foodwarez.da.ru
 0--skitch--0.tt.omtrdc.net
@@ -10528,6 +10528,7 @@ birxpk.com
 biyaconserver.beer
 bk128.com
 bkscndclou.beer
+bleodw.wisp.uno
 blockc2.io
 blog.ikeymonitor.com
 blueconic.com
@@ -10639,6 +10640,7 @@ centralwildcats.com
 cerberus-app.com
 cerberusapp.com
 cf.hb.adriver.ru
+cgongseq.com
 chain-resolve.net
 champions.gdtc.org
 chartbeat.com
@@ -10745,6 +10747,7 @@ corn-cob.com
 countly.com
 cove-koi-hk753.xyz
 cp.mspyonline.com
+cp.preparationguru.com
 cp.pushwoosh.com
 cp.thewispy.com
 cpanel.spymasterpro.com
@@ -11104,6 +11107,7 @@ haqerra.com
 harborstonegroup.shop
 hasmeverdcdn.beer
 hasoadwaznqps.com
+hdhdandan.duckdns.org
 healingmybrai-etaxrefund.com
 healthrevampsupport.com
 heap.com
@@ -11134,6 +11138,7 @@ hoverwatch.com
 hpapp.mywebsearch.com
 hpscdn.beer
 hs-analytics.net
+https-roblox.com
 httpworkbench.com
 hubstaff.com
 human.security
@@ -11356,6 +11361,7 @@ lkqd.net
 llamafile.info
 lnfcdnclad.beer
 lnferragens.com
+lnsygjswxx.com
 loancraftmarket.com
 localytics.com
 locationdata.ai
@@ -11396,6 +11402,7 @@ lumouschs.com
 lumsheeray.com
 lurkershield.com
 lvl99.store
+lysxcyy.com
 lytics.com
 lzqhvj.cfd
 m-media.thd.cc
@@ -11704,6 +11711,7 @@ optimizely.com
 optonline22.screenconnect.com
 optoo.me
 optout.uidapi.com
+optservicenote.myallvalue.com
 originalpizza.eu
 orthb.adtelligent.com
 orthb.pulsepoint.com
@@ -11792,6 +11800,7 @@ play-store-3bb64.firebaseio.com
 play.ikpinner.com
 playintegrity.googleapis.com
 plymouthjraba-jp.com
+poiwaksuwa.com
 poiwaldsas.com
 policiacivilmg.com
 politicalsciencestudent.com
@@ -11818,6 +11827,7 @@ prebid.smartadserver.com
 precisely.com
 predicio.com
 predictivenomics.com
+preparationguru.com
 press-f12-continue.com
 preventhealthsupport.com
 prmtracking.com
@@ -12158,6 +12168,7 @@ seg.audigent.com
 segment-cdn.producthunt.com
 segmentapis.com
 semaphoric.top
+send.smnambijabajo.com
 senior-safety-189010.firebaseio.com
 sense360.com
 senseye.spymasterpro.com
@@ -12374,6 +12385,7 @@ stupendoussleet.com
 stupendoussnow.com
 suggestqueries.google.com
 sumologic.com
+sunyotech.com
 superfish.com
 supermercadoabundancia.com.mx
 support.mtoolapp.biz
@@ -12817,6 +12829,7 @@ xnspy.com
 xp.apple.com
 xpcpanel.com
 xtracker.logimeter.com
+xv57j3d.scienceontheweb.net
 xxxmu.top
 xynero.xyz
 yablochnisok.com
