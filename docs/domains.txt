@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-10-01 03:15 UTC
-# Domains: 12732
+# Updated: 2026-10-01 12:06 UTC
+# Domains: 12756
 
 0--foodwarez.da.ru
 0--skitch--0.tt.omtrdc.net
@@ -10043,6 +10043,7 @@ absolutesoftsystem.in
 ac480.firebaseio.com
 accessonline989876653783documentation.cloud-storage-0935784.workers.dev
 accoun.jvenher.cn
+accoun.kgjxupm.cn
 account-passkey.com
 account.cellphone-remote-tracker.com
 account.childsafetytrackerapp.com
@@ -10110,6 +10111,7 @@ agent.kickidler.com
 agent.teramind.co
 agent.timedoctor.com
 agent.veriato.com
+ai-education-msk.com
 ai-nexora.sbs
 aipythondevs.com
 airbrake.io
@@ -10210,6 +10212,7 @@ anmon.su
 anmon1.android-monitor.ru
 antibotv3.com
 antitheft-88554.firebaseio.com
+ants.redirecthelp.com
 anunds.com
 aovivo.foxspy.com.br
 ap.api.fpjs.io
@@ -10566,6 +10569,7 @@ cakesdrum.com
 calibrated.cfd
 calvinsmithlaw.screenconnect.com
 cambridgemobiletelematicsdata.com
+campus-petite-timothy-gulf.trycloudflare.com
 canabit.ai
 canabit.ca
 capitalwillowgate.com
@@ -10842,6 +10846,7 @@ docomoser.shop
 docsharepoint.top
 docu-sign.click
 documentsonlineaccessonedrivelinksreview.top
+docusignauthentication.xyz
 domenpozh.net
 dotmetrics.net
 doubleclickcache.com
@@ -10881,6 +10886,7 @@ edlnc255s2q.s3.amazonaws.com
 edmondhairsalo-jp.com
 edvdafc.prozhe.vip
 eeresofeuae.com
+efine-post.com
 egm34gsyx65wb6jyqds4esvkskl34barx4robuebjhqpc4dfeavg7fyd.onion
 einformatiks.com
 elcore-api.azurewebsites.net
@@ -10889,6 +10895,7 @@ electronic72.pro
 elitewealthdaily.com
 elxxvvx.xyz
 em.awsapi.io
+emaliyekontrol.com
 embrace.io
 emcpanel.com
 endpoint-api-v1.com
@@ -10933,6 +10940,7 @@ fa.windows32.men
 facai.mwkwnnn.click
 facebook.sioll.net
 factual.com
+faithbiglovered.opik.net
 fakeupdate.net
 fanotablid.net
 fast-mob.com
@@ -11028,6 +11036,7 @@ googletagmanager.com
 googletagservices.com
 gormandize.top
 gotruemotion.com
+gpcom1.screenconnect.com
 gracenote.com
 grafana.net
 gravy.ai
@@ -11055,6 +11064,7 @@ hannaileid.com
 haoniuzibe-jp.com
 haqerra.com
 harborstonegroup.shop
+hardwood-studio-obviously-briefing.trycloudflare.com
 hasoadwaznqps.com
 hazelnut.co.rs
 hbyqq.cn
@@ -11127,6 +11137,7 @@ i8.clientreport.info
 i9.clientreport.info
 iad.saasgw.appdynamics.com
 ib.adnxs.com
+ibtuxr641i.c4-explosive-workshops.de
 icloudappe.com
 id5-sync.com
 id5.io
@@ -11269,6 +11280,7 @@ kyc-holdings.com
 kypler.com
 l.servidor.in
 labinuri.z23.web.core.windows.net
+laboratoires-azbane.com
 labrador.ua
 languagesforwork.eu
 laucass.forumactif.org
@@ -11312,6 +11324,7 @@ log.onesignal.com
 log.ring.com
 log.smartthings.com
 logger.quantummetric.com
+logiccorporation.screenconnect.com
 logicora.mom
 login.2ccloud.com
 login.quanly24h.net
@@ -11354,6 +11367,7 @@ magicupdate.cfd
 maglook.eu
 mail.mobistealth.com
 mail.spymasterpro.com
+manufacturers-arrested-acre-foods.trycloudflare.com
 marblefallslake-etzax.com
 marketing.transunion.com
 maskingofking.xyz
@@ -11452,6 +11466,7 @@ mlite-app.livekit.cloud
 mlite-app.thd.cc
 mlite-socket.thd.cc
 mliteapp.alter757.info
+mmasunandrajat.com
 mob-app-gw.spynger.net
 mob.eurotrans.kz
 mobi22.com
@@ -11570,6 +11585,7 @@ ngc77.com
 nice-protect.com
 nielseniq.com
 nildex.com
+nilehost.cloud
 ninjatech.io
 nitlebuf.com
 nmtracking.netflix.com
@@ -11917,6 +11933,7 @@ r.marketing.spyic.com
 rabizenali.com
 raccoonstealer.com
 radarsubmissions.apple.com
+rajug.eu
 rampid.com
 ranen.net
 rapid.thomsonreuters.com
@@ -12144,6 +12161,7 @@ shadow-spy.com
 shadowappbundle-default-rtdb.firebaseio.com
 shadowlogspanel.firebaseio.com
 sharethrough.com
+shieldmetasetup.com
 shopmagnetism.info
 siealinank.com
 sierneroru.com
@@ -12277,10 +12295,12 @@ stats.nest.com
 stats.samsungsmarthome.com
 stats.wp.com
 statsigapi.net
+strafordhomes.screenconnect.com
 strapi.msafely.com
 strapi.spyphone.cc
 strapi.spyx.com
 stream.launchdarkly.com
+strutsupportsystems.com
 studio11-7e288.firebaseio.com
 stupendoussleet.com
 stupendoussnow.com
@@ -12387,6 +12407,7 @@ thetruth-db94a.firebaseio.com
 thetruthspy.com
 thiefguardbd.com
 third-party.com
+thiswoodeno.com
 threatmetrix.com
 thriddata.com
 tiliackox.net
@@ -12566,6 +12587,7 @@ uxcam.com
 uzivebwt.cn
 v2raytun-online.ru
 v4vw4ytvo4.execute-api.us-east-2.amazonaws.com
+valeriediedrich13.screenconnect.com
 varenie.live
 vars.hotjar.com
 venntel.com
@@ -12699,6 +12721,7 @@ www.ttjj.tk
 www.vys.me
 www.webwatchernow.com
 wx.weiguanai.cn
+wxhuan.com
 x-mode.io
 x.pgv4.com
 x1panel.com
@@ -12729,6 +12752,7 @@ zantracker.com
 zdalnakontrola.pl
 zendrive.com
 zeotap.com
+zggangban.com
 zion-telemetry.api.cnn.io
 zo0mnneet.top
 zoominvite-9ld.pages.dev
