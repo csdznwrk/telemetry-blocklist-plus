@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-10-02 17:05 UTC
-# Domains: 12808
+# Updated: 2026-10-02 21:36 UTC
+# Domains: 12814
 
 0--foodwarez.da.ru
 0--skitch--0.tt.omtrdc.net
@@ -10499,6 +10499,7 @@ bam-cell.nr-data.net
 bam.nr-data.net
 baremetrics.com
 bark-android-media.s3.amazonaws.com
+barnstormfarmfermentory.info
 bbrp.co
 bcp.crwdcntrl.net
 bd.api.iqiyi.com
@@ -11035,6 +11036,7 @@ ftp.info-taxi.info
 fullstory.com
 funcaptcha.com
 funmoodsearch.com
+fusionshoppingworks.info
 fxxma.cn
 g.appjiagu.com
 galaxycoinmix.com
@@ -11108,6 +11110,7 @@ hbyqq.cn
 hdhdandan.duckdns.org
 healingmybrai-etaxrefund.com
 health.vitalhealthportal.com
+healthy.smarthealthhabit.com
 heap.com
 heapanalytics.com
 hellospy.com
@@ -11121,6 +11124,7 @@ hlk.criteo.com
 hmcot.cn
 holochtorf.com
 home.productforhome.info
+homeadvicezone.com
 homearea.googleapis.com
 honeybadger.io
 honeygain.com
@@ -11275,6 +11279,7 @@ jailbreak-gateway.thd.cc
 jampp.com
 jcanskjihdajio.cyou
 jeedefort.net
+jfkjetblue.com
 jiangchashi-jp.com
 jinsm.cn
 jjspy.com
@@ -12572,6 +12577,7 @@ uid2.prebid.org
 uj.evaspy.com
 uk.evaspy.com
 ul.evaspy.com
+ultradealsbuy.com
 um.evaspy.com
 umeng.com
 umobix.com
