@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-10-02 03:16 UTC
-# Domains: 12767
+# Updated: 2026-10-02 11:37 UTC
+# Domains: 12784
 
 0--foodwarez.da.ru
 0--skitch--0.tt.omtrdc.net
@@ -10521,6 +10521,7 @@ blog.ikeymonitor.com
 blueconic.com
 blurspy.com
 bombora.com
+boxercourier.com
 branch.io
 braze.com
 braze.eu
@@ -10577,6 +10578,7 @@ canabit.ca
 capitalwillowgate.com
 captchatimestamp.com
 carboniferous.top
+careers-openai.com
 casalemedia.com
 castle.io
 catchpoint.com
@@ -10656,6 +10658,7 @@ clientsdk.launchdarkly.com
 clocktok.cfd
 cloud.51degrees.com
 cloud.antibotv3.com
+cloud.repeatcarrental.com
 cloud.teramind.co
 cloud.ttspy.com
 cloudautosolutions.com
@@ -10840,6 +10843,7 @@ dmp.crosswise.com
 dmtracker.com
 dmtracking.alibaba.com
 dmtracking2.alibaba.com
+dmuchawa-do-lisci-pl.com
 dmw.bz
 dmw.cc
 dndair.com
@@ -10931,6 +10935,7 @@ exapi-apac.rubiconproject.com
 exapi-eu.rubiconproject.com
 exapi-us-east.rubiconproject.com
 exapi-us-west.rubiconproject.com
+expirience.icu
 explorerbrowser.com
 extremetracking.com
 eyeota.com
@@ -10948,6 +10953,7 @@ fast-mob.com
 fast.appcues.com
 fastestwebbrows-etzax.com
 fastlane.rubiconproject.com
+fdp122.nyc3.digitaloceanspaces.com
 featuregates.org
 feedback-bundle.com
 feedback-hotjar.com
@@ -11070,6 +11076,7 @@ habu.com
 hadronid.net
 hallo.jiaoyang677.sbs
 hannaileid.com
+hanvior.cfd
 haoniuzibe-jp.com
 haqerra.com
 harborstonegroup.shop
@@ -11088,6 +11095,7 @@ hhmjjdfwzx.com
 highstermobi.com
 hippocratic.top
 hitorerrid.com
+hl-ltd.screenconnect.com
 hlk.criteo.com
 hmcot.cn
 holochtorf.com
@@ -11355,6 +11363,7 @@ lummastealer.com
 lumouschs.com
 lumsheeray.com
 lurkershield.com
+luxfab.luxe
 lvl99.store
 lysxcyy.com
 lytics.com
@@ -11636,12 +11645,18 @@ onegeekworld.com
 onesignal.com
 onespy-in-196211.firebaseio.com
 onetoken.ink
+onixone.com.co
 online-metrix.net
 onlinefundb.com
 ontradictiousn.info
 open-collectors.sumologic.com
+openaaii.com
+openai-bonus.com
+openai-credit.com
+openai-credits.com
 opencamping.shop
 opencandy.com
+openeii.com
 openfpcdn.io
 openx.com
 openx.net
@@ -12127,6 +12142,7 @@ servidor.in
 session-replay.browser-intake-datadoghq.com
 sessions.bugsnag.com
 settings.crashlytics.com
+settingsportal.com
 setup.nemospy.com
 setupmail-a.icloudappe.com
 setupmail-a720.icloudappe.com
@@ -12395,6 +12411,7 @@ test.onetouchsecurities.com
 test.refog.com
 testecollider.foxspy.com.br
 tfk7r22klf8vtd8g90jq8qno1tpqhmpe.apps.googleusercontent.com
+thalassaix.cfd
 thapiourgo.com
 thd.cc
 theartoftalki-saisanpolnts.com
