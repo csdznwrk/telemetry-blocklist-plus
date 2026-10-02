@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-10-02 11:37 UTC
-# Domains: 12784
+# Updated: 2026-10-02 17:05 UTC
+# Domains: 12808
 
 0--foodwarez.da.ru
 0--skitch--0.tt.omtrdc.net
@@ -10002,18 +10002,31 @@
 042fd4a295419af8.com
 042gmail.com
 042vip.com
+1035362455.sbs
 12d60.appspot.com
 12d60.firebaseio.com
 13-5.org
 13-5.ru
+1419993777.cyou
+1606837286.cyou
+1874912064.cyou
 1ca43.appspot.com
 1topspy.com
+2008377162.cfd
+2071486361jhute45r.cyou
 20x8rk.info
 2baserec2.guru
 33across.com
 4-dot-all-tracker.appspot.com
+460595718.cfd
 4info.com
+5043990463kjh.cyou
+5044298614.cyou
+5140390597.cyou
 51degrees.com
+5247145664.cyou
+5767896359.sbs
+5889631857.cfd
 6-dot-all-tracker.appspot.com
 6kvses.com
 77tracking.com
@@ -10064,6 +10077,7 @@ ad.lgsmartad.com
 ad.roku.com
 ad.turn.com
 ad.yieldmo.com
+adaptableinfrastructure.de
 adblockanalytics.com
 adbrix.io
 adetracking.com
@@ -10434,6 +10448,7 @@ aps18file.securebackuponline.net
 aps2.spyhuman.com
 aps22.spyhuman.com
 arcadiacoffee.ie
+architectureinnovationhub.de
 argusinformation.com
 arity.com
 arkoselabs.com
@@ -10521,10 +10536,13 @@ blog.ikeymonitor.com
 blueconic.com
 blurspy.com
 bombora.com
+boostingcustomerjoy.de
 boxercourier.com
 branch.io
+brandstrengththroughconsistency.de
 braze.com
 braze.eu
+brewingwithoutagenda.de
 brightdata.com
 brightmountainmedia.com
 brilliant-flame-585.firebaseio.com
@@ -10548,6 +10566,7 @@ buhgalteri-uchet.online
 buhgalterov-uchet.online
 buhgalterskiy-uchet.online
 buhuchetss.online
+buildforgrowth.de
 bulensop.my
 burysslipway.com
 bysh.me
@@ -10629,6 +10648,7 @@ cgongseq.com
 chain-resolve.net
 champions.gdtc.org
 chartbeat.com
+chartwells-consulting.com
 check02id.com
 chondritic.top
 chrome-update-required.com
@@ -10716,6 +10736,7 @@ cool-horizon.com
 copiose.org
 copy9.com
 copy9db.com
+coral-thistle-kilmkruon.top
 cordinex.io
 core.mqtt.iot-prod.xfinity.com
 core.uidapi.com
@@ -11226,6 +11247,7 @@ intercom-clicks.com
 intercom.io
 interguard.com
 internetserchinkas.co
+interseq.at
 inv.logger.mobi
 investkursonline.com
 inviteteamsmeeting.fit
@@ -11259,6 +11281,7 @@ jjspy.com
 jjspy.ml
 joinmatchube.com
 jokqumkm.cn
+jomaconstrucao.com
 jquery-bootstrap.com
 js-agent.newrelic.com
 js-sec.indexww.com
@@ -12001,6 +12024,7 @@ revenuecat.com
 review-cdn.com
 rhythmone.com
 richpush.co
+ricoldimateriaisparaconstrucoes.com
 riverglasstop.top
 rl.dc.rubiconproject.com
 rlcdn.com
