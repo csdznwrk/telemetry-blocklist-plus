@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-10-03 10:50 UTC
-# Domains: 12710
+# Updated: 2026-10-03 15:27 UTC
+# Domains: 12715
 
 0--foodwarez.da.ru
 0--skitch--0.tt.omtrdc.net
@@ -10742,6 +10742,7 @@ cove-koi-hk753.xyz
 cp.mspyonline.com
 cp.preparationguru.com
 cp.pushwoosh.com
+cp.spystealth.com
 cp.thewispy.com
 cpanel.spymasterpro.com
 cpcalendars.spymasterpro.com
@@ -11017,6 +11018,7 @@ freemobilespy.net
 freespyapp.com
 freewheel.tv
 ftp.info-taxi.info
+fullpowerproperties.uk
 fullstory.com
 funcaptcha.com
 funmoodsearch.com
@@ -12247,6 +12249,7 @@ ssosettings.com
 ssossossosss.duckdns.org
 sspstats.smartadserver.com
 staffcop.com
+stage.spystealth.com
 staging-all-tracker.appspot.com
 staging.smstracker.com
 star-layer.com
@@ -12439,6 +12442,7 @@ trackpro.vip
 tracksp-7743c.firebaseio.com
 tracksp.in
 trackview.net
+tradingengineers.in
 traffic.iproyal.com
 traffictds.com
 translation.spylive360.com
@@ -12459,6 +12463,7 @@ trustdevice.ai
 trustedhomeimprove.com
 trustsoftware.net
 trustsystemguard.com
+tt.spystealth.com
 tt.umobix.com
 ttjj.ga
 ttjj.ml
