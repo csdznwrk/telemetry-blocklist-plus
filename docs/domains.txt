@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-10-03 03:02 UTC
-# Domains: 12699
+# Updated: 2026-10-03 10:50 UTC
+# Domains: 12710
 
 0--foodwarez.da.ru
 0--skitch--0.tt.omtrdc.net
@@ -10152,6 +10152,7 @@ alphabitcapital.info
 alphonso.tv
 alter757.info
 altzserberin.info
+amber-ridge-bruixsioi.pro
 aminacompliance.info
 amon.android-monitor.ru
 amon1.android-monitor.ru
@@ -10504,6 +10505,7 @@ beacons.gvt2.com
 belowground.top
 best-spy-apps.com
 bestbuy.narrative.io
+bestdiscountzone.com
 beta-api.logger.mobi
 beta.logger.mobi
 beta.smstracker.com
@@ -10952,6 +10954,7 @@ eyezyapp.thd.cc
 f.appjiagu.com
 fa.windows32.men
 facai.mwkwnnn.click
+facebook.hosweb.online
 facebook.sioll.net
 factual.com
 faithbiglovered.opik.net
@@ -11053,6 +11056,7 @@ googletagservices.com
 gormandize.top
 gotruemotion.com
 gpcom1.screenconnect.com
+grabthedeals.net
 gracenote.com
 grafana.net
 gravy.ai
@@ -11085,6 +11089,7 @@ hazelnut.co.rs
 hbyqq.cn
 hdhdandan.duckdns.org
 health.vitalhealthportal.com
+healthbalancegrow.net
 healthorazone.com
 healthy.smarthealthhabit.com
 heap.com
@@ -11310,9 +11315,11 @@ lewokodwqko.icu
 lg.conviva.com
 library.alexanderscourby.com
 lifecircle-223805.firebaseio.com
+lifewithmyfriend.com
 link-flux.com
 linkmob.org
 links.iterable.com
+linksdocumentation001.blob.core.windows.net
 littledogdesigngoods.com
 liveramp.com
 liveramp.net
@@ -11566,9 +11573,11 @@ netnut.com
 netnut.io
 netnut.net
 netspy-7b8ec.firebaseio.com
+nettcasters.com
 new.androidlost.com
 newfinancetips.io
 newrelic.com
+news.healthnutrihubs.com
 neww-project-pdffiles.vercel.app
 nexsnield.com
 nexus-mods.biz
@@ -12447,6 +12456,7 @@ true-truck-86810.firebaseio.com
 truewebmedia.com
 trustbastion.com
 trustdevice.ai
+trustedhomeimprove.com
 trustsoftware.net
 trustsystemguard.com
 tt.umobix.com
@@ -12533,6 +12543,7 @@ uu03webzoom.us
 uxcam.com
 uzivebwt.cn
 v4vw4ytvo4.execute-api.us-east-2.amazonaws.com
+vale-quaeum-a4hc9.top
 valeriediedrich13.screenconnect.com
 varenie.live
 vars.hotjar.com
