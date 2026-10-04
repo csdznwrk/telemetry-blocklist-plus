@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-10-04 16:11 UTC
-# Domains: 12715
+# Updated: 2026-10-04 20:41 UTC
+# Domains: 12716
 
 0--foodwarez.da.ru
 0--skitch--0.tt.omtrdc.net
@@ -12703,6 +12703,7 @@ yablochnisok.com
 yandexmetrica.com
 yaojinhouse-jp.com
 yieldmo.com
+yinxing688.com
 ymetrica1.com
 z-na.amazon-adsystem.com
 zabbxsoftware.com
