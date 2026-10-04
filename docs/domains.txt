@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-10-04 11:33 UTC
-# Domains: 12714
+# Updated: 2026-10-04 16:11 UTC
+# Domains: 12715
 
 0--foodwarez.da.ru
 0--skitch--0.tt.omtrdc.net
@@ -11357,6 +11357,7 @@ luminati.io
 lumma5b6r.com
 lummac2.com
 lummastealer.com
+luqiuid91.com
 luxfab.luxe
 lvl99.store
 lysxcyy.com
