@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-10-04 03:31 UTC
-# Domains: 12711
+# Updated: 2026-10-04 11:33 UTC
+# Domains: 12714
 
 0--foodwarez.da.ru
 0--skitch--0.tt.omtrdc.net
@@ -10143,6 +10143,7 @@ ali.panspy.com
 all-imager-hst.click
 all-tracker.appspot.com
 all-tracker.firebaseio.com
+allegro.ofe90392.pics
 allownotification.net
 allowpush.net
 allstatics.wondershare.cn
@@ -10818,6 +10819,7 @@ dc-static.wondershare.cn
 dcmentservceportl.sbs
 dct-1t9.pages.dev
 ddiutilities.com
+de-zines.com
 dealcartdirect.com
 dealply.com
 debtriversideledger.info
@@ -12030,6 +12032,7 @@ sanalytics.disneyplus.com
 sandbox97.childsafetytrackerapp.com
 sandbox97.logger.mobi
 sandbox97.seniorsafetyapp.com
+sandsprecast.com
 sap4mobile-89685.firebaseio.com
 sap4mobile.com
 sapient-flight-837.firebaseio.com
