@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-10-05 13:06 UTC
-# Domains: 12698
+# Updated: 2026-10-05 23:30 UTC
+# Domains: 12708
 
 0--foodwarez.da.ru
 0--skitch--0.tt.omtrdc.net
@@ -10007,6 +10007,7 @@
 12d60.firebaseio.com
 13-5.org
 13-5.ru
+130826.ngrok.app
 1419993777.cyou
 1606837286.cyou
 1874912064.cyou
@@ -10449,6 +10450,7 @@ arkoselabs.com
 armydevice.shop
 arvax.xyz
 asgard-f8c53.firebaseio.com
+asiioasdjasiojasodijasa.eastus.cloudapp.azure.com
 ask.com
 ass.absolutesoftsystem.in
 asset.bk128.com
@@ -10730,6 +10732,7 @@ core.mqtt.iot-prod.xfinity.com
 core.uidapi.com
 coremetrics.com
 corn-cob.com
+cosmicsky.xyz
 costcodeltosin.s3.us-east-1.amazonaws.com
 countly.com
 cp.mspyonline.com
@@ -10862,6 +10865,7 @@ docu-sign.click
 documentsonlineaccessonedrivelinksreview.top
 docusignauthentication.xyz
 domenpozh.net
+dongphucasian.com
 dotmetrics.net
 downapk.spytoapp.com
 download.tender-confirmation.com
@@ -11268,6 +11272,7 @@ kidsshield.net
 killi.io
 kinesis.us-east-1.amazonaws.com
 kissmetrics.com
+kkk.tttkkkssww.com
 klaviyo.com
 klg.a-spy.com
 kochava.com
@@ -11336,6 +11341,7 @@ logx.optimizely.com
 loin-annzn.mydw88.com
 lotame.com
 loverman.net
+loyalcustomdrums.com
 lr-ingest.io
 lum-res31.luminati.io
 luminati.io
@@ -11530,6 +11536,7 @@ mycloud1.wisemo.com
 mydwnd.com
 mylead-tracking.tracknow.info
 myonlinemarkets.com
+myssoauth.com
 mywebsearch.com
 mzpgfh.uhabq9.com
 n.servidor.in
@@ -11894,6 +11901,7 @@ pushnotificationads.net
 pushpaganda.com
 pushsubscribe.com
 pushwoosh.com
+pususufim.z28.web.core.windows.net
 px.ads.linkedin.com
 pxi.pub
 pxl-mailtracker.com
@@ -11966,6 +11974,7 @@ rivalcastmed-jp.com
 riverglasstop.top
 rl.dc.rubiconproject.com
 rlcdn.com
+rmans.webredirect.org
 rncdn1.com
 rockalab.com
 roku.conviva.com
@@ -12542,6 +12551,7 @@ veriato.com
 verify-captcha-human.com
 verisk.com
 veriskmarketing.com
+vermontsolidsurface.info
 verve.com
 vervegroup.com
 via.intercom.io
