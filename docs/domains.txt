@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-10-05 03:11 UTC
-# Domains: 12690
+# Updated: 2026-10-05 13:06 UTC
+# Domains: 12698
 
 0--foodwarez.da.ru
 0--skitch--0.tt.omtrdc.net
@@ -10212,6 +10212,7 @@ androidapk.biz
 androidlost.appspot.com
 androidlost.com
 androidlost.firebaseio.com
+aniv.ddoblxd.cn
 anlytic-js-cloud.beer
 anmon.android-monitor.ru
 anmon.name
@@ -10413,6 +10414,7 @@ app.link
 app.pendo.io
 app.posthog.com
 app.snoopza.com
+app.spotifylite.online
 app.xdspy.app
 app.xyspy.com
 app2.snoopza.com
@@ -10775,6 +10777,7 @@ d1gslyvqtipqvi.cloudfront.net
 d24lo6rmha82nf.cloudfront.net
 d2nipadu1fr4ne.cloudfront.net
 d3g4zswpacwtfb.cloudfront.net
+dagasz.com
 dahieenloo.com
 damoov.com
 dasdasdikasjdas.click
@@ -11249,6 +11252,7 @@ jsecoin.com
 jwscaiwu.com
 jzqixing.com
 kadam.net
+kaifitness.penwfe.asia
 kanuis2.duckdns.org
 karkarkar.top
 kbmgroup.com
@@ -11580,6 +11584,7 @@ notify.bugsnag.com
 notifyme.network
 noujx.s9gxw8.com
 novoservidor2026.com
+nozazisoda.z11.web.core.windows.net
 npm-security-audit.com
 nr-data.net
 ns1.virsis.net
@@ -11598,6 +11603,7 @@ offercorestats.com
 office.hw.cab
 oficiospolicia.com
 ogymoggy.firebaseio.com
+ohhhhhmoney.com
 oiuwaksdiw.com
 okobot-update.com
 okobot.net
@@ -11863,6 +11869,7 @@ ps97mailer.logger.mobi
 psd.markets
 psznaoehteeh.com
 ptai.in
+pub-106f839a8e06470ebf320252d50291c1.r2.dev
 pub-1e489e802c044438b77b5f3eb2390c68.r2.dev
 pub-209ca94c79b043bea60b0f7868222cd4.r2.dev
 pub-2deedb30aff5494b826a955e4e27f0d5.r2.dev
@@ -12245,6 +12252,7 @@ stats.nest.com
 stats.samsungsmarthome.com
 stats.wp.com
 statsigapi.net
+stc-chaffoteaux.com
 strafordhomes.screenconnect.com
 strapi.msafely.com
 strapi.spyphone.cc
