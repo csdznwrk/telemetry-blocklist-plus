@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-10-04 20:41 UTC
-# Domains: 12716
+# Updated: 2026-10-05 03:11 UTC
+# Domains: 12690
 
 0--foodwarez.da.ru
 0--skitch--0.tt.omtrdc.net
@@ -10014,7 +10014,6 @@
 1topspy.com
 2008377162.cfd
 2071486361jhute45r.cyou
-20x8rk.info
 2baserec2.guru
 33across.com
 4-dot-all-tracker.appspot.com
@@ -10055,7 +10054,6 @@ aax.amazon-adsystem.com
 absolutesoftsystem.in
 ac480.firebaseio.com
 accessonline989876653783documentation.cloud-storage-0935784.workers.dev
-accoun.jvenher.cn
 accoun.kgjxupm.cn
 account.cellphone-remote-tracker.com
 account.childsafetytrackerapp.com
@@ -10154,7 +10152,6 @@ alphonso.tv
 alter757.info
 altzserberin.info
 amber-ridge-bruixsioi.pro
-aminacompliance.info
 amon.android-monitor.ru
 amon1.android-monitor.ru
 amos-stealer.com
@@ -10215,7 +10212,6 @@ androidapk.biz
 androidlost.appspot.com
 androidlost.com
 androidlost.firebaseio.com
-aniv.cjlnzrn.cn
 anlytic-js-cloud.beer
 anmon.android-monitor.ru
 anmon.name
@@ -10519,7 +10515,6 @@ bilineate.top
 billing.umobix.com
 bincdi.6kvses.com
 bincdi.birxpk.com
-binmadi.screenconnect.com
 biocatch.com
 birxpk.com
 bk128.com
@@ -10568,7 +10563,6 @@ c.amazon-adsystem.com
 c.appjiagu.com
 c1.panspy.com
 c2.teamzeroday.net
-ca-ndaxcdn.framer.media
 cabinet.ecohouse-eg.com
 cabinet.gps-monitor.uz
 cabinet.kfnm.ru
@@ -10580,7 +10574,6 @@ cabinet.vkur1.se
 cabs.thomsonreuters.com
 cakesdrum.com
 calibrated.cfd
-calvinsmithlaw.screenconnect.com
 cambridgemobiletelematicsdata.com
 campus-petite-timothy-gulf.trycloudflare.com
 capitalwillowgate.com
@@ -10737,7 +10730,6 @@ coremetrics.com
 corn-cob.com
 costcodeltosin.s3.us-east-1.amazonaws.com
 countly.com
-cove-koi-hk753.xyz
 cp.mspyonline.com
 cp.preparationguru.com
 cp.pushwoosh.com
@@ -10754,7 +10746,6 @@ crashlytics.com
 crashlyticsreports-pa.googleapis.com
 crashreporter-update.com
 creditashfield.info
-creyt.cl
 crosswise.com
 crypto-loot.com
 cryptoloot.pro
@@ -10769,6 +10760,7 @@ curehealthway.com
 currentware.com
 cushiondrum.com
 customer.io
+cutstudios.life
 cvspharmacy.com
 cyberprotector.online
 d-app-apk.com
@@ -10817,7 +10809,6 @@ db.spylive360.com
 db8.io
 dc-static.wondershare.cn
 dcmentservceportl.sbs
-dct-1t9.pages.dev
 ddiutilities.com
 de-zines.com
 dealcartdirect.com
@@ -10826,8 +10817,8 @@ debtriversideledger.info
 decide.mixpanel.com
 deepminer.com
 delighted.com
-delphiaonline.top
 deltas.samsungads.com
+desertramble-jp.com
 desktime.com
 dev.hoverwatch.com
 dev.snoopza.com
@@ -10952,6 +10943,7 @@ eyezyapp.thd.cc
 f.appjiagu.com
 fa.windows32.men
 facai.mwkwnnn.click
+facebook-logiin.vercel.app
 facebook.hosweb.online
 facebook.sioll.net
 factual.com
@@ -10964,9 +10956,7 @@ fdp122.nyc3.digitaloceanspaces.com
 featuregates.org
 feedbackws.apple.com
 feibidawuli-jp.com
-ferreteriadepot.com
 files.prebid.org
-files.surveillance-online.com
 finance-information.online
 finance-informations.online
 financeoakmont.com
@@ -10991,7 +10981,6 @@ flexible-networks.com
 flexispy.com
 flibbertigibbet.top
 flispax.digital
-florida-yes.com
 flower.snoopza.com
 fls.amazon.com
 flurry.com
@@ -11064,7 +11053,6 @@ greenerpasturetrading.info
 grid-push.com
 grinosp.digital
 groundtruth.com
-gtib96.onlinewebshop.net
 guach.net
 guestspy.com
 gum.criteo.com
@@ -11077,13 +11065,11 @@ h.online-metrix.net
 h4x.tv
 habu.com
 hadronid.net
-hallo.jiaoyang677.sbs
 hanvior.cfd
 haoniuzibe-jp.com
 haqerra.com
 harborstonegroup.shop
 hardwood-studio-obviously-briefing.trycloudflare.com
-hasoadwaznqps.com
 hazelnut.co.rs
 hbyqq.cn
 hdhdandan.duckdns.org
@@ -11095,7 +11081,6 @@ heap.com
 heapanalytics.com
 hellospy.com
 help.spylive360.com
-hhmjjdfwzx.com
 highstermobi.com
 hippocratic.top
 hl-ltd.screenconnect.com
@@ -11250,7 +11235,6 @@ izapk.xyz
 izspy-1313.firebaseio.com
 jailbreak-gateway.thd.cc
 jampp.com
-jcanskjihdajio.cyou
 jfkjetblue.com
 jiangchashi-jp.com
 jinsm.cn
@@ -11306,7 +11290,6 @@ lb.id5-sync.com
 lb.theonespy.com
 lbk-sol.com
 leanplum.com
-leiber.top
 lepiceriemarket.com
 letmespy.com
 lever-analytics.com
@@ -11325,7 +11308,6 @@ liveramp.net
 livesmeet.us
 livesmeets.us
 lkqd.net
-lnferragens.com
 lnsygjswxx.com
 localytics.com
 locationdata.ai
@@ -11351,7 +11333,6 @@ loin-annzn.mydw88.com
 lotame.com
 loverman.net
 lr-ingest.io
-luckyprint52.ru
 lum-res31.luminati.io
 luminati.io
 lumma5b6r.com
@@ -11603,7 +11584,6 @@ npm-security-audit.com
 nr-data.net
 ns1.virsis.net
 ns2.virsis.net
-nyqxa4.scienceontheweb.net
 o1.ingest.sentry.io
 o6rtgcjdjqyimjxexpejddhdfbehsjn4fcsazfkgwydeb27gqhtdntyd.onion
 obliquity.top
@@ -11633,6 +11613,7 @@ onespy-in-196211.firebaseio.com
 onetoken.ink
 onixone.com.co
 online-metrix.net
+onlinecapcutedit.top
 onlinefundb.com
 open-collectors.sumologic.com
 openaaii.com
@@ -11733,14 +11714,11 @@ play-store-3bb64.firebaseio.com
 playintegrity.googleapis.com
 pohon4donly.art
 poiwaksuwa.com
-poiwaldsas.com
 policiacivilmg.com
 politicalsciencestudent.com
 polygon-c2-relay.com
 portal.flexispy.com
 portlcoedu.com
-posidwaksd.com
-posta-hr.live
 postbacks.appsflyer.com
 posthog.com
 poyanercold.top
@@ -11883,9 +11861,10 @@ proxy.reptilicus.net
 prozhe.vip
 ps97mailer.logger.mobi
 psd.markets
-pso-ngd.ru
 psznaoehteeh.com
 ptai.in
+pub-1e489e802c044438b77b5f3eb2390c68.r2.dev
+pub-209ca94c79b043bea60b0f7868222cd4.r2.dev
 pub-2deedb30aff5494b826a955e4e27f0d5.r2.dev
 pub-313b636324fd4678a4a5d96493f238eb.r2.dev
 pub-780cf773478848a69b30738c3423d481.r2.dev
@@ -11952,6 +11931,7 @@ refog.org
 regdev-google.com
 regionconfig.amplitude.com
 reimage.com
+relay.goruf.top
 relay1.trackview.net
 remerge.io
 remotecommands.com
@@ -11962,7 +11942,6 @@ repo.mspyonline.com
 report-1.appmetrica.webvisor.com
 report-2.appmetrica.webvisor.com
 report-partners.appmetrica.yandex.net
-report-uhs.com
 report.appmetrica.yandex.net
 reports.appsee.com
 reproxy.io
@@ -12009,7 +11988,6 @@ rum-ingest.us1.signalfx.com
 rum.aliyuncs.com
 rum.browser-intake-datadoghq.com
 runaki-support.appspot.com
-rvmxsg.cfd
 s.amazon-adsystem.com
 s.appjiagu.com
 s.servidor.in
@@ -12145,6 +12123,7 @@ shadow-logs.com
 shadow-spy.com
 shadowappbundle-default-rtdb.firebaseio.com
 shadowlogspanel.firebaseio.com
+share-files-onedrive.com
 sharethrough.com
 shenzhenmk-jp.com
 shieldmetasetup.com
@@ -12188,7 +12167,6 @@ snoopza.com
 snowplow.io
 snowplowanalytics.com
 solana-beacon.net
-soloferreteria.com
 southportlane-jp.com
 sovrn.com
 sp.analytics.yahoo.com
@@ -12379,7 +12357,6 @@ threatmetrix.com
 thriddata.com
 timedoctor.com
 tispy.net
-tjbiaoben.com
 tls.telemetry.swe.quicinc.com
 tlx.3lift.com
 tmsapi.com
@@ -12475,7 +12452,6 @@ tttkkkssww.com
 tun-cos-1258344701.file.myqcloud.com
 turismodem-jp.com
 turn.com
-tvzc49.sportsontheweb.net
 typeform.com
 u1.panspy.com
 u5v4o3.cn
@@ -12586,7 +12562,6 @@ visit.tealiumiq.com
 vizio.com
 vkur.se
 vkur1.se
-vr.znbbmwqp.com
 vscode-extension-update.net
 vys.me
 wallet-security-check.net
@@ -12618,12 +12593,12 @@ wethnc067.xyz
 where-is-my-children.firebase.io
 whiteops.com
 widget.criteo.com
+win-5nadl1jm5uv.tail84c20e.ts.net
 winupdate.live
 winzipdriverupdater.com
 wmdcommander.appspot.com
 wmt.com
 worktime.com
-worldprimenew-jp.com
 wppspy.tech
 wrs.clevertap.com
 ws.spylive360.com
@@ -12698,7 +12673,6 @@ xpcpanel.com
 xtracker.logimeter.com
 xursod.com
 xv57j3d.scienceontheweb.net
-xxxmu.top
 yablochnisok.com
 yandexmetrica.com
 yaojinhouse-jp.com
