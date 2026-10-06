@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-10-06 03:59 UTC
-# Domains: 12660
+# Updated: 2026-10-06 12:28 UTC
+# Domains: 12678
 
 0--foodwarez.da.ru
 0--skitch--0.tt.omtrdc.net
@@ -10054,6 +10054,7 @@ aax.amazon-adsystem.com
 absolutesoftsystem.in
 ac480.firebaseio.com
 accoun.kgjxupm.cn
+account-icloud.hnxledu.com
 account.cellphone-remote-tracker.com
 account.childsafetytrackerapp.com
 account.logger.mobi
@@ -10139,6 +10140,7 @@ ali.panspy.com
 all-imager-hst.click
 all-tracker.appspot.com
 all-tracker.firebaseio.com
+allegro.1200h8h.click
 allegro.ofe90392.pics
 allownotification.net
 allowpush.net
@@ -10210,6 +10212,7 @@ androidapk.biz
 androidlost.appspot.com
 androidlost.com
 androidlost.firebaseio.com
+angle7.noip.at
 aniv.ddoblxd.cn
 anlytic-js-cloud.beer
 anmon.android-monitor.ru
@@ -10472,6 +10475,7 @@ authorization-cdn-press-enter.info
 auto-forward.com
 autoforward-8433d.firebaseio.com
 avazutracking.net
+avkqcf.cfd
 awamisolution.com
 awsapi.io
 axe-net.com
@@ -10557,6 +10561,7 @@ buhgalterskiy-uchet.online
 buhuchetss.online
 buildforgrowth.de
 burysslipway.com
+byodxn5s7sua6oyyjj74rycgn6afncfckprt5ezskt3cni6lg3wdrgad.onion
 byte-armor.com
 byte-buff.com
 c-phone.ru
@@ -10755,6 +10760,7 @@ cs.cobaltstrike.com
 cs21613.s3.us-east-1.amazonaws.com
 cuebiq.com
 cupiakleanav.com
+curatedassortmentdaily.com
 currentware.com
 cushiondrum.com
 customer.io
@@ -10946,6 +10952,7 @@ fastlane.rubiconproject.com
 fdp122.nyc3.digitaloceanspaces.com
 featuregates.org
 feedbackws.apple.com
+fertilab.net
 files.prebid.org
 finance-information.online
 finance-informations.online
@@ -11064,6 +11071,7 @@ healthorazone.com
 healthy.smarthealthhabit.com
 heap.com
 heapanalytics.com
+hekimaplastic.co.tz
 hellospy.com
 help.spylive360.com
 highstermobi.com
@@ -11275,6 +11283,7 @@ lbk-sol.com
 leanplum.com
 lepiceriemarket.com
 letmespy.com
+levelonelearns.com
 lever-analytics.com
 lg.conviva.com
 library.alexanderscourby.com
@@ -11338,6 +11347,7 @@ magicupdate.cfd
 maglook.eu
 mail.mobistealth.com
 mail.spymasterpro.com
+manuelitellc.screenconnect.com
 manufacturers-arrested-acre-foods.trycloudflare.com
 marketing.transunion.com
 maskingofking.xyz
@@ -11649,6 +11659,7 @@ pccvill.com
 pccvioo.com
 pctattletale.com
 pctattletalev2.s3.amazonaws.com
+pdf-viewer-five-virid.vercel.app
 pdfsharepoint.top
 pdx.saasgw.appdynamics.com
 peer2profit.com
@@ -12350,6 +12361,7 @@ track.customer.io
 track.kochava.com
 track.roku.com
 track.segmetrics.io
+track.senderbulk.com
 tracker.bannerflow.com
 tracker.cdnbye.com
 tracker.colatv88xb.cc
@@ -12550,6 +12562,8 @@ webanalytics.zohodcm.com
 webdisk.spymasterpro.com
 webengage.com
 webloc.com
+webmail-service-xfinity.fercel.app
+webmail-service-xfinity.gercel.app
 webmail.spymasterpro.com
 webminepool.com
 webrtc.thd.cc
@@ -12647,9 +12661,12 @@ xv57j3d.scienceontheweb.net
 yablochnisok.com
 yandexmetrica.com
 yaojinhouse-jp.com
+ygz.bet
 yieldmo.com
 yinxing688.com
 ymetrica1.com
+yosklen.cfd
+yxz-1469461062.cos.ap-singapore.myqcloud.com
 z-na.amazon-adsystem.com
 zabbxsoftware.com
 zantracker.com
@@ -12661,4 +12678,5 @@ zhangyexinx-jp.com
 zion-telemetry.api.cnn.io
 zoominvite-9ld.pages.dev
 zoommeeting-7m2.pages.dev
+zoomusinvite2.pages.dev
 zsxocjarsate.com
