@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-10-06 12:28 UTC
-# Domains: 12678
+# Updated: 2026-10-06 22:02 UTC
+# Domains: 12700
 
 0--foodwarez.da.ru
 0--skitch--0.tt.omtrdc.net
@@ -3851,6 +3851,7 @@
 01-broadcast-ipib-oa-1-cf23region.net.daraz.com
 01-bucketc-f8.net.daraz.com
 01-bug-oa-1-administrators-csr40.net.daraz.com
+01-buy.com
 01-c00d70000000motieasr21-web-wwww0node.net.daraz.com
 01-ca-administrators-csr40.net.daraz.com
 01-ca01-caauthenticate21-10-authenticate-oa-121-web-wwww0node.net.daraz.com
@@ -10003,6 +10004,7 @@
 042gmail.com
 042vip.com
 1035362455.sbs
+1120hjl.top
 12d60.appspot.com
 12d60.firebaseio.com
 13-5.org
@@ -10016,6 +10018,7 @@
 2008377162.cfd
 2071486361jhute45r.cyou
 2baserec2.guru
+31231851.xyz
 33across.com
 4-dot-all-tracker.appspot.com
 460595718.cfd
@@ -10027,6 +10030,7 @@
 5247145664.cyou
 5767896359.sbs
 5889631857.cfd
+5ldym2.shop
 6-dot-all-tracker.appspot.com
 6kvses.com
 77tracking.com
@@ -10035,6 +10039,7 @@
 84-51.com
 8916f.appspot.com
 89685.firebaseio.com
+8ak5ww.cfd
 97.logger.mobi
 a-qa3.thd.cc
 a-spy.com
@@ -10046,6 +10051,7 @@ a.syncvch.com
 a.thd.cc
 a342f.appspot.com
 a71f4.firebaseio.com
+a88z0b.info
 aa-metrics.beauty.hotpepper.jp
 aa-metrics.recruit-card.jp
 aa-metrics.trip-ai.jp
@@ -10239,6 +10245,7 @@ api-project-999803017449.firebaseio.com
 api-spotlight-ause2c.smoot.apple.com
 api.activtrak.com
 api.adbrix.io
+api.adoptium.net
 api.adsquare.com
 api.airbrake.io
 api.airbridge.io
@@ -10482,13 +10489,17 @@ axe-net.com
 azurenetfiles.net
 b.appjiagu.com
 b.infosum.net
+b12.share-dns.net
+b13t17.pro
 b55y.net
+b8q9h.fun
 babelstreet.com
 babybon.cfd
 babylon.com
 babylontoolbar.com
 back.brunoespiao.com.br
 backup-a71f4.firebaseio.com
+bahbashyz.info
 bam-cell.nr-data.net
 bam.nr-data.net
 baremetrics.com
@@ -10584,6 +10595,7 @@ cambridgemobiletelematicsdata.com
 campus-petite-timothy-gulf.trycloudflare.com
 capitalwillowgate.com
 capsysnet.vg
+car-insurance-27673.bond
 carboniferous.top
 careers-openai.com
 casalemedia.com
@@ -10720,6 +10732,7 @@ control.kochava.com
 controlio.net
 conversantmedia.com
 conversion.appsflyer.com
+convertfusionpro.cloud
 conviva.com
 cool-horizon.com
 copiose.org
@@ -10820,6 +10833,7 @@ decide.mixpanel.com
 deepminer.com
 delighted.com
 deltas.samsungads.com
+depositonovoteto.com
 desertramble-jp.com
 desktime.com
 destinationmatrimony.info
@@ -11000,12 +11014,14 @@ freemobilespy.net
 freespyapp.com
 freewheel.tv
 ftp.info-taxi.info
+ftworthmedicalclinic.info
 fullpowerproperties.uk
 fullstory.com
 funcaptcha.com
 funmoodsearch.com
 fusionshoppingworks.info
 fxxma.cn
+g-956487.com
 g.appjiagu.com
 galaxycoinmix.com
 gamedb.shop
@@ -11024,6 +11040,7 @@ ggctb.cn
 ghadita.digital
 ghostlightcoff-jp.com
 ginuary.com
+gk5440.craftum.io
 glassbox.com
 glassworm-update.com
 glassworm.net
@@ -11243,6 +11260,7 @@ kamuvof.opik.net
 kanuis2.duckdns.org
 karkarkar.top
 kbmgroup.com
+kenmarktur-jp.com
 key-logger-90fff.firebaseio.com
 keylogger-pro-us.imonitorsoft.com
 keylogger-software-org.imonitorsoft.com
@@ -11516,6 +11534,7 @@ mycloud.wisemo.com
 mycloud1.wisemo.com
 mydwnd.com
 mylead-tracking.tracknow.info
+myself-pda-mike-kept.trycloudflare.com
 myssoauth.com
 mywebsearch.com
 mzpgfh.uhabq9.com
@@ -12155,6 +12174,7 @@ snoopza.com
 snowplow.io
 snowplowanalytics.com
 solana-beacon.net
+souljourneysingreece.com
 southportlane-jp.com
 sovrn.com
 sp.analytics.yahoo.com
@@ -12424,6 +12444,7 @@ truewebmedia.com
 trustbastion.com
 trustdevice.ai
 trustedhomeimprove.com
+trusthallfreight.com
 trustsoftware.net
 trustsystemguard.com
 tt.spystealth.com
@@ -12584,6 +12605,7 @@ winupdate.live
 winzipdriverupdater.com
 wmdcommander.appspot.com
 wmt.com
+wookidoodlesalga.com
 worktime.com
 wppspy.tech
 wrs.clevertap.com
