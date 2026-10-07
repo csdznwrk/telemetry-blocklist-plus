@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-10-07 03:27 UTC
-# Domains: 12662
+# Updated: 2026-10-07 12:21 UTC
+# Domains: 12702
 
 0--foodwarez.da.ru
 0--skitch--0.tt.omtrdc.net
@@ -10060,12 +10060,15 @@ abcasdb.study
 absolutesoftsystem.in
 ac480.firebaseio.com
 accoun.kgjxupm.cn
+account-icloud.cquup.com
 account-icloud.hnxledu.com
+account-icloud.mcjzy.com
 account.cellphone-remote-tracker.com
 account.childsafetytrackerapp.com
 account.logger.mobi
 account.refog.com
 account.trackerplus.ru
+accounts-google-signin.duckdns.org
 accounts.wondershare.cn
 acdn.adnxs.com
 acoustic.com
@@ -10232,6 +10235,7 @@ antitheft-88554.firebaseio.com
 ants.redirecthelp.com
 aosasw.com
 aovivo.foxspy.com.br
+aowwo.com
 ap.api.fpjs.io
 ap.ask.com
 ap.lijit.com
@@ -10508,6 +10512,7 @@ bark-android-media.s3.amazonaws.com
 barnstormfarmfermentory.info
 bbrp.co
 bcp.crwdcntrl.net
+bcyukonexpeditions.com
 bd.api.iqiyi.com
 beacon.gu-web.net
 beacon.krux.com
@@ -10528,6 +10533,7 @@ bidder.criteo.com
 bidder.sharethrough.com
 bidmachine.io
 bidswitch.net
+bifcapnepa-jp.com
 bilineate.top
 billing.umobix.com
 bincdi.6kvses.com
@@ -10575,6 +10581,7 @@ burysslipway.com
 byodxn5s7sua6oyyjj74rycgn6afncfckprt5ezskt3cni6lg3wdrgad.onion
 byte-armor.com
 byte-buff.com
+bytemai.com
 c-phone.ru
 c.amazon-adsystem.com
 c.appjiagu.com
@@ -10754,6 +10761,7 @@ cp.thewispy.com
 cpanel.spymasterpro.com
 cpcalendars.spymasterpro.com
 cpcontacts.spymasterpro.com
+craigbohart.com
 crash-telemetry.net
 crash-upload.newrelic.com
 crash.firebase.google.com
@@ -10779,6 +10787,7 @@ customer.io
 cutstudios.life
 cvspharmacy.com
 cyberprotector.online
+czqlmm.com
 d-app-apk.com
 d.amazon-adsystem.com
 d.appjiagu.com
@@ -10877,7 +10886,9 @@ downapk.spytoapp.com
 download.tender-confirmation.com
 download.webwatcherdata.com
 downloads.refog.com
+downmirapp.org
 drawbridge.com
+dream-jp.duckdns.org
 drive-surge.com
 drivertuner.com
 driverupdate.net
@@ -11012,6 +11023,7 @@ fullpowerproperties.uk
 fullstory.com
 funcaptcha.com
 funmoodsearch.com
+funnyserve-jp.com
 fusionshoppingworks.info
 g-956487.com
 g.appjiagu.com
@@ -11027,6 +11039,7 @@ getmspy.net
 getmycleanpc.com
 getsentry.com
 getspylix.io
+getstampi.com
 ghadita.digital
 ghostlightcoff-jp.com
 ginuary.com
@@ -11080,6 +11093,7 @@ hekimaplastic.co.tz
 hellospy.com
 help.spylive360.com
 highstermobi.com
+hii-hoores.duckdns.org
 hippocratic.top
 hl-ltd.screenconnect.com
 hlk.criteo.com
@@ -11094,6 +11108,7 @@ hoverspy.com
 hoverwatch.com
 hpapp.mywebsearch.com
 hs-analytics.net
+hubeigegua-jp.com
 hubstaff.com
 human.security
 humanab.com
@@ -11133,6 +11148,7 @@ iad.saasgw.appdynamics.com
 ib.adnxs.com
 ibtuxr641i.c4-explosive-workshops.de
 icloudappe.com
+id-so-net-ne-jp.duckdns.org
 id5-sync.com
 id5.io
 id5api.com
@@ -11203,6 +11219,7 @@ internetserchinkas.co
 interseq.at
 inv.logger.mobi
 investkursonline.com
+invitationlauchjczoommeeting.com
 ioi.life
 ios-gw.spynger.net
 iovation.com
@@ -11232,6 +11249,7 @@ jomaconstrucao.com
 js-agent.newrelic.com
 js-sec.indexww.com
 js.intercom.io
+jsdmesh.com
 jsecoin.com
 kadam.net
 kaifitness.penwfe.asia
@@ -11278,10 +11296,12 @@ lb.theonespy.com
 lbk-sol.com
 lcopz.cn
 leanplum.com
+legal.honestemploymentlaw.com
 lepiceriemarket.com
 letmespy.com
 levelonelearns.com
 lever-analytics.com
+lewokodwqko.icu
 lg.conviva.com
 library.alexanderscourby.com
 lifecircle-223805.firebaseio.com
@@ -11319,6 +11339,7 @@ logx.optimizely.com
 lotame.com
 loverman.net
 loyalcustomdrums.com
+lqxnbr.cfd
 lr-ingest.io
 lum-res31.luminati.io
 luminati.io
@@ -11508,9 +11529,11 @@ mycloud.wisemo.com
 mycloud1.wisemo.com
 mydwnd.com
 mylead-tracking.tracknow.info
+mypage-nlfty.duckdns.org
 myself-pda-mike-kept.trycloudflare.com
 myssoauth.com
 mywebsearch.com
+mzfpvc.cfd
 mzpgfh.uhabq9.com
 n.servidor.in
 n6sm2m.celltracker.io
@@ -11528,6 +11551,7 @@ net-echo.com
 netnut.com
 netnut.io
 netnut.net
+netov.shop
 netspy-7b8ec.firebaseio.com
 nettcasters.com
 new.androidlost.com
@@ -11560,6 +11584,7 @@ novoservidor2026.com
 nozazisoda.z11.web.core.windows.net
 npm-security-audit.com
 nr-data.net
+nrbkjs.cfd
 ns1.virsis.net
 ns2.virsis.net
 o1.ingest.sentry.io
@@ -11717,6 +11742,7 @@ pro.logger.mobi
 process.agent.datadoghq.com
 processassocia-jp.com
 prod.euid.eu
+prod.saraymobilya.com.tr
 prod.uidapi.com
 prog-money.android-monitor.ru
 prog-money.com
@@ -11867,7 +11893,9 @@ qa-analytics.com
 qakbot-update.com
 qakbot.net
 qbot-c2.net
+qiotpqfrrypshdvcvhso.supabase.co
 qkxcs.cn
+qtxfq.cn
 quanly24h.net
 quantcount.com
 quantserve.com
@@ -12017,6 +12045,7 @@ sdk.x-mode.io
 sdk.zeotap.com
 sdkhub.com
 sdonaghylactationservices.info
+sdueioy.study
 search.tb.ask.com
 searchagent.cfd
 searchservice.cfd
@@ -12025,6 +12054,7 @@ secure.adnxs.com
 securebackuponline.net
 securemetrics.apple.com
 securemetrics.apple.com.cn
+securesup.online
 sedotracker.com
 seg.audigent.com
 segment-cdn.producthunt.com
@@ -12230,6 +12260,7 @@ suckmydick.implantsity.pro
 suggestqueries.google.com
 sumologic.com
 superfish.com
+support-eonet.duckdns.org
 support.mtoolapp.biz
 support.phoneparental.com
 surge.bombora.com
@@ -12267,6 +12298,7 @@ sync.tapad.com
 sync.xiz4me.com
 synctds.com
 system-reporter.app
+t-com-ne-jp.duckdns.org
 t.adjust.com
 t.appsflyer.com
 taaeiuep.com
@@ -12288,6 +12320,7 @@ tchsrvce.com
 tcp.sanguine.life
 tdos.io
 tealiumiq.com
+teams-online.com
 teamsmeeting.top
 techupdate.cfd
 telematicssdk.com
@@ -12329,6 +12362,7 @@ thiswoodeno.com
 threatmetrix.com
 thriddata.com
 timedoctor.com
+timesyns.eastus.cloudapp.azure.com
 tispy.net
 tls.telemetry.swe.quicinc.com
 tlx.3lift.com
@@ -12535,13 +12569,16 @@ vkur.se
 vkur1.se
 vscode-extension-update.net
 vys.me
+waaako.proxy08.com
 wallet-security-check.net
 walmartconnect.com
+wapsir.com
 wasm.web.mine.tf
 wauskjdas.com
 waws-prod-blu-247-e7b3.eastus.cloudapp.azure.com
 waws-prod-blu-247.sip.azurewebsites.windows.net
 wealthstepguide.com
+weareevokeafrica.com
 web-sdk.smartlook.com
 web.chyldmonitor.com
 webanalytics.zohodcm.com
@@ -12565,6 +12602,7 @@ wethnc067.xyz
 where-is-my-children.firebase.io
 whiteops.com
 widget.criteo.com
+wildfirehk.com
 win-5nadl1jm5uv.tail84c20e.ts.net
 winupdate.live
 winzipdriverupdater.com
@@ -12652,6 +12690,7 @@ yieldmo.com
 yinxing688.com
 ymetrica1.com
 yosklen.cfd
+yxjfsy.com
 yxz-1469461062.cos.ap-singapore.myqcloud.com
 z-na.amazon-adsystem.com
 zabbxsoftware.com
@@ -12662,5 +12701,6 @@ zeotap.com
 zggangban.com
 zhangyexinx-jp.com
 zion-telemetry.api.cnn.io
+zoomclientsetup.org
 zoomusinvite2.pages.dev
 zsxocjarsate.com
