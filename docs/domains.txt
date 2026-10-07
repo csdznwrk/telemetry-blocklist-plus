@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-10-07 12:21 UTC
-# Domains: 12702
+# Updated: 2026-10-07 22:27 UTC
+# Domains: 12727
 
 0--foodwarez.da.ru
 0--skitch--0.tt.omtrdc.net
@@ -10105,6 +10105,7 @@ ads.target.com
 ads.vervegroup.com
 adsdatahub.google.com
 adserver.irishwebmasterforum.com
+adserverworkshub.com
 adservice.google.com
 adsmartracker.com
 adsquare.com
@@ -10491,6 +10492,7 @@ avkqcf.cfd
 awamisolution.com
 awsapi.io
 axe-net.com
+aykfm.cn
 azurenetfiles.net
 b.appjiagu.com
 b.infosum.net
@@ -10504,6 +10506,7 @@ babylon.com
 babylontoolbar.com
 back.brunoespiao.com.br
 backup-a71f4.firebaseio.com
+bagueie.xyz
 bahbashyz.info
 bam-cell.nr-data.net
 bam.nr-data.net
@@ -10753,6 +10756,7 @@ coremetrics.com
 corn-cob.com
 cosmicsky.xyz
 costcodeltosin.s3.us-east-1.amazonaws.com
+couhe79.xyz
 countly.com
 cp.mspyonline.com
 cp.pushwoosh.com
@@ -10771,6 +10775,7 @@ crashlyticsreports-pa.googleapis.com
 crashreporter-update.com
 creditashfield.info
 crosswise.com
+crying881.beer
 crypto-loot.com
 cryptoloot.pro
 cryptonotepool.com
@@ -10951,6 +10956,7 @@ exapi-apac.rubiconproject.com
 exapi-eu.rubiconproject.com
 exapi-us-east.rubiconproject.com
 exapi-us-west.rubiconproject.com
+exopurple.blob.core.windows.net
 expirience.icu
 extremetracking.com
 eye.theeyecenterofcolumbus.com
@@ -11006,6 +11012,7 @@ flushdata3.hellospy.com
 flushdata4.hellospy.com
 flushdata5.hellospy.com
 flushdbd.maxxspy.com
+fnfkv.cn
 fogdatascience.com
 fonemonitor.vip
 foreverspy.com
@@ -11013,6 +11020,7 @@ forum.reptilicus.net
 foursquare.com
 fpjscdn.net
 fptls.com
+fqelt.cn
 fra.saasgw.appdynamics.com
 freemobilespy.net
 freespyapp.com
@@ -11078,9 +11086,11 @@ h.online-metrix.net
 h4x.tv
 habu.com
 hadronid.net
+hahah1101.mom
 hanvior.cfd
 haqerra.com
 harborstonegroup.shop
+hardly-signatures-loc-surf.trycloudflare.com
 hardwood-studio-obviously-briefing.trycloudflare.com
 hazelnut.co.rs
 health.vitalhealthportal.com
@@ -11110,6 +11120,7 @@ hpapp.mywebsearch.com
 hs-analytics.net
 hubeigegua-jp.com
 hubstaff.com
+hugg1ngvx.top
 human.security
 humanab.com
 humanity.com
@@ -11185,6 +11196,7 @@ info-taxi.info
 info.lgsmartad.com
 infoacxiom.com
 infores.com
+infosever.linkup.store
 infosum.com
 infosum.net
 ingest.cuebiq.com
@@ -11246,6 +11258,7 @@ jiangchashi-jp.com
 jjspy.com
 jjspy.ml
 jomaconstrucao.com
+jrxciw2.xyz
 js-agent.newrelic.com
 js-sec.indexww.com
 js.intercom.io
@@ -11275,6 +11288,7 @@ klg.a-spy.com
 kochava.com
 kokum.ru
 komodia.com
+krioldflaeara-willow.pro
 krogerads.com
 krux.com
 kruxdigital.com
@@ -11366,6 +11380,7 @@ manuelitellc.screenconnect.com
 manufacturers-arrested-acre-foods.trycloudflare.com
 marketing.transunion.com
 maskingofking.xyz
+matadorbetonlinegiris.com
 matheranalytics.com
 maxxspy.com
 mcloud-api.thd.cc
@@ -11576,6 +11591,7 @@ node3.theonespy.com
 node4.theonespy.com
 node5.theonespy.com
 nodejs.spyhuman.com
+nomaiei.sbs
 notifications-pa.googleapis.com
 notify.bugsnag.com
 notifyme.network
@@ -11710,6 +11726,7 @@ platform.lkqd.net
 plausible.io
 play-store-3bb64.firebaseio.com
 playintegrity.googleapis.com
+plbkm.cn
 pohon4donly.art
 policiacivilmg.com
 politicalsciencestudent.com
@@ -11894,6 +11911,7 @@ qakbot-update.com
 qakbot.net
 qbot-c2.net
 qiotpqfrrypshdvcvhso.supabase.co
+qjkoy.cn
 qkxcs.cn
 qtxfq.cn
 quanly24h.net
@@ -12017,6 +12035,7 @@ sap4mobile.com
 sapient-flight-837.firebaseio.com
 sardine.ai
 sas.smartadserver.com
+sayosay.cc
 sb.scorecardresearch.com
 sc-analytics.appspot.com
 schedule-meeting-zoom.us
@@ -12320,6 +12339,7 @@ tchsrvce.com
 tcp.sanguine.life
 tdos.io
 tealiumiq.com
+teams-microsoft-downloads.com
 teams-online.com
 teamsmeeting.top
 techupdate.cfd
@@ -12472,6 +12492,7 @@ uf.brunoespiao.com.br
 uf.evaspy.com
 uf.maglook.eu
 uf1.brunoespiao.com.br
+ufatr.cn
 ug.evaspy.com
 ug1c5v.birxpk.com
 uh.evaspy.com
@@ -12498,6 +12519,7 @@ update-browser-now.com
 update-service-7e59f.firebaseio.com
 update-ssl.netlify.app
 update.dealply.com
+update.zip
 updatebrowser.net
 updates.nmwatchman.com
 upload.weiguanai.cn
@@ -12536,6 +12558,7 @@ venntel.com
 veraset.com
 veriato.com
 verify-captcha-human.com
+verifyaccount-google.com
 verisk.com
 veriskmarketing.com
 vermontsolidsurface.info
@@ -12604,11 +12627,13 @@ whiteops.com
 widget.criteo.com
 wildfirehk.com
 win-5nadl1jm5uv.tail84c20e.ts.net
+winatp-gw-neu-cdfwbue5cvdsfpa5.a02.azurefd.net
 winupdate.live
 winzipdriverupdater.com
 wmdcommander.appspot.com
 wmt.com
 wookidoodlesalga.com
+workspacegranite.com
 worktime.com
 wppspy.tech
 wrs.clevertap.com
