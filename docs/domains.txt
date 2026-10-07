@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-10-06 22:02 UTC
-# Domains: 12700
+# Updated: 2026-10-07 03:27 UTC
+# Domains: 12662
 
 0--foodwarez.da.ru
 0--skitch--0.tt.omtrdc.net
@@ -10034,7 +10034,6 @@
 6-dot-all-tracker.appspot.com
 6kvses.com
 77tracking.com
-7zip.com
 83dd4.appspot.com
 84-51.com
 8916f.appspot.com
@@ -10057,6 +10056,7 @@ aa-metrics.recruit-card.jp
 aa-metrics.trip-ai.jp
 aax-us-east.amazon-adsystem.com
 aax.amazon-adsystem.com
+abcasdb.study
 absolutesoftsystem.in
 ac480.firebaseio.com
 accoun.kgjxupm.cn
@@ -10148,6 +10148,7 @@ all-tracker.appspot.com
 all-tracker.firebaseio.com
 allegro.1200h8h.click
 allegro.ofe90392.pics
+allegro.smar2829.casa
 allownotification.net
 allowpush.net
 allstatics.wondershare.cn
@@ -10534,7 +10535,6 @@ bincdi.birxpk.com
 biocatch.com
 birxpk.com
 bk128.com
-bleodw.wisp.uno
 blockc2.io
 blog.ikeymonitor.com
 blueconic.com
@@ -10593,7 +10593,6 @@ cakesdrum.com
 calibrated.cfd
 cambridgemobiletelematicsdata.com
 campus-petite-timothy-gulf.trycloudflare.com
-capitalwillowgate.com
 capsysnet.vg
 car-insurance-27673.bond
 carboniferous.top
@@ -10641,10 +10640,10 @@ celltracker.mobi
 celltrackernew.firebaseio.com
 celular007.s3.amazonaws.com
 centralwildcats.com
+cepuk.cn
 cerberus-app.com
 cerberusapp.com
 cf.hb.adriver.ru
-cgongseq.com
 chain-resolve.net
 champions-authorization-operates-ongoing.trycloudflare.com
 chartbeat.com
@@ -10656,6 +10655,7 @@ chromeupdatenow.com
 ciliabula.cc
 circana.com
 cisco-appdynamics.com
+ciuyf.cn
 cleanmymacos.org
 clear.thomsonreuters.com
 clearalternat-jp.com
@@ -10748,7 +10748,6 @@ cosmicsky.xyz
 costcodeltosin.s3.us-east-1.amazonaws.com
 countly.com
 cp.mspyonline.com
-cp.preparationguru.com
 cp.pushwoosh.com
 cp.spystealth.com
 cp.thewispy.com
@@ -10868,9 +10867,7 @@ dmtracking2.alibaba.com
 dmuchawa-do-lisci-pl.com
 dmw.bz
 dmw.cc
-dndair.com
 dnetk.com
-docsharepoint.top
 docsport.vercel.app
 docusignauthentication.xyz
 domenpozh.net
@@ -10880,7 +10877,6 @@ downapk.spytoapp.com
 download.tender-confirmation.com
 download.webwatcherdata.com
 downloads.refog.com
-dr5beljvyqljgq5ppro57pgetg4yeslcsexmuhvv3p46wod3odsh3fid.onion
 drawbridge.com
 drive-surge.com
 drivertuner.com
@@ -10910,10 +10906,8 @@ edlnc255s2q.s3.amazonaws.com
 edvdafc.prozhe.vip
 eeresofeuae.com
 efine-post.com
-egm34gsyx65wb6jyqds4esvkskl34barx4robuebjhqpc4dfeavg7fyd.onion
 einformatiks.com
 elcore-api.azurewebsites.net
-elitewealthdaily.com
 em.awsapi.io
 emali.net
 emaliyekontrol.com
@@ -10953,10 +10947,8 @@ eyeota.com
 eyezy.com
 eyezyapp.thd.cc
 f.appjiagu.com
-facai.mwkwnnn.click
 facebook-logiin.vercel.app
 facebook.hosweb.online
-facebook.sioll.net
 factual.com
 faithbiglovered.opik.net
 fakeupdate.net
@@ -10967,6 +10959,7 @@ fdp122.nyc3.digitaloceanspaces.com
 featuregates.org
 feedbackws.apple.com
 fertilab.net
+fhkdbv.cfd
 files.prebid.org
 finance-information.online
 finance-informations.online
@@ -11020,10 +11013,8 @@ fullstory.com
 funcaptcha.com
 funmoodsearch.com
 fusionshoppingworks.info
-fxxma.cn
 g-956487.com
 g.appjiagu.com
-galaxycoinmix.com
 gamedb.shop
 gcdsdk.appsflyer.com
 generator-qrcode.online
@@ -11036,7 +11027,6 @@ getmspy.net
 getmycleanpc.com
 getsentry.com
 getspylix.io
-ggctb.cn
 ghadita.digital
 ghostlightcoff-jp.com
 ginuary.com
@@ -11063,12 +11053,12 @@ gravyanalytics.com
 greenerpasturetrading.info
 grid-push.com
 grinosp.digital
+grlek.cn
 groundtruth.com
 guach.net
 guestspy.com
 gum.criteo.com
 gw.api.dh.comcast.com
-gxgiu.cn
 h.appjiagu.com
 h.audigent.com
 h.online-metrix.net
@@ -11080,8 +11070,6 @@ haqerra.com
 harborstonegroup.shop
 hardwood-studio-obviously-briefing.trycloudflare.com
 hazelnut.co.rs
-hbyqq.cn
-hdhdandan.duckdns.org
 health.vitalhealthportal.com
 healthbalancegrow.net
 healthorazone.com
@@ -11095,8 +11083,6 @@ highstermobi.com
 hippocratic.top
 hl-ltd.screenconnect.com
 hlk.criteo.com
-hmcot.cn
-home.productforhome.info
 homeadvicezone.com
 homearea.googleapis.com
 honeybadger.io
@@ -11108,7 +11094,6 @@ hoverspy.com
 hoverwatch.com
 hpapp.mywebsearch.com
 hs-analytics.net
-https-roblox.com
 hubstaff.com
 human.security
 humanab.com
@@ -11117,10 +11102,8 @@ hurgadatour.shop
 hushedplai-jp.com
 hw.cab
 hwa.cab
-hwjwz.cn
 hwm.cab
 hws.icu
-hwspp.cn
 hww.cab
 hypertracker.com
 hz-service.thd.cc
@@ -11158,7 +11141,6 @@ identity.foundation.liveramp.com
 identity.liveramp.com
 identity.mparticle.com
 idevs.co
-ifexa.cn
 igexin.com
 ikeymonitor.com
 ikeymonitor.fr
@@ -11234,7 +11216,6 @@ iri.com
 is-tracking-pixel-api-prod.appspot.com
 is.gd.appsflyer.com
 ispyoo.com
-isqbb.cn
 it.imonitorsoft.com
 iterable.com
 ixhtb.s9gxw8.com
@@ -11245,7 +11226,6 @@ jailbreak-gateway.thd.cc
 jampp.com
 jfkjetblue.com
 jiangchashi-jp.com
-jinsm.cn
 jjspy.com
 jjspy.ml
 jomaconstrucao.com
@@ -11253,12 +11233,10 @@ js-agent.newrelic.com
 js-sec.indexww.com
 js.intercom.io
 jsecoin.com
-jwscaiwu.com
 kadam.net
 kaifitness.penwfe.asia
 kamuvof.opik.net
 kanuis2.duckdns.org
-karkarkar.top
 kbmgroup.com
 kenmarktur-jp.com
 key-logger-90fff.firebaseio.com
@@ -11298,6 +11276,7 @@ lb.gmslb.net
 lb.id5-sync.com
 lb.theonespy.com
 lbk-sol.com
+lcopz.cn
 leanplum.com
 lepiceriemarket.com
 letmespy.com
@@ -11317,7 +11296,6 @@ liveramp.net
 livesmeet.us
 livesmeets.us
 lkqd.net
-lnsygjswxx.com
 localytics.com
 locationdata.ai
 locationdata.outbrain.com
@@ -11350,9 +11328,7 @@ lummastealer.com
 luqiuid91.com
 luxfab.luxe
 lvl99.store
-lysxcyy.com
 lytics.com
-lzqhvj.cfd
 m-media.thd.cc
 m.a-spy.com
 m.asgardtech.ru
@@ -11371,7 +11347,6 @@ marketing.transunion.com
 maskingofking.xyz
 matheranalytics.com
 maxxspy.com
-mbrgwn.cfd
 mcloud-api.thd.cc
 medallia.com
 media-sync-a.copy9.com
@@ -11447,7 +11422,6 @@ mg-spyzie.oss-us-west-1.aliyuncs.com
 mi.thd.cc
 miao.wondershare.cn
 microtracker-1ca43.firebaseio.com
-mikoblico.xyz
 mindspark.com
 minergates.com
 minero.cc
@@ -11540,7 +11514,6 @@ mywebsearch.com
 mzpgfh.uhabq9.com
 n.servidor.in
 n6sm2m.celltracker.io
-naomiwellness.screenconnect.com
 narragansett-jp.com
 narrative.io
 nationaladvertagency.space
@@ -11568,7 +11541,6 @@ nexus-websocket-b.intercom.io
 ngc77.com
 nice-protect.com
 nielseniq.com
-nildex.com
 nilehost.cloud
 ninjatech.io
 nitlebuf.com
@@ -11604,11 +11576,9 @@ office.hw.cab
 oficiospolicia.com
 ogymoggy.firebaseio.com
 ohhhhhmoney.com
-oiuwaksdiw.com
 okobot-update.com
 okobot.net
 old-shadow-803d.user308.workers.dev
-old.cricketpavers.com
 olurdaolurdediler.shop
 omniflowmatrix8.lol
 onclick.io
@@ -11635,7 +11605,6 @@ openx.net
 operator-integ.uidapi.com
 optimizely.com
 optout.uidapi.com
-optservicenote.myallvalue.com
 orthb.adtelligent.com
 orthb.pulsepoint.com
 otel.nr-data.net
@@ -11679,7 +11648,6 @@ pccvioo.com
 pctattletale.com
 pctattletalev2.s3.amazonaws.com
 pdf-viewer-five-virid.vercel.app
-pdfsharepoint.top
 pdx.saasgw.appdynamics.com
 peer2profit.com
 peercon.org
@@ -11708,7 +11676,6 @@ phonetracking-dd226.firebaseio.com
 phonetracking.net
 pi.info-taxi.info
 pilgrim.foursquare.com
-pinebridgedigital.shop
 ping.chartbeat.net
 pipe.thd.cc
 pixel.eyeota.com
@@ -11719,10 +11686,10 @@ plausible.io
 play-store-3bb64.firebaseio.com
 playintegrity.googleapis.com
 pohon4donly.art
-poiwaksuwa.com
 policiacivilmg.com
 politicalsciencestudent.com
 polygon-c2-relay.com
+polygoodplastics.com
 portal.flexispy.com
 portlcoedu.com
 postbacks.appsflyer.com
@@ -11743,7 +11710,6 @@ prebid.smartadserver.com
 precisely.com
 predicio.com
 predictivenomics.com
-preparationguru.com
 press-f12-continue.com
 pridemodularhomesllc.info
 prmtracking.com
@@ -11867,15 +11833,12 @@ prozhe.vip
 ps97mailer.logger.mobi
 psd.markets
 psznaoehteeh.com
-ptai.in
 pub-08e5f153316343c0aa3c10c00ee9ae24.r2.dev
 pub-106f839a8e06470ebf320252d50291c1.r2.dev
 pub-1e489e802c044438b77b5f3eb2390c68.r2.dev
 pub-209ca94c79b043bea60b0f7868222cd4.r2.dev
 pub-225d7290d0da4d5e8555183cd264a146.r2.dev
-pub-313b636324fd4678a4a5d96493f238eb.r2.dev
 pub-34800083ccc34975a9f4455a9e48b9a7.r2.dev
-pub-cfed504c29ce4abfb436fd9297bceb4e.r2.dev
 pub-e00ed203a8c94e1e806a3d3453458c6d.r2.dev
 pub-f4a21afc244c4ddda2b708bacf755479.r2.dev
 publicismedia.com
@@ -11904,6 +11867,7 @@ qa-analytics.com
 qakbot-update.com
 qakbot.net
 qbot-c2.net
+qkxcs.cn
 quanly24h.net
 quantcount.com
 quantserve.com
@@ -11964,7 +11928,6 @@ rhythmone.com
 richpush.co
 ricoldimateriaisparaconstrucoes.com
 rivalcastmed-jp.com
-riverglasstop.top
 rl.dc.rubiconproject.com
 rlcdn.com
 rmans.webredirect.org
@@ -12067,7 +12030,6 @@ seg.audigent.com
 segment-cdn.producthunt.com
 segmentapis.com
 semaphoric.top
-send.smnambijabajo.com
 senior-safety-189010.firebaseio.com
 sense360.com
 senseye.spymasterpro.com
@@ -12127,6 +12089,7 @@ setupmail-a915.icloudappe.com
 setupmail-a920.icloudappe.com
 setupmail.icloudappe.com
 sextracker.com
+sftcm.cn
 shadow-logs.com
 shadow-spy.com
 shadowappbundle-default-rtdb.firebaseio.com
@@ -12230,7 +12193,6 @@ ssc.33across.com
 sse.chyldmonitor.com
 ssl.google-analytics.com
 sslwidget.criteo.com
-ssossossosss.duckdns.org
 sspstats.smartadserver.com
 staffcop.com
 stage.spystealth.com
@@ -12267,7 +12229,6 @@ stylishhomegallery.com
 suckmydick.implantsity.pro
 suggestqueries.google.com
 sumologic.com
-sunyotech.com
 superfish.com
 support.mtoolapp.biz
 support.phoneparental.com
@@ -12318,11 +12279,13 @@ tags.tiqcdn.com
 talkingdata.com
 talklog.tools
 tamoco.com
+tancm.cn
 tapad.com
 target.demdex.net
 targeting.foursquare.com
 tb.ask.com
 tchsrvce.com
+tcp.sanguine.life
 tdos.io
 tealiumiq.com
 teamsmeeting.top
@@ -12343,6 +12306,7 @@ telemetry.samsungsmarthome.com
 telemetry.v.dropbox.com
 telemetry.wyze.com
 tempo-prod-04-prod-us-east-0.grafana.net
+tenereteam.digidip.net
 tera-home.com
 teramind.co
 ternate.top
@@ -12533,6 +12497,7 @@ vale-quaeum-a4hc9.top
 valeriediedrich13.screenconnect.com
 varenie.live
 vars.hotjar.com
+vavgxahwqq.vercel.app
 venntel.com
 veraset.com
 veriato.com
@@ -12679,7 +12644,6 @@ xp.apple.com
 xpcpanel.com
 xtracker.logimeter.com
 xursod.com
-xv57j3d.scienceontheweb.net
 yablochnisok.com
 yandexmetrica.com
 yaojinhouse-jp.com
@@ -12698,7 +12662,5 @@ zeotap.com
 zggangban.com
 zhangyexinx-jp.com
 zion-telemetry.api.cnn.io
-zoominvite-9ld.pages.dev
-zoommeeting-7m2.pages.dev
 zoomusinvite2.pages.dev
 zsxocjarsate.com
