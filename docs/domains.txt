@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-10-08 12:30 UTC
-# Domains: 12653
+# Updated: 2026-10-08 22:40 UTC
+# Domains: 12684
 
 0--foodwarez.da.ru
 0--skitch--0.tt.omtrdc.net
@@ -10018,6 +10018,7 @@
 2008377162.cfd
 2071486361jhute45r.cyou
 2baserec2.guru
+2fa-cp.cfd
 31231851.xyz
 33across.com
 4-dot-all-tracker.appspot.com
@@ -10039,7 +10040,9 @@
 8916f.appspot.com
 89685.firebaseio.com
 8ak5ww.cfd
+96roafw91vs3hqv.top
 97.logger.mobi
+9xkcaayaagvr1p2.top
 a-qa3.thd.cc
 a-spy.com
 a.emb.app
@@ -10057,6 +10060,7 @@ aa-metrics.trip-ai.jp
 aax-us-east.amazon-adsystem.com
 aax.amazon-adsystem.com
 abcasdb.study
+abret.org
 absolutesoftsystem.in
 ac480.firebaseio.com
 account-icloud.cquup.com
@@ -10073,6 +10077,7 @@ acdn.adnxs.com
 acoustic.com
 acr.conviva.com
 actioniq.com
+activekala.shop
 activtrak.com
 ad.centrum.cz
 ad.crwdcntrl.net
@@ -10089,6 +10094,7 @@ adikteev.com
 adjust.com
 adjustnetwork.com
 adlooxtracking.com
+admin-heteml.com
 admin.flexispy.com
 adobeacrobatdoc.com
 ads-game-187f4.firebaseapp.com
@@ -10438,6 +10444,7 @@ appreciateapp.com
 apprtc.appspot.com
 appsee.com
 appsflyer.com
+appsflyer.okta-ssolink.com
 appspy-net.firebaseio.com
 appspy.net
 appsumer.com
@@ -10511,6 +10518,7 @@ baremetrics.com
 bark-android-media.s3.amazonaws.com
 barnstormfarmfermentory.info
 bbrp.co
+bcncdncl-ns.beer
 bcp.crwdcntrl.net
 bcyukonexpeditions.com
 bd.api.iqiyi.com
@@ -10643,6 +10651,7 @@ centralwildcats.com
 cepuk.cn
 cerberus-app.com
 cerberusapp.com
+cf-cdn.viktorkraynov.com
 cf.hb.adriver.ru
 chain-resolve.net
 champions-authorization-operates-ongoing.trycloudflare.com
@@ -10768,6 +10777,7 @@ crypto-loot.com
 cryptoloot.pro
 cryptonotepool.com
 cryptowallet-verify.com
+crystalmnhomes.com
 cs-repl.com
 cs.cobaltstrike.com
 cuebiq.com
@@ -10869,6 +10879,7 @@ dmuchawa-do-lisci-pl.com
 dmw.bz
 dmw.cc
 dnetk.com
+docsend.proxy08.com
 docsport.vercel.app
 domenpozh.net
 dongphucasian.com
@@ -10932,6 +10943,7 @@ events.hotjar.io
 events.launchdarkly.com
 events.segment.io
 events.split.io
+evilcrypter.ddns.com.br
 evt17.com
 exapi-apac.rubiconproject.com
 exapi-eu.rubiconproject.com
@@ -10991,6 +11003,7 @@ flushdbd.maxxspy.com
 fnfkv.cn
 fogdatascience.com
 fonemonitor.vip
+fontawesome-cdn.cfd
 foreverspy.com
 forum.reptilicus.net
 foursquare.com
@@ -11010,9 +11023,11 @@ funmoodsearch.com
 funnyserve-jp.com
 fusionshoppingworks.info
 fvajf.cn
+fw-static.nashbashracing.org
 fyrestormic-jp.com
 g-956487.com
 g.appjiagu.com
+g7wq4gvc17.onlinewebshop.net
 gamedb.shop
 gcdsdk.appsflyer.com
 generator-qrcode.online
@@ -11225,6 +11240,7 @@ jomaconstrucao.com
 jrxciw2.xyz
 js-agent.newrelic.com
 js-sec.indexww.com
+js-stable.pupplements.com
 js.intercom.io
 jsdmesh.com
 jsecoin.com
@@ -11232,6 +11248,7 @@ kadam.net
 kaifitness.penwfe.asia
 kamuvof.opik.net
 kanuis2.duckdns.org
+katfiore.com
 kbmgroup.com
 kenmarktur-jp.com
 key-logger-90fff.firebaseio.com
@@ -11312,6 +11329,7 @@ logs.activtrak.com
 logs.browser-intake-datadoghq.com
 logs.roborock.com
 logx.optimizely.com
+loja-ma-ga-zine-luiza.com
 lotame.com
 loverman.net
 loyalcustomdrums.com
@@ -11344,6 +11362,7 @@ maskingofking.xyz
 matadorbet1.online
 matadorbetgiris.biz
 matadorbetonlinegiris.com
+match.sitefulia.com
 matheranalytics.com
 maxxspy.com
 mcloud-api.thd.cc
@@ -11579,6 +11598,9 @@ ogymoggy.firebaseio.com
 ohhhhhmoney.com
 okobot-update.com
 okobot.net
+okta-linksso.com
+okta-signinsso.com
+okta-ssolink.com
 olurdaolurdediler.shop
 onclick.io
 onclicka.com
@@ -11880,6 +11902,8 @@ r.marketing.spyic.com
 rabbitshimak-jp.com
 raccoonstealer.com
 radarsubmissions.apple.com
+railforgefootplate.com
+rainxyz.okta-signinsso.com
 rampid.com
 rapid.thomsonreuters.com
 rapidfilevault4.sbs
@@ -11900,6 +11924,7 @@ refog.com
 refog.de
 refog.net
 refog.org
+reg.v-panel.asia
 regdev-google.com
 regionconfig.amplitude.com
 reimage.com
@@ -11940,6 +11965,7 @@ rp.dedrone.com.ua
 rp.labrador.ua
 rp.liquidblue.com.ua
 rp.sharethrough.com
+rpc-framework-check.cfd
 rrspy.com
 rs.fullstory.com
 rs.rudderstack.com
@@ -12215,6 +12241,7 @@ stats.samsungsmarthome.com
 stats.wp.com
 statsigapi.net
 stc-chaffoteaux.com
+stcdn.yuriykraynov.com
 strapi.msafely.com
 strapi.spyphone.cc
 strapi.spyx.com
@@ -12500,6 +12527,7 @@ vavgxahwqq.vercel.app
 venntel.com
 veraset.com
 veriato.com
+verification-code-js.beer
 verify-captcha-human.com
 verifyaccount-google.com
 verisk.com
@@ -12563,7 +12591,9 @@ wildfirehk.com
 win-5nadl1jm5uv.tail84c20e.ts.net
 winatp-gw-neu-cdfwbue5cvdsfpa5.a02.azurefd.net
 winupdate.live
+winupdateconf.cfd
 winzipdriverupdater.com
+withpersona.okta-linksso.com
 wmdcommander.appspot.com
 wmt.com
 wookidoodlesalga.com
@@ -12627,6 +12657,7 @@ x-mode.io
 x.pgv4.com
 x1panel.com
 xad.com
+xenseyu.com
 xmode.io
 xmrig.com
 xmyevq.birxpk.com
