@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-10-08 03:41 UTC
-# Domains: 12634
+# Updated: 2026-10-08 12:30 UTC
+# Domains: 12653
 
 0--foodwarez.da.ru
 0--skitch--0.tt.omtrdc.net
@@ -10090,6 +10090,7 @@ adjust.com
 adjustnetwork.com
 adlooxtracking.com
 admin.flexispy.com
+adobeacrobatdoc.com
 ads-game-187f4.firebaseapp.com
 ads.amazon.com
 ads.bestbuy.com
@@ -10440,6 +10441,7 @@ appsflyer.com
 appspy-net.firebaseio.com
 appspy.net
 appsumer.com
+apricot-ladder.com
 aps12.spyhuman.com
 aps13.spyhuman.com
 aps14.spyhuman.com
@@ -10550,10 +10552,12 @@ branch.io
 brandstrengththroughconsistency.de
 braze.com
 braze.eu
+brejksa.study
 brewingwithoutagenda.de
 brightdata.com
 brightmountainmedia.com
 brilliant-flame-585.firebaseio.com
+brixena.cfd
 browser-http-intake.logs.datadoghq.com
 browser-http-intake.logs.datadoghq.eu
 browser-intake-datadoghq.com
@@ -10711,12 +10715,14 @@ collect.tealiumiq.com
 collect.veriato.com
 collectors.sumologic.com
 collider.foxspy.com.br
+comicocn.com
 comicstar.lat
 complementics.com
 conduit.com
 config.samsungads.com
 connect.liveramp.com
 connupdate.cfd
+content.wordwalkers.co.nz
 contentsquare.net
 context.bidswitch.net
 contextweb.com
@@ -10854,6 +10860,7 @@ disp2.mrec24.com
 dispatcher.mrecorder.com
 districtm.ca
 djp.bz
+dlhengshengtang.com
 dmp.crosswise.com
 dmtracker.com
 dmtracking.alibaba.com
@@ -10897,6 +10904,7 @@ edge.permutive.app
 edigitalresearch.com
 edlnc255s2q.s3.amazonaws.com
 edvdafc.prozhe.vip
+edzvp.cn
 eeresofeuae.com
 einformatiks.com
 elcore-api.azurewebsites.net
@@ -10944,6 +10952,7 @@ fakeupdate.net
 fast-mob.com
 fast.appcues.com
 fastlane.rubiconproject.com
+fcibk.cn
 fdp122.nyc3.digitaloceanspaces.com
 featuregates.org
 feedbackws.apple.com
@@ -11000,6 +11009,7 @@ funcaptcha.com
 funmoodsearch.com
 funnyserve-jp.com
 fusionshoppingworks.info
+fvajf.cn
 fyrestormic-jp.com
 g-956487.com
 g.appjiagu.com
@@ -11023,9 +11033,11 @@ glassworm.net
 global.uidapi.com
 glossmagazine.shop
 gmslb.net
+gnjkl.cn
 go.urbanairship.com
 google-analytics.com
 googleanalytics.com
+googleplay.tail017acc.ts.net
 googletagmanager.com
 googletagservices.com
 gormandize.top
@@ -11053,6 +11065,7 @@ haqerra.com
 harborstonegroup.shop
 hardly-signatures-loc-surf.trycloudflare.com
 hardwood-studio-obviously-briefing.trycloudflare.com
+hdhdandan.duckdns.org
 healthbalancegrow.net
 healthorazone.com
 healthy.smarthealthhabit.com
@@ -11066,6 +11079,7 @@ hii-hoores.duckdns.org
 hippocratic.top
 hl-ltd.screenconnect.com
 hlk.criteo.com
+hollandhart.myssoauth.com
 homeadvicezone.com
 homearea.googleapis.com
 honeybadger.io
@@ -11206,6 +11220,7 @@ jampp.com
 jfkjetblue.com
 jjspy.com
 jjspy.ml
+join-msteams.live
 jomaconstrucao.com
 jrxciw2.xyz
 js-agent.newrelic.com
@@ -11880,6 +11895,7 @@ recognition.acxiom.com
 recorder.smartlook.com
 recycle.eu.cc
 redline-stealer.com
+redsun.live
 refog.com
 refog.de
 refog.net
@@ -12080,6 +12096,7 @@ shadow-spy.com
 shadowappbundle-default-rtdb.firebaseio.com
 shadowlogspanel.firebaseio.com
 share-files-onedrive.com
+sharepointfilemail.com
 sharethrough.com
 shenzhenmk-jp.com
 signalfx.com
@@ -12206,6 +12223,7 @@ studio11-7e288.firebaseio.com
 stupendoussleet.com
 stupendoussnow.com
 stylishhomegallery.com
+su05-business-webzoom.com
 suckmydick.implantsity.pro
 suggestqueries.google.com
 sumologic.com
@@ -12535,6 +12553,7 @@ webtrackerplus.com
 webwatcher-child-app.firebaseio.com
 webwatcherdata.com
 webwatchernow.com
+wechat.proxy08.com
 werkbit.io
 wethnc067.xyz
 where-is-my-children.firebase.io
