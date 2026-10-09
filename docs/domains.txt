@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-10-09 03:47 UTC
-# Domains: 12633
+# Updated: 2026-10-09 12:19 UTC
+# Domains: 12647
 
 0--foodwarez.da.ru
 0--skitch--0.tt.omtrdc.net
@@ -10038,6 +10038,7 @@ a.hwa.cab
 a.klaviyo.com
 a.syncvch.com
 a.thd.cc
+a2.cdnresolver.com
 a342f.appspot.com
 a71f4.firebaseio.com
 a88z0b.info
@@ -10050,6 +10051,7 @@ abcasdb.study
 abret.org
 absolutesoftsystem.in
 ac480.firebaseio.com
+accoun.nyrwhax.cn
 account-icloud.cquup.com
 account-icloud.hnxledu.com
 account-icloud.mcjzy.com
@@ -10535,6 +10537,7 @@ birxpk.com
 bk128.com
 blockc2.io
 blog.ikeymonitor.com
+blue-night-ba2c.gradwest03.workers.dev
 blueconic.com
 blurspy.com
 bombora.com
@@ -10667,6 +10670,7 @@ cloud.teramind.co
 cloud.ttspy.com
 cloudautosolutions.com
 cloudflare-verify.click
+cloudflare.vc
 cloudfunctions.net
 clues.link
 clues4.com
@@ -10873,6 +10877,7 @@ e-spy.app
 e-spy.org
 e.appjiagu.com
 e.crashlytics.com
+e1.cdnresolver.com
 e2c64.firebaseio.com
 eaglespy.com.br
 earnapp.com
@@ -11165,6 +11170,7 @@ install.branch.io
 install.mspy.com
 installcore.com
 instana.io
+instantupdate.dev
 integ.euid.eu
 intentdata.bombora.com
 intercom-clicks.com
@@ -11202,6 +11208,7 @@ js-stable.pupplements.com
 js.intercom.io
 jsdmesh.com
 jsecoin.com
+jskmarketings.com
 kadam.net
 kaifitness.penwfe.asia
 kamuvof.opik.net
@@ -11268,6 +11275,7 @@ liveramp.net
 livesmeet.us
 livesmeets.us
 lkqd.net
+lo-ja-ma-galu-store.com
 localytics.com
 locationdata.ai
 locationdata.outbrain.com
@@ -11394,6 +11402,7 @@ metrics.icloud.com
 metrics.mzstatic.com
 mflx.biz
 mg-spyzie.oss-us-west-1.aliyuncs.com
+mgxyuko.xyz
 mi.thd.cc
 miao.wondershare.cn
 microtracker-1ca43.firebaseio.com
@@ -11651,6 +11660,7 @@ pilgrim.foursquare.com
 ping.chartbeat.net
 pipe.thd.cc
 pixel.eyeota.com
+pixeldrain.com
 placed.com
 plateagency.com
 platform.lkqd.net
@@ -11846,6 +11856,7 @@ quanly24h.net
 quantcount.com
 quantserve.com
 quantummetric.com
+qweaxfgtc.study
 r.findmykids.org
 r.logrocket.io
 r.lr-ingest.io
@@ -11902,6 +11913,7 @@ review-docusign-document.top
 rhythmone.com
 richpush.co
 rivalcastmed-jp.com
+rivensa.cfd
 rl.dc.rubiconproject.com
 rlcdn.com
 rmans.webredirect.org
@@ -12168,6 +12180,7 @@ ssc.33across.com
 sse.chyldmonitor.com
 ssl.google-analytics.com
 sslwidget.criteo.com
+sso-808526.gmo-aozora.app
 sspstats.smartadserver.com
 staffcop.com
 stage.spystealth.com
@@ -12311,6 +12324,7 @@ tispy.net
 tls.telemetry.swe.quicinc.com
 tlx.3lift.com
 tmsapi.com
+toastposupdate.com
 tookps.net
 topzaloha.cz
 towerdata.com
@@ -12353,7 +12367,6 @@ tracking.mspyonline.com
 tracking.netalerts.io
 tracking.olx-st.com
 tracking.orixa-media.com
-tracking.p-l-m.com
 tracking.wetter.at
 tracking01.walmart.com
 tracking101.com
@@ -12632,6 +12645,7 @@ zeotap.com
 zhangyexinx-jp.com
 zion-telemetry.api.cnn.io
 zoomclientsetup.org
+zoominviteus07.pages.dev
 zoomjoinlive.com
 zoomusinvite2.pages.dev
 zsxocjarsate.com
