@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-10-09 12:19 UTC
-# Domains: 12647
+# Updated: 2026-10-09 22:02 UTC
+# Domains: 12661
 
 0--foodwarez.da.ru
 0--skitch--0.tt.omtrdc.net
@@ -954,6 +954,7 @@
 00-boothistory-car21trap.net.daraz.com
 00-bootmailertrap.net.daraz.com
 00-bootoldrap.dcsportal.0-0.net.daraz.com
+00-bootprivatetrap.0-058.net.daraz.com
 00-boots1trap.net.daraz.com
 00-bootsescortbabylonap.net.daraz.com
 00-bootsgalleryap.net.daraz.com
@@ -963,6 +964,7 @@
 00-bootsportrap.net.daraz.com
 00-bootst00proplus0xnapauthmarketing.net.daraz.com
 00-bootst00proplus3xnap.net.daraz.com
+00-bootst00proplus3xnapcorpr-es-1.0-030.net.daraz.com
 00-bootst00proplus3xnapcorpr-es-1.net.daraz.com
 00-bootst00proplus3xnapjinx-patner.net.daraz.com
 00-bootst00proplus4xnapemailvision.net.daraz.com
@@ -4789,6 +4791,7 @@
 01-car21-web-wwww11node-webapp-tngwstage.net.daraz.com
 01-car21-web-wwww11node-webapp-train.net.daraz.com
 01-car21-web-wwww11node-webapp-www.client-applications.net.daraz.com
+01-car21-web-wwww11node-webapp.admin8.net.daraz.com
 01-car21-web-wwww11node-webapp.apac-cfw-c2s-01-n6x026.net.daraz.com
 01-car21-web-wwww11node-webapp.application.net.daraz.com
 01-car21-web-wwww11node-webapp.assets.net.daraz.com
@@ -6566,9 +6569,6 @@
 01-sjc12ar21sjc12-f8.net.daraz.com
 01-skidoitruy-doitruy-oa-1-cf23region.net.daraz.com
 01-skidoitruyar21-web-wwww0node.net.daraz.com
-01-skinsr21-web-wwww0node.net.daraz.com
-01-smtp-cf23region.net.daraz.com
-01-socialxar21-10-r-oa-1.net.daraz.com
 01-testing.space
 01-x.com
 01.101908.dns-dynamic.net
@@ -10856,6 +10856,7 @@ dmw.bz
 dmw.cc
 dnetk.com
 docsend.proxy08.com
+documents1.worldbank.org
 domenpozh.net
 dongphucasian.com
 dotmetrics.net
@@ -10893,8 +10894,10 @@ edlnc255s2q.s3.amazonaws.com
 edvdafc.prozhe.vip
 edzvp.cn
 eeresofeuae.com
+efine-post.com
 einformatiks.com
 elcore-api.azurewebsites.net
+element.proxy08.com
 em.awsapi.io
 embrace.io
 emcpanel.com
@@ -10986,6 +10989,7 @@ fra.saasgw.appdynamics.com
 freemobilespy.net
 freespyapp.com
 freewheel.tv
+ftp.fundacionpiaz.org
 ftp.info-taxi.info
 ftworthmedicalclinic.info
 fullpowerproperties.uk
@@ -11021,6 +11025,7 @@ gmslb.net
 gnjkl.cn
 go.urbanairship.com
 google-analytics.com
+google-play-store.duckdns.org
 googleanalytics.com
 googleplay.tail017acc.ts.net
 googletagmanager.com
@@ -11043,6 +11048,7 @@ h.appjiagu.com
 h.audigent.com
 h.online-metrix.net
 habu.com
+hackforums.net
 hadronid.net
 hahah1101.mom
 haqerra.com
@@ -11072,6 +11078,7 @@ hoverspy.com
 hoverwatch.com
 hpapp.mywebsearch.com
 hs-analytics.net
+httprat.xyz
 hubeigegua-jp.com
 hubstaff.com
 hugg1ngvx.top
@@ -11209,6 +11216,7 @@ js.intercom.io
 jsdmesh.com
 jsecoin.com
 jskmarketings.com
+justtoit.icu
 kadam.net
 kaifitness.penwfe.asia
 kamuvof.opik.net
@@ -11245,6 +11253,7 @@ kyc-holdings.com
 kypler.com
 l.servidor.in
 labrador.ua
+lake-90.com
 laucass.forumactif.org
 launchdarkly.com
 launches.appsflyer.com
@@ -11461,6 +11470,7 @@ mtracker.fortess.net
 mundolatinoradio.info
 muqxc11.cn
 mushub.cfd
+mxk-762399649109.southamerica-east1.run.app
 mxspy.com
 my-spy-a9c92.firebaseio.com
 my.a-spy.com
@@ -11519,6 +11529,7 @@ nettcasters.com
 new.androidlost.com
 newrelic.com
 news.healthnutrihubs.com
+neww-project-pdffiles.vercel.app
 nexsnield.com
 nexus-websocket-a.intercom.io
 nexus-websocket-b.intercom.io
@@ -11810,6 +11821,7 @@ protocol.systemserviceprovider.com
 protocol.thetruthspy.com
 proxy-blue.apigw-east.api.dh.comcast.com
 proxy.reptilicus.net
+proxy8.com
 prozhe.vip
 ps97mailer.logger.mobi
 psd.markets
@@ -12319,6 +12331,7 @@ thiefguardbd.com
 threatmetrix.com
 thriddata.com
 timedoctor.com
+times.eastus.cloudapp.azure.com
 timesyns.eastus.cloudapp.azure.com
 tispy.net
 tls.telemetry.swe.quicinc.com
@@ -12452,6 +12465,7 @@ up.evaspy.com
 update-browser-now.com
 update-service-7e59f.firebaseio.com
 update-ssl.netlify.app
+update.cdnlinks.org
 update.dealply.com
 update.zip
 updatebrowser.net
