@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-10-10 16:38 UTC
-# Domains: 12640
+# Updated: 2026-10-10 20:55 UTC
+# Domains: 12642
 
 0--foodwarez.da.ru
 0--skitch--0.tt.omtrdc.net
@@ -10921,6 +10921,7 @@ exapi-eu.rubiconproject.com
 exapi-us-east.rubiconproject.com
 exapi-us-west.rubiconproject.com
 exopurple.blob.core.windows.net
+expirience.click
 extremetracking.com
 eyeota.com
 eyezy.com
@@ -12306,6 +12307,7 @@ test.refog.com
 testecollider.foxspy.com.br
 tfk7r22klf8vtd8g90jq8qno1tpqhmpe.apps.googleusercontent.com
 thd.cc
+thedentalsuite.com.au
 thefirmos.com
 thefishguid-jp.com
 theodoi24h.com
