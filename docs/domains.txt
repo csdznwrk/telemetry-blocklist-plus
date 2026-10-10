@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-10-10 03:30 UTC
-# Domains: 12632
+# Updated: 2026-10-10 11:37 UTC
+# Domains: 12636
 
 0--foodwarez.da.ru
 0--skitch--0.tt.omtrdc.net
@@ -10010,6 +10010,7 @@
 13-5.ru
 130826.ngrok.app
 1ca43.appspot.com
+1dyorzi7.xyz
 1topspy.com
 2baserec2.guru
 2fa-cp.cfd
@@ -10124,6 +10125,7 @@ agent.kickidler.com
 agent.teramind.co
 agent.timedoctor.com
 agent.veriato.com
+ahanaucmexicanulsage.urest.org
 ai-nexora.sbs
 aipythondevs.com
 airbrake.io
@@ -11235,6 +11237,7 @@ krogerads.com
 krux.com
 kruxdigital.com
 ktcinvesting.com
+kucoinapps.b12sites.com
 kuuvv.com
 kvshdi.birxpk.com
 kyc-holdings.com
@@ -11374,6 +11377,7 @@ media.thetruthspy.com
 media.ulta.com
 mediamath.com
 mediasncr.com
+meetoa.protofire.org
 megapush.com
 mentaorb.com
 merkantalolol.asia
