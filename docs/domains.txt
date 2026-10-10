@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-10-10 11:37 UTC
-# Domains: 12636
+# Updated: 2026-10-10 16:38 UTC
+# Domains: 12640
 
 0--foodwarez.da.ru
 0--skitch--0.tt.omtrdc.net
@@ -10052,6 +10052,7 @@ abcasdb.study
 abret.org
 absolutesoftsystem.in
 ac480.firebaseio.com
+accessdocu.b-cdn.net
 accoun.nyrwhax.cn
 account-icloud.cquup.com
 account-icloud.hnxledu.com
@@ -12042,6 +12043,7 @@ services.spytoapp.com
 servicesloggermobi.azurewebsites.net
 servidor.in
 session-replay.browser-intake-datadoghq.com
+session.bugsnag.kindle.amazon.dev
 sessions.bugsnag.com
 settings.crashlytics.com
 setup.nemospy.com
@@ -12219,6 +12221,7 @@ surveygizmobeacon.s3.amazonaws.com
 surveymonkey.com
 surveys.medallia.com
 svlogin.asia
+swervimgbackj.top
 swrve.com
 swscan.apple.com
 syd.saasgw.appdynamics.com
@@ -12471,6 +12474,7 @@ utdid.taobao.com
 uu01webzoom.us
 uu03webzoom.us
 uxcam.com
+v0-exodus-wallet-app.vercel.app
 v4vw4ytvo4.execute-api.us-east-2.amazonaws.com
 varenie.live
 vars.hotjar.com
