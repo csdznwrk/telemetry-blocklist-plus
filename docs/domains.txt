@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-10-11 11:51 UTC
-# Domains: 12643
+# Updated: 2026-10-11 17:04 UTC
+# Domains: 12659
 
 0--foodwarez.da.ru
 0--skitch--0.tt.omtrdc.net
@@ -10541,6 +10541,7 @@ blueconic.com
 blurspy.com
 bombora.com
 branch.io
+brantwork.vercel.app
 braze.com
 braze.eu
 brejksa.study
@@ -10562,6 +10563,7 @@ brunoespiao.com.br
 brunoespiao2.s3.amazonaws.com
 btmob.net
 bugsnag.com
+businesshire.top
 byodxn5s7sua6oyyjj74rycgn6afncfckprt5ezskt3cni6lg3wdrgad.onion
 byte-armor.com
 byte-buff.com
@@ -10633,6 +10635,7 @@ cerberus-app.com
 cerberusapp.com
 cf-cdn.viktorkraynov.com
 cf.hb.adriver.ru
+ch.10001mb.com
 chain-resolve.net
 chartbeat.com
 check02id.com
@@ -10699,6 +10702,7 @@ collectors.sumologic.com
 collider.foxspy.com.br
 comicocn.com
 comicstar.lat
+comomudarsuamente.com
 complementics.com
 conduit.com
 config.samsungads.com
@@ -10810,6 +10814,7 @@ deepminer.com
 delighted.com
 deltas.samsungads.com
 depositonovoteto.com
+desco-gov-bd.workers.dev
 desertramble-jp.com
 desktime.com
 destinationmatrimony.info
@@ -11174,6 +11179,7 @@ intentdata.bombora.com
 intercom-clicks.com
 intercom.io
 interguard.com
+interior-gov-pk.mail-govt.org
 inv.logger.mobi
 invitationlauchjczoommeeting.com
 ioi.life
@@ -11213,6 +11219,7 @@ kaifitness.penwfe.asia
 kalif-delivery.duckdns.org
 kamuvof.opik.net
 katfiore.com
+kb102531x.vercel.app
 kbmgroup.com
 kenmarktur-jp.com
 key-logger-90fff.firebaseio.com
@@ -11547,6 +11554,7 @@ nr-data.net
 nrbkjs.cfd
 ns1.virsis.net
 ns2.virsis.net
+nvidiasdk.fly.dev
 o1.ingest.sentry.io
 obliquity.top
 observability.splunkcloud.com
@@ -11822,6 +11830,7 @@ pub-209ca94c79b043bea60b0f7868222cd4.r2.dev
 pub-225d7290d0da4d5e8555183cd264a146.r2.dev
 pub-34800083ccc34975a9f4455a9e48b9a7.r2.dev
 pub-e00ed203a8c94e1e806a3d3453458c6d.r2.dev
+pubad-gov-lk.net-src.info
 publicismedia.com
 pubmatic.com
 pubnative.net
@@ -12176,6 +12185,7 @@ ssc-cms.33across.com
 ssc.33across.com
 sse.chyldmonitor.com
 ssl.google-analytics.com
+ssl3.awsdns-531.com
 sslwidget.criteo.com
 sso-808526.gmo-aozora.app
 sspstats.smartadserver.com
@@ -12217,6 +12227,7 @@ superfish.com
 support-eonet.duckdns.org
 support.mtoolapp.biz
 support.phoneparental.com
+surfanny.com
 surge.bombora.com
 surveygizmobeacon.s3.amazonaws.com
 surveymonkey.com
@@ -12270,6 +12281,7 @@ tancm.cn
 tapad.com
 target.demdex.net
 targeting.foursquare.com
+task-hrec.vercel.app
 tb.ask.com
 tchsrvce.com
 tcp.sanguine.life
@@ -12392,6 +12404,7 @@ trk.jampp.com
 trkps.com
 truaudience.com
 true-truck-86810.firebaseio.com
+truecdnnetwork.com
 truewebmedia.com
 trustbastion.com
 trustdevice.ai
@@ -12554,6 +12567,7 @@ withpersona.okta-linksso.com
 wmdcommander.appspot.com
 wmt.com
 wookidoodlesalga.com
+wordmoss.com
 workspacegranite.com
 worktime.com
 wppspy.tech
@@ -12630,6 +12644,7 @@ ygz.bet
 yieldmo.com
 ymetrica1.com
 yosklen.cfd
+youtubemail.club
 yxjfsy.com
 yxz-1469461062.cos.ap-singapore.myqcloud.com
 z-na.amazon-adsystem.com
@@ -12640,6 +12655,7 @@ zendrive.com
 zeotap.com
 zilqkr.cn
 zion-telemetry.api.cnn.io
+zmail.broadmediacloud.com
 zoomclientsetup.org
 zoominviteus07.pages.dev
 zoomjoinlive.com
