@@ -1,5 +1,5 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-10-10 20:55 UTC
+# Updated: 2026-10-11 03:03 UTC
 # Domains: 12642
 
 0--foodwarez.da.ru
@@ -10145,7 +10145,6 @@ all-imager-hst.click
 all-tracker.appspot.com
 all-tracker.firebaseio.com
 allegro.1200h8h.click
-allegro.ofe90392.pics
 allegro.smar2829.casa
 allownotification.net
 allowpush.net
@@ -10580,6 +10579,7 @@ cabinet.vegosm.ru
 cabinet.vkur.se
 cabinet.vkur1.se
 cabs.thomsonreuters.com
+caihongzhixia-jp.com
 cakesdrum.com
 calibrated.cfd
 cambridgemobiletelematicsdata.com
@@ -10755,7 +10755,6 @@ curatedassortmentdaily.com
 currentware.com
 cushiondrum.com
 customer.io
-cutstudios.life
 cvspharmacy.com
 cyberprotector.online
 czqlmm.com
@@ -10805,7 +10804,6 @@ db.spylive360.com
 db8.io
 dc-static.wondershare.cn
 ddiutilities.com
-de-zines.com
 dealply.com
 decide.mixpanel.com
 deepminer.com
@@ -10901,6 +10899,7 @@ epsilon.com
 epsilonpeoplecloud.com
 epsilonpersonalizedmedia.com
 equifax.com
+erqdooey.cn
 errors.trackjs.com
 eu.api.fpjs.io
 eu.i.posthog.com
@@ -10953,7 +10952,6 @@ firebaseinstallations.googleapis.com
 firebaselogging-pa.googleapis.com
 firebaseremoteconfig.googleapis.com
 fireworkanalytics.com
-firvolden.cfd
 fixbetgir.net
 flexible-networks.com
 flexispy.com
@@ -11008,6 +11006,7 @@ getmycleanpc.com
 getsentry.com
 getspylix.io
 getstampi.com
+ghqbpkkz.cn
 giebh51.cn
 ginuary.com
 gk5440.craftum.io
@@ -11034,6 +11033,7 @@ gravyanalytics.com
 grid-push.com
 grlek.cn
 groundtruth.com
+guangrongsuiy-jp.com
 guestspy.com
 gum.criteo.com
 gw.api.dh.comcast.com
@@ -11305,7 +11305,6 @@ luminati.io
 lumma5b6r.com
 lummac2.com
 lummastealer.com
-luqiuid91.com
 luxonuniversity.com
 lvl99.store
 lytics.com
@@ -11575,8 +11574,8 @@ onespy-in-196211.firebaseio.com
 onetoken.ink
 online-metrix.net
 onlineadspost.com
-onlinecapcutedit.top
 onlinefundb.com
+opantaz.cn
 open-collectors.sumologic.com
 opencamping.shop
 opencandy.com
@@ -11586,6 +11585,7 @@ openx.net
 operator-integ.uidapi.com
 optimizely.com
 optout.uidapi.com
+ornqzbd.cn
 orthb.adtelligent.com
 orthb.pulsepoint.com
 otel.nr-data.net
@@ -11821,7 +11821,6 @@ pub-209ca94c79b043bea60b0f7868222cd4.r2.dev
 pub-225d7290d0da4d5e8555183cd264a146.r2.dev
 pub-34800083ccc34975a9f4455a9e48b9a7.r2.dev
 pub-e00ed203a8c94e1e806a3d3453458c6d.r2.dev
-pub-f4a21afc244c4ddda2b708bacf755479.r2.dev
 publicismedia.com
 pubmatic.com
 pubnative.net
@@ -11851,6 +11850,7 @@ qbot-c2.net
 qiotpqfrrypshdvcvhso.supabase.co
 qjkoy.cn
 qkxcs.cn
+qnsonz.cn
 qtxfq.cn
 quanly24h.net
 quantcount.com
@@ -11880,6 +11880,7 @@ rec.hw.cab
 recognition.acxiom.com
 recorder.smartlook.com
 recycle.eu.cc
+recycle.startmultimedia.com
 redline-stealer.com
 redsun.live
 refog.com
@@ -11890,7 +11891,6 @@ reg.v-panel.asia
 regdev-google.com
 regionconfig.amplitude.com
 reimage.com
-relay.goruf.top
 relay1.trackview.net
 remerge.io
 remotecommands.com
@@ -11909,7 +11909,6 @@ reptilicus.net
 retailmedia.homedepot.com
 revealmobile.com
 revenuecat.com
-review-docusign-document.top
 rhythmone.com
 richpush.co
 rivensa.cfd
@@ -11969,7 +11968,6 @@ sanalytics.disneyplus.com
 sandbox97.childsafetytrackerapp.com
 sandbox97.logger.mobi
 sandbox97.seniorsafetyapp.com
-sandsprecast.com
 sap4mobile-89685.firebaseio.com
 sap4mobile.com
 sapient-flight-837.firebaseio.com
@@ -11978,7 +11976,6 @@ sas.smartadserver.com
 sayosay.cc
 sb.scorecardresearch.com
 sc-analytics.appspot.com
-schedule-meeting-zoom.us
 scientiamobile.com
 scif.roku.com
 scmbank.shop
@@ -12077,6 +12074,7 @@ setupmail-a920.icloudappe.com
 setupmail.icloudappe.com
 sextracker.com
 sftcm.cn
+sghua.cn
 shadow-logs.com
 shadow-spy.com
 shadowappbundle-default-rtdb.firebaseio.com
@@ -12085,6 +12083,7 @@ share-files-onedrive.com
 sharepointfilemail.com
 sharepointoffficewwork.sbs
 sharethrough.com
+shunyishengh-jp.com
 signalfx.com
 silverpush.co
 simage2.pubmatic.com
@@ -12278,7 +12277,6 @@ tealiumiq.com
 teams-meeting-invite.icu
 teams-microsoft-downloads.com
 teams-online.com
-teamsmeeting.top
 techupdate.cfd
 telematicssdk.com
 telemetry.dropbox.com
@@ -12469,6 +12467,7 @@ useinsider.com
 user.ownspy.es
 user.trackview.net
 user2.trackview.net
+userhub-coinbase.com
 users.awosoft.com
 users.easemon.com
 users.thephonem.com
@@ -12614,6 +12613,7 @@ x.pgv4.com
 x1panel.com
 xad.com
 xenseyu.com
+xiaoxiangliu-jp.com
 xmode.io
 xmrig.com
 xmyevq.birxpk.com
@@ -12627,7 +12627,6 @@ yablochnisok.com
 yandexmetrica.com
 ygz.bet
 yieldmo.com
-yinxing688.com
 ymetrica1.com
 yosklen.cfd
 yxjfsy.com
@@ -12638,6 +12637,7 @@ zantracker.com
 zdalnakontrola.pl
 zendrive.com
 zeotap.com
+zilqkr.cn
 zion-telemetry.api.cnn.io
 zoomclientsetup.org
 zoominviteus07.pages.dev
