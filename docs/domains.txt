@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-10-11 03:03 UTC
-# Domains: 12642
+# Updated: 2026-10-11 11:51 UTC
+# Domains: 12643
 
 0--foodwarez.da.ru
 0--skitch--0.tt.omtrdc.net
@@ -11318,6 +11318,7 @@ mads.amazon.com
 mads.freewheel.tv
 magicupdate.cfd
 maglook.eu
+mail-mof-gov-np.netlify.app
 mail.mobistealth.com
 mail.spymasterpro.com
 manuelitellc.screenconnect.com
