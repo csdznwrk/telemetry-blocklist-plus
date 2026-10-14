@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-10-14 10:53 UTC
-# Domains: 12624
+# Updated: 2026-10-14 16:13 UTC
+# Domains: 12635
 
 0--foodwarez.da.ru
 0--skitch--0.tt.omtrdc.net
@@ -10014,6 +10014,7 @@
 2baserec2.guru
 2fa-cp.cfd
 33across.com
+3d7hz1zm.onlinewebshop.net
 4-dot-all-tracker.appspot.com
 4info.com
 51degrees.com
@@ -10557,6 +10558,7 @@ c-phone.ru
 c.amazon-adsystem.com
 c.appjiagu.com
 c1.panspy.com
+c97xx6lx.onlinewebshop.net
 cabinet.ecohouse-eg.com
 cabinet.gps-monitor.uz
 cabinet.kfnm.ru
@@ -10811,6 +10813,7 @@ device.threatmetrix.com
 deviceatlas.com
 deviceintelligence.io
 devices.nest.com
+dfskk2.oss-cn-hongkong.aliyuncs.com
 diagnostics.apple.com
 dicechecker.app
 digitalendpoint.com
@@ -11030,6 +11033,7 @@ help.spylive360.com
 hfxlq55.cn
 highstermobi.com
 hippocratic.top
+hl0ghsi9.onlinewebshop.net
 hlk.criteo.com
 hmelef.ru
 hoexq.cn
@@ -11165,6 +11169,7 @@ is.gd.appsflyer.com
 ispyoo.com
 it.imonitorsoft.com
 iterable.com
+iwnw-1knwni-21siw.xo.je
 ixhtb.s9gxw8.com
 izapk.xyz
 izspy-1313.firebaseio.com
@@ -11547,6 +11552,7 @@ okobot.net
 okta-linksso.com
 okta-signinsso.com
 okta-ssolink.com
+ollama-for-macos.github.io
 olurdaolurdediler.shop
 ommartbd.com
 onclick.io
@@ -11925,6 +11931,7 @@ s.servidor.in
 s.youtube.com
 s1.panspy.com
 s1.spylive360.com
+s1z0j88g.onlinewebshop.net
 s2.spylive360.com
 s2s.adjust.com
 s3.spylive360.com
@@ -12177,6 +12184,7 @@ stats.samsungsmarthome.com
 stats.wp.com
 statsigapi.net
 stcdn.yuriykraynov.com
+stellasallaku.com
 stormvenomforge.top
 strapi.msafely.com
 strapi.spyphone.cc
@@ -12185,6 +12193,7 @@ stream.launchdarkly.com
 studio11-7e288.firebaseio.com
 stupendoussleet.com
 stupendoussnow.com
+stzaeyv.click
 su05-business-webzoom.com
 suggestqueries.google.com
 sumologic.com
@@ -12384,6 +12393,7 @@ ttspy.top
 tun-cos-1258344701.file.myqcloud.com
 turn.com
 typeform.com
+u0bfilhn.onlinewebshop.net
 u1.panspy.com
 ua.brunoespiao.com.br
 ua.evaspy.com
@@ -12488,6 +12498,7 @@ voderlence.com
 voidravenstorm.top
 vpn.5tr.org
 vscode-extension-update.net
+vsdhjjt.club
 vys.me
 wallet-security-check.net
 walmartconnect.com
