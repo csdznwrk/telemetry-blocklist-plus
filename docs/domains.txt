@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-10-14 16:13 UTC
-# Domains: 12635
+# Updated: 2026-10-14 21:07 UTC
+# Domains: 12641
 
 0--foodwarez.da.ru
 0--skitch--0.tt.omtrdc.net
@@ -10500,6 +10500,7 @@ beacon.gu-web.net
 beacon.krux.com
 beacon.netflix.com
 beacon.scorecardresearch.com
+beaconpromotions.com.na
 beacons.gcp.gvt2.com
 beacons.gvt2.com
 belowground.top
@@ -10605,6 +10606,7 @@ cdn.segment.com
 cdn.segment.io
 cdn.signalfx.com
 cdn.silverpush.co
+cdn.simplynetworking.eu
 cdn2.gracenote.com
 cdp.mixpanel.com
 cell-phones-tracker.net
@@ -10737,6 +10739,7 @@ cryptowallet-verify.com
 crystalmnhomes.com
 cs-repl.com
 cs.cobaltstrike.com
+csg-soft.com
 cuebiq.com
 currentware.com
 cushiondrum.com
@@ -10991,6 +10994,7 @@ getspylix.io
 ghqbpkkz.cn
 giebh51.cn
 ginuary.com
+glamour-studio.com
 glassbox.com
 glassworm-update.com
 glassworm.net
@@ -11678,6 +11682,7 @@ prebid.smartadserver.com
 precisely.com
 predicio.com
 predictivenomics.com
+presanis.com
 press-f12-continue.com
 prmtracking.com
 pro.logger.mobi
@@ -12626,6 +12631,7 @@ zciipt.cn
 zdalnakontrola.pl
 zendrive.com
 zeotap.com
+zewalegin.z43.web.core.windows.net
 zhiledi.com
 zilqkr.cn
 zion-telemetry.api.cnn.io
