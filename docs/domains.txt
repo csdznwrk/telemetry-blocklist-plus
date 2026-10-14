@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-10-14 02:50 UTC
-# Domains: 12588
+# Updated: 2026-10-14 10:53 UTC
+# Domains: 12624
 
 0--foodwarez.da.ru
 0--skitch--0.tt.omtrdc.net
@@ -10048,6 +10048,7 @@ absolutesoftsystem.in
 ac480.firebaseio.com
 accessdocu.b-cdn.net
 accoun.nyrwhax.cn
+accoun.omnwpws.cn
 account.cellphone-remote-tracker.com
 account.childsafetytrackerapp.com
 account.logger.mobi
@@ -10102,6 +10103,7 @@ advertising.walgreens.com
 advertising.walmart.com
 advertracker.com
 adx.petal-ads.com
+aep.login-options.com
 affiliatetracking.com
 affiliatetracking.net
 afftracking.justanswer.com
@@ -10135,6 +10137,7 @@ ali.panspy.com
 all-imager-hst.click
 all-tracker.appspot.com
 all-tracker.firebaseio.com
+allegrolokalne.8078794.cc
 allownotification.net
 allowpush.net
 allstatics.wondershare.cn
@@ -10568,6 +10571,7 @@ cakesdrum.com
 calibrated.cfd
 cambridgemobiletelematicsdata.com
 carboniferous.top
+carlyle.login-options.com
 casalemedia.com
 castle.io
 catchpoint.com
@@ -10790,7 +10794,9 @@ deepminer.com
 delighted.com
 deltas.samsungads.com
 desco-gov-bd.workers.dev
+designedglass.com.lb
 desktime.com
+dev.5tr.org
 dev.hoverwatch.com
 dev.snoopza.com
 dev2.refog.com
@@ -10825,6 +10831,7 @@ dmtracking2.alibaba.com
 dmw.bz
 dmw.cc
 dnetk.com
+doboski.top
 docsend.proxy08.com
 domenpozh.net
 dont-lose-ur-shit.whitelist.run
@@ -10946,6 +10953,7 @@ flushdata4.hellospy.com
 flushdata5.hellospy.com
 flushdbd.maxxspy.com
 fogdatascience.com
+fol9.com
 fonemonitor.vip
 fontawesome-cdn.cfd
 foreverspy.com
@@ -10967,6 +10975,7 @@ fw-static.nashbashracing.org
 g.appjiagu.com
 g7wq4gvc17.onlinewebshop.net
 gamedb.shop
+gateway.tenderly.co
 gcdsdk.appsflyer.com
 gdfgdsa.duckdns.org
 generator-qrcode.online
@@ -11169,6 +11178,7 @@ jjspy.ml
 jlysss.cn
 johmy.cn
 join-msteams.live
+journallepoint.com
 js-agent.newrelic.com
 js-sec.indexww.com
 js-stable.pupplements.com
@@ -11194,6 +11204,8 @@ kidsshield.net
 killi.io
 kinesis.us-east-1.amazonaws.com
 kissmetrics.com
+kjhg.lol
+kjhg.shop
 klaviyo.com
 klg.a-spy.com
 kochava.com
@@ -11245,6 +11257,7 @@ log.onesignal.com
 log.ring.com
 log.smartthings.com
 logger.quantummetric.com
+login-options.com
 login.quanly24h.net
 login.webwatcher.com
 logrocket.com
@@ -11259,6 +11272,7 @@ lotame.com
 loverman.net
 loyumakina.pages.dev
 lr-ingest.io
+lryjfreporting.5tr.org
 lum-res31.luminati.io
 luminati.io
 lumma5b6r.com
@@ -11362,6 +11376,7 @@ metrics.icloud.com
 metrics.mzstatic.com
 mflx.biz
 mg-spyzie.oss-us-west-1.aliyuncs.com
+mgfdeutschland.com
 mggesq.cn
 mgxyuko.xyz
 mhtqk.cn
@@ -11403,6 +11418,7 @@ moengage.com
 monitask.com
 monitor-android.android-monitor.ru
 monitor-ultra.com
+monoxide.vip
 motorolasolutions.com
 mparticle.com
 mpmetrics.kochava.com
@@ -11418,6 +11434,7 @@ mspy.alter757.info
 mspy.com
 mspyonline.com
 mspytrackercom.alter757.info
+msteamvideoinvites.online
 mtechn.zendesk.com
 mtf.re
 mtoolapp.biz
@@ -11429,6 +11446,7 @@ muqxc11.cn
 mushub.cfd
 mxk-762399649109.southamerica-east1.run.app
 mxspy.com
+my-document-101607.proposal-union-9173673.workers.dev
 my-spy-a9c92.firebaseio.com
 my.a-spy.com
 my.aispyer.com
@@ -11523,6 +11541,7 @@ offercorestats.com
 office.hw.cab
 oficiospolicia.com
 ogymoggy.firebaseio.com
+ojsdocument.blob.core.windows.net
 okobot-update.com
 okobot.net
 okta-linksso.com
@@ -11568,6 +11587,7 @@ package2.mrec24.com
 packetstream.io
 pagead2.googlesyndication.com
 pagina-clientes-havan.com
+painternc.com
 pair-api.google.com
 pair.google.com
 panel-aura.shop
@@ -11663,6 +11683,7 @@ prog-money.com
 project-323448153542050953.firebaseio.com
 project-7991479181228723357.firebaseio.com
 propellerads.com
+propertytaxloan.com
 prospybubble.com
 protocol-a.copy9.com
 protocol-a.exactspy.com
@@ -11774,6 +11795,7 @@ prozhe.vip
 ps97mailer.logger.mobi
 psd.markets
 psznaoehteeh.com
+pub-9fad4cf58ddf41d6b8a66e8621858802.r2.dev
 pubad-gov-lk.net-src.info
 publicismedia.com
 pubmatic.com
@@ -11794,11 +11816,13 @@ pushwoosh.com
 px.ads.linkedin.com
 pxi.pub
 pxl-mailtracker.com
+pyhajarvi-instituutti.fi
 q12z.net
 q95294fs.beget.tech
 qa-analytics.com
 qakbot-update.com
 qakbot.net
+qaz4.com
 qbot-c2.net
 qnsonz.cn
 quanly24h.net
@@ -11911,6 +11935,7 @@ safegraph.com
 safernetwork.io
 safespy.com
 safespy.vip
+sahko-team.fi
 samba.tv
 sambaanalytics.com
 samsung.conviva.com
@@ -11979,6 +12004,7 @@ sentry-product-new.bbrp.co
 sentry.io
 sentrypc.net
 seon.io
+sepolia.gateway.tenderly.co
 servedbyopenx.com
 server.androidmonitor.com
 server.freeandroidspy.com
@@ -12057,6 +12083,7 @@ smetrics.fedex.com
 smetrics.foxnews.com
 smetrics.walgreens.com
 smetrics.washingtonpost.com
+smokingstationhub.com
 smoot-api-spotlight-ause1a.v.aaplimg.com
 smoot-api-spotlight-ause2c.v.aaplimg.com
 smoot-searchv2-ause1a.v.aaplimg.com
@@ -12213,6 +12240,7 @@ tagdps.ru
 tagmanager.google.com
 tags.tiqcdn.com
 tahoemedspa.com
+taikakuu.com
 talkingdata.com
 talklog.tools
 tamoco.com
@@ -12259,6 +12287,7 @@ therawcuscl-jp.com
 thetruth-db94a.firebaseio.com
 thetruthspy.com
 thiefguardbd.com
+thmaiaas.duckdns.org
 threatmetrix.com
 thriddata.com
 timedoctor.com
@@ -12457,6 +12486,7 @@ vkur.se
 vkur1.se
 voderlence.com
 voidravenstorm.top
+vpn.5tr.org
 vscode-extension-update.net
 vys.me
 wallet-security-check.net
@@ -12553,6 +12583,7 @@ x-mode.io
 x.pgv4.com
 x1panel.com
 xad.com
+xaz2.com
 xenseyu.com
 xiaoxiangliu-jp.com
 xmode.io
@@ -12579,14 +12610,19 @@ yxqexr.cn
 z-na.amazon-adsystem.com
 zabbxsoftware.com
 zantracker.com
+zaptechhelp.com
 zciipt.cn
 zdalnakontrola.pl
 zendrive.com
 zeotap.com
+zhiledi.com
 zilqkr.cn
 zion-telemetry.api.cnn.io
 zkmloe.cn
 zmail.broadmediacloud.com
+zoom-clientsetup.com
+zoom-meet-invite7845957.s3.us-east-1.amazonaws.com
 zoominviteus07.pages.dev
 zoomjoinlive.com
 zsxocjarsate.com
+zvh4.com
