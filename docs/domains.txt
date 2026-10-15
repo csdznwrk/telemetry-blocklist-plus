@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-10-15 02:29 UTC
-# Domains: 12596
+# Updated: 2026-10-15 10:35 UTC
+# Domains: 12607
 
 0--foodwarez.da.ru
 0--skitch--0.tt.omtrdc.net
@@ -10662,6 +10662,7 @@ cn.imonitorsoft.com
 cnapi.trackview.net
 cnyoaz.cn
 cobaltstrike.com
+cobrastealer.cool
 coco-fun2.com
 cocospy.com
 cocuktekstil.com
@@ -10792,6 +10793,7 @@ designedglass.com.lb
 desktime.com
 dev.5tr.org
 dev.hoverwatch.com
+dev.sbphototours.com
 dev.snoopza.com
 dev2.refog.com
 developer.huawei.com
@@ -10880,6 +10882,7 @@ eroimijv.cn
 erqdooey.cn
 errors.trackjs.com
 esdev.my.id
+essentialkneadsforhealth.com
 eu.api.fpjs.io
 eu.i.posthog.com
 euid.eu
@@ -10931,6 +10934,7 @@ fixbetgir.net
 flexible-networks.com
 flexispy.com
 flibbertigibbet.top
+fllicensehealthpdf-viewer.vercel.app
 flow-note-zsgf.p-dthpnqnd.workers.dev
 flower.snoopza.com
 fls.amazon.com
@@ -10962,6 +10966,7 @@ funcaptcha.com
 funmoodsearch.com
 g.appjiagu.com
 g7wq4gvc17.onlinewebshop.net
+gambah.com
 gamedb.shop
 gateway.tenderly.co
 gcdsdk.appsflyer.com
@@ -11162,6 +11167,7 @@ jjspy.com
 jjspy.ml
 jlysss.cn
 johmy.cn
+johnhaywoodphotography.com
 journallepoint.com
 js-agent.newrelic.com
 js-sec.indexww.com
@@ -11273,6 +11279,7 @@ mail-mof-gov-np.netlify.app
 mail.intomahost2.com
 mail.mobistealth.com
 mail.spymasterpro.com
+manuelitellc.screenconnect.com
 marketing.transunion.com
 maskingofking.xyz
 matheranalytics.com
@@ -11503,6 +11510,7 @@ ns1.virsis.net
 ns2.virsis.net
 nsjhkttv.cn
 nvidiasdk.fly.dev
+nxmpv.addbazaar.com
 nxsugrsw.cn
 o1.ingest.sentry.io
 obliquity.top
@@ -11950,6 +11958,7 @@ searchagent.cfd
 searchservice.cfd
 secondclone-2d312.firebaseio.com
 secure.adnxs.com
+secure.cornebrdjubf.top
 securebackuponline.net
 securemetrics.apple.com
 securemetrics.apple.com.cn
@@ -12252,6 +12261,7 @@ tfk7r22klf8vtd8g90jq8qno1tpqhmpe.apps.googleusercontent.com
 thd.cc
 thedentalsuite.com.au
 thefirmos.com
+thegouldings.co.uk
 theodoi24h.com
 therawcuscl-jp.com
 thetruth-db94a.firebaseio.com
@@ -12554,6 +12564,7 @@ x1panel.com
 xad.com
 xaz2.com
 xiaoxiangliu-jp.com
+xionamiconm.com
 xmode.io
 xmrig.com
 xmyevq.birxpk.com
