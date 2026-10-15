@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-10-15 16:00 UTC
-# Domains: 12613
+# Updated: 2026-10-15 20:45 UTC
+# Domains: 12616
 
 0--foodwarez.da.ru
 0--skitch--0.tt.omtrdc.net
@@ -11006,6 +11006,7 @@ groundtruth.com
 guangrongsuiy-jp.com
 guestspy.com
 gum.criteo.com
+gumruk.info
 gvagsb.cn
 gw.api.dh.comcast.com
 h.appjiagu.com
@@ -11037,6 +11038,7 @@ hoverwatch.com
 hpapp.mywebsearch.com
 hs-analytics.net
 httprat.xyz
+https--www--roblox.com
 huarendiche-jp.com
 hubstaff.com
 huipiaoxia-jp.com
@@ -12083,6 +12085,7 @@ snowplowanalytics.com
 solana-beacon.net
 solflare-extension.pages.dev
 sovrn.com
+sox-protest-regular-criticism.trycloudflare.com
 sp.analytics.yahoo.com
 sp.kuuvv.com
 sp18022019.firebaseio.com
