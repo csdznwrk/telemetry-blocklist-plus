@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-10-15 10:35 UTC
-# Domains: 12607
+# Updated: 2026-10-15 16:00 UTC
+# Domains: 12613
 
 0--foodwarez.da.ru
 0--skitch--0.tt.omtrdc.net
@@ -10517,6 +10517,7 @@ blockc2.io
 blog.ikeymonitor.com
 blue-night-ba2c.gradwest03.workers.dev
 blueconic.com
+bluesoftsdocrks.com
 blurspy.com
 bombora.com
 borshynel.cfd
@@ -10828,6 +10829,7 @@ dmw.bz
 dmw.cc
 dnetk.com
 doboski.top
+docusignappinstallers.help
 domenpozh.net
 dont-lose-ur-shit.whitelist.run
 dotmetrics.net
@@ -11564,7 +11566,9 @@ outlogic.io
 outlookportal.framer.ai
 ownseeking.com
 ownspy.com
+oxooxmnl67z5t5cctt3uw7ukqoy6k7kr6x5vn2yyhcfpbuj5ddq2hjid.onion
 p2p.peer2profit.com
+p581488.pro
 package.mrec24.com
 package2.mrec24.com
 packetstream.io
@@ -12043,6 +12047,7 @@ simage2.pubmatic.com
 simpleanalytics.io
 sin3.ib.adnxs.com
 singular.net
+sinsp6ibw32abbcoagbjwetgm2w56u7tr4izy3xzp7ehqoenxvdd3qyd.onion
 siteimproveanalytics.com
 siteimproveanalytics.io
 skadnetwork.apple.com
@@ -12462,6 +12467,7 @@ viptelefonprogrami.com
 viptrack.pro
 virsis.net
 visit.tealiumiq.com
+vivid-flicker-anvil-creoen.pro
 vizio.com
 vkur.se
 vkur1.se
