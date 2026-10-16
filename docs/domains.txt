@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-10-15 20:45 UTC
-# Domains: 12616
+# Updated: 2026-10-16 02:23 UTC
+# Domains: 12597
 
 0--foodwarez.da.ru
 0--skitch--0.tt.omtrdc.net
@@ -10033,7 +10033,6 @@ a.hwa.cab
 a.klaviyo.com
 a.syncvch.com
 a.thd.cc
-a2.cdnresolver.com
 a342f.appspot.com
 a71f4.firebaseio.com
 aa-metrics.beauty.hotpepper.jp
@@ -10044,7 +10043,6 @@ aax.amazon-adsystem.com
 absolutesoftsystem.in
 ac480.firebaseio.com
 accessdocu.b-cdn.net
-accoun.nyrwhax.cn
 accoun.omnwpws.cn
 account.cellphone-remote-tracker.com
 account.childsafetytrackerapp.com
@@ -10115,6 +10113,7 @@ agent.veriato.com
 agent.x90.dev
 ahanaucmexicanulsage.urest.org
 ai-nexora.sbs
+ainfnow.cn
 aipythondevs.com
 airbrake.io
 airbridge.io
@@ -10436,6 +10435,7 @@ arity.com
 arkgrup.com
 arkoselabs.com
 armydevice.shop
+aroqwxh.cn
 arvax.xyz
 asgard-f8c53.firebaseio.com
 asiioasdjasiojasodijasa.eastus.cloudapp.azure.com
@@ -10468,6 +10468,7 @@ avazutracking.net
 awamisolution.com
 awsapi.io
 axe-net.com
+azocnrq.cn
 azurenetfiles.net
 b.appjiagu.com
 b.infosum.net
@@ -10501,6 +10502,7 @@ beta-api.logger.mobi
 beta.logger.mobi
 beta.smstracker.com
 bf17671ydi.bf.dynatrace.com
+bhexfwo.cn
 bi.thd.cc
 bidder.criteo.com
 bidder.sharethrough.com
@@ -10515,7 +10517,6 @@ birxpk.com
 bk128.com
 blockc2.io
 blog.ikeymonitor.com
-blue-night-ba2c.gradwest03.workers.dev
 blueconic.com
 bluesoftsdocrks.com
 blurspy.com
@@ -10541,6 +10542,7 @@ browsertools.shop
 brunoespiao.com
 brunoespiao.com.br
 brunoespiao2.s3.amazonaws.com
+btexiws.cn
 btmob.net
 bugsnag.com
 businesshire.top
@@ -10565,6 +10567,8 @@ caihongzhixia-jp.com
 cakesdrum.com
 calibrated.cfd
 cambridgemobiletelematicsdata.com
+canabit.ai
+canabit.ca
 carboniferous.top
 carlyle.login-options.com
 casalemedia.com
@@ -10648,7 +10652,6 @@ cloud.teramind.co
 cloud.ttspy.com
 cloudautosolutions.com
 cloudflare-verify.click
-cloudflare.vc
 cloudfunctions.net
 clues.link
 clues4.com
@@ -10699,6 +10702,7 @@ conversantmedia.com
 conversion.appsflyer.com
 conviva.com
 cool-horizon.com
+cooley.myssologin.com
 copy9.com
 copy9db.com
 cordinex.io
@@ -10727,7 +10731,6 @@ crypto-loot.com
 cryptoloot.pro
 cryptonotepool.com
 cryptowallet-verify.com
-crystalmnhomes.com
 cs-repl.com
 cs.cobaltstrike.com
 csg-soft.com
@@ -10819,6 +10822,7 @@ dis.criteo.com
 disenthral.top
 disp2.mrec24.com
 dispatcher.mrecorder.com
+dist-cdn.net
 districtm.ca
 djp.bz
 dmp.crosswise.com
@@ -10850,7 +10854,6 @@ e-spy.app
 e-spy.org
 e.appjiagu.com
 e.crashlytics.com
-e1.cdnresolver.com
 e2c64.firebaseio.com
 eaglespy.com.br
 earnapp.com
@@ -10866,10 +10869,8 @@ edigitalresearch.com
 edlnc255s2q.s3.amazonaws.com
 edvdafc.prozhe.vip
 eeresofeuae.com
-efine-post.com
 einformatiks.com
 elcore-api.azurewebsites.net
-element.proxy08.com
 em.awsapi.io
 embrace.io
 emcpanel.com
@@ -10940,6 +10941,7 @@ fllicensehealthpdf-viewer.vercel.app
 flow-note-zsgf.p-dthpnqnd.workers.dev
 flower.snoopza.com
 fls.amazon.com
+fluidethiopiadigital.info
 flurry.com
 flushdata.1topspy.com
 flushdata.copy9db.com
@@ -10961,7 +10963,6 @@ fra.saasgw.appdynamics.com
 freemobilespy.net
 freespyapp.com
 freewheel.tv
-ftp.fundacionpiaz.org
 ftp.info-taxi.info
 fullstory.com
 funcaptcha.com
@@ -10972,7 +10973,6 @@ gambah.com
 gamedb.shop
 gateway.tenderly.co
 gcdsdk.appsflyer.com
-gdfgdsa.duckdns.org
 generator-qrcode.online
 get.snoopza.com
 getfeedback.com
@@ -10991,7 +10991,6 @@ glossmagazine.shop
 gmslb.net
 go.urbanairship.com
 google-analytics.com
-google-play-store.duckdns.org
 googleanalytics.com
 googletagmanager.com
 googletagservices.com
@@ -11037,7 +11036,6 @@ hoverspy.com
 hoverwatch.com
 hpapp.mywebsearch.com
 hs-analytics.net
-httprat.xyz
 https--www--roblox.com
 huarendiche-jp.com
 hubstaff.com
@@ -11135,7 +11133,6 @@ install.mspy.com
 installcore.com
 instana.io
 instantposupdate.com
-instantupdate.dev
 integ.euid.eu
 intentdata.bombora.com
 intercom-clicks.com
@@ -11156,6 +11153,7 @@ ironphantomcore.top
 irvombeth.cfd
 is-tracking-pixel-api-prod.appspot.com
 is.gd.appsflyer.com
+isgraphicsport.net
 ispyoo.com
 it.imonitorsoft.com
 iterable.com
@@ -11177,10 +11175,7 @@ js-agent.newrelic.com
 js-sec.indexww.com
 js.intercom.io
 jsecoin.com
-jskmarketings.com
-justtoit.icu
 kadam.net
-kalif-delivery.duckdns.org
 kb102531x.vercel.app
 kbmgroup.com
 key-logger-90fff.firebaseio.com
@@ -11205,6 +11200,7 @@ komodia.com
 krogerads.com
 krux.com
 kruxdigital.com
+kuaiyinfen-jp.com
 kucoinapps.b12sites.com
 kuuvv.com
 kvshdi.birxpk.com
@@ -11212,7 +11208,6 @@ kyc-holdings.com
 kypler.com
 l.servidor.in
 labrador.ua
-lake-90.com
 laucass.forumactif.org
 launchdarkly.com
 launches.appsflyer.com
@@ -11234,7 +11229,6 @@ liveramp.net
 livesmeet.us
 livesmeets.us
 lkqd.net
-lo-ja-ma-galu-store.com
 loanfairfield.com
 localytics.com
 locationdata.ai
@@ -11249,6 +11243,7 @@ logger.quantummetric.com
 login-options.com
 login.quanly24h.net
 login.webwatcher.com
+login.zhongshengsuoju.com
 logrocket.com
 logs-prod-eu-west-0.grafana.net
 logs-prod-us-central1.grafana.net
@@ -11266,7 +11261,6 @@ lumma5b6r.com
 lummac2.com
 lummastealer.com
 luqos.cn
-luxonuniversity.com
 lvl99.store
 lytics.com
 m-media.thd.cc
@@ -11364,7 +11358,6 @@ mflx.biz
 mg-spyzie.oss-us-west-1.aliyuncs.com
 mgfdeutschland.com
 mggesq.cn
-mgxyuko.xyz
 mhtqk.cn
 mi.thd.cc
 miao.wondershare.cn
@@ -11428,9 +11421,7 @@ mtoolapp.biz
 mtoolapp.net
 mtpak.acoustic.com
 mtracker.fortess.net
-mundolatinoradio.info
 mushub.cfd
-mxk-762399649109.southamerica-east1.run.app
 mxspy.com
 my-document-101607.proposal-union-9173673.workers.dev
 my-spy-a9c92.firebaseio.com
@@ -11484,7 +11475,6 @@ netnut.net
 netspy-7b8ec.firebaseio.com
 new.androidlost.com
 newrelic.com
-neww-project-pdffiles.vercel.app
 nexsnield.com
 nexus-websocket-a.intercom.io
 nexus-websocket-b.intercom.io
@@ -11525,7 +11515,6 @@ occdn.services
 oceanvw.click
 ocmetrics.net
 ocservices.net
-odeesa.com.mx
 offercoremedia.com
 offercorestats.com
 office.hw.cab
@@ -11587,8 +11576,8 @@ panoramadb.com
 panspy-1.oss-us-west-1.aliyuncs.com
 panspy.com
 panspy.me
+paulweiss.myssologin.com
 pawns.app
-pay-pal-login-verification-center.com
 pb.yieldlab.net
 pc.backupsoft.eu
 pc.brunoespiao.com.br
@@ -11779,7 +11768,6 @@ protocol.systemserviceprovider.com
 protocol.thetruthspy.com
 proxy-blue.apigw-east.api.dh.comcast.com
 proxy.reptilicus.net
-proxy8.com
 prozhe.vip
 ps97mailer.logger.mobi
 psd.markets
@@ -11818,7 +11806,6 @@ quanly24h.net
 quantcount.com
 quantserve.com
 quantummetric.com
-qweaxfgtc.study
 r.findmykids.org
 r.logrocket.io
 r.lr-ingest.io
@@ -11868,7 +11855,6 @@ revealmobile.com
 revenuecat.com
 rhythmone.com
 richpush.co
-rivensa.cfd
 rl.dc.rubiconproject.com
 rlcdn.com
 rncdn1.com
@@ -12039,7 +12025,6 @@ shadowappbundle-default-rtdb.firebaseio.com
 shadowemberstrike.top
 shadowlogspanel.firebaseio.com
 shanxinsawe-jp.com
-sharepointoffficewwork.sbs
 sharethrough.com
 shoppingbasketweekly.info
 shunyishengh-jp.com
@@ -12140,7 +12125,6 @@ sse.chyldmonitor.com
 ssl.google-analytics.com
 ssl3.awsdns-531.com
 sslwidget.criteo.com
-sso-808526.gmo-aozora.app
 sspstats.smartadserver.com
 staffcop.com
 stage.spystealth.com
@@ -12175,6 +12159,7 @@ stupendoussnow.com
 stzaeyv.click
 suggestqueries.google.com
 sumologic.com
+sunvallen-jp.com
 superfish.com
 support.mtoolapp.biz
 support.phoneparental.com
@@ -12239,7 +12224,6 @@ tb.ask.com
 tchsrvce.com
 tdos.io
 tealiumiq.com
-teams-meeting-invite.icu
 techupdate.cfd
 telematicssdk.com
 telemetry.dropbox.com
@@ -12279,13 +12263,11 @@ thmaiaas.duckdns.org
 threatmetrix.com
 thriddata.com
 timedoctor.com
-times.eastus.cloudapp.azure.com
 tispy.net
 tls.telemetry.swe.quicinc.com
 tlx.3lift.com
 tmmkxi.cn
 tmsapi.com
-toastposupdate.com
 tookps.net
 topzaloha.cz
 towerdata.com
@@ -12410,9 +12392,9 @@ uo.evaspy.com
 up.evaspy.com
 update-browser-now.com
 update-service-7e59f.firebaseio.com
-update.cdnlinks.org
 update.dealply.com
 updatebrowser.net
+updpkg.net
 upload.weiguanai.cn
 uq.evaspy.com
 ur.brunoespiao.com.br
@@ -12506,6 +12488,7 @@ werkbit.io
 wethnc067.xyz
 where-is-my-children.firebase.io
 whiteops.com
+wi20a-1kkan-llam2.xo.je
 wickerlookoutdoorfurniture.com
 widget.criteo.com
 winupdate.live
@@ -12613,8 +12596,6 @@ zkmloe.cn
 zmail.broadmediacloud.com
 zoom-clientsetup.com
 zoom-meet-invite7845957.s3.us-east-1.amazonaws.com
-zoominviteus07.pages.dev
-zoomjoinlive.com
 zsxocjarsate.com
 zvh4.com
 zzpwttke.cn
