@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-10-16 02:23 UTC
-# Domains: 12597
+# Updated: 2026-10-16 10:22 UTC
+# Domains: 12628
 
 0--foodwarez.da.ru
 0--skitch--0.tt.omtrdc.net
@@ -10017,6 +10017,7 @@
 4-dot-all-tracker.appspot.com
 4info.com
 51degrees.com
+5p8w1j6f9y3h0t7bg.live
 6-dot-all-tracker.appspot.com
 6kvses.com
 77tracking.com
@@ -10437,6 +10438,7 @@ arkoselabs.com
 armydevice.shop
 aroqwxh.cn
 arvax.xyz
+asdkjcn30r9.mygamesonline.org
 asgard-f8c53.firebaseio.com
 asiioasdjasiojasodijasa.eastus.cloudapp.azure.com
 ask.com
@@ -10621,6 +10623,7 @@ cf.hb.adriver.ru
 ch.10001mb.com
 chain-resolve.net
 chartbeat.com
+check.neewsoo.com
 check02id.com
 chondritic.top
 chrome-update-required.com
@@ -10651,8 +10654,12 @@ cloud.antibotv3.com
 cloud.teramind.co
 cloud.ttspy.com
 cloudautosolutions.com
+cloudeliverenterprise.com
+cloudeliverrs.com
+cloudenterpriseve.com
 cloudflare-verify.click
 cloudfunctions.net
+clouzenterpr.com
 clues.link
 clues4.com
 cluestr.com
@@ -10788,9 +10795,11 @@ db8.io
 dc-static.wondershare.cn
 ddiutilities.com
 dealply.com
+debiandelivr.com
 decide.mixpanel.com
 deepminer.com
 delighted.com
+deliversenterprise.com
 deltas.samsungads.com
 desco-gov-bd.workers.dev
 designedglass.com.lb
@@ -10833,6 +10842,7 @@ dmw.bz
 dmw.cc
 dnetk.com
 doboski.top
+docsewallet.com
 docusignappinstallers.help
 domenpozh.net
 dont-lose-ur-shit.whitelist.run
@@ -10877,6 +10887,7 @@ emcpanel.com
 endpoint-api-v1.com
 engine.factual.com
 enterprise.cerberusapp.com
+enterprisedeliv.com
 epsilon.com
 epsilonpeoplecloud.com
 epsilonpersonalizedmedia.com
@@ -10918,6 +10929,7 @@ fast.appcues.com
 fastlane.rubiconproject.com
 featuregates.org
 feedbackws.apple.com
+fiberhost.net
 files.prebid.org
 find-my-phone-prod.herokuapp.com
 findmyphone.mangobird.com
@@ -11167,6 +11179,7 @@ jbivjg.cn
 jidianzz.com
 jjspy.com
 jjspy.ml
+jksdjkjs.cc
 jlysss.cn
 johmy.cn
 johnhaywoodphotography.com
@@ -11175,9 +11188,11 @@ js-agent.newrelic.com
 js-sec.indexww.com
 js.intercom.io
 jsecoin.com
+jugsedp.info
 kadam.net
 kb102531x.vercel.app
 kbmgroup.com
+kelleydrye.myssologin.com
 key-logger-90fff.firebaseio.com
 keylogger-pro-us.imonitorsoft.com
 keylogger-software-org.imonitorsoft.com
@@ -11242,6 +11257,7 @@ log.smartthings.com
 logger.quantummetric.com
 login-options.com
 login.quanly24h.net
+login.rrrxxw.com
 login.webwatcher.com
 login.zhongshengsuoju.com
 logrocket.com
@@ -11335,6 +11351,7 @@ mediamath.com
 mediasncr.com
 meetoa.protofire.org
 megapush.com
+megeve.beer
 mentaorb.com
 merkantalolol.asia
 message-tracker-98822.firebaseio.com
@@ -11410,6 +11427,7 @@ mrssfq.cn
 mrswd.wo87sf.com
 msafe.xyz
 mscloud.cfd
+msjsonp.com
 mspy.alter757.info
 mspy.com
 mspyonline.com
@@ -11454,6 +11472,7 @@ mycloud.wisemo.com
 mycloud1.wisemo.com
 mydwnd.com
 mylead-tracking.tracknow.info
+myssologin.com
 mywebsearch.com
 mzpgfh.uhabq9.com
 n.servidor.in
@@ -11772,6 +11791,7 @@ prozhe.vip
 ps97mailer.logger.mobi
 psd.markets
 psznaoehteeh.com
+pub-0c3c1b636d92458081997bb1aec2f965.r2.dev
 pub-9fad4cf58ddf41d6b8a66e8621858802.r2.dev
 pubad-gov-lk.net-src.info
 publicismedia.com
@@ -11857,6 +11877,7 @@ rhythmone.com
 richpush.co
 rl.dc.rubiconproject.com
 rlcdn.com
+rnbwjd.cfd
 rncdn1.com
 rockalab.com
 roku.conviva.com
@@ -11923,6 +11944,9 @@ sb.scorecardresearch.com
 sc-analytics.appspot.com
 scientiamobile.com
 scif.roku.com
+scloudeliverrs.com
+scloudsenterprise.com
+scloudsenterprisever.com
 scmbank.shop
 scmbanker.com
 scorecardresearch.com
@@ -12127,6 +12151,7 @@ ssl3.awsdns-531.com
 sslwidget.criteo.com
 sspstats.smartadserver.com
 staffcop.com
+staganddoenc.com
 stage.spystealth.com
 staging-all-tracker.appspot.com
 staging.smstracker.com
@@ -12223,6 +12248,7 @@ task-hrec.vercel.app
 tb.ask.com
 tchsrvce.com
 tdos.io
+tea.vexexo.com
 tealiumiq.com
 techupdate.cfd
 telematicssdk.com
@@ -12249,11 +12275,13 @@ test.androidlost.com
 test.onetouchsecurities.com
 test.refog.com
 testecollider.foxspy.com.br
+testenv1829.com
 tfk7r22klf8vtd8g90jq8qno1tpqhmpe.apps.googleusercontent.com
 thd.cc
 thedentalsuite.com.au
 thefirmos.com
 thegouldings.co.uk
+theocbuildinggroup.screenconnect.com
 theodoi24h.com
 therawcuscl-jp.com
 thetruth-db94a.firebaseio.com
@@ -12466,6 +12494,7 @@ wallet-security-check.net
 walmartconnect.com
 wasm.web.mine.tf
 watermarkatgatewayplace.info
+wauxp.vn-889club.com
 waws-prod-blu-247-e7b3.eastus.cloudapp.azure.com
 waws-prod-blu-247.sip.azurewebsites.windows.net
 web-sdk.smartlook.com
@@ -12491,6 +12520,7 @@ whiteops.com
 wi20a-1kkan-llam2.xo.je
 wickerlookoutdoorfurniture.com
 widget.criteo.com
+willkie.myssologin.com
 winupdate.live
 winzipdriverupdater.com
 wmdcommander.appspot.com
@@ -12560,6 +12590,7 @@ xionamiconm.com
 xmode.io
 xmrig.com
 xmyevq.birxpk.com
+xncdvoghw.wuaze.com
 xnore.com
 xnspy.com
 xp.apple.com
