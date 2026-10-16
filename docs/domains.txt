@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-10-16 15:48 UTC
-# Domains: 12630
+# Updated: 2026-10-16 20:17 UTC
+# Domains: 12632
 
 0--foodwarez.da.ru
 0--skitch--0.tt.omtrdc.net
@@ -10797,6 +10797,7 @@ dc-static.wondershare.cn
 ddiutilities.com
 dealply.com
 debiandelivr.com
+dechert.myssologin.com
 decide.mixpanel.com
 deepminer.com
 delighted.com
@@ -12175,6 +12176,7 @@ stats.samsungsmarthome.com
 stats.wp.com
 statsigapi.net
 stellasallaku.com
+stinson.myssologin.com
 stormvenomforge.top
 strapi.msafely.com
 strapi.spyphone.cc
