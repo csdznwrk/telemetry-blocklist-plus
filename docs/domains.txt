@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-10-16 10:22 UTC
-# Domains: 12628
+# Updated: 2026-10-16 15:48 UTC
+# Domains: 12630
 
 0--foodwarez.da.ru
 0--skitch--0.tt.omtrdc.net
@@ -10002,6 +10002,7 @@
 042fd4a295419af8.com
 042gmail.com
 042vip.com
+0xrpc.io
 12d60.appspot.com
 12d60.firebaseio.com
 13-5.org
@@ -11942,6 +11943,7 @@ sardine.ai
 sas.smartadserver.com
 sb.scorecardresearch.com
 sc-analytics.appspot.com
+scarlettgugldabhgz3uertpnxglxytddxbd5vnoma5pihfk6k5q2sid.onion
 scientiamobile.com
 scif.roku.com
 scloudeliverrs.com
