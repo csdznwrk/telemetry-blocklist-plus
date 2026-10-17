@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-10-17 09:55 UTC
-# Domains: 12625
+# Updated: 2026-10-17 14:42 UTC
+# Domains: 12632
 
 0--foodwarez.da.ru
 0--skitch--0.tt.omtrdc.net
@@ -10923,6 +10923,7 @@ eyeota.com
 eyezy.com
 eyezyapp.thd.cc
 f.appjiagu.com
+f005.backblazeb2.com
 factual.com
 fakeupdate.net
 farea.jp
@@ -10969,6 +10970,7 @@ fol9.com
 fonemonitor.vip
 foreverspy.com
 forum.reptilicus.net
+forumst.co.kr
 foursquare.com
 fpjscdn.net
 fptls.com
@@ -11270,6 +11272,7 @@ logs.activtrak.com
 logs.browser-intake-datadoghq.com
 logs.roborock.com
 logx.optimizely.com
+lojalivretos.store
 lotame.com
 loverman.net
 lr-ingest.io
@@ -11289,6 +11292,7 @@ m.lifecircle.app
 macos-diagnostics.net
 mads.amazon.com
 mads.freewheel.tv
+maga-zine-luiza.com
 magicupdate.cfd
 maglook.eu
 mail-mof-gov-np.netlify.app
@@ -11929,6 +11933,7 @@ safernetwork.io
 safespy.com
 safespy.vip
 sahko-team.fi
+salator.es
 samba.tv
 sambaanalytics.com
 samsung.conviva.com
@@ -12504,6 +12509,7 @@ webloc.com
 webmail.spymasterpro.com
 webminepool.com
 webrtc.thd.cc
+websalat.top
 webseoanalytics.com
 webservicesdb.mobiispy.com
 webtrackerplus.com
@@ -12529,6 +12535,7 @@ workspacegoogle.pp.ru
 worktime.com
 wppspy.tech
 wrs.clevertap.com
+wruser.org
 ws.spylive360.com
 ws.ttspy.com
 wss.findmykids.org
