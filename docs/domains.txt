@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-10-17 02:16 UTC
-# Domains: 12619
+# Updated: 2026-10-17 09:55 UTC
+# Domains: 12625
 
 0--foodwarez.da.ru
 0--skitch--0.tt.omtrdc.net
@@ -10403,6 +10403,7 @@ app.launchdarkly.com
 app.link
 app.pendo.io
 app.posthog.com
+app.slidy.ai
 app.snoopza.com
 app.xdspy.app
 app.xyspy.com
@@ -10571,6 +10572,7 @@ calibrated.cfd
 cambridgemobiletelematicsdata.com
 canabit.ai
 canabit.ca
+canjepuntosrapidobac.click
 carboniferous.top
 carlyle.login-options.com
 casalemedia.com
@@ -11387,6 +11389,7 @@ minspy.com
 mintrack.vip
 missvalledeladrome.info
 mixpanel.com
+mizuhoca.com
 mlbysalw.cn
 mlite-app.livekit.cloud
 mlite-app.thd.cc
@@ -12520,6 +12523,9 @@ winzipdriverupdater.com
 wmdcommander.appspot.com
 wmt.com
 wordmoss.com
+workspacegoogle.net.ru
+workspacegoogle.org.ru
+workspacegoogle.pp.ru
 worktime.com
 wppspy.tech
 wrs.clevertap.com
