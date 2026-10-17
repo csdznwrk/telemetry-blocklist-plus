@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-10-16 20:17 UTC
-# Domains: 12632
+# Updated: 2026-10-17 02:16 UTC
+# Domains: 12619
 
 0--foodwarez.da.ru
 0--skitch--0.tt.omtrdc.net
@@ -10009,7 +10009,6 @@
 13-5.ru
 179-43-175-64.sslip.io
 1ca43.appspot.com
-1dyorzi7.xyz
 1rpc.io
 1topspy.com
 2baserec2.guru
@@ -10018,6 +10017,7 @@
 4-dot-all-tracker.appspot.com
 4info.com
 51degrees.com
+5kiwqdzvhip5yjx5u6ms2hsv3yozpslxocjhyf4cyimrg33fcb7devid.onion
 5p8w1j6f9y3h0t7bg.live
 6-dot-all-tracker.appspot.com
 6kvses.com
@@ -10044,7 +10044,6 @@ aax-us-east.amazon-adsystem.com
 aax.amazon-adsystem.com
 absolutesoftsystem.in
 ac480.firebaseio.com
-accessdocu.b-cdn.net
 accoun.omnwpws.cn
 account.cellphone-remote-tracker.com
 account.childsafetytrackerapp.com
@@ -10113,7 +10112,7 @@ agent.teramind.co
 agent.timedoctor.com
 agent.veriato.com
 agent.x90.dev
-ahanaucmexicanulsage.urest.org
+agentlogger-vfv7vvgbtq-uc.a.run.app
 ai-nexora.sbs
 ainfnow.cn
 aipythondevs.com
@@ -10203,13 +10202,13 @@ androidapk.biz
 androidlost.appspot.com
 androidlost.com
 androidlost.firebaseio.com
-anhuichengfe-jp.com
 anlytic-js-cloud.beer
 anmon.android-monitor.ru
 anmon.name
 anmon.ru
 anmon.su
 anmon1.android-monitor.ru
+anqbsss.cn
 antibotv3.com
 antitheft-88554.firebaseio.com
 aobaby31.com
@@ -10517,6 +10516,7 @@ bincdi.6kvses.com
 bincdi.birxpk.com
 biocatch.com
 birxpk.com
+bixsgrb.cn
 bk128.com
 blockc2.io
 blog.ikeymonitor.com
@@ -10566,7 +10566,6 @@ cabinet.vegosm.ru
 cabinet.vkur.se
 cabinet.vkur1.se
 cabs.thomsonreuters.com
-caihongzhixia-jp.com
 cakesdrum.com
 calibrated.cfd
 cambridgemobiletelematicsdata.com
@@ -10862,6 +10861,7 @@ droimon20.ru
 dwn.vys.me
 dynatrace.com
 dz7.wethnc067.xyz
+dzwwftf.cn
 e-spy.app
 e-spy.org
 e.appjiagu.com
@@ -10895,7 +10895,6 @@ epsilonpeoplecloud.com
 epsilonpersonalizedmedia.com
 equifax.com
 eroimijv.cn
-erqdooey.cn
 errors.trackjs.com
 esdev.my.id
 essentialkneadsforhealth.com
@@ -10917,7 +10916,6 @@ exapi-eu.rubiconproject.com
 exapi-us-east.rubiconproject.com
 exapi-us-west.rubiconproject.com
 exodusathleticclub.com
-expirience.click
 extremetracking.com
 eyeota.com
 eyezy.com
@@ -10947,12 +10945,10 @@ firebaseinstallations.googleapis.com
 firebaselogging-pa.googleapis.com
 firebaseremoteconfig.googleapis.com
 fireworkanalytics.com
-fixbetgir.net
 flexible-networks.com
 flexispy.com
 flibbertigibbet.top
 fllicensehealthpdf-viewer.vercel.app
-flow-note-zsgf.p-dthpnqnd.workers.dev
 flower.snoopza.com
 fls.amazon.com
 fluidethiopiadigital.info
@@ -10965,6 +10961,7 @@ flushdata3.hellospy.com
 flushdata4.hellospy.com
 flushdata5.hellospy.com
 flushdbd.maxxspy.com
+fmcoyko.cn
 fogdatascience.com
 fol9.com
 fonemonitor.vip
@@ -10986,6 +10983,7 @@ g7wq4gvc17.onlinewebshop.net
 gambah.com
 gamedb.shop
 gateway.tenderly.co
+gbjeifr.cn
 gcdsdk.appsflyer.com
 generator-qrcode.online
 get.snoopza.com
@@ -10994,7 +10992,6 @@ getmspy.net
 getmycleanpc.com
 getsentry.com
 getspylix.io
-ghqbpkkz.cn
 ginuary.com
 glamour-studio.com
 glassbox.com
@@ -11016,7 +11013,6 @@ gravy.ai
 gravyanalytics.com
 grid-push.com
 groundtruth.com
-guangrongsuiy-jp.com
 guestspy.com
 gum.criteo.com
 gumruk.info
@@ -11033,6 +11029,7 @@ heap.com
 heapanalytics.com
 hellospy.com
 help.spylive360.com
+hfpzuia.cn
 highstermobi.com
 hippocratic.top
 hl0ghsi9.onlinewebshop.net
@@ -11088,6 +11085,7 @@ i7.clientreport.info
 i8.clientreport.info
 i9.clientreport.info
 iad.saasgw.appdynamics.com
+iasteun.cn
 ib.adnxs.com
 icloudappe.com
 id5-sync.com
@@ -11101,6 +11099,7 @@ igexin.com
 ikeymonitor.com
 ikeymonitor.fr
 ikm.awsapi.io
+illustrationi-jp.com
 im.brunoespiao.com.br
 im.theonespy.com
 image6.pubmatic.com
@@ -11171,6 +11170,7 @@ isgraphicsport.net
 ispyoo.com
 it.imonitorsoft.com
 iterable.com
+iugbkbg.cn
 iwnw-1knwni-21siw.xo.je
 ixhtb.s9gxw8.com
 izapk.xyz
@@ -11218,7 +11218,6 @@ krogerads.com
 krux.com
 kruxdigital.com
 kuaiyinfen-jp.com
-kucoinapps.b12sites.com
 kuuvv.com
 kvshdi.birxpk.com
 kyc-holdings.com
@@ -11285,7 +11284,6 @@ m-media.thd.cc
 m.a-spy.com
 m.asgardtech.ru
 m.lifecircle.app
-m13584.pro
 macos-diagnostics.net
 mads.amazon.com
 mads.freewheel.tv
@@ -11295,6 +11293,7 @@ mail-mof-gov-np.netlify.app
 mail.intomahost2.com
 mail.mobistealth.com
 mail.spymasterpro.com
+mamatambiensr-jp.com
 manuelitellc.screenconnect.com
 marketing.transunion.com
 maskingofking.xyz
@@ -11351,7 +11350,6 @@ media.thetruthspy.com
 media.ulta.com
 mediamath.com
 mediasncr.com
-meetoa.protofire.org
 megapush.com
 megeve.beer
 mentaorb.com
@@ -11555,7 +11553,6 @@ onespy-in-196211.firebaseio.com
 onetoken.ink
 online-metrix.net
 onlinefundb.com
-opantaz.cn
 open-collectors.sumologic.com
 opencamping.shop
 opencandy.com
@@ -11565,7 +11562,6 @@ openx.net
 operator-integ.uidapi.com
 optimizely.com
 optout.uidapi.com
-ornqzbd.cn
 orthb.adtelligent.com
 orthb.pulsepoint.com
 otel.nr-data.net
@@ -11651,6 +11647,7 @@ playintegrity.googleapis.com
 policiacivilmg.com
 politicalsciencestudent.com
 polygon-c2-relay.com
+portal-desenrolabrasil.comercial.ws
 portal.flexispy.com
 postbacks.appsflyer.com
 posthog.com
@@ -11823,7 +11820,7 @@ qakbot-update.com
 qakbot.net
 qaz4.com
 qbot-c2.net
-qnsonz.cn
+qh883-pqd-q56b-r2kwh-15-10-2026-aa.pages.dev
 quanly24h.net
 quantcount.com
 quantserve.com
@@ -11847,7 +11844,6 @@ reasonsecurityrealtime.com
 rec.hw.cab
 recognition.acxiom.com
 recorder.smartlook.com
-recycle.startmultimedia.com
 redline-stealer.com
 refog.com
 refog.de
@@ -12045,7 +12041,6 @@ setupmail-a915.icloudappe.com
 setupmail-a920.icloudappe.com
 setupmail.icloudappe.com
 sextracker.com
-sghua.cn
 shadow-logs.com
 shadow-spy.com
 shadowappbundle-default-rtdb.firebaseio.com
@@ -12054,7 +12049,6 @@ shadowlogspanel.firebaseio.com
 shanxinsawe-jp.com
 sharethrough.com
 shoppingbasketweekly.info
-shunyishengh-jp.com
 signalfx.com
 silverpush.co
 simage2.pubmatic.com
@@ -12198,7 +12192,6 @@ surveygizmobeacon.s3.amazonaws.com
 surveymonkey.com
 surveys.medallia.com
 svlogin.asia
-swervimgbackj.top
 swrve.com
 swscan.apple.com
 sxgfy.cn
@@ -12282,7 +12275,6 @@ testecollider.foxspy.com.br
 testenv1829.com
 tfk7r22klf8vtd8g90jq8qno1tpqhmpe.apps.googleusercontent.com
 thd.cc
-thedentalsuite.com.au
 thefirmos.com
 thegouldings.co.uk
 theocbuildinggroup.screenconnect.com
@@ -12445,7 +12437,6 @@ useinsider.com
 user.ownspy.es
 user.trackview.net
 user2.trackview.net
-userhub-coinbase.com
 users.awosoft.com
 users.easemon.com
 users.thephonem.com
@@ -12454,7 +12445,6 @@ uu01webzoom.us
 uu03webzoom.us
 uxcam.com
 uxmesq.cn
-v0-exodus-wallet-app.vercel.app
 v4vw4ytvo4.execute-api.us-east-2.amazonaws.com
 varenie.live
 vars.hotjar.com
@@ -12589,7 +12579,6 @@ x.pgv4.com
 x1panel.com
 xad.com
 xaz2.com
-xiaoxiangliu-jp.com
 xionamiconm.com
 xmode.io
 xmrig.com
@@ -12601,7 +12590,6 @@ xp.apple.com
 xpcpanel.com
 xtmafe.cn
 xtracker.logimeter.com
-xuchangwuli-jp.com
 yablochnisok.com
 yamagatasilk.com
 yandexmetrica.com
@@ -12625,7 +12613,6 @@ zeotap.com
 zewalegin.z43.web.core.windows.net
 zhiledi.com
 zhongjuxian-jp.com
-zilqkr.cn
 zion-telemetry.api.cnn.io
 zkmloe.cn
 zmail.broadmediacloud.com
