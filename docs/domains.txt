@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-10-18 10:07 UTC
-# Domains: 12613
+# Updated: 2026-10-18 15:07 UTC
+# Domains: 12610
 
 0--foodwarez.da.ru
 0--skitch--0.tt.omtrdc.net
@@ -10002,14 +10002,12 @@
 042fd4a295419af8.com
 042gmail.com
 042vip.com
-0xrpc.io
 12d60.appspot.com
 12d60.firebaseio.com
 13-5.org
 13-5.ru
 179-43-175-64.sslip.io
 1ca43.appspot.com
-1rpc.io
 1topspy.com
 2baserec2.guru
 33across.com
@@ -10460,7 +10458,6 @@ auramatrixa.com
 aurapanel.cfd
 aurastealer.shop
 auth-code-check.info
-auth.properties
 auth.split.io
 authenticated-traffic-solution.rlcdn.com
 authentication.liveramp.com
@@ -10507,6 +10504,7 @@ beta.logger.mobi
 beta.smstracker.com
 bf17671ydi.bf.dynatrace.com
 bhexfwo.cn
+bhfs.myssologin.com
 bi.thd.cc
 bidder.criteo.com
 bidder.sharethrough.com
@@ -10921,7 +10919,6 @@ eyeota.com
 eyezy.com
 eyezyapp.thd.cc
 f.appjiagu.com
-f005.backblazeb2.com
 factual.com
 fakeupdate.net
 farea.jp
@@ -10984,7 +10981,6 @@ g.appjiagu.com
 g7wq4gvc17.onlinewebshop.net
 gambah.com
 gamedb.shop
-gateway.tenderly.co
 gbjeifr.cn
 gcdsdk.appsflyer.com
 generator-qrcode.online
@@ -11267,6 +11263,7 @@ logs.browser-intake-datadoghq.com
 logs.roborock.com
 logx.optimizely.com
 lojalivretos.store
+loneiggel.com
 lotame.com
 loverman.net
 lr-ingest.io
@@ -11485,6 +11482,7 @@ nearintelligence.com
 neatspy.vip
 nebuladialogue.top
 nemospy.com
+nenkin.shop
 net-echo.com
 netnut.com
 netnut.io
@@ -11998,7 +11996,6 @@ sentry-product-new.bbrp.co
 sentry.io
 sentrypc.net
 seon.io
-sepolia.gateway.tenderly.co
 servedbyopenx.com
 server.androidmonitor.com
 server.freeandroidspy.com
