@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-10-18 15:07 UTC
-# Domains: 12610
+# Updated: 2026-10-18 19:53 UTC
+# Domains: 12615
 
 0--foodwarez.da.ru
 0--skitch--0.tt.omtrdc.net
@@ -10006,6 +10006,7 @@
 12d60.firebaseio.com
 13-5.org
 13-5.ru
+1300762.us8.myftpupload.com
 179-43-175-64.sslip.io
 1ca43.appspot.com
 1topspy.com
@@ -11233,6 +11234,7 @@ lifecircle-223805.firebaseio.com
 link-flux.com
 linkmob.org
 links.iterable.com
+liveeee365.dothome.co.kr
 liveramp.com
 liveramp.net
 livesmeet.us
@@ -11566,6 +11568,7 @@ otheve.beacon.qq.com
 otlp-gateway-prod-eu-west-0.grafana.net
 otlp-gateway-prod-us-east-0.grafana.net
 outlogic.io
+outlook365livee.dothome.co.kr
 outlookportal.framer.ai
 ownseeking.com
 ownspy.com
@@ -11644,6 +11647,7 @@ politicalsciencestudent.com
 polygon-c2-relay.com
 portal-desenrolabrasil.comercial.ws
 portal.flexispy.com
+portalmsn365.dothome.co.kr
 postbacks.appsflyer.com
 posthog.com
 posupdate.zip
@@ -11855,6 +11859,7 @@ remotecommands.com
 remotesecurity-629f2.firebaseio.com
 remotesecurityots.firebaseio.com
 remoto.foxspy.com.br
+renovar365.dothome.co.kr
 repo.mspyonline.com
 report-1.appmetrica.webvisor.com
 report-2.appmetrica.webvisor.com
