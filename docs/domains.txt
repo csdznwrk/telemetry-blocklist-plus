@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-10-18 02:16 UTC
-# Domains: 12609
+# Updated: 2026-10-18 10:07 UTC
+# Domains: 12613
 
 0--foodwarez.da.ru
 0--skitch--0.tt.omtrdc.net
@@ -10022,6 +10022,7 @@
 6-dot-all-tracker.appspot.com
 6kvses.com
 77tracking.com
+7k.iakmialor.web.id
 83dd4.appspot.com
 84-51.com
 8916f.appspot.com
@@ -11253,6 +11254,7 @@ log.ring.com
 log.smartthings.com
 logger.quantummetric.com
 login-options.com
+login.caimanying.com
 login.quanly24h.net
 login.rrrxxw.com
 login.webwatcher.com
@@ -12471,6 +12473,7 @@ vkur.se
 vkur1.se
 voderlence.com
 voidravenstorm.top
+vpass.tuyonghao.com
 vpn.5tr.org
 vrl.lta.gov.sg
 vscode-extension-update.net
@@ -12500,6 +12503,7 @@ webtrackerplus.com
 webwatcher-child-app.firebaseio.com
 webwatcherdata.com
 webwatchernow.com
+wellsfargo-secure-login.beauty
 werkbit.io
 wethnc067.xyz
 where-is-my-children.firebase.io
