@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-10-19 11:38 UTC
-# Domains: 12612
+# Updated: 2026-10-19 18:00 UTC
+# Domains: 12613
 
 0--foodwarez.da.ru
 0--skitch--0.tt.omtrdc.net
@@ -1385,6 +1385,7 @@
 00-booalttrap.net.daraz.com
 00-booapac-cfw-c2s-01-n6x026trap.0-131.net.daraz.com
 00-booarttrap.net.daraz.com
+00-boocloudfront-ctrap.0-10-marketing.net.daraz.com
 00-boocloudtrap.0-0.net.daraz.com
 00-boocomtrap.0-132.net.daraz.com
 00-boocontrollertrap.net.daraz.com
@@ -2923,6 +2924,7 @@
 006-10-marketing.net.daraz.com
 006-active.net.daraz.com
 006-api-xspacewww.partner.net.daraz.com
+006-application-spring.net.daraz.com
 006-apps.net.daraz.com
 006-aserverigaserveragstr.net.daraz.com
 006-assets.net.daraz.com
@@ -2936,6 +2938,7 @@
 006-domaincontrol.net.daraz.com
 006-ebs-partner.net.daraz.com
 006-echo.net.daraz.com
+006-erpigerpagstr.net.daraz.com
 006-euweigeuweagstr.net.daraz.com
 006-firewall.net.daraz.com
 006-githubiggithubagstr.net.daraz.com
@@ -2948,12 +2951,14 @@
 006-kb.net.daraz.com
 006-korigkoragstr.net.daraz.com
 006-kubemarketing.net.daraz.com
+006-lb.net.daraz.com
 006-learningportal.net.daraz.com
 006-lib-ht-1.net.daraz.com
 006-lib-oa-1-cf23region.net.daraz.com
 006-londoniglondonagstr.net.daraz.com
 006-machine.net.daraz.com
 006-marketing-las.net.daraz.com
+006-monitoring-staging.net.daraz.com
 006-mozi.net.daraz.com
 006-n6x026.net.daraz.com
 006-net.net.daraz.com
@@ -2982,6 +2987,7 @@
 006-zdrzlivinggzagstr.net.daraz.com
 006-ziapisellerpackagingzaapisellerpackagingstr.net.daraz.com
 006-zicorreowebzacorreowebstr.net.daraz.com
+006-zidefaultzadefaultstr.net.daraz.com
 006-zidevops-ns2zadevops-ns2str.net.daraz.com
 006-zielbzaelbstr.net.daraz.com
 006-zifszafsstr.net.daraz.com
@@ -3101,6 +3107,7 @@
 006-zigzagstr-test.net.daraz.com
 006-zigzagstr-tester.net.daraz.com
 006-zigzagstr-tpeprint-mo.net.daraz.com
+006-zigzagstr-training.net.daraz.com
 006-zigzagstr-trial.net.daraz.com
 006-zigzagstr-uac.net.daraz.com
 006-zigzagstr-uat-procurement.net.daraz.com
@@ -3113,6 +3120,7 @@
 006-zigzagstr-zigzagstr.net.daraz.com
 006-zigzagstr.00d1n0000017glquam.net.daraz.com
 006-zigzagstr.accounting.net.daraz.com
+006-zigzagstr.accounts.net.daraz.com
 006-zigzagstr.admins.net.daraz.com
 006-zigzagstr.ae29-sjc12-dr01.net.daraz.com
 006-zigzagstr.api-xspace.net.daraz.com
@@ -3293,6 +3301,7 @@
 006-zwebconfgzagstr.net.daraz.com
 006-zwebdiskgzagstr.net.daraz.com
 006-zwindowsgzagstr.net.daraz.com
+006.0-058.net.daraz.com
 006.01-lib-oa-1-cf23region.net.daraz.com
 006.administrators.net.daraz.com
 006.apidocs-winter.net.daraz.com
@@ -3701,7 +3710,9 @@
 009-specialpythagoreantriplet.net.daraz.com
 009-specialpythagoreantriplet3apropmdeizy9vjf.net.daraz.com
 009-specialpythagoreantripletactive.net.daraz.com
+009.0-132.net.daraz.com
 009.cc
+009.net.daraz.com
 009022.xyz
 00904418.com
 00914236-apple.com
@@ -3797,6 +3808,7 @@
 00aeae3a9a.com
 00af89661d693a71.com
 00alphaplus3xn.net.daraz.com
+00alt2plus3xn.net.daraz.com
 00america70000000motieas.net.daraz.com
 00anpost.pro
 00aq83hjpu.xyz
@@ -3878,6 +3890,12 @@
 00d0y000000ltdouag.net.daraz.com
 00d0y000001jq4huas.net.daraz.com
 00d10000000yz6feas.net.daraz.com
+00d10130100motieas-990auyn11w0wpnuy4.net.daraz.com
+00d10140000motieas-990auyn11w0wpnuy4.net.daraz.com
+00d10140000motieas.0-030.net.daraz.com
+00d10140000motieas.dcsportal.0-0.net.daraz.com
+00d10140100motieas-990auyn11w0wpnuy4.net.daraz.com
+00d10140100motieas-990auyn13w0wpnuy4.net.daraz.com
 00d15000000gkhqeag.net.daraz.com
 00d15000000gu5yeaw.net.daraz.com
 00d176842434.icu
@@ -4002,6 +4020,7 @@
 00d24000000rmxheam.net.daraz.com
 00d24000061isrqea4.net.daraz.com
 00d28000001jmxseag.net.daraz.com
+00d29900000z4uceak.net.daraz.com
 00d2e000000gna7uao.net.daraz.com.00d20000000lgfveaa.net.daraz.com
 00d2e000001gna7uao-api.net.daraz.com
 00d2e000001gna7uao-cust01-cucm-sub-07-cl11.net.daraz.com
@@ -4015,13 +4034,16 @@
 00d3000000007fseay.net.daraz.com
 00d300000000bldea2.net.daraz.com
 00d300000000naneau.net.daraz.com
+00d300000000t11beau.0-0.net.daraz.com
 00d300000000t9beau-click.docs.net.daraz.com
 00d300000000t9beau.engine.net.daraz.com
 00d300000000t9beau.net.daraz.com
+00d300000000t9beaulogin.0-030.net.daraz.com
 00d300000000vcneay.net.daraz.com
 00d30000000n3s7eai.net.daraz.com
 00d30000000z4uceak-00d2e000001gna7uao.net.daraz.com
 00d30000000z4uceak.net.daraz.com
+00d30000000z5uceak.dcsportal.0-01-lib-oa-1-cf23region.net.daraz.com
 00d300300300t9beau.net.daraz.com
 00d300800000t4beau.net.daraz.com
 00d30c0c61020.beer
@@ -4035,6 +4057,7 @@
 00d39999997mwvsea0-docs-01-car21-web-wwww11node-webapp.okta.net.daraz.com
 00d39999997mwvsea0-docs.admin8ns.okta.net.daraz.com
 00d39999997mwvsea0-docs.mgmt.net.daraz.com
+00d39999997mwvsea0.dcsportal.0-0.net.daraz.com
 00d3e38b6fad9cd323eb9e99e046983f.xyz
 00d3ed994e.com
 00d3t000002re27eag.net.daraz.com
@@ -4045,6 +4068,7 @@
 00d40000000mwvsea0-lib-ln-2.net.daraz.com
 00d40000000mwvsea0.net.daraz.com
 00d40000000mwvsea001-car21-web-wwww12node-webapp-okta.net.daraz.com
+00d40000001mwvsea0.0-030.net.daraz.com
 00d40009010mwvsea0.net.daraz.com
 00d40099998mwvsea0.000-038.net.daraz.com
 00d410000011dtneau.net.daraz.com
@@ -4066,6 +4090,7 @@
 00d5n0000057glquam.net.daraz.com.00d1u000000x0jquai.net.daraz.com
 00d60000000kybneag.net.daraz.com
 00d60000000kz9peaw.net.daraz.com
+00d60000000motieas.0-0.net.daraz.com
 00d6100000080toeaq-emailvision.net.daraz.com
 00d6100000080toeaq-kubernetesvision.net.daraz.com
 00d61000000jg9reac.net.daraz.com
@@ -4099,6 +4124,7 @@
 00d70000000motieas-bob.net.daraz.com
 00d70000000motieas-chd.net.daraz.com
 00d70000000motieas-contacts.net.daraz.com
+00d70000000motieas-csr41.net.daraz.com
 00d70000000motieas-dex-api.net.daraz.com
 00d70000000motieas-ebs.10-marketing.net.daraz.com
 00d70000000motieas-external.net.daraz.com
@@ -4193,6 +4219,7 @@
 00d900000010xcyeay-develop-lib-ht-1.net.daraz.com
 00d94bf3262617342.tempsite.link
 00d9dbcbf4018bd926ac3dd7f25aee5a.org
+00d9u000006x0jquai.okta.net.daraz.com
 00da0000000b1eamai.net.daraz.com
 00da0000000gba6mai.net.daraz.com
 00da96f87cf94262.com
@@ -4361,12 +4388,14 @@
 00pralimebotlus3xn.net.daraz.com
 00pramericalus3xn.net.daraz.com
 00prapplus3xn.net.daraz.com
+00prcontrolpanelplus3xn.net.daraz.com
 00pre-ai70000000motieas.net.daraz.com
 00preportoplus3xn.net.daraz.com
 00prestrictedoplus3xn.net.daraz.com
 00primailplus3xn.net.daraz.com
 00prinvoiceplus3xn.net.daraz.com
 00privacidad-cuenta-bhd-2025-22.weebly.com
+00prlaxplus3xn.net.daraz.com
 00prloginlus3xn.net.daraz.com
 00probejavus3xn.net.daraz.com
 00procgiwinterus3xn.net.daraz.com
@@ -4418,6 +4447,8 @@
 00propluphpxn.net.daraz.com
 00proplupre-xspacexn.net.daraz.com
 00proplurdp3xn.net.daraz.com
+00proplus0xncf83region.net.daraz.com
+00proplus2xn-latin.0-030.net.daraz.com
 00proplus300-bootstrapn.net.daraz.com
 00proplus3annn.net.daraz.com
 00proplus3apidocs-wintern.net.daraz.com
@@ -4469,6 +4500,8 @@
 00proplus3xn-love.net.daraz.com
 00proplus3xn-mail.net.daraz.com
 00proplus3xn-monitoring-staging.net.daraz.com
+00proplus3xn-net.net.daraz.com
+00proplus3xn-oldsite.net.daraz.com
 00proplus3xn-openbsd.net.daraz.com
 00proplus3xn-origin.net.daraz.com
 00proplus3xn-partner-cdn.net.daraz.com
@@ -4590,6 +4623,7 @@
 00proplus3xnn6x026.net.daraz.com
 00proplus3xnnews.net.daraz.com
 00proplus3xnnode.net.daraz.com
+00proplus3xnpre-ai.net.daraz.com
 00proplus3xnpre-api-xspace.net.daraz.com
 00proplus3xnpre-connected.net.daraz.com
 00proplus3xnpre-webim.net.daraz.com
@@ -4837,6 +4871,7 @@
 01-caaelkhenticate21-10-aelkhenticate-oa-1.net.daraz.com
 01-caaexthenticate21-10-aexthenticate-oa-1.net.daraz.com
 01-caahtthenticate21-10-ahtthenticate-oa-1.net.daraz.com
+01-caai21-10-ai-oa-1.net.daraz.com
 01-caainterthenticate21-10-ainterthenticate-oa-1.net.daraz.com
 01-caakali21-web-wwww0node.net.daraz.com
 01-caakrthenticate21-10-akrthenticate-oa-1.net.daraz.com
@@ -4992,6 +5027,7 @@
 01-caauthenticate21-10-authenticate-preview-1.net.daraz.com
 01-caauthenticate21-10-authenticate-ps-1.net.daraz.com
 01-caauthenticate21-10-authenticate-pull-bd-aka-drzlive-1.net.daraz.com
+01-caauthenticate21-10-authenticate-push-pk-drzlive-1.net.daraz.com
 01-caauthenticate21-10-authenticate-rabbitmq-1.net.daraz.com
 01-caauthenticate21-10-authenticate-region-1.net.daraz.com
 01-caauthenticate21-10-authenticate-repo-1.net.daraz.com
@@ -5002,8 +5038,10 @@
 01-caauthenticate21-10-marketing-authenticate-oa-1.net.daraz.com
 01-caauthenticate21-ad-authenticate-oa-1.net.daraz.com
 01-caauthenticate21-admin8-authenticate-oa-1.net.daraz.com
+01-caauthenticate21-alt2-authenticate-oa-1.net.daraz.com
 01-caauthenticate21-apac-cfw-c2s-01-n6x026-authenticate-oa-1.net.daraz.com
 01-caauthenticate21-available-authenticate-oa-1.net.daraz.com
+01-caauthenticate21-clubpartner-cdn-authenticate-oa-1.net.daraz.com
 01-caauthenticate21-dev01-authenticate-oa-1.net.daraz.com
 01-caauthenticate21-dhar-authenticate-oa-1.net.daraz.com
 01-caauthenticate21-digitalacademy-authenticate-oa-1.net.daraz.com
@@ -5120,6 +5158,7 @@
 01-capriventicate21-10-priventicate-oa-1.net.daraz.com
 01-caprod21c-f8.net.daraz.com
 01-caproductions21-10-productions-oa-1.net.daraz.com
+01-capull-drzlive21-10-pull-drzlive-oa-1.net.daraz.com
 01-capull21-10-pull-oa-1.net.daraz.com
 01-capush-drzlive21c-f8.net.daraz.com
 01-car-f8-f8.net.daraz.com
@@ -5154,6 +5193,7 @@
 01-car21-10-r-incominga-1.net.daraz.com
 01-car21-10-r-internal-5.net.daraz.com
 01-car21-10-r-it-1.net.daraz.com
+01-car21-10-r-jpa-1.net.daraz.com
 01-car21-10-r-live-1.net.daraz.com
 01-car21-10-r-login-1.net.daraz.com
 01-car21-10-r-loginvc-1.net.daraz.com
@@ -5205,6 +5245,7 @@
 01-car21-10-r-oa-1.00-bootstrap.net.daraz.com
 01-car21-10-r-oa-1.1.net.daraz.com
 01-car21-10-r-oa-1.3arketing.net.daraz.com
+01-car21-10-r-oa-1.administrators.net.daraz.com
 01-car21-10-r-oa-1.apisellerpackaging.net.daraz.com
 01-car21-10-r-oa-1.applicationsnginx.net.daraz.com
 01-car21-10-r-oa-1.assets.net.daraz.com
@@ -5504,6 +5545,7 @@
 01-car21-web-jboss0node.net.daraz.com
 01-car21-web-jboss2-webapp.net.daraz.com
 01-car21-web-k12.net.daraz.com
+01-car21-web-k12w0node.net.daraz.com
 01-car21-web-k12wwww0nodeapisellerpackagingw11node-webapp.net.daraz.com
 01-car21-web-k12wwww0nodew0node.net.daraz.com
 01-car21-web-k1auto-pk-drzliverepository-webapp.net.daraz.com
@@ -5684,6 +5726,7 @@
 01-car21-web-wwww0node-elastic.net.daraz.com
 01-car21-web-wwww0node-engineapplication-spring.net.daraz.com
 01-car21-web-wwww0node-enginer-is-1-2.net.daraz.com
+01-car21-web-wwww0node-frontpage-partner.net.daraz.com
 01-car21-web-wwww0node-global-lib-ht-2.net.daraz.com
 01-car21-web-wwww0node-hr.net.daraz.com
 01-car21-web-wwww0node-k12wwww0node.net.daraz.com
@@ -5730,6 +5773,7 @@
 01-car21-web-wwww0node.dmetrictest.net.daraz.com
 01-car21-web-wwww0node.doclogin.net.daraz.com
 01-car21-web-wwww0node.docsdrop.net.daraz.com
+01-car21-web-wwww0node.ebs-partner.net.daraz.com
 01-car21-web-wwww0node.email.net.daraz.com
 01-car21-web-wwww0node.euw.net.daraz.com
 01-car21-web-wwww0node.gate.net.daraz.com
@@ -5737,6 +5781,7 @@
 01-car21-web-wwww0node.ingress.net.daraz.com
 01-car21-web-wwww0node.jm.net.daraz.com
 01-car21-web-wwww0node.kubemarketing.net.daraz.com
+01-car21-web-wwww0node.learningportal.net.daraz.com
 01-car21-web-wwww0node.live.net.daraz.com
 01-car21-web-wwww0node.mail.net.daraz.com
 01-car21-web-wwww0node.miembros.net.daraz.com
@@ -5969,6 +6014,7 @@
 01-car21-web-wwww11node-webapp-msgx.net.daraz.com
 01-car21-web-wwww11node-webapp-ns.net.daraz.com
 01-car21-web-wwww11node-webapp-oaas.net.daraz.com
+01-car21-web-wwww11node-webapp-okta.net.daraz.com
 01-car21-web-wwww11node-webapp-partner.net.daraz.com
 01-car21-web-wwww11node-webapp-pre-alicert-admin.net.daraz.com
 01-car21-web-wwww11node-webapp-pre-lazada-sg-2.net.daraz.com
@@ -6149,7 +6195,9 @@
 01-car21-web-wwww11procurement-webapp.net.daraz.com
 01-car21-web-wwww11production-webapp.net.daraz.com
 01-car21-web-wwww11restricted-r-ht-2-webapp.net.daraz.com
+01-car21-web-wwww11skype-webapp.net.daraz.com
 01-car21-web-wwww11spyder-ui-stage-webapp.net.daraz.com
+01-car21-web-wwww11stage-webapp.net.daraz.com
 01-car21-web-wwww11stats-webapp.net.daraz.com
 01-car21-web-wwww11stgx-cisco-capwap-controller-webapp.net.daraz.com
 01-car21-web-wwww11svc-webapp.net.daraz.com
@@ -6200,6 +6248,7 @@
 01-car21c-ann.net.daraz.com
 01-car21c-api-static-stage.net.daraz.com
 01-car21c-backend8.net.daraz.com
+01-car21c-bookings8.net.daraz.com
 01-car21c-car21c.net.daraz.com
 01-car21c-cloudfrontcar31.net.daraz.com
 01-car21c-customer.net.daraz.com
@@ -6261,6 +6310,7 @@
 01-car21c-f8-viviotech.net.daraz.com
 01-car21c-f8-webappr-oa-2.net.daraz.com
 01-car21c-f8.01-caauthenticate21-10-authenticate-oa-1.net.daraz.com
+01-car21c-f8.01-lib-oa-1-admin8.net.daraz.com
 01-car21c-f8.achoice-stg.net.daraz.com
 01-car21c-f8.aliexam.net.daraz.com
 01-car21c-f8.apache.patnercgi.net.daraz.com
@@ -6348,6 +6398,7 @@
 01-car21c-interaction.net.daraz.com
 01-car21c-interno8.net.daraz.com
 01-car21c-invoice.net.daraz.com
+01-car21c-kubemarketing.net.daraz.com
 01-car21c-livekit.net.daraz.com
 01-car21c-nginx.net.daraz.com
 01-car21c-oneloadpk.net.daraz.com
@@ -6501,65 +6552,14 @@
 01-carview1-10-r-oa-1.net.daraz.com
 01-carweb011-web-wwww0node.net.daraz.com
 01-carweb1-web-wwww11node-webapp.net.daraz.com
+01-carx-space1c-f8.net.daraz.com
 01-carzigzagstr1c-f8.net.daraz.com
 01-cas321-10-s3-oa-1.net.daraz.com
 01-cashop21c-f8.net.daraz.com
 01-caskidoitruy-doitruy21c-f8.net.daraz.com
 01-caspyder-api-prod21-10-spyder-api-prod-oa-1.net.daraz.com
 01-casql21-web-wwww0node.net.daraz.com
-01-castg21-web-wwww11node-webapp.net.daraz.com
-01-caticket21-web-wwww0node.net.daraz.com
-01-cauienticate21-10-uienticate-oa-1.net.daraz.com
-01-cav221-web-wwww0node.net.daraz.com
-01-caviviotech21-web-wwww11node-webapp.net.daraz.com
-01-cavortex21-10-vortex-oa-1.net.daraz.com
-01-caw321-10-w3-oa-1.net.daraz.com
-01-caweb21-web-wwww11node-webapp.net.daraz.com
-01-cawebcam21c-f8.net.daraz.com
-01-cazong-staging21-10-zong-staging-oa-1.net.daraz.com
-01-cboard21-10-r-oa-1.net.daraz.com
-01-cbroadcast-ip21-web-wwww0node.net.daraz.com
-01-cbroadcast-ipr21c-f8.net.daraz.com
-01-cc2s21c-f8.net.daraz.com
-01-ccatalogor21-10-r-ocatalogo-1.net.daraz.com
-01-cclients21-web-wwww11node-webapp.net.daraz.com
-01-cctvauthenticctvte21-10-authenticctvte-oa-1.net.daraz.com
-01-cdescargas21-web-wwww0node.net.daraz.com
-01-cdesiruleztv21c-f8.net.daraz.com
-01-cdfw321c-f8.net.daraz.com
-01-cdharr21-web-wwww0node.net.daraz.com
-01-cdn-web-wwww11node-webapp.net.daraz.com
-01-cdnib-oa-1-administrators-csr40.net.daraz.com
-01-cdocsnewnautilus12345proxy3r21-web-wwww0node.net.daraz.com
-01-cdomaincontrolpanelr21-10-r-odomaincontrolpanel-1.net.daraz.com
-01-ce21-10-r-oa-1.net.daraz.com
-01-celbr21-10-r-oelb-1.net.daraz.com
-01-cenglishr21-10-r-oenglish-1.net.daraz.com
-01-cert-oa-1-cf23region.net.daraz.com
-01-cesr21-10-r-oes-1.net.daraz.com
-01-cesr21c-f8.net.daraz.com
-01-ceuw21c-f8.net.daraz.com
-01-cex21-web-wwww0node.net.daraz.com
-01-cexternalr21-10-r-oexternal-1.net.daraz.com
-01-cf23region-10-r-oa-1.net.daraz.com
-01-cf23region-web-wwww11node-webapp.net.daraz.com
-01-cf821-web-wwww0node.net.daraz.com
-01-cf8f8uthenticf8te21-10-f8uthenticf8te-of8-1.net.daraz.com
-01-cfeedbackr21-10-r-ofeedback-1.net.daraz.com
-01-cgi-web-wwww0node.net.daraz.com
-01-cgiar21cgi-f8.net.daraz.com
-01-cgroupsr21-web-wwww11node-webgroupspp.net.daraz.com
-01-cguider21-web-wwww11node-webguidepp.net.daraz.com
-01-cgw21-web-wwww11node-webapp.net.daraz.com
-01-chd-www-admin8.net.daraz.com
-01-chd-wwwar21-10-r-oa-1.net.daraz.com
-01-cherculesr21-web-wwww11node-webherculespp.net.daraz.com
-01-chostingr21-web-wwww11node-webhostingpp.net.daraz.com
-01-cib-oa-1-cf23region.net.daraz.com
-01-cimages121-web-wwww0node.net.daraz.com
 01-cjx.pages.dev
-01-clballseasonr21-web-wwww0node.net.daraz.com
-01-cldapr21-10-r-oldap-1.net.daraz.com
 01-collab.land
 01-dashboard-stripe.com
 01-edito-atf-laplacemedia-7.fr
@@ -12445,6 +12445,7 @@ vars.hotjar.com
 venntel.com
 veraset.com
 veriato.com
+verifing-server.codes
 verify-captcha-human.com
 verisk.com
 veriskmarketing.com
