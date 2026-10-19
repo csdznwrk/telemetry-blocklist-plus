@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-10-19 02:31 UTC
-# Domains: 12593
+# Updated: 2026-10-19 11:38 UTC
+# Domains: 12612
 
 0--foodwarez.da.ru
 0--skitch--0.tt.omtrdc.net
@@ -10012,6 +10012,7 @@
 1topspy.com
 2baserec2.guru
 33across.com
+3cdffc93.fase-x.com
 3d7hz1zm.onlinewebshop.net
 4-dot-all-tracker.appspot.com
 4info.com
@@ -10035,11 +10036,13 @@ a.hwa.cab
 a.klaviyo.com
 a.syncvch.com
 a.thd.cc
+a0be120b.fase-x.com
 a342f.appspot.com
 a71f4.firebaseio.com
 aa-metrics.beauty.hotpepper.jp
 aa-metrics.recruit-card.jp
 aa-metrics.trip-ai.jp
+aaf0d9.vn-open888.com
 aax-us-east.amazon-adsystem.com
 aax.amazon-adsystem.com
 absolutesoftsystem.in
@@ -10141,6 +10144,7 @@ alphabitcapital.info
 alphonso.tv
 alter757.info
 altzserberin.info
+am.cxxsmxt.com
 amon.android-monitor.ru
 amon1.android-monitor.ru
 amos-stealer.com
@@ -10498,6 +10502,7 @@ beacons.gvt2.com
 belowground.top
 best-spy-apps.com
 bestbuy.narrative.io
+bestpartneha-jp.com
 beta-api.logger.mobi
 beta.logger.mobi
 beta.smstracker.com
@@ -10509,6 +10514,7 @@ bidder.criteo.com
 bidder.sharethrough.com
 bidmachine.io
 bidswitch.net
+bigperu.com
 bilineate.top
 billing.umobix.com
 bincdi.6kvses.com
@@ -10626,6 +10632,7 @@ check02id.com
 chondritic.top
 chrome-update-required.com
 chromeupdatenow.com
+cik07-cos.7moor-fs2.com
 circana.com
 cisco-appdynamics.com
 ckeuuat.cn
@@ -10971,9 +10978,11 @@ ftp.info-taxi.info
 fullstory.com
 funcaptcha.com
 funmoodsearch.com
+fwhkn.cn
 g.appjiagu.com
 g4sjm-49p-jyss45-xyk5l-hnn.pages.dev
 g7wq4gvc17.onlinewebshop.net
+gakik.cn
 gambah.com
 gamedb.shop
 gbjeifr.cn
@@ -11172,6 +11181,7 @@ jjspy.ml
 jksdjkjs.cc
 johnhaywoodphotography.com
 journallepoint.com
+jp.mercari.com
 js-agent.newrelic.com
 js-sec.indexww.com
 js.intercom.io
@@ -11272,6 +11282,7 @@ lytics.com
 m-media.thd.cc
 m.a-spy.com
 m.asgardtech.ru
+m.cxxsmxt.com
 m.lifecircle.app
 macos-diagnostics.net
 mads.amazon.com
@@ -11403,6 +11414,7 @@ monitask.com
 monitor-android.android-monitor.ru
 monitor-ultra.com
 monoxide.vip
+morojames1789900170014.0690011.misitiohostgator.com
 motorolasolutions.com
 mparticle.com
 mpmetrics.kochava.com
@@ -11450,6 +11462,7 @@ my.spyzie.com
 my.thespyapp.com
 my.thetruthspy.com
 my2.snoopza.com
+myaccountapps.com
 myappmobile-537f7.firebaseio.com
 mybbc-analytics.files.bbci.co.uk
 mycleanpc.com
@@ -11800,11 +11813,13 @@ pyhajarvi-instituutti.fi
 q12z.net
 q95294fs.beget.tech
 qa-analytics.com
+qa3u8erl.online
 qakbot-update.com
 qakbot.net
 qaz4.com
 qbot-c2.net
 qh883-pqd-q56b-r2kwh-15-10-2026-aa.pages.dev
+qhqgcy.com
 qtnxb7e52dr-clktplpw-8b3c1d-cl699a.pages.dev
 quanly24h.net
 quantcount.com
@@ -11911,6 +11926,7 @@ safernetwork.io
 safespy.com
 safespy.vip
 sahko-team.fi
+saissodbn202607oint.u0fnd.info
 salator.es
 samba.tv
 sambaanalytics.com
@@ -12173,6 +12189,7 @@ surveygizmobeacon.s3.amazonaws.com
 surveymonkey.com
 surveys.medallia.com
 svlogin.asia
+swflnylt.com
 swrve.com
 swscan.apple.com
 syd.saasgw.appdynamics.com
@@ -12572,6 +12589,7 @@ xp.apple.com
 xpcpanel.com
 xtracker.logimeter.com
 yablochnisok.com
+yahoologin6700.blogspot.com
 yamagatasilk.com
 yandexmetrica.com
 yhgphvfgaecacgtlbn67u7yfhafe6evnj4gs4s2oyb3hzjnlhq45azqd.onion
@@ -12586,6 +12604,7 @@ zdalnakontrola.pl
 zendrive.com
 zeotap.com
 zewalegin.z43.web.core.windows.net
+zhenxiongdibj.com
 zhiledi.com
 zhongjuxian-jp.com
 zion-telemetry.api.cnn.io
