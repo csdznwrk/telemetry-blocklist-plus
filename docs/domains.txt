@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-10-20 02:44 UTC
-# Domains: 12595
+# Updated: 2026-10-20 10:41 UTC
+# Domains: 12604
 
 0--foodwarez.da.ru
 0--skitch--0.tt.omtrdc.net
@@ -10846,6 +10846,8 @@ downloads.refog.com
 dramajp.com
 drawbridge.com
 dresiadkmhuta25.pages.dev
+drive-security.zapto.org
+drive-sharing.work.gd
 drive-surge.com
 drivertuner.com
 driverupdate.net
@@ -11134,6 +11136,7 @@ insightful.io
 insights.hotjar.com
 instabug.com
 instacart.com
+instagram.dothome.co.kr
 install.branch.io
 install.mspy.com
 installcore.com
@@ -11223,6 +11226,7 @@ leanplum.com
 letmespy.com
 lever-analytics.com
 lg.conviva.com
+lhdn.tos-cn-hongkong.volces.com
 lifecircle-223805.firebaseio.com
 link-flux.com
 linkmob.org
@@ -11367,6 +11371,7 @@ metrics.mzstatic.com
 mflx.biz
 mg-spyzie.oss-us-west-1.aliyuncs.com
 mgfdeutschland.com
+mgmylc.cc
 mi.thd.cc
 miao.wondershare.cn
 microtracker-1ca43.firebaseio.com
@@ -11937,6 +11942,7 @@ scloudsenterprise.com
 scloudsenterprisever.com
 scmbank.shop
 scmbanker.com
+scnk3.club
 scorecardresearch.com
 screentimelabs.appspot.com
 sdk.embrace.io
@@ -12361,6 +12367,7 @@ u1.panspy.com
 ua.brunoespiao.com.br
 ua.evaspy.com
 ua.tispy.net
+ualf53oo.xyz
 ualvujp.cn
 ub.evaspy.com
 uc.evaspy.com
@@ -12391,6 +12398,7 @@ unisafe-a342f.firebaseio.com
 unknowntool.shop
 unrulymedia.com
 uo.evaspy.com
+uob-bk6-c3gnawcfendtf8gu.z01.azurefd.net
 up.evaspy.com
 update-browser-now.com
 update-service-7e59f.firebaseio.com
@@ -12497,6 +12505,7 @@ winupdate.live
 winzipdriverupdater.com
 wmdcommander.appspot.com
 wmt.com
+worker-broken-wood-ddaf.discord854832.workers.dev
 workspacegoogle.net.ru
 workspacegoogle.org.ru
 workspacegoogle.pp.ru
