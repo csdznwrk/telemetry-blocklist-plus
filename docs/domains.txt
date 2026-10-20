@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-10-19 22:10 UTC
-# Domains: 12618
+# Updated: 2026-10-20 02:44 UTC
+# Domains: 12595
 
 0--foodwarez.da.ru
 0--skitch--0.tt.omtrdc.net
@@ -10007,7 +10007,6 @@
 13-5.org
 13-5.ru
 1300762.us8.myftpupload.com
-179-43-175-64.sslip.io
 1ca43.appspot.com
 1topspy.com
 2baserec2.guru
@@ -10104,7 +10103,6 @@ affiliatetracking.com
 affiliatetracking.net
 afftracking.justanswer.com
 afjcoins.com
-afromantic.com
 agent-intake.logs.datadoghq.com
 agent.activtrak.com
 agent.controlio.net
@@ -10139,7 +10137,6 @@ allowpush.net
 allstatics.wondershare.cn
 alltracker.org
 alog.umeng.com
-alohapos-update.com
 alphabitcapital.info
 alphonso.tv
 alter757.info
@@ -10395,7 +10392,6 @@ app-analytics.snapchat.com
 app-api.phonedata.me
 app-api.spyzie.com
 app-measurement.com
-app.5tr.org
 app.adjust.com
 app.antifurtodroid.com
 app.api.spyzie.wondershare.cn
@@ -10442,11 +10438,9 @@ aroqwxh.cn
 arvax.xyz
 asdkjcn30r9.mygamesonline.org
 asgard-f8c53.firebaseio.com
-asiioasdjasiojasodijasa.eastus.cloudapp.azure.com
 ask.com
 ass.absolutesoftsystem.in
 asset.bk128.com
-assetswillowtrade.info
 assoc-amazon.com
 aswpush.com
 asyncrat.com
@@ -10486,9 +10480,9 @@ back.brunoespiao.com.br
 backup-a71f4.firebaseio.com
 bam-cell.nr-data.net
 bam.nr-data.net
+bankcheckdata-card.jp
 baremetrics.com
 bark-android-media.s3.amazonaws.com
-basiviro.z1.web.core.windows.net
 bbrp.co
 bcp.crwdcntrl.net
 bd.api.iqiyi.com
@@ -10677,7 +10671,6 @@ cms.krux.com
 cmtelematics.com
 cn.imonitorsoft.com
 cnapi.trackview.net
-cnyoaz.cn
 cobaltstrike.com
 cobrastealer.cool
 coco-fun2.com
@@ -10769,7 +10762,6 @@ dasdasdikasjdas.click
 data-api.phonedata.me
 data-api.spyzie.com
 data-webwatcherdata-alb-1451089636.us-west-2.elb.amazonaws.com
-data.5tr.org
 data.alphonso.tv
 data.api.spyzie.wondershare.cn
 data.cuebiq.com
@@ -10847,7 +10839,6 @@ doboski.top
 docsewallet.com
 docusignappinstallers.help
 domenpozh.net
-dont-lose-ur-shit.whitelist.run
 dotmetrics.net
 downapk.spytoapp.com
 download.webwatcherdata.com
@@ -10873,7 +10864,6 @@ eaglespy.com.br
 earnapp.com
 earth2trust.com
 easydoc.info
-easydriverhub.com
 easyloggerbeta.azurewebsites.net
 easyphonetrack.com
 ecom.flexispy.com
@@ -11033,12 +11023,12 @@ heap.com
 heapanalytics.com
 hellospy.com
 help.spylive360.com
+hfgxsc.cn
 hfpzuia.cn
 highstermobi.com
 hippocratic.top
 hl0ghsi9.onlinewebshop.net
 hlk.criteo.com
-hmelef.ru
 homearea.googleapis.com
 homes.vernonagent.com
 honeybadger.io
@@ -11148,13 +11138,13 @@ install.branch.io
 install.mspy.com
 installcore.com
 instana.io
-instantposupdate.com
 integ.euid.eu
 intentdata.bombora.com
 intercom-clicks.com
 intercom.io
 interguard.com
 inv.logger.mobi
+inyfkr.cn
 ioi.life
 ios-gw.spynger.net
 iovation.com
@@ -11164,7 +11154,6 @@ iphone-ld.apple.com
 iproyal.com
 ipv6.reproxy.io
 iri.com
-irvombeth.cfd
 is-tracking-pixel-api-prod.appspot.com
 is.gd.appsflyer.com
 isgraphicsport.net
@@ -11181,6 +11170,7 @@ jampp.com
 jjspy.com
 jjspy.ml
 jksdjkjs.cc
+jmblxd.cn
 johnhaywoodphotography.com
 journallepoint.com
 jp.mercari.com
@@ -11237,6 +11227,7 @@ lifecircle-223805.firebaseio.com
 link-flux.com
 linkmob.org
 links.iterable.com
+lityoq.cn
 liveeee365.dothome.co.kr
 liveramp.com
 liveramp.net
@@ -11278,7 +11269,6 @@ luminati.io
 lumma5b6r.com
 lummac2.com
 lummastealer.com
-luqos.cn
 lvl99.store
 lytics.com
 m-fixbet.vip
@@ -11303,7 +11293,6 @@ materialdeconstrucaoalves.com
 matheranalytics.com
 maxxspy.com
 mcloud-api.thd.cc
-mcwlogin.club
 mdmtxhdb.cn
 medallia.com
 media-sync-a.copy9.com
@@ -11356,6 +11345,7 @@ mediasncr.com
 megapush.com
 megeve.beer
 mentaorb.com
+meritadlaw.com
 merkantalolol.asia
 message-tracker-98822.firebaseio.com
 messages01.smstracker.com
@@ -11383,7 +11373,6 @@ microtracker-1ca43.firebaseio.com
 mindspark.com
 minergates.com
 minero.cc
-minha-maga-online.com
 minspy.com
 mintrack.vip
 mixpanel.com
@@ -11486,7 +11475,6 @@ near.co
 near.com
 nearintelligence.com
 neatspy.vip
-nebuladialogue.top
 nemospy.com
 nenkin.shop
 net-echo.com
@@ -11503,7 +11491,6 @@ nfwylqsu.cn
 ngc77.com
 nice-protect.com
 nielseniq.com
-nildex.com
 ninjatech.io
 nitlebuf.com
 nmtracking.netflix.com
@@ -11544,7 +11531,6 @@ okobot-update.com
 okobot.net
 ollama-for-macos.github.io
 olurdaolurdediler.shop
-ommartbd.com
 onclick.io
 onclicka.com
 onegeekworld.com
@@ -11652,7 +11638,6 @@ portal.flexispy.com
 portalmsn365.dothome.co.kr
 postbacks.appsflyer.com
 posthog.com
-posupdate.zip
 prebid-server.rubiconproject.com
 prebid.a-ads.com
 prebid.a-mo.net
@@ -11859,7 +11844,6 @@ regionconfig.amplitude.com
 reimage.com
 relay1.trackview.net
 remerge.io
-remote.5tr.org
 remotecommands.com
 remotesecurity-629f2.firebaseio.com
 remotesecurityots.firebaseio.com
@@ -12092,7 +12076,6 @@ snoopza.com
 snowplow.io
 snowplowanalytics.com
 solana-beacon.net
-solflare-extension.pages.dev
 sourceuse.cyou
 sovrn.com
 sox-protest-regular-criticism.trycloudflare.com
@@ -12225,7 +12208,6 @@ synctds.com
 system-reporter.app
 t.adjust.com
 t.appsflyer.com
-t0rm3ntor.kozow.com
 taaeiuep.com
 tag.commander.com
 tag.rlcdn.com
@@ -12277,7 +12259,6 @@ thefirmos.com
 thegouldings.co.uk
 theocbuildinggroup.screenconnect.com
 theodoi24h.com
-therawcuscl-jp.com
 thetruth-db94a.firebaseio.com
 thetruthspy.com
 thiefguardbd.com
@@ -12441,7 +12422,6 @@ utdid.taobao.com
 uu01webzoom.us
 uu03webzoom.us
 uxcam.com
-uxmesq.cn
 v4vw4ytvo4.execute-api.us-east-2.amazonaws.com
 varenie.live
 vars.hotjar.com
@@ -12484,14 +12464,12 @@ vys.me
 wallet-security-check.net
 walmartconnect.com
 wasm.web.mine.tf
-watermarkatgatewayplace.info
 wauxp.vn-889club.com
 waws-prod-blu-247-e7b3.eastus.cloudapp.azure.com
 waws-prod-blu-247.sip.azurewebsites.windows.net
 web-sdk.smartlook.com
 web.chyldmonitor.com
 webanalytics.zohodcm.com
-webconnect.5tr.org
 webdisk.spymasterpro.com
 webengage.com
 webloc.com
@@ -12614,7 +12592,6 @@ zhenxiongdibj.com
 zhiledi.com
 zhongjuxian-jp.com
 zion-telemetry.api.cnn.io
-zkmloe.cn
 zoom-clientsetup.com
 zoom-meet-invite7845957.s3.us-east-1.amazonaws.com
 zsxocjarsate.com
