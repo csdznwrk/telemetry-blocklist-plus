@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-10-20 10:41 UTC
-# Domains: 12604
+# Updated: 2026-10-20 16:04 UTC
+# Domains: 12612
 
 0--foodwarez.da.ru
 0--skitch--0.tt.omtrdc.net
@@ -10010,6 +10010,7 @@
 1ca43.appspot.com
 1topspy.com
 2baserec2.guru
+31.56.209.167.sslip.io
 33across.com
 3cdffc93.fase-x.com
 3d7hz1zm.onlinewebshop.net
@@ -10046,6 +10047,7 @@ aax-us-east.amazon-adsystem.com
 aax.amazon-adsystem.com
 absolutesoftsystem.in
 ac480.firebaseio.com
+academiaarin-jp.com
 accoun.omnwpws.cn
 account.cellphone-remote-tracker.com
 account.childsafetytrackerapp.com
@@ -10517,6 +10519,7 @@ bincdi.birxpk.com
 biocatch.com
 birxpk.com
 bixsgrb.cn
+bjjmsjcfsb.com
 bk128.com
 blockc2.io
 blog.ikeymonitor.com
@@ -10723,6 +10726,7 @@ cp.thewispy.com
 cpanel.spymasterpro.com
 cpcalendars.spymasterpro.com
 cpcontacts.spymasterpro.com
+crackcodes.in
 crash-telemetry.net
 crash-upload.newrelic.com
 crash.firebase.google.com
@@ -11223,6 +11227,7 @@ lb.id5-sync.com
 lb.theonespy.com
 lbk-sol.com
 leanplum.com
+leanviainc.top
 letmespy.com
 lever-analytics.com
 lg.conviva.com
@@ -11375,6 +11380,7 @@ mgmylc.cc
 mi.thd.cc
 miao.wondershare.cn
 microtracker-1ca43.firebaseio.com
+mimori.group
 mindspark.com
 minergates.com
 minero.cc
@@ -11544,6 +11550,7 @@ onespy-in-196211.firebaseio.com
 onetoken.ink
 online-metrix.net
 onlinefundb.com
+only1mafia.net
 open-collectors.sumologic.com
 opencamping.shop
 opencandy.com
@@ -11872,6 +11879,7 @@ rl.dc.rubiconproject.com
 rlcdn.com
 rnbwjd.cfd
 rncdn1.com
+roblox.fo
 rockalab.com
 roku.conviva.com
 rollbar.com
