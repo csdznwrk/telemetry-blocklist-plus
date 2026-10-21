@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-10-21 02:38 UTC
-# Domains: 13312
+# Updated: 2026-10-21 10:52 UTC
+# Domains: 13325
 
 0--foodwarez.da.ru
 0--skitch--0.tt.omtrdc.net
@@ -10009,6 +10009,7 @@
 1300762.us8.myftpupload.com
 1ca43.appspot.com
 1topspy.com
+224meetgooglecomfskqcdzfcwh.com
 2baserec2.guru
 31.56.209.167.sslip.io
 33across.com
@@ -10141,6 +10142,7 @@ ald-whatsapp.com
 ale-whatsapp.com
 alert.bk128.com
 alert.xiz4me.com
+alertbot-lake.vercel.app
 alex.a2z.com
 alexaresponse.amazon.com
 alf-whatsapp.com
@@ -10231,6 +10233,7 @@ ane-whatsapp.com
 anf-whatsapp.com
 ang-whatsapp.com
 anh-whatsapp.com
+aniv.ergstlj.cn
 anj-whatsapp.com
 anlytic-js-cloud.beer
 anmon.android-monitor.ru
@@ -10541,6 +10544,7 @@ awedsaklsaq.onrender.com
 awsapi.io
 axe-net.com
 azocnrq.cn
+aztrona18.shop
 azurenetfiles.net
 b.appjiagu.com
 b.infosum.net
@@ -11141,6 +11145,7 @@ dnsnode-whatsapp.com
 dnuise.top
 docsewallet.com
 docusignappinstallers.help
+domain-privacy.group
 domenpozh.net
 dotmetrics.net
 downapk.spytoapp.com
@@ -11565,6 +11570,7 @@ ka376.online
 kadam.net
 kbmgroup.com
 kdyweb-whatsapp.com
+keisigr.top
 kelleydrye.myssologin.com
 key-logger-90fff.firebaseio.com
 keylogger-pro-us.imonitorsoft.com
@@ -12009,6 +12015,7 @@ onetoken.ink
 online-metrix.net
 onlinefundb.com
 only1mafia.net
+onyxkrunker.duckdns.org
 ooni.cslt168.com
 open-collectors.sumologic.com
 opencamping.shop
@@ -12354,6 +12361,7 @@ regex-whatsapp.com
 regionconfig.amplitude.com
 reimage.com
 relay-whatsapp.com
+relay.autoskreenllc.one
 relay1.trackview.net
 release-whatsapp.com
 reload-whatsapp.com
@@ -12384,6 +12392,7 @@ rhythmone.com
 richpush.co
 river-whatsapp.com
 rjxweb-whatsapp.com
+rkm-20260709-1514.zip
 rl.dc.rubiconproject.com
 rlcdn.com
 rnbwjd.cfd
@@ -12705,6 +12714,7 @@ staganddoenc.com
 stage.spystealth.com
 staging-all-tracker.appspot.com
 staging.smstracker.com
+stake-app-au.org
 star-layer.com
 startweb-whatsapp.com
 stat.umeng.com
@@ -12800,6 +12810,7 @@ t.appsflyer.com
 t.yookme.cc
 taaeiuep.com
 table-whatsapp.com
+tag-p.com
 tag-whatsapp.com
 tag.commander.com
 tag.rlcdn.com
@@ -12842,6 +12853,7 @@ telemetry.wyze.com
 tempo-prod-04-prod-us-east-0.grafana.net
 tera-home.com
 teramind.co
+tergenerator.com
 ternate.top
 test-client.mobilefonex.com
 test.androidlost.com
@@ -13023,6 +13035,7 @@ us-central1-catwatchful-e03b8.cloudfunctions.net
 us.i.posthog.com
 us.info.lgsmartad.com
 us.umobix.com
+us06webzoomus2fj2f830440905293.com
 usabilla.com
 usafe-ca594.firebaseio.com
 usafe.ru
