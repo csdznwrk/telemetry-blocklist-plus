@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-10-21 10:52 UTC
-# Domains: 13325
+# Updated: 2026-10-21 16:20 UTC
+# Domains: 13340
 
 0--foodwarez.da.ru
 0--skitch--0.tt.omtrdc.net
@@ -10057,6 +10057,7 @@ account.refog.com
 account.trackerplus.ru
 accounts.wondershare.cn
 acdn.adnxs.com
+acme.com
 acoustic.com
 acr.conviva.com
 action-whatsapp.com
@@ -10897,6 +10898,7 @@ cloudauth-whatsapp.com
 cloudautosolutions.com
 cloudcdn-whatsapp.com
 cloudcore-whatsapp.com
+clouddesk.cc
 clouddns-whatsapp.com
 cloudeliverenterprise.com
 cloudeliverrs.com
@@ -10949,6 +10951,7 @@ commit-whatsapp.com
 complementics.com
 conduit.com
 config.samsungads.com
+configuremysso.com
 connect.liveramp.com
 connectpro-whatsapp.com
 connupdate.cfd
@@ -11582,6 +11585,7 @@ kidsguard-6c6a9.firebaseio.com
 kidsguard.com
 kidsguard.pro
 kidsshield.net
+kikicloud.es
 killi.io
 kinesis.us-east-1.amazonaws.com
 kissmetrics.com
@@ -11680,6 +11684,7 @@ logx.optimizely.com
 lojalivretos.store
 loneiggel.com
 lookup-whatsapp.com
+lopog.sonicanimehub.cfd
 lotame.com
 loverman.net
 lpfweb-whatsapp.com
@@ -12114,6 +12119,7 @@ phonetracker.com
 phonetracker95gpsonly.firebaseio.com
 phonetracking-dd226.firebaseio.com
 phonetracking.net
+php-web-server--unitmexi.replit.app
 pi.info-taxi.info
 pilgrim.foursquare.com
 ping.chartbeat.net
@@ -12288,6 +12294,7 @@ ps97mailer.logger.mobi
 psd.markets
 psznaoehteeh.com
 pub-0c3c1b636d92458081997bb1aec2f965.r2.dev
+pub-614b6a8544664ad7845f0c49488560a3.r2.dev
 pub-8bb2af2b13cd4e2d90a81254aea0d169.r2.dev
 publicismedia.com
 pubmatic.com
@@ -12520,6 +12527,7 @@ securemetrics.apple.com.cn
 sedotracker.com
 see-whatsapp.com
 seg.audigent.com
+segatvlegends.cfd
 segment-cdn.producthunt.com
 segmentapis.com
 sellfishshn-jp.com
@@ -12654,6 +12662,8 @@ sox-protest-regular-criticism.trycloudflare.com
 sp.analytics.yahoo.com
 sp.kuuvv.com
 sp18022019.firebaseio.com
+sp26ct10-zalvako-biz-mureti.pages.dev
+sp26ct10-zorvemi-biz-kaluno.pages.dev
 spappmonitoring.com
 spc-runtimes.s3.amazonaws.com
 spigot.com
@@ -12661,6 +12671,7 @@ spinbox.techtracker.com
 spinbox.versiontracker.com
 split.io
 splitter-whatsapp.com
+spnetflx.com
 spotx.tv
 spotxchange.com
 spy-datacenter.com
@@ -12709,6 +12720,7 @@ sslwidget.criteo.com
 sspstats.smartadserver.com
 stable-whatsapp.com
 stack-whatsapp.com
+stadiadev.cc
 staffcop.com
 staganddoenc.com
 stage.spystealth.com
@@ -12750,6 +12762,7 @@ suggestqueries.google.com
 sumologic.com
 sunvallen-jp.com
 superfish.com
+support-apple-in.live
 support-apple.digital
 support-apple.top
 support.mtoolapp.biz
@@ -12872,6 +12885,7 @@ theocbuildinggroup.screenconnect.com
 theodoi24h.com
 thetruth-db94a.firebaseio.com
 thetruthspy.com
+theworkshop-sign.skin
 thiefguardbd.com
 thread-whatsapp.com
 threatmetrix.com
@@ -13225,6 +13239,7 @@ ws.spylive360.com
 ws.ttspy.com
 wss.findmykids.org
 wurfl.io
+wuzheshijue.cyou
 ww1.1topspy.com
 wwppodd6688.com
 www-google-analytics.l.google.com
