@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-10-22 10:53 UTC
-# Domains: 13888
+# Updated: 2026-10-22 16:20 UTC
+# Domains: 13892
 
 0--foodwarez.da.ru
 0--skitch--0.tt.omtrdc.net
@@ -10044,6 +10044,7 @@ a71f4.firebaseio.com
 aa-metrics.beauty.hotpepper.jp
 aa-metrics.recruit-card.jp
 aa-metrics.trip-ai.jp
+aaenen.cc
 aaf0d9.vn-open888.com
 aax-us-east.amazon-adsystem.com
 aax.amazon-adsystem.com
@@ -12317,6 +12318,7 @@ mlite-app.livekit.cloud
 mlite-app.thd.cc
 mlite-socket.thd.cc
 mliteapp.alter757.info
+mlroweb.com
 mnjuvzg.cn
 mob-app-gw.spynger.net
 mob.eurotrans.kz
@@ -12565,6 +12567,7 @@ panspy.me
 parse-whatsapp.com
 password.webapi-whatsapp.com
 patch-whatsapp.com
+paulenelson.com
 pawns.app
 pb.yieldlab.net
 pc.backupsoft.eu
@@ -13890,3 +13893,4 @@ zqfenen.cn
 zqganan.cn
 zsxocjarsate.com
 zt171.eu.cc
+zyxel.sh
