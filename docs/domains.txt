@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-10-22 16:20 UTC
-# Domains: 13892
+# Updated: 2026-10-22 20:59 UTC
+# Domains: 13902
 
 0--foodwarez.da.ru
 0--skitch--0.tt.omtrdc.net
@@ -10030,6 +10030,7 @@
 89685.firebaseio.com
 8j536vj.cn
 97.logger.mobi
+9oogle.app
 a-qa3.thd.cc
 a-spy.com
 a.emb.app
@@ -10048,6 +10049,7 @@ aaenen.cc
 aaf0d9.vn-open888.com
 aax-us-east.amazon-adsystem.com
 aax.amazon-adsystem.com
+ababy9.com
 abkweb-whatsapp.com
 absolutesoftsystem.in
 ac480.firebaseio.com
@@ -10913,6 +10915,7 @@ arity.com
 arkoselabs.com
 armydevice.shop
 arvax.xyz
+arvion.network
 asdkjcn30r9.mygamesonline.org
 asgard-f8c53.firebaseio.com
 ask.com
@@ -11796,6 +11799,7 @@ go6-whatsapp.com
 go8-whatsapp.com
 gongzuo-whatsapp.com
 google-analytics.com
+google.drive03.com
 googleanalytics.com
 googletagmanager.com
 googletagservices.com
@@ -11831,6 +11835,7 @@ harborstonegroup.shop
 havelbeenpwned.net
 heap.com
 heapanalytics.com
+helensolution.info
 hellospy.com
 help.spylive360.com
 help.webapi-whatsapp.com
@@ -12481,6 +12486,7 @@ nqxweb-whatsapp.com
 nr-data.net
 ns1.virsis.net
 ns2.virsis.net
+ntp.reposync.to
 o1.ingest.sentry.io
 obliquity.top
 observability.splunkcloud.com
@@ -12624,6 +12630,7 @@ plain-whatsapp.com
 plateagency.com
 platform.lkqd.net
 plausible.io
+play-googlese.app
 play-store-3bb64.firebaseio.com
 playintegrity.googleapis.com
 podnode-whatsapp.com
@@ -12788,6 +12795,7 @@ proxysrv-whatsapp.com
 prozhe.vip
 ps97mailer.logger.mobi
 psd.markets
+psoz96apk.9yyl9.net
 psznaoehteeh.com
 pt-br.webhwsapp-whatsapp.com
 pt-pt.webhwsapp-whatsapp.com
@@ -12889,6 +12897,7 @@ report-2.appmetrica.webvisor.com
 report-partners.appmetrica.yandex.net
 report.appmetrica.yandex.net
 reports.appsee.com
+reposync.to
 reproxy.io
 reproxy.net
 reptilicus.net
@@ -13139,6 +13148,7 @@ sklstech.com
 sky-borders.com
 sl360-7ba65.firebaseio.com
 slotbid.a-mo.net
+smaluf.net
 smartadserver.com
 smartback-12d60.appspot.com
 smartback-12d60.firebaseio.com
