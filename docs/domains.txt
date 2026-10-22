@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-10-21 21:03 UTC
-# Domains: 13892
+# Updated: 2026-10-22 02:35 UTC
+# Domains: 13863
 
 0--foodwarez.da.ru
 0--skitch--0.tt.omtrdc.net
@@ -10010,6 +10010,7 @@
 1ca43.appspot.com
 1topspy.com
 224meetgooglecomfskqcdzfcwh.com
+26etou1.cn
 2baserec2.guru
 31.56.209.167.sslip.io
 33across.com
@@ -10027,6 +10028,7 @@
 84-51.com
 8916f.appspot.com
 89685.firebaseio.com
+8j536vj.cn
 97.logger.mobi
 a-qa3.thd.cc
 a-spy.com
@@ -10492,6 +10494,7 @@ advertising.walgreens.com
 advertising.walmart.com
 advertracker.com
 adx.petal-ads.com
+aesmartdata.cloud
 affiliatetracking.com
 affiliatetracking.net
 afftracking.justanswer.com
@@ -10510,7 +10513,6 @@ agentlogger-vfv7vvgbtq-uc.a.run.app
 aggregator-whatsapp.com
 ai-nexora.sbs
 aiagentmi.com
-ainfnow.cn
 aipythondevs.com
 airbrake.io
 airbridge.io
@@ -10905,7 +10907,6 @@ argusinformation.com
 arity.com
 arkoselabs.com
 armydevice.shop
-aroqwxh.cn
 arvax.xyz
 asdkjcn30r9.mygamesonline.org
 asgard-f8c53.firebaseio.com
@@ -10947,7 +10948,6 @@ awamisolution.com
 awedsaklsaq.onrender.com
 awsapi.io
 axe-net.com
-azocnrq.cn
 aztrona18.shop
 azurenetfiles.net
 b.appjiagu.com
@@ -10987,7 +10987,6 @@ beta.logger.mobi
 beta.smstracker.com
 bf17671ydi.bf.dynatrace.com
 bgpnode-whatsapp.com
-bhexfwo.cn
 bhfs.myssologin.com
 bi.thd.cc
 bidder.criteo.com
@@ -11031,7 +11030,6 @@ bls-whatsapp.com
 blt-whatsapp.com
 blu-whatsapp.com
 blueconic.com
-bluesoftsdocrks.com
 blurspy.com
 blv-whatsapp.com
 blw-whatsapp.com
@@ -11109,7 +11107,6 @@ boxset-whatsapp.com
 boxuse-whatsapp.com
 branch-whatsapp.com
 branch.io
-branthoven.cfd
 brave-whatsapp.com
 braze.com
 braze.eu
@@ -11131,7 +11128,6 @@ brunoespiao.com
 brunoespiao.com.br
 brunoespiao2.s3.amazonaws.com
 bryweb-whatsapp.com
-btexiws.cn
 btmob.net
 btrf36.cc
 btu-whatsapp.com
@@ -11337,10 +11333,8 @@ cn2-whatsapp.com
 cn6-whatsapp.com
 cnapi.trackview.net
 cobaltstrike.com
-cobrastealer.cool
 coco-fun2.com
 cocospy.com
-cocuktekstil.com
 code.etracker.com
 codebasecode.com
 codehub-whatsapp.com
@@ -11388,7 +11382,6 @@ cookieapi-whatsapp.com
 cookiecdn-whatsapp.com
 cookienode-whatsapp.com
 cool-horizon.com
-cooley.myssologin.com
 copy9.com
 copy9db.com
 coral-whatsapp.com
@@ -11510,7 +11503,6 @@ deskpro-whatsapp.com
 desktime.com
 desktop.webapi-whatsapp.com
 dev.hoverwatch.com
-dev.sbphototours.com
 dev.snoopza.com
 dev2.refog.com
 devapi-whatsapp.com
@@ -11557,7 +11549,6 @@ discovery-whatsapp.com
 disenthral.top
 disp2.mrec24.com
 dispatcher.mrecorder.com
-dist-cdn.net
 districtm.ca
 djp.bz
 dmp.crosswise.com
@@ -11576,7 +11567,6 @@ dnuise.top
 docs.webapi-whatsapp.com
 docsewallet.com
 docss-whatsapp.com
-docusignappinstallers.help
 domain-privacy.group
 domenpozh.net
 dotmetrics.net
@@ -11658,7 +11648,6 @@ es-co.webhwsapp-whatsapp.com
 es-es.webhwsapp-whatsapp.com
 es-mx.webhwsapp-whatsapp.com
 es.webhwsapp-whatsapp.com
-essentialkneadsforhealth.com
 eu.api.fpjs.io
 eu.i.posthog.com
 euid.eu
@@ -11722,10 +11711,8 @@ flame-whatsapp.com
 flexible-networks.com
 flexispy.com
 flibbertigibbet.top
-fllicensehealthpdf-viewer.vercel.app
 flower.snoopza.com
 fls.amazon.com
-fluidethiopiadigital.info
 flurry.com
 flushdata.1topspy.com
 flushdata.copy9db.com
@@ -11771,7 +11758,6 @@ g7-whatsapp.com
 g8-whatsapp.com
 g9-whatsapp.com
 gakik.cn
-gambah.com
 gamedb.shop
 gbjeifr.cn
 gcdsdk.appsflyer.com
@@ -11818,7 +11804,6 @@ groups.webstatici-whatsapp.com
 guestspy.com
 guide.webapi-whatsapp.com
 gum.criteo.com
-gumruk.info
 gw.api.dh.comcast.com
 gw162.online
 gzlweb-whatsapp.com
@@ -11827,6 +11812,7 @@ h.audigent.com
 h.online-metrix.net
 h8-whatsapp.com
 h9-whatsapp.com
+h92jcihwicllow.wuaze.com
 habu.com
 hadronid.net
 happy-whatsapp.com
@@ -11867,7 +11853,6 @@ hpapp.mywebsearch.com
 hs-analytics.net
 httpapi-whatsapp.com
 httpcdn-whatsapp.com
-https--www--roblox.com
 httpsrv-whatsapp.com
 hub2-whatsapp.com
 hub4-whatsapp.com
@@ -12005,7 +11990,6 @@ ipv6.reproxy.io
 iri.com
 is-tracking-pixel-api-prod.appspot.com
 is.gd.appsflyer.com
-isgraphicsport.net
 ispyoo.com
 it.imonitorsoft.com
 it.webhwsapp-whatsapp.com
@@ -12028,8 +12012,8 @@ jjspy.com
 jjspy.ml
 jksdjkjs.cc
 jmblxd.cn
-johnhaywoodphotography.com
 joker-whatsapp.com
+joymspcb.cn
 jp.mercari.com
 jqsweb-whatsapp.com
 js-agent.newrelic.com
@@ -12074,7 +12058,6 @@ krogerads.com
 krux.com
 kruxdigital.com
 ktoktotam.cc
-kuaiyinfen-jp.com
 kucoiins.cam
 kucoin.ambitopv.com
 kuuvv.com
@@ -12200,7 +12183,6 @@ mailcore-whatsapp.com
 maillink-whatsapp.com
 mailnode-whatsapp.com
 mamatambiensr-jp.com
-manuelitellc.screenconnect.com
 mapper-whatsapp.com
 maqord.net
 marketing.transunion.com
@@ -12482,7 +12464,6 @@ nqxweb-whatsapp.com
 nr-data.net
 ns1.virsis.net
 ns2.virsis.net
-nxmpv.addbazaar.com
 o1.ingest.sentry.io
 obliquity.top
 observability.splunkcloud.com
@@ -12548,9 +12529,7 @@ output-whatsapp.com
 ownseeking.com
 ownspy.com
 owyweb-whatsapp.com
-oxooxmnl67z5t5cctt3uw7ukqoy6k7kr6x5vn2yyhcfpbuj5ddq2hjid.onion
 p2p.peer2profit.com
-p581488.pro
 package.mrec24.com
 package2.mrec24.com
 packetstream.io
@@ -12571,7 +12550,6 @@ panspy.me
 parse-whatsapp.com
 password.webapi-whatsapp.com
 patch-whatsapp.com
-paulweiss.myssologin.com
 pawns.app
 pb.yieldlab.net
 pc.backupsoft.eu
@@ -13029,7 +13007,6 @@ secops-whatsapp.com
 secpro-whatsapp.com
 secsys-whatsapp.com
 secure.adnxs.com
-secure.cornebrdjubf.top
 secure.webapi-whatsapp.com
 securebackuponline.net
 securemetrics.apple.com
@@ -13118,6 +13095,7 @@ setuse-whatsapp.com
 setweb-whatsapp.com
 sexgirltiktok.cam
 sextracker.com
+sexygal.top
 shadow-logs.com
 shadow-spy.com
 shadowappbundle-default-rtdb.firebaseio.com
@@ -13133,7 +13111,6 @@ simage2.pubmatic.com
 simpleanalytics.io
 sin3.ib.adnxs.com
 singular.net
-sinsp6ibw32abbcoagbjwetgm2w56u7tr4izy3xzp7ehqoenxvdd3qyd.onion
 siteimproveanalytics.com
 siteimproveanalytics.io
 sivthara.cfd
@@ -13167,6 +13144,7 @@ sncmedia.net
 snoopza.com
 snowplow.io
 snowplowanalytics.com
+snuznsva.cn
 socket-whatsapp.com
 softhub-whatsapp.com
 soj.s4kyn.com
@@ -13174,7 +13152,6 @@ solana-beacon.net
 sort-whatsapp.com
 sourceuse.cyou
 sovrn.com
-sox-protest-regular-criticism.trycloudflare.com
 sp.analytics.yahoo.com
 sp.kuuvv.com
 sp18022019.firebaseio.com
@@ -13280,7 +13257,6 @@ style-whatsapp.com
 subject-whatsapp.com
 suggestqueries.google.com
 sumologic.com
-sunvallen-jp.com
 superfish.com
 support-apple-in.live
 support-apple.digital
@@ -13405,7 +13381,6 @@ tgvweb-whatsapp.com
 th.webhwsapp-whatsapp.com
 thd.cc
 thefirmos.com
-thegouldings.co.uk
 theme-whatsapp.com
 theocbuildinggroup.screenconnect.com
 theodoi24h.com
@@ -13570,7 +13545,6 @@ update-service-7e59f.firebaseio.com
 update.dealply.com
 updatebrowser.net
 updatestates.blob.core.windows.net
-updpkg.net
 upload.webstatici-whatsapp.com
 upload.weiguanai.cn
 uq.evaspy.com
@@ -13644,7 +13618,6 @@ viptelefonprogrami.com
 viptrack.pro
 virsis.net
 visit.tealiumiq.com
-vivid-flicker-anvil-creoen.pro
 vivid-whatsapp.com
 vizio.com
 vkur.se
@@ -13760,8 +13733,6 @@ whatruns.com
 wheat-whatsapp.com
 where-is-my-children.firebase.io
 whiteops.com
-wi20a-1kkan-llam2.xo.je
-wickerlookoutdoorfurniture.com
 widget.criteo.com
 willkie.myssologin.com
 windows.webapi-whatsapp.com
@@ -13860,7 +13831,6 @@ yieldmo.com
 yjgift.com
 ykbweb-whatsapp.com
 ymetrica1.com
-yorkshiredatacentre.com
 you-whatsapp.com
 young-whatsapp.com
 ypnfeo.cc
@@ -13889,6 +13859,7 @@ zhuomian-whatsapp.com
 zhushou-whatsapp.com
 zion-telemetry.api.cnn.io
 zip-whatsapp.com
+zivvvnvt.cn
 zqfancu.cn
 zqfenen.cn
 zqganan.cn
