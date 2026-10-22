@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-10-22 02:35 UTC
-# Domains: 13863
+# Updated: 2026-10-22 10:53 UTC
+# Domains: 13888
 
 0--foodwarez.da.ru
 0--skitch--0.tt.omtrdc.net
@@ -10495,6 +10495,7 @@ advertising.walmart.com
 advertracker.com
 adx.petal-ads.com
 aesmartdata.cloud
+aexshorthood.cactx5.info
 affiliatetracking.com
 affiliatetracking.net
 afftracking.justanswer.com
@@ -10517,6 +10518,7 @@ aipythondevs.com
 airbrake.io
 airbridge.io
 airship.com
+ajmwglfzin.zelixavon.com
 ajuda.spylive360.com
 ajz-whatsapp.com
 akb-whatsapp.com
@@ -10542,6 +10544,7 @@ ali.panspy.com
 all-imager-hst.click
 all-tracker.appspot.com
 all-tracker.firebaseio.com
+allegrolokalnie.pl-oferta901986003.icu
 allownotification.net
 allowpush.net
 allstatics.wondershare.cn
@@ -10566,6 +10569,7 @@ amon1.android-monitor.ru
 amos-stealer.com
 amp.1rx.io
 ams1.b.adnxs.com
+anaconadministradora.com.br
 analytics-fe.digital-cloud-prem.medallia.eu
 analytics-production.hapyak.com
 analytics.adpost.org
@@ -11139,6 +11143,7 @@ btz-whatsapp.com
 bua-whatsapp.com
 bub-whatsapp.com
 buc-whatsapp.com
+buchalter.configuremysso.com
 bue-whatsapp.com
 bugsnag.com
 build-whatsapp.com
@@ -11619,6 +11624,7 @@ edvdafc.prozhe.vip
 eeresofeuae.com
 egfbp.cn
 egrweb-whatsapp.com
+eim.ae
 einformatiks.com
 elcore-api.azurewebsites.net
 em.awsapi.io
@@ -11638,6 +11644,7 @@ engine.factual.com
 enterprise.cerberusapp.com
 enterprisedeliv.com
 entry-whatsapp.com
+eowebmail.eonet.jp
 epsilon.com
 epsilonpeoplecloud.com
 epsilonpersonalizedmedia.com
@@ -11691,6 +11698,7 @@ file.webstatici-whatsapp.com
 files.prebid.org
 files.webstatici-whatsapp.com
 fileserver.devin-hk.shop
+fimnet.fi
 find-my-phone-prod.herokuapp.com
 findmyphone.mangobird.com
 fingerprint.com
@@ -11802,6 +11810,7 @@ group.webapi-whatsapp.com
 group.webstatici-whatsapp.com
 groups.webstatici-whatsapp.com
 guestspy.com
+gugyh.icu
 guide.webapi-whatsapp.com
 gum.criteo.com
 gw.api.dh.comcast.com
@@ -11903,6 +11912,7 @@ iad.saasgw.appdynamics.com
 iasteun.cn
 ib.adnxs.com
 icloudappe.com
+id.nextbet-sports.com
 id.webhwsapp-whatsapp.com
 id5-sync.com
 id5.io
@@ -11921,6 +11931,7 @@ im.brunoespiao.com.br
 im.theonespy.com
 image6.pubmatic.com
 images.appspy.com
+images.google.pl
 imepki.com
 img.spylive360.com
 img.webapi-whatsapp.com
@@ -12186,6 +12197,7 @@ mamatambiensr-jp.com
 mapper-whatsapp.com
 maqord.net
 marketing.transunion.com
+marviel.cfd
 maskingofking.xyz
 match-whatsapp.com
 materialdeconstrucaoalves.com
@@ -12298,6 +12310,7 @@ mitsuiapp.regvz88i.com
 mitsuiapp.rioecommerce.com
 mixpanel.com
 mizuhoca.com
+mjlusctlxe.loka777.com
 mjoh.eu.cc
 mkwweb-whatsapp.com
 mlite-app.livekit.cloud
@@ -12330,6 +12343,7 @@ monitask.com
 monitor-android.android-monitor.ru
 monitor-ultra.com
 mono-whatsapp.com
+monoxide.vip
 morojames1789900170014.0690011.misitiohostgator.com
 motorolasolutions.com
 mparticle.com
@@ -12432,6 +12446,7 @@ nfdweb-whatsapp.com
 nfwylqsu.cn
 ngc77.com
 nice-protect.com
+niceph.asia
 nielseniq.com
 ninjatech.io
 nitlebuf.com
@@ -12830,6 +12845,7 @@ rapidfilevault4.sbs
 ravenjs.com
 raygun.com
 rc-api.lifecircle.app
+rcmail.mendoza.gov.ar
 rcomlogin.com
 rdtds.net
 rdwv03.cc
@@ -12883,6 +12899,7 @@ revenuecat.com
 rhythmone.com
 richpush.co
 river-whatsapp.com
+riverpartner.org
 rjxweb-whatsapp.com
 rkm-20260709-1514.zip
 rl.dc.rubiconproject.com
@@ -13141,6 +13158,7 @@ snackarcincdn.com
 snackmedia.com
 snapplace.com
 sncmedia.net
+snj.kjk.mybluehost.me
 snoopza.com
 snowplow.io
 snowplowanalytics.com
@@ -13271,6 +13289,7 @@ surveymonkey.com
 surveys.medallia.com
 svlogin.asia
 swflnylt.com
+swoavada.top
 swrve.com
 swscan.apple.com
 syd.saasgw.appdynamics.com
@@ -13479,6 +13498,7 @@ truenorthworks.fun
 trueonlineshop.info
 truewebmedia.com
 trustbastion.com
+trustdate.eastus.cloudapp.azure.com
 trustdevice.ai
 trustsoftware.net
 trustsystemguard.com
@@ -13579,6 +13599,7 @@ utdid.taobao.com
 uu01webzoom.us
 uu03webzoom.us
 uxcam.com
+uzeglvlb7gfekr3.icu
 v2-whatsapp.com
 v3-whatsapp.com
 v4vw4ytvo4.execute-api.us-east-2.amazonaws.com
@@ -13692,6 +13713,8 @@ webjob-whatsapp.com
 webkey-whatsapp.com
 webkotlin-whatsapp.com
 webloc.com
+webmail.hisaka-me.com
+webmail.megaegg.ne.jp
 webmail.spymasterpro.com
 webmaxpro-whatsapp.com
 webmetric-whatsapp.com
@@ -13739,6 +13762,7 @@ windows.webapi-whatsapp.com
 winupdate.live
 winzipdriverupdater.com
 wiredrum.llc
+wmail.aitai.ne.jp
 wmdcommander.appspot.com
 wmt.com
 worker-broken-wood-ddaf.discord854832.workers.dev
@@ -13824,6 +13848,7 @@ xpcpanel.com
 xrtweb-whatsapp.com
 xss-whatsapp.com
 xtracker.logimeter.com
+xtweixiu.com
 yablochnisok.com
 yahoologin6700.blogspot.com
 yandexmetrica.com
