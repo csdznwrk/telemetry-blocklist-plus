@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-10-23 02:40 UTC
-# Domains: 13870
+# Updated: 2026-10-23 10:44 UTC
+# Domains: 13879
 
 0--foodwarez.da.ru
 0--skitch--0.tt.omtrdc.net
@@ -10028,7 +10028,9 @@
 89685.firebaseio.com
 8j536vj.cn
 97.logger.mobi
+99totoapp.com
 9oogle.app
+9tcj2.tik-tok-18.com
 a-qa3.thd.cc
 a-spy.com
 a.emb.app
@@ -10512,6 +10514,7 @@ agent.teramind.co
 agent.timedoctor.com
 agent.veriato.com
 aggregator-whatsapp.com
+agustoto.vip
 ai-nexora.sbs
 aiagentmi.com
 aipythondevs.com
@@ -10828,6 +10831,7 @@ apis.mediamathapis.com
 apispyhuman.com
 apisys-whatsapp.com
 apitest.awarenesstechnologies.com
+apiupdated.com
 apiv4.alter757.info
 apk.mtf.re
 apk.webapi-whatsapp.com
@@ -11255,6 +11259,7 @@ celular007.s3.amazonaws.com
 centralwildcats.com
 cerberus-app.com
 cerberusapp.com
+certificazi.one
 cf.hb.adriver.ru
 cgazkyh.cn
 chain-resolve.net
@@ -11478,6 +11483,7 @@ datasync-whatsapp.com
 datorama.com
 db.spylive360.com
 db8.io
+dbaoi.com
 dbcache-whatsapp.com
 dc-static.wondershare.cn
 ddiutilities.com
@@ -11667,6 +11673,7 @@ eyeota.com
 eyezy.com
 eyezyapp.thd.cc
 f.appjiagu.com
+f003.backblazeb2.com
 f7-whatsapp.com
 f8-whatsapp.com
 f9-whatsapp.com
@@ -12009,6 +12016,7 @@ japanpostmhk.club
 japanpostr7l.club
 jgbez.sitmarx.site
 jgsbdrd.cc
+jimcooks211.github.io
 jjspy.com
 jjspy.ml
 jmblxd.cn
@@ -13633,6 +13641,7 @@ vpc-whatsapp.com
 vpcnode-whatsapp.com
 vrl.lta.gov.sg
 vscode-extension-update.net
+vwwv-roblox.co
 vys.me
 wafnode-whatsapp.com
 walkingpad.cslt168.com
