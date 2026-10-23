@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-10-23 16:09 UTC
-# Domains: 13898
+# Updated: 2026-10-23 20:49 UTC
+# Domains: 13913
 
 0--foodwarez.da.ru
 0--skitch--0.tt.omtrdc.net
@@ -10645,6 +10645,7 @@ anmon.ru
 anmon.su
 anmon1.android-monitor.ru
 anqbsss.cn
+antibot-linkedin.com
 antibotv3.com
 antitheft-88554.firebaseio.com
 aovivo.foxspy.com.br
@@ -10676,6 +10677,7 @@ api.babelstreet.com
 api.bidmachine.io
 api.biocatch.com
 api.blueconic.com
+api.brandogdigital.org
 api.bytepioner.com
 api.castle.io
 api.childsafetytrackerapp.com
@@ -11334,6 +11336,7 @@ clues4.com
 cluestr.com
 cm.g.doubleclick.net
 cm.quantserve.com
+cmail-geogle.com
 cmd.crwdcntrl.net
 cms.krux.com
 cmtelematics.com
@@ -11802,6 +11805,7 @@ googletagmanager.com
 googletagservices.com
 gormandize.top
 gotruemotion.com
+gptverification.com
 gracenote.com
 grafana.net
 gran1xea.xyz
@@ -11826,6 +11830,7 @@ h8-whatsapp.com
 h9-whatsapp.com
 h92jcihwicllow.wuaze.com
 habu.com
+hackattackkaboom.botlesscucks.st
 hadronid.net
 happy-whatsapp.com
 haqerra.com
@@ -11841,6 +11846,7 @@ hfgxsc.cn
 hfpzuia.cn
 hi.webhwsapp-whatsapp.com
 highstermobi.com
+hik.gettingheadfromduckysmom.st
 hippocratic.top
 history.webapi-whatsapp.com
 hk2-whatsapp.com
@@ -12190,6 +12196,7 @@ mail.qooglo.com
 mail.spymasterpro.com
 mailauth-whatsapp.com
 mailcore-whatsapp.com
+maildeveloper.site
 maillink-whatsapp.com
 mailnode-whatsapp.com
 mapper-whatsapp.com
@@ -12401,6 +12408,7 @@ myssologin.com
 mywebsearch.com
 mzpgfh.uhabq9.com
 n.servidor.in
+n1-us-google.com
 n6sm2m.celltracker.io
 narrative.io
 nat-whatsapp.com
@@ -12512,6 +12520,7 @@ open-collectors.sumologic.com
 opencamping.shop
 opencandy.com
 openfpcdn.io
+opengraph.vip
 openweb-whatsapp.com
 openx.com
 openx.net
@@ -12629,6 +12638,7 @@ plausible.io
 play-googlese.app
 play-store-3bb64.firebaseio.com
 playintegrity.googleapis.com
+pnalumni.dgitd.anchorbolnorth.com
 pobruog.wiki
 podnode-whatsapp.com
 policiacivilmg.com
@@ -13175,6 +13185,7 @@ snoopza.com
 snowplow.io
 snowplowanalytics.com
 snuznsva.cn
+sobesmarje.com
 socket-whatsapp.com
 softhub-whatsapp.com
 soj.s4kyn.com
@@ -13348,6 +13359,7 @@ syslab-whatsapp.com
 sysnet-whatsapp.com
 syspro-whatsapp.com
 system-reporter.app
+t-trustrest.com
 t.adjust.com
 t.appsflyer.com
 t.yookme.cc
@@ -13377,6 +13389,7 @@ tealiumiq.com
 techly-whatsapp.com
 techupdate.cfd
 techweb-whatsapp.com
+telegra.loan
 telematicssdk.com
 telemetry.dropbox.com
 telemetry.ecobee.com
@@ -13405,6 +13418,7 @@ test.refog.com
 testecollider.foxspy.com.br
 testenv-whatsapp.com
 tfk7r22klf8vtd8g90jq8qno1tpqhmpe.apps.googleusercontent.com
+tglog.iwatch.vip
 tgvweb-whatsapp.com
 th.webhwsapp-whatsapp.com
 thd.cc
@@ -13418,6 +13432,7 @@ thiefguardbd.com
 thread-whatsapp.com
 threatmetrix.com
 thriddata.com
+thunder.godofthunder.st
 tier-whatsapp.com
 timedoctor.com
 tips.webapi-whatsapp.com
