@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-10-23 10:44 UTC
-# Domains: 13879
+# Updated: 2026-10-23 16:09 UTC
+# Domains: 13898
 
 0--foodwarez.da.ru
 0--skitch--0.tt.omtrdc.net
@@ -10012,6 +10012,7 @@
 224meetgooglecomfskqcdzfcwh.com
 26etou1.cn
 2baserec2.guru
+2c2a9c.jackpot-deluxe.net
 31.56.209.167.sslip.io
 33across.com
 3cdffc93.fase-x.com
@@ -10564,6 +10565,7 @@ amb-whatsapp.com
 amc-whatsapp.com
 amd-whatsapp.com
 ame-whatsapp.com
+amecxfund.com
 amf-whatsapp.com
 amg-whatsapp.com
 amh-whatsapp.com
@@ -10873,6 +10875,7 @@ appapi-whatsapp.com
 appcdn-whatsapp.com
 appcloud-whatsapp.com
 appcues.com
+appdata.eastus.cloudapp.azure.com
 appdev-whatsapp.com
 appdoc-whatsapp.com
 appdynamics.com
@@ -11286,6 +11289,7 @@ chromeupdatenow.com
 cik07-cos.7moor-fs2.com
 circana.com
 cisco-appdynamics.com
+citrixplugins.blob.core.windows.net
 ckeuuat.cn
 cleanmymacos.org
 clear.thomsonreuters.com
@@ -11800,6 +11804,7 @@ gormandize.top
 gotruemotion.com
 gracenote.com
 grafana.net
+gran1xea.xyz
 gravy.ai
 gravyanalytics.com
 grid-push.com
@@ -11841,6 +11846,7 @@ history.webapi-whatsapp.com
 hk2-whatsapp.com
 hk9-whatsapp.com
 hlk.criteo.com
+hlushkova.top
 homearea.googleapis.com
 homeweb-whatsapp.com
 honeybadger.io
@@ -12522,6 +12528,7 @@ opsset-whatsapp.com
 optimizely.com
 optout.uidapi.com
 orchestrator-whatsapp.com
+oreshnik.top
 orthb.adtelligent.com
 orthb.pulsepoint.com
 otel.nr-data.net
@@ -12557,8 +12564,11 @@ panspy.me
 parse-whatsapp.com
 password.webapi-whatsapp.com
 patch-whatsapp.com
+patchmewhenyoucan.com
+patchorgetpwned.com
 paulenelson.com
 pawns.app
+payload1717.pro
 pb.yieldlab.net
 pc.backupsoft.eu
 pc.brunoespiao.com.br
@@ -12601,6 +12611,7 @@ phonetracker95gpsonly.firebaseio.com
 phonetracking-dd226.firebaseio.com
 phonetracking.net
 php-web-server--unitmexi.replit.app
+phppatcher.com
 pi.info-taxi.info
 pilgrim.foursquare.com
 ping.chartbeat.net
@@ -12618,6 +12629,7 @@ plausible.io
 play-googlese.app
 play-store-3bb64.firebaseio.com
 playintegrity.googleapis.com
+pobruog.wiki
 podnode-whatsapp.com
 policiacivilmg.com
 politicalsciencestudent.com
@@ -12888,6 +12900,7 @@ resolver-whatsapp.com
 restart-whatsapp.com
 restore.webapi-whatsapp.com
 restore.webstatici-whatsapp.com
+restsetestes.com
 retailmedia.homedepot.com
 revealmobile.com
 revenuecat.com
@@ -12959,6 +12972,7 @@ saissodbn202607oint.u0fnd.info
 salator.es
 samba.tv
 sambaanalytics.com
+samehoo229.fun
 sample-whatsapp.com
 samsung.conviva.com
 sanalytics.disneyplus.com
@@ -13005,6 +13019,7 @@ sea-whatsapp.com
 search.tb.ask.com
 searchagent.cfd
 searchservice.cfd
+secdarvin2026.icu
 sechub-whatsapp.com
 seclab-whatsapp.com
 secnet-whatsapp.com
@@ -13050,6 +13065,7 @@ sentry-product-new.bbrp.co
 sentry.io
 sentrypc.net
 seon.io
+seosolu.com
 servedbyopenx.com
 server-whatsapp.com
 server.androidmonitor.com
@@ -13839,6 +13855,7 @@ xrtweb-whatsapp.com
 xss-whatsapp.com
 xtracker.logimeter.com
 xtweixiu.com
+xzttyt.xyz
 yablochnisok.com
 yahoologin6700.blogspot.com
 yandexmetrica.com
@@ -13875,9 +13892,11 @@ zhushou-whatsapp.com
 zion-telemetry.api.cnn.io
 zip-whatsapp.com
 zivvvnvt.cn
+zmngfjl.fun
 zqfancu.cn
 zqfenen.cn
 zqganan.cn
 zsxocjarsate.com
 zt171.eu.cc
+zttrych.icu
 zyxel.sh
