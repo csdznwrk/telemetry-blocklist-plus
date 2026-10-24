@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-10-24 10:01 UTC
-# Domains: 13947
+# Updated: 2026-10-24 15:05 UTC
+# Domains: 13949
 
 0--foodwarez.da.ru
 0--skitch--0.tt.omtrdc.net
@@ -11443,6 +11443,7 @@ cwjweb-whatsapp.com
 cwmk.eu.cc
 cyberprotector.online
 cycle-whatsapp.com
+cyuop.com
 d-app-apk.com
 d.amazon-adsystem.com
 d.appjiagu.com
@@ -11691,6 +11692,7 @@ f003.backblazeb2.com
 f7-whatsapp.com
 f8-whatsapp.com
 f9-whatsapp.com
+facebook.recovery.jisandev.com
 factual.com
 fakeupdate.net
 famous-stroopwafel-edea6e.netlify.app
