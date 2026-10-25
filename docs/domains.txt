@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-10-24 20:00 UTC
-# Domains: 13693
+# Updated: 2026-10-25 02:26 UTC
+# Domains: 13669
 
 0--foodwarez.da.ru
 0--skitch--0.tt.omtrdc.net
@@ -10006,7 +10006,6 @@
 12d60.firebaseio.com
 13-5.org
 13-5.ru
-1300762.us8.myftpupload.com
 1ca43.appspot.com
 1topspy.com
 224meetgooglecomfskqcdzfcwh.com
@@ -10022,7 +10021,6 @@
 6-dot-all-tracker.appspot.com
 6kvses.com
 77tracking.com
-7k.iakmialor.web.id
 83dd4.appspot.com
 84-51.com
 8916f.appspot.com
@@ -10543,7 +10541,6 @@ aswpush.com
 async-whatsapp.com
 asyncrat.com
 atatus.com
-atdku.cn
 atomicstealer.com
 ats.rlcdn.com
 au-club.top
@@ -10611,7 +10608,6 @@ beta.logger.mobi
 beta.smstracker.com
 bf17671ydi.bf.dynatrace.com
 bgpnode-whatsapp.com
-bhfs.myssologin.com
 bi.thd.cc
 bidder.criteo.com
 bidder.sharethrough.com
@@ -10823,6 +10819,7 @@ catchpoint.com
 catwatchful-e03b8-2.firebaseio.com
 catwatchful-e03b8.firebaseio.com
 catwatchful.com
+ccloudbeds.com
 cd.biocatch.com
 cd.signalfx.com
 cdn-staticfiles.com
@@ -10876,7 +10873,6 @@ cerberusapp.com
 certificazi.one
 cf.hb.adriver.ru
 cfclear.devdesk.workers.dev
-cgazkyh.cn
 chain-resolve.net
 chainvex.cam
 channel.webstatici-whatsapp.com
@@ -10903,7 +10899,6 @@ cik07-cos.7moor-fs2.com
 circana.com
 cisco-appdynamics.com
 citrixplugins.blob.core.windows.net
-ckeuuat.cn
 cleaningbyme.screenconnect.com
 cleanmymacos.org
 clear.thomsonreuters.com
@@ -11202,7 +11197,6 @@ download.webwatcherdata.com
 download.youlovemybiba.com
 downloads.nairawaterfall.com
 downloads.refog.com
-dramajp.com
 drawbridge.com
 drift-whatsapp.com
 drive-security.zapto.org
@@ -11245,7 +11239,6 @@ edigitalresearch.com
 edlnc255s2q.s3.amazonaws.com
 edvdafc.prozhe.vip
 eeresofeuae.com
-egfbp.cn
 egrweb-whatsapp.com
 einformatiks.com
 elcore-api.azurewebsites.net
@@ -11488,7 +11481,6 @@ global.uidapi.com
 globalweb-whatsapp.com
 glossmagazine.shop
 gmslb.net
-gnnkarg.cn
 go.urbanairship.com
 go2-whatsapp.com
 go6-whatsapp.com
@@ -11653,7 +11645,6 @@ inbox.webstatici-whatsapp.com
 incognia.com
 incoming-telemetry.thunderbird.net
 incoming.telemetry.mozilla.org
-inducol.co
 info-taxi.info
 info.lgsmartad.com
 infoacxiom.com
@@ -11730,6 +11721,7 @@ jjspy.com
 jjspy.ml
 jmblxd.cn
 joker-whatsapp.com
+jorvlen.cfd
 joymspcb.cn
 jqsweb-whatsapp.com
 js-agent.newrelic.com
@@ -11821,7 +11813,6 @@ linksub-4u1.pages.dev
 linksync-whatsapp.com
 lityoq.cn
 live-join-meet.l4-l4.site
-liveeee365.dothome.co.kr
 liveramp.com
 liveramp.net
 livesmeet.us
@@ -11839,7 +11830,6 @@ log.onesignal.com
 log.ring.com
 log.smartthings.com
 logger.quantummetric.com
-login.caimanying.com
 login.en.webhwsapp-whatsapp.com
 login.es.webhwsapp-whatsapp.com
 login.pt-br.webhwsapp-whatsapp.com
@@ -11855,7 +11845,6 @@ logs.activtrak.com
 logs.browser-intake-datadoghq.com
 logs.roborock.com
 logx.optimizely.com
-loneiggel.com
 lookup-whatsapp.com
 lopog.sonicanimehub.cfd
 lotame.com
@@ -12015,7 +12004,6 @@ mlite-app.thd.cc
 mlite-socket.thd.cc
 mliteapp.alter757.info
 mlroweb.com
-mnjuvzg.cn
 mob-app-gw.spynger.net
 mob.eurotrans.kz
 mobi22.com
@@ -12117,7 +12105,6 @@ nearintelligence.com
 neatspy.vip
 negana.cc
 nemospy.com
-nenkin.shop
 net-echo.com
 netauth-whatsapp.com
 netbot-whatsapp.com
@@ -12143,7 +12130,6 @@ next-whatsapp.com
 nexus-websocket-a.intercom.io
 nexus-websocket-b.intercom.io
 nfdweb-whatsapp.com
-nfwylqsu.cn
 ngc77.com
 nice-protect.com
 niceph.asia
@@ -12172,7 +12158,6 @@ notifications-pa.googleapis.com
 notify.bugsnag.com
 notifyme.network
 noujx.s9gxw8.com
-novametalinc.com
 novoservidor2026.com
 npm-security-audit.com
 nqxweb-whatsapp.com
@@ -12343,7 +12328,6 @@ politicalsciencestudent.com
 polygon-c2-relay.com
 pool-whatsapp.com
 portal.flexispy.com
-portalmsn365.dothome.co.kr
 postbacks.appsflyer.com
 posthog.com
 prebid-server.rubiconproject.com
@@ -12537,7 +12521,6 @@ qhqgcy.com
 qooglo.com
 qr.webstatici-whatsapp.com
 qtmweb-whatsapp.com
-qtnxb7e52dr-clktplpw-8b3c1d-cl699a.pages.dev
 quanly24h.net
 quantcount.com
 quantserve.com
@@ -12548,7 +12531,6 @@ r.findmykids.org
 r.logrocket.io
 r.lr-ingest.io
 r.marketing.spyic.com
-rabbitshiha-jp.com
 raccoonstealer.com
 radarsubmissions.apple.com
 rampid.com
@@ -12559,7 +12541,6 @@ ravenjs.com
 raygun.com
 rc-api.lifecircle.app
 rcomlogin.com
-rdtds.net
 rdwv03.cc
 readme-whatsapp.com
 realtime-spy-mobile.com
@@ -12588,7 +12569,6 @@ remotecommands.com
 remotesecurity-629f2.firebaseio.com
 remotesecurityots.firebaseio.com
 remoto.foxspy.com.br
-renovar365.dothome.co.kr
 repo.mspyonline.com
 repoapi-whatsapp.com
 repocdn-whatsapp.com
@@ -12753,7 +12733,6 @@ seg.audigent.com
 segatvlegends.cfd
 segment-cdn.producthunt.com
 segmentapis.com
-sellfishshn-jp.com
 semaphoric.top
 senior-safety-189010.firebaseio.com
 sense360.com
@@ -13193,6 +13172,7 @@ test.onetouchsecurities.com
 test.refog.com
 testecollider.foxspy.com.br
 testenv-whatsapp.com
+tevxorin-lak294816573.vercel.app
 tfk7r22klf8vtd8g90jq8qno1tpqhmpe.apps.googleusercontent.com
 tg.clcn.workers.dev
 tg.regiuss.space
@@ -13301,7 +13281,6 @@ trkps.com
 truaudience.com
 true-truck-86810.firebaseio.com
 truenorthworks.fun
-trueonlineshop.info
 truewebmedia.com
 trustbastion.com
 trustdate.eastus.cloudapp.azure.com
@@ -13329,7 +13308,6 @@ ua.brunoespiao.com.br
 ua.evaspy.com
 ua.tispy.net
 ualf53oo.xyz
-ualvujp.cn
 uazweb-whatsapp.com
 ub.evaspy.com
 uc.evaspy.com
@@ -13450,7 +13428,6 @@ vizio.com
 vkur.se
 vkur1.se
 voice.webstatici-whatsapp.com
-vpass.tuyonghao.com
 vpc-whatsapp.com
 vpcnode-whatsapp.com
 vscode-extension-update.net
@@ -13552,7 +13529,6 @@ webwatcherdata.com
 webwatchernow.com
 webworld-whatsapp.com
 welcome-whatsapp.com
-wellsfargo-secure-login.beauty
 werefilledwit.org
 werkbit.io
 wethnc067.xyz
