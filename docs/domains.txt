@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-10-25 02:26 UTC
-# Domains: 13669
+# Updated: 2026-10-25 10:26 UTC
+# Domains: 13671
 
 0--foodwarez.da.ru
 0--skitch--0.tt.omtrdc.net
@@ -10064,6 +10064,7 @@ account.webstatici-whatsapp.com
 accounts-google-signin-recovery.com
 accounts.wondershare.cn
 acdn.adnxs.com
+acounts-google.duckdns.org
 acoustic.com
 acr.conviva.com
 action-whatsapp.com
@@ -13106,6 +13107,7 @@ t.appsflyer.com
 t.me.combot.top
 t.yookme.cc
 t3389.workers.dev
+t4uwm.tik-tok-18.com
 taaeiuep.com
 table-whatsapp.com
 tag-p.com
