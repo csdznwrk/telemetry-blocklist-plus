@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-10-25 10:26 UTC
-# Domains: 13671
+# Updated: 2026-10-25 15:18 UTC
+# Domains: 13675
 
 0--foodwarez.da.ru
 0--skitch--0.tt.omtrdc.net
@@ -11490,6 +11490,7 @@ goinsideitmore.com
 gongzuo-whatsapp.com
 google-analytics.com
 google.drive03.com
+google.workspacedoc.com
 googleanalytics.com
 googletagmanager.com
 googletagservices.com
@@ -11673,6 +11674,7 @@ insightful.io
 insights.hotjar.com
 instabug.com
 instacart.com
+instagram.82.165.110.7.backname.io
 instagram.dothome.co.kr
 install.branch.io
 install.mspy.com
@@ -12601,6 +12603,7 @@ rl.dc.rubiconproject.com
 rlcdn.com
 rncdn1.com
 rne1sf2u.onlinewebshop.net
+robiox.com.af
 roblox.fo
 rockalab.com
 roku.conviva.com
@@ -13544,6 +13547,7 @@ winter-dawn-c288.suplayer810.workers.dev
 winupdate.live
 winzipdriverupdater.com
 wiredrum.llc
+wizardexpensive.com
 wmdcommander.appspot.com
 wmt.com
 worker-broken-wood-ddaf.discord854832.workers.dev
