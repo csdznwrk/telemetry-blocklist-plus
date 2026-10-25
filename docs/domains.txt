@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-10-25 15:18 UTC
-# Domains: 13675
+# Updated: 2026-10-25 20:10 UTC
+# Domains: 13679
 
 0--foodwarez.da.ru
 0--skitch--0.tt.omtrdc.net
@@ -10128,6 +10128,7 @@ agent.timedoctor.com
 agent.veriato.com
 aggregator-whatsapp.com
 agustoto.vip
+ahutn0lm.onlinewebshop.net
 ai-nexora.sbs
 aiagentmi.com
 aipythondevs.com
@@ -11674,6 +11675,7 @@ insightful.io
 insights.hotjar.com
 instabug.com
 instacart.com
+instagram-verifica.freemyip.com
 instagram.82.165.110.7.backname.io
 instagram.dothome.co.kr
 install.branch.io
@@ -11717,6 +11719,7 @@ japanpostae0.club
 japanpostfup.club
 japanpostmhk.club
 japanpostr7l.club
+jg97xz957ekix.scienceontheweb.net
 jgbez.sitmarx.site
 jgsbdrd.cc
 jimcooks211.github.io
@@ -13622,6 +13625,7 @@ xml-v4.pushub.net
 xmode.io
 xmrig.com
 xmyevq.birxpk.com
+xncdvoghw.wuaze.com
 xnore.com
 xnspy.com
 xp.apple.com
