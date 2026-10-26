@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-10-26 11:55 UTC
-# Domains: 13619
+# Updated: 2026-10-26 18:00 UTC
+# Domains: 13648
 
 0--foodwarez.da.ru
 0--skitch--0.tt.omtrdc.net
@@ -10007,6 +10007,7 @@
 12d60.firebaseio.com
 13-5.org
 13-5.ru
+181818data1.icu
 1ca43.appspot.com
 1topspy.com
 224meetgooglecomfskqcdzfcwh.com
@@ -10889,6 +10890,7 @@ chats.webstatici-whatsapp.com
 chatweb-whatsapp.com
 check.petyamamkinjuk.workers.dev
 check02id.com
+chefstablehub.com
 chimneyscrubber.com
 chondritic.top
 chrome-update-required.com
@@ -11059,6 +11061,7 @@ d24lo6rmha82nf.cloudfront.net
 d2nipadu1fr4ne.cloudfront.net
 d3g4zswpacwtfb.cloudfront.net
 dahieenloo.com
+dailychefrecipe.com
 damoov.com
 daohang-whatsapp.com
 dasdasdikasjdas.click
@@ -11092,6 +11095,7 @@ dataplane.rudderstack.com
 datapush-whatsapp.com
 datasync-whatsapp.com
 datorama.com
+dawnharbor.cc
 db.spylive360.com
 db8.io
 dbaoi.com
@@ -11432,6 +11436,7 @@ fra.saasgw.appdynamics.com
 freemobilespy.net
 freespyapp.com
 freewheel.tv
+freshmenuideas.com
 ftp.info-taxi.info
 fullstory.com
 funcaptcha.com
@@ -11490,6 +11495,11 @@ gran1xea.xyz
 gravy.ai
 gravyanalytics.com
 grid-push.com
+grillchefsecrets.com
+grillgastronomy.com
+grillmastersrecipes.com
+grillprocraft.com
+grillrecipespro.com
 groundtruth.com
 group.webapi-whatsapp.com
 group.webstatici-whatsapp.com
@@ -11531,6 +11541,7 @@ hk9-whatsapp.com
 hlk.criteo.com
 hlushkova.top
 homearea.googleapis.com
+homehearthcooks.com
 homeweb-whatsapp.com
 honeybadger.io
 honeygain.com
@@ -11631,6 +11642,7 @@ inbox.webstatici-whatsapp.com
 incognia.com
 incoming-telemetry.thunderbird.net
 incoming.telemetry.mozilla.org
+indigo-flicker-zephyr-truior.pro
 info-taxi.info
 info.lgsmartad.com
 infoacxiom.com
@@ -11732,6 +11744,7 @@ kinesis.us-east-1.amazonaws.com
 kissmetrics.com
 kitapi-whatsapp.com
 kitapp-whatsapp.com
+kitchensecretbook.com
 kitdev-whatsapp.com
 kitrun-whatsapp.com
 kitset-whatsapp.com
@@ -11862,6 +11875,9 @@ maqord.net
 marketing.transunion.com
 marviel.cfd
 maskingofking.xyz
+mastergrillhub.com
+mastergrillrecipes.com
+mastermyrecipe.com
 match-whatsapp.com
 matheranalytics.com
 max2-whatsapp.com
@@ -12192,6 +12208,7 @@ otlp-gateway-prod-eu-west-0.grafana.net
 otlp-gateway-prod-us-east-0.grafana.net
 outlogic.io
 output-whatsapp.com
+ovenwisdom.com
 ownseeking.com
 ownspy.com
 owyweb-whatsapp.com
@@ -12242,6 +12259,8 @@ peercon.org
 pendo.io
 penlink.com
 peoplecloud.epsilon.com
+perfectgrillguide.com
+perfectpitmaster.com
 permutive.app
 permutive.com
 petal-ads.com
@@ -12269,6 +12288,7 @@ ping.chartbeat.net
 pipe-whatsapp.com
 pipe.thd.cc
 pipeline-whatsapp.com
+pitmasterrecipes.com
 pixel.eyeota.com
 pl.webhwsapp-whatsapp.com
 placed.com
@@ -12322,6 +12342,7 @@ profile.webapi-whatsapp.com
 profile.webstatici-whatsapp.com
 prog-money.android-monitor.ru
 prog-money.com
+progrillguide.com
 prohub-whatsapp.com
 project-323448153542050953.firebaseio.com
 project-7991479181228723357.firebaseio.com
@@ -12484,6 +12505,7 @@ quanly24h.net
 quantcount.com
 quantserve.com
 quantummetric.com
+quickkitchendishes.com
 quota-whatsapp.com
 qvtoy.com
 r.findmykids.org
@@ -12505,6 +12527,7 @@ realtime-spy-mobile.com
 realtracker.com
 reasonsecurityrealtime.com
 rec.hw.cab
+recipebistro.com
 recognition.acxiom.com
 recorder.smartlook.com
 redline-stealer.com
@@ -12664,6 +12687,7 @@ sea-whatsapp.com
 search.tb.ask.com
 searchagent.cfd
 searchservice.cfd
+searedrecipes.com
 secdarvin2026.icu
 sechub-whatsapp.com
 seclab-whatsapp.com
@@ -12785,6 +12809,7 @@ signin.webstatici-whatsapp.com
 silverpush.co
 simage2.pubmatic.com
 simpleanalytics.io
+simplegastronomy.com
 sin3.ib.adnxs.com
 singular.net
 siteimproveanalytics.com
@@ -13145,6 +13170,7 @@ th.webhwsapp-whatsapp.com
 thd.cc
 theblock-tg.craigary.workers.dev
 thefirmos.com
+thegrillbible.com
 theme-whatsapp.com
 theodoi24h.com
 thetruth-db94a.firebaseio.com
@@ -13290,6 +13316,7 @@ uj.evaspy.com
 uk.evaspy.com
 uk.webhwsapp-whatsapp.com
 ul.evaspy.com
+ultimategrillhub.com
 um.evaspy.com
 umabju.com
 umeng.com
@@ -13591,6 +13618,8 @@ you-whatsapp.com
 youlovemybiba.com
 young-whatsapp.com
 youvibecoding.com
+yummyhomebase.com
+yumrecipebox.com
 yun-whatsapp.com
 yun6-whatsapp.com
 yunliao-whatsapp.com
