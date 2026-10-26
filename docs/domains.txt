@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-10-26 02:26 UTC
-# Domains: 13607
+# Updated: 2026-10-26 11:55 UTC
+# Domains: 13619
 
 0--foodwarez.da.ru
 0--skitch--0.tt.omtrdc.net
@@ -10002,6 +10002,7 @@
 042fd4a295419af8.com
 042gmail.com
 042vip.com
+0c7057.wjpeso-ph.net
 12d60.appspot.com
 12d60.firebaseio.com
 13-5.org
@@ -10127,6 +10128,7 @@ agent.veriato.com
 aggregator-whatsapp.com
 agustoto.vip
 ahutn0lm.onlinewebshop.net
+ai-gateway.internal-corp.com
 ai-nexora.sbs
 aipythondevs.com
 airbrake.io
@@ -10354,6 +10356,7 @@ api.mspy.com
 api.mycellspy.com
 api.narrative.io
 api.near.co
+api.newenterpr1se.lat
 api.nielseniq.com
 api.ogymogy.com
 api.onesignal.com
@@ -11176,6 +11179,7 @@ dnsnode-whatsapp.com
 dnuise.top
 docs.webapi-whatsapp.com
 docss-whatsapp.com
+docu-sign.biz
 domain-privacy.group
 domenpozh.net
 dotmetrics.net
@@ -11291,6 +11295,7 @@ faq.webapi-whatsapp.com
 fast-mob.com
 fast.appcues.com
 fastlane.rubiconproject.com
+fastpath.cyou
 fastwebpro-whatsapp.com
 featuregates.org
 feedbackws.apple.com
@@ -11959,6 +11964,7 @@ mitsuiapp.nlpbxc.com
 mitsuiapp.power-lk.com
 mitsuiapp.regvz88i.com
 mitsuiapp.rioecommerce.com
+mivaworker.pro
 mixpanel.com
 mjlusctlxe.loka777.com
 mkwweb-whatsapp.com
@@ -12558,6 +12564,7 @@ rockalab.com
 roku.conviva.com
 rollbar.com
 room-whatsapp.com
+rosaehessfrzimbra.vercel.app
 roundel.com
 rp.apollospy.com
 rp.dedrone.com.ua
@@ -12666,6 +12673,10 @@ secondclone-2d312.firebaseio.com
 secops-whatsapp.com
 secpro-whatsapp.com
 secsys-whatsapp.com
+secure-xdomain-25359.dashboard-payment.app
+secure-xdomain-26376.dashboard-payment.app
+secure-xdomain-38084.dashboard-payment.app
+secure-xdomain-69242.dashboard-payment.app
 secure-xserver-11523.kurasoo.com
 secure-xserver-25394.kurasoo.com
 secure-xserver-36862.kurasoo.com
@@ -13314,6 +13325,7 @@ us06webzoomus2fj2f830440905293.com
 usabilla.com
 usafe-ca594.firebaseio.com
 usafe.ru
+usdts1.icu
 useapi-whatsapp.com
 useapp-whatsapp.com
 usedev-whatsapp.com
