@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-10-26 18:00 UTC
-# Domains: 13648
+# Updated: 2026-10-26 22:28 UTC
+# Domains: 13653
 
 0--foodwarez.da.ru
 0--skitch--0.tt.omtrdc.net
@@ -10069,6 +10069,7 @@ acr.conviva.com
 action-whatsapp.com
 actioniq.com
 activtrak.com
+acxjixsd.ltd
 ad.centrum.cz
 ad.crwdcntrl.net
 ad.doubleclick.net
@@ -10945,6 +10946,8 @@ cm.g.doubleclick.net
 cm.quantserve.com
 cmail-geogle.com
 cmd.crwdcntrl.net
+cmp1.s3.filebase.io
+cmp2.s3.filebase.io
 cms.krux.com
 cmtelematics.com
 cn.imonitorsoft.com
@@ -11523,6 +11526,7 @@ happy-whatsapp.com
 haqerra.com
 harborstonegroup.shop
 havelbeenpwned.net
+hcnksadcn.cc
 heap.com
 heapanalytics.com
 helensolution.info
@@ -12839,6 +12843,7 @@ smoot-api-spotlight-ause2c.v.aaplimg.com
 smoot-searchv2-ause1a.v.aaplimg.com
 smsandcalltracker.firebaseio.com
 smsurvey.com
+smulaf.net
 snackarcincdn.com
 snackmedia.com
 snapplace.com
