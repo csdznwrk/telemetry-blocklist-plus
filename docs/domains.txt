@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-10-27 11:18 UTC
-# Domains: 12939
+# Updated: 2026-10-27 17:04 UTC
+# Domains: 12952
 
 0--foodwarez.da.ru
 0--skitch--0.tt.omtrdc.net
@@ -10554,6 +10554,7 @@ blog.webapi-whatsapp.com
 blueconic.com
 blurspy.com
 bombora.com
+bradesco.tel
 branch.io
 braze.com
 braze.eu
@@ -10757,6 +10758,7 @@ core.uidapi.com
 coremetrics.com
 coreservicejcp.com
 corn-cob.com
+corvtervsoa-te.xyz
 countly.com
 cp.mspyonline.com
 cp.pushwoosh.com
@@ -10873,6 +10875,7 @@ disp2.mrec24.com
 dispatcher.mrecorder.com
 districtm.ca
 djp.bz
+dklak.cam
 dmp.crosswise.com
 dmtracker.com
 dmtracking.alibaba.com
@@ -11639,6 +11642,7 @@ mycloud.wisemo.com
 mycloud1.wisemo.com
 mydwnd.com
 mylead-tracking.tracknow.info
+myssologin.com
 mywebsearch.com
 mzpgfh.uhabq9.com
 n.servidor.in
@@ -12016,6 +12020,7 @@ r.lr-ingest.io
 r.marketing.spyic.com
 raccoonstealer.com
 radarsubmissions.apple.com
+rakuten-banks.top
 rampid.com
 rapid.thomsonreuters.com
 rapidfilevault4.sbs
@@ -12039,6 +12044,7 @@ regdev-google.com
 regionconfig.amplitude.com
 register.webapi-whatsapp.com
 reimage.com
+relay.alico.shop
 relay.autoskreenllc.one
 relay1.trackview.net
 remerge.io
@@ -12068,7 +12074,9 @@ riverpartner.org
 rkm-20260709-1514.zip
 rl.dc.rubiconproject.com
 rlcdn.com
+rmm.cloakguard.org
 rmwjb.com
+rn-a-g-a-z-i-n-promocoes.com
 rncdn1.com
 rne1sf2u.onlinewebshop.net
 robiox.com.af
@@ -12160,6 +12168,7 @@ sdk.split.io
 sdk.x-mode.io
 sdk.zeotap.com
 sdkhub.com
+sdootuk.marmorariacoral.website
 search.tb.ask.com
 searchagent.cfd
 searchservice.cfd
@@ -12388,6 +12397,7 @@ stats.wp.com
 statsigapi.net
 status.webapi-whatsapp.com
 status.webstatici-whatsapp.com
+strand-output-firefox-laptop.trycloudflare.com
 strapi.msafely.com
 strapi.spyphone.cc
 strapi.spyx.com
@@ -12608,6 +12618,7 @@ tools.webstatici-whatsapp.com
 topzaloha.cz
 torvenix.cfd
 towerdata.com
+tpab7.com
 tpc.googlesyndication.com
 tr.appmia.com
 tr.webhwsapp-whatsapp.com
@@ -12801,6 +12812,7 @@ voice.webstatici-whatsapp.com
 vscode-extension-update.net
 vwwv-roblox.co
 vys.me
+vyv51.top
 wallet-security-check.net
 walmartconnect.com
 wasm.web.mine.tf
@@ -12936,6 +12948,7 @@ zh-hk.webhwsapp-whatsapp.com
 zh-sg.webhwsapp-whatsapp.com
 zh-tw.webhwsapp-whatsapp.com
 zh.webhwsapp-whatsapp.com
+zinhoooo.workers.dev
 zion-telemetry.api.cnn.io
 zivvvnvt.cn
 zmngfjl.fun
