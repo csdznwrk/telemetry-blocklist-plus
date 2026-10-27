@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-10-27 17:04 UTC
-# Domains: 12952
+# Updated: 2026-10-27 21:37 UTC
+# Domains: 12955
 
 0--foodwarez.da.ru
 0--skitch--0.tt.omtrdc.net
@@ -10576,6 +10576,7 @@ brunoespiao2.s3.amazonaws.com
 btmob.net
 buchalter.configuremysso.com
 bugsnag.com
+bvkaka.com
 byte-armor.com
 byte-buff.com
 c-phone.ru
@@ -11375,6 +11376,8 @@ ko.webhwsapp-whatsapp.com
 kochava.com
 kokum.ru
 komodia.com
+kongzaixian.com
+kozae666.com
 krogerads.com
 krux.com
 kruxdigital.com
@@ -12085,6 +12088,7 @@ rockermoviezu.com
 roku.conviva.com
 rollbar.com
 rosaehessfrzimbra.vercel.app
+roujizaixian.com
 roundel.com
 rp.apollospy.com
 rp.dedrone.com.ua
@@ -12915,7 +12919,6 @@ x1panel.com
 x3pf5mva2liano2rmgnkf5ktbe0efzvv.lambda-url.ap-south-1.on.aws
 xad.com
 xbxj1.top
-xml-v4.pushub.net
 xmode.io
 xmrig.com
 xmyevq.birxpk.com
