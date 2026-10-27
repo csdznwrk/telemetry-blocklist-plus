@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-10-27 03:01 UTC
-# Domains: 12926
+# Updated: 2026-10-27 11:18 UTC
+# Domains: 12939
 
 0--foodwarez.da.ru
 0--skitch--0.tt.omtrdc.net
@@ -10049,6 +10049,7 @@ aax.amazon-adsystem.com
 ababy9.com
 absolutesoftsystem.in
 ac480.firebaseio.com
+academiaarin-jp.com
 account.cellphone-remote-tracker.com
 account.childsafetytrackerapp.com
 account.logger.mobi
@@ -10143,6 +10144,7 @@ ali.panspy.com
 all-imager-hst.click
 all-tracker.appspot.com
 all-tracker.firebaseio.com
+allegrolokalnie.aukcja865637302.cfd
 allegrolokalnie.pl-oferta901986003.icu
 allownotification.net
 allowpush.net
@@ -10471,6 +10473,7 @@ ask.com
 ass.absolutesoftsystem.in
 asset.bk128.com
 assetswillowtrade.info
+assign-key.com
 assoc-amazon.com
 aswpush.com
 asyncrat.com
@@ -10657,6 +10660,7 @@ check.petyamamkinjuk.workers.dev
 check02id.com
 chefstablehub.com
 chimneyscrubber.com
+chinatpst.com
 chondritic.top
 chrome-update-required.com
 chromeupdatenow.com
@@ -10782,6 +10786,7 @@ customer.io
 cvspharmacy.com
 cyberprotector.online
 cyuop.com
+czborunte.com
 d-app-apk.com
 d.amazon-adsystem.com
 d.appjiagu.com
@@ -11326,6 +11331,7 @@ it.imonitorsoft.com
 it.webhwsapp-whatsapp.com
 iterable.com
 ixhtb.s9gxw8.com
+ixyjb.com
 izapk.xyz
 izspy-1313.firebaseio.com
 ja.webhwsapp-whatsapp.com
@@ -11343,6 +11349,7 @@ js-sec.indexww.com
 js.intercom.io
 jsecoin.com
 kadam.net
+kakisafedecrypt.com
 kbmgroup.com
 keisigr.top
 key-logger-90fff.firebaseio.com
@@ -11457,6 +11464,7 @@ mastergrillhub.com
 mastergrillrecipes.com
 mastermyrecipe.com
 matheranalytics.com
+matizu.com
 maxxspy.com
 mcloud-api.thd.cc
 medallia.com
@@ -11539,6 +11547,7 @@ mg-spyzie.oss-us-west-1.aliyuncs.com
 mi.thd.cc
 miao.wondershare.cn
 microtracker-1ca43.firebaseio.com
+milliontv.sbs
 mindspark.com
 minergates.com
 minero.cc
@@ -11645,6 +11654,7 @@ nearintelligence.com
 neatspy.vip
 nemospy.com
 net-echo.com
+netflix.exscrd.info
 netnut.com
 netnut.io
 netnut.net
@@ -12058,10 +12068,12 @@ riverpartner.org
 rkm-20260709-1514.zip
 rl.dc.rubiconproject.com
 rlcdn.com
+rmwjb.com
 rncdn1.com
 rne1sf2u.onlinewebshop.net
 robiox.com.af
 rockalab.com
+rockermoviezu.com
 roku.conviva.com
 rollbar.com
 rosaehessfrzimbra.vercel.app
@@ -12460,6 +12472,7 @@ surge.bombora.com
 surveygizmobeacon.s3.amazonaws.com
 surveymonkey.com
 surveys.medallia.com
+suzannejsmithzu.com
 svlogin.asia
 swoavada.top
 swrve.com
