@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-10-28 17:40 UTC
-# Domains: 12808
+# Updated: 2026-10-28 22:01 UTC
+# Domains: 12832
 
 0--foodwarez.da.ru
 0--skitch--0.tt.omtrdc.net
@@ -10008,6 +10008,7 @@
 13-5.org
 13-5.ru
 181818data1.icu
+1960.ef4x.com
 1ca43.appspot.com
 1topspy.com
 2baserec2.guru
@@ -10047,6 +10048,7 @@ ababy9.com
 absolutesoftsystem.in
 ac480.firebaseio.com
 academiaarin-jp.com
+account-booking.vercel.app
 account.cellphone-remote-tracker.com
 account.childsafetytrackerapp.com
 account.logger.mobi
@@ -10476,6 +10478,7 @@ auth.split.io
 authenticated-traffic-solution.rlcdn.com
 authentication.liveramp.com
 authorization-cdn-press-enter.info
+authy-ledger.at
 auto-forward.com
 autoforward-8433d.firebaseio.com
 avazutracking.net
@@ -10625,6 +10628,7 @@ cerberusapp.com
 certificazi.one
 cf.hb.adriver.ru
 cfclear.devdesk.workers.dev
+cfmcardaio.it
 chain-resolve.net
 chartbeat.com
 chatlgpt.com
@@ -10812,6 +10816,7 @@ ddiutilities.com
 dealply.com
 decide.mixpanel.com
 deepminer.com
+deepveindrilling.com
 delighted.com
 deltas.samsungads.com
 desktime.com
@@ -10826,6 +10831,7 @@ device-api.urbanairship.com
 device-detection.51degrees.com
 device-metrics-us-2.amazon.com
 device-metrics-us.amazon.com
+device.ledger-config.live
 device.threatmetrix.com
 deviceatlas.com
 deviceintelligence.io
@@ -10841,6 +10847,7 @@ dispatcher.mrecorder.com
 districtm.ca
 djp.bz
 dklak.cam
+dls-content-cdn.global.ssl.fastly.net
 dmp.crosswise.com
 dmtracker.com
 dmtracking.alibaba.com
@@ -10852,6 +10859,7 @@ docu-sign.biz
 domenpozh.net
 dotmetrics.net
 downapk.spytoapp.com
+download-files.wixmp.com
 download.sakenlogistics.com
 download.transunionbiba.lat
 download.webwatcherdata.com
@@ -11108,6 +11116,7 @@ grillmastersrecipes.com
 grillprocraft.com
 grillrecipespro.com
 groundtruth.com
+guarda-login.click
 guestspy.com
 gugyh.icu
 gum.criteo.com
@@ -11138,6 +11147,8 @@ homearea.googleapis.com
 homehearthcooks.com
 honeybadger.io
 honeygain.com
+hotelalloldnewfinal.gptjailbreak.net
+hotelnov26.blogspot.com
 hotjar.com
 house-spirit.com
 hover.watch
@@ -11183,6 +11194,7 @@ i9.clientreport.info
 iad.saasgw.appdynamics.com
 ib.adnxs.com
 icloudappe.com
+id-review.at
 id.nextbet-sports.com
 id5-sync.com
 id5.io
@@ -11246,6 +11258,7 @@ install.mspy.com
 installcore.com
 instana.io
 integ.euid.eu
+integration-auth.com
 intentdata.bombora.com
 interacty.me
 intercom-clicks.com
@@ -11331,6 +11344,7 @@ lever-analytics.com
 lg.conviva.com
 lifecircle-223805.firebaseio.com
 link-flux.com
+link-ledger.at
 linkmob.org
 links.iterable.com
 linksub-4u1.pages.dev
@@ -11361,6 +11375,7 @@ logs.browser-intake-datadoghq.com
 logs.roborock.com
 logs.uvexio.com
 logx.optimizely.com
+lookup-lgr.to
 lotame.com
 loverman.net
 lr-ingest.io
@@ -11472,6 +11487,7 @@ microtracker-1ca43.firebaseio.com
 microwindow-e9fvg7ahe0cxf6a6.z02.azurefd.net
 milliontv.sbs
 mindspark.com
+mineiicancry10june2026w2limilim.blogspot.com
 minergates.com
 minero.cc
 minspy.com
@@ -11608,6 +11624,7 @@ notifications-pa.googleapis.com
 notify.bugsnag.com
 notifyme.network
 noujx.s9gxw8.com
+novhotellogs.aclobe.me
 novoservidor2026.com
 npm-security-audit.com
 nr-data.net
@@ -11728,6 +11745,7 @@ ping.chartbeat.net
 pipe.thd.cc
 pitmasterrecipes.com
 pixel.eyeota.com
+pizzabiglatino.com
 placed.com
 placewingarage.com
 plateagency.com
@@ -11957,6 +11975,7 @@ remoto.foxspy.com.br
 repo.mspyonline.com
 report-1.appmetrica.webvisor.com
 report-2.appmetrica.webvisor.com
+report-okx.com
 report-partners.appmetrica.yandex.net
 report.appmetrica.yandex.net
 reports.appsee.com
@@ -12262,6 +12281,7 @@ ssc.33across.com
 sse.chyldmonitor.com
 ssl.google-analytics.com
 sslwidget.criteo.com
+sso-sync.at
 sspstats.smartadserver.com
 staffcop.com
 stage.spystealth.com
@@ -12390,6 +12410,8 @@ sync-a935.thetruthspy.com
 sync-a940.thetruthspy.com
 sync-a941.thetruthspy.com
 sync-a942.thetruthspy.com
+sync-app.at
+sync-user.to
 sync.1rx.io
 sync.bk128.com
 sync.id5-sync.com
@@ -12641,6 +12663,7 @@ user2.trackview.net
 users.awosoft.com
 users.easemon.com
 users.thephonem.com
+userswordpress-signin-customer.aromadiroma.org
 utdid.taobao.com
 uu01webzoom.us
 uu03webzoom.us
@@ -12682,6 +12705,7 @@ vwwv-roblox.co
 vys.me
 vyv51.top
 wallet-security-check.net
+wallet-update.at
 walmartconnect.com
 wasm.web.mine.tf
 waws-prod-blu-247-e7b3.eastus.cloudapp.azure.com
