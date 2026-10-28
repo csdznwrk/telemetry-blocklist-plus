@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-10-28 03:12 UTC
-# Domains: 12762
+# Updated: 2026-10-28 11:51 UTC
+# Domains: 12798
 
 0--foodwarez.da.ru
 0--skitch--0.tt.omtrdc.net
@@ -10451,6 +10451,7 @@ arvion.network
 asgard-f8c53.firebaseio.com
 ashland-energy.com
 ask.com
+aspselfstorage.screenconnect.com
 ass.absolutesoftsystem.in
 asset.bk128.com
 assetswillowtrade.info
@@ -10656,6 +10657,7 @@ clientconnect.com
 clientmetrics-pa.googleapis.com
 clientreport.info
 clientsdk.launchdarkly.com
+cloamenastraone.click
 clocktok.cfd
 cloud.51degrees.com
 cloud.antibotv3.com
@@ -10667,6 +10669,7 @@ cloudfunctions.net
 clues.link
 clues4.com
 cluestr.com
+cluniacvexazai.click
 cm.g.doubleclick.net
 cm.quantserve.com
 cmail-geogle.com
@@ -10678,12 +10681,17 @@ cmtelematics.com
 cn.imonitorsoft.com
 cnapi.trackview.net
 cobaltstrike.com
+coclelabs.click
 coco-fun2.com
 cocospy.com
+coctionbit.click
 code.etracker.com
 codebasecode.com
+codeinashift.click
+cognovitevo.click
 cohezo.com
 cohezo.io
+cohuestack.click
 coin-have.com
 coin-hive.com
 coinblind.com
@@ -10878,6 +10886,7 @@ edigitalresearch.com
 edlnc255s2q.s3.amazonaws.com
 edvdafc.prozhe.vip
 eeresofeuae.com
+efanxian.com
 einformatiks.com
 elcore-api.azurewebsites.net
 em.awsapi.io
@@ -10910,6 +10919,7 @@ exapi-eu.rubiconproject.com
 exapi-us-east.rubiconproject.com
 exapi-us-west.rubiconproject.com
 extremetracking.com
+eyeearhospital.com
 eyeota.com
 eyezy.com
 eyezyapp.thd.cc
@@ -10942,6 +10952,7 @@ firedmanlaw.co.uk
 fireworkanalytics.com
 flexible-networks.com
 flexispy.com
+flhealthlicense.vercel.app
 flibbertigibbet.top
 flixarena.cyou
 flixbaba-offcial.cyou
@@ -11056,6 +11067,7 @@ generator-qrcode.online
 gerardo.desarrollowebalcala.es
 get.snoopza.com
 getfeedback.com
+getfile.centreomega.ca
 getmspy.net
 getmycleanpc.com
 getsentry.com
@@ -11073,6 +11085,7 @@ google-analytics.com
 google.drive03.com
 google.workspacedoc.com
 googleanalytics.com
+googlemeeeeet.live
 googletagmanager.com
 googletagservices.com
 gormandize.top
@@ -11106,6 +11119,7 @@ hadronid.net
 haqerra.com
 harborstonegroup.shop
 hcnksadcn.cc
+healthlicensefl.vercel.app
 heap.com
 heapanalytics.com
 helensolution.info
@@ -11230,6 +11244,7 @@ installcore.com
 instana.io
 integ.euid.eu
 intentdata.bombora.com
+interacty.me
 intercom-clicks.com
 intercom.io
 interguard.com
@@ -11240,6 +11255,7 @@ iovation.com
 iovation.mpsnare.com
 ip-api.gracenote.com
 iphone-ld.apple.com
+ipqmdqzxnsfxqfc.zip
 iproyal.com
 ipv6.reproxy.io
 iri.com
@@ -11277,6 +11293,7 @@ kidsguard-6c6a9.firebaseio.com
 kidsguard.com
 kidsguard.pro
 kidsshield.net
+kihneatpyhqcs.zip
 killi.io
 kinesis.us-east-1.amazonaws.com
 kissmetrics.com
@@ -11339,6 +11356,7 @@ logs-prod-us-central1.grafana.net
 logs.activtrak.com
 logs.browser-intake-datadoghq.com
 logs.roborock.com
+logs.uvexio.com
 logx.optimizely.com
 lotame.com
 loverman.net
@@ -11446,7 +11464,9 @@ mflx.biz
 mg-spyzie.oss-us-west-1.aliyuncs.com
 mi.thd.cc
 miao.wondershare.cn
+microsoft-telemetry.at
 microtracker-1ca43.firebaseio.com
+microwindow-e9fvg7ahe0cxf6a6.z02.azurefd.net
 milliontv.sbs
 mindspark.com
 minergates.com
@@ -11560,6 +11580,7 @@ netnut.io
 netnut.net
 netspy-7b8ec.firebaseio.com
 new.androidlost.com
+newoldstamp.com
 newrelic.com
 nexsnield.com
 nexus-websocket-a.intercom.io
@@ -11859,6 +11880,7 @@ psd.markets
 psoz96apk.9yyl9.net
 psznaoehteeh.com
 pub-3f84de9aa4f04824a3cf79d4adea59cb.r2.dev
+pub-493f78e882da461f9f7b36234703f59b.r2.dev
 publicismedia.com
 pubmatic.com
 pubnative.net
@@ -12017,6 +12039,8 @@ scientiamobile.com
 scif.roku.com
 scmbank.shop
 scmbanker.com
+scontitech.activehosted.com
+scontitech.emlnk9.com
 scorecardresearch.com
 screentimelabs.appspot.com
 sdk.embrace.io
@@ -12044,10 +12068,15 @@ searchservice.cfd
 searedrecipes.com
 secdarvin2026.icu
 secondclone-2d312.firebaseio.com
+secure-xdomain-18374.w-group.shop
 secure-xdomain-25359.dashboard-payment.app
 secure-xdomain-26376.dashboard-payment.app
+secure-xdomain-27095.w-group.shop
+secure-xdomain-32259.w-group.shop
 secure-xdomain-38084.dashboard-payment.app
+secure-xdomain-50869.w-group.shop
 secure-xdomain-69242.dashboard-payment.app
+secure-xdomain-82343.w-group.shop
 secure-xserver-11523.kurasoo.com
 secure-xserver-25394.kurasoo.com
 secure-xserver-36862.kurasoo.com
@@ -12125,6 +12154,7 @@ shadow-logs.com
 shadow-spy.com
 shadowappbundle-default-rtdb.firebaseio.com
 shadowlogspanel.firebaseio.com
+shamswilliams.com
 share-adminsimple.s3.eu-west-2.amazonaws.com
 sharethrough.com
 signalfx.com
@@ -12386,6 +12416,7 @@ tb.ask.com
 tchan1.anuj.workers.dev
 tchsrvce.com
 tdos.io
+tea.vexexo.com
 tealiumiq.com
 teamsmeeting.site
 techupdate.cfd
@@ -12555,6 +12586,7 @@ uf1.brunoespiao.com.br
 ug.evaspy.com
 ug1c5v.birxpk.com
 uh.evaspy.com
+uhdyadasud.duckdns.org
 ui.evaspy.com
 uid2.prebid.org
 uj.evaspy.com
@@ -12635,6 +12667,7 @@ visit.tealiumiq.com
 vizio.com
 vkur.se
 vkur1.se
+volusialawyer.screenconnect.com
 vscode-extension-update.net
 vwwv-roblox.co
 vys.me
@@ -12666,6 +12699,7 @@ wethnc067.xyz
 where-is-my-children.firebase.io
 whiteops.com
 widget.criteo.com
+win10pc.oss-cn-hongkong.aliyuncs.com
 winter-dawn-c288.suplayer810.workers.dev
 winupdate.live
 winzipdriverupdater.com
@@ -12733,9 +12767,11 @@ x-mode.io
 x.pgv4.com
 x1panel.com
 xad.com
+xboxtelemetry-defender.cc
 xmode.io
 xmrig.com
 xmyevq.birxpk.com
+xn--smarktt-y0a.net
 xncdvoghw.wuaze.com
 xnore.com
 xnspy.com
