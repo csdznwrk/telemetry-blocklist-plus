@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-10-28 11:51 UTC
-# Domains: 12798
+# Updated: 2026-10-28 17:40 UTC
+# Domains: 12808
 
 0--foodwarez.da.ru
 0--skitch--0.tt.omtrdc.net
@@ -10050,6 +10050,7 @@ academiaarin-jp.com
 account.cellphone-remote-tracker.com
 account.childsafetytrackerapp.com
 account.logger.mobi
+account.payoneer.com
 account.refog.com
 account.trackerplus.ru
 accounts-google-signin-recovery.com
@@ -10216,6 +10217,7 @@ anmon.name
 anmon.ru
 anmon.su
 anmon1.android-monitor.ru
+anthropic.rsvpconnect-events.com
 antibot-linkedin.com
 antibotv3.com
 antitheft-88554.firebaseio.com
@@ -10954,6 +10956,7 @@ flexible-networks.com
 flexispy.com
 flhealthlicense.vercel.app
 flibbertigibbet.top
+flipkarrt-helu-sale.shop
 flixarena.cyou
 flixbaba-offcial.cyou
 flixbeam.cyou
@@ -11502,6 +11505,8 @@ mobiletool.ru
 mobiletracking.appsflyer.com
 mobilewalla.com
 moengage.com
+moneyhub-cebicuzotoy.click
+moneyhub-juzozohagid.click
 monitask.com
 monitor-android.android-monitor.ru
 monitor-ultra.com
@@ -11755,6 +11760,7 @@ prebid.smartadserver.com
 precisely.com
 predicio.com
 predictivenomics.com
+pregnantkha-jp.com
 press-f12-continue.com
 prmtracking.com
 pro.logger.mobi
@@ -11939,6 +11945,7 @@ refog.net
 refog.org
 regdev-google.com
 regionconfig.amplitude.com
+register.rsvpconnect-events.com
 reimage.com
 relay.alico.shop
 relay1.trackview.net
@@ -11987,6 +11994,7 @@ rp.sharethrough.com
 rrspy.com
 rs.fullstory.com
 rs.rudderstack.com
+rsvpconnect-events.com
 rtax.criteo.com
 rtb.openx.net
 rtc.ttspy.com
@@ -12621,6 +12629,7 @@ us.i.posthog.com
 us.info.lgsmartad.com
 us.umobix.com
 us06webzoomus2fj2f830440905293.com
+us968web-zoom.us
 usabilla.com
 usafe-ca594.firebaseio.com
 usafe.ru
@@ -12678,6 +12687,7 @@ wasm.web.mine.tf
 waws-prod-blu-247-e7b3.eastus.cloudapp.azure.com
 waws-prod-blu-247.sip.azurewebsites.windows.net
 web-sdk.smartlook.com
+web-static-cdn.od-files-repo.workers.dev
 web.chyldmonitor.com
 webanalytics.zohodcm.com
 webdisk.spymasterpro.com
