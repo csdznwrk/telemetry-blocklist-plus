@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-10-29 11:59 UTC
-# Domains: 12806
+# Updated: 2026-10-29 18:11 UTC
+# Domains: 12836
 
 0--foodwarez.da.ru
 0--skitch--0.tt.omtrdc.net
@@ -10011,6 +10011,7 @@
 1960.ef4x.com
 1ca43.appspot.com
 1topspy.com
+224meetgooglecomfskqcdzfcwh.com
 2baserec2.guru
 2c2a9c.jackpot-deluxe.net
 33across.com
@@ -10042,6 +10043,7 @@ aa-metrics.recruit-card.jp
 aa-metrics.trip-ai.jp
 aax-us-east.amazon-adsystem.com
 aax.amazon-adsystem.com
+abacusfederal.sbs
 absolutesoftsystem.in
 ac480.firebaseio.com
 academiaarin-jp.com
@@ -10119,6 +10121,7 @@ agustoto.vip
 ahutn0lm.onlinewebshop.net
 ai-gateway.internal-corp.com
 ai-nexora.sbs
+aiconsultation.co.uk
 aipythondevs.com
 airbrake.io
 airbridge.io
@@ -10509,6 +10512,7 @@ beta-api.logger.mobi
 beta.logger.mobi
 beta.smstracker.com
 bf17671ydi.bf.dynatrace.com
+bfrdhdtrht.duckdns.org
 bi.thd.cc
 bidder.criteo.com
 bidder.sharethrough.com
@@ -10526,6 +10530,7 @@ blog.ikeymonitor.com
 blueconic.com
 blurspy.com
 bombora.com
+bonusrekoru.com
 bradesco.tel
 branch.io
 braze.com
@@ -10569,12 +10574,17 @@ cakesdrum.com
 calibrated.cfd
 cambridgemobiletelematicsdata.com
 carboniferous.top
+cartwaretech.click
 casalemedia.com
+caseumxyrala.click
+cashawxara.click
+casteismaxo.click
 castle.io
 catchpoint.com
 catwatchful-e03b8-2.firebaseio.com
 catwatchful-e03b8.firebaseio.com
 catwatchful.com
+caunchriva.click
 ccloudbeds.com
 cd.biocatch.com
 cd.signalfx.com
@@ -10626,6 +10636,7 @@ cfmcardaio.it
 chain-resolve.net
 chartbeat.com
 chatlgpt.com
+cheapmovies.sbs
 check.petyamamkinjuk.workers.dev
 check02id.com
 chefstablehub.com
@@ -10850,6 +10861,7 @@ dmw.bz
 dmw.cc
 dnetk.com
 docu-sign.biz
+docusignappinstalle.help
 domenpozh.net
 dotmetrics.net
 downapk.spytoapp.com
@@ -10917,6 +10929,7 @@ events.hotjar.io
 events.launchdarkly.com
 events.segment.io
 events.split.io
+everstakewfma6sxdpshoq4ebtnqamsxnajrtzu2cflai77kfup5kzyd.onion
 evt17.com
 exapi-apac.rubiconproject.com
 exapi-eu.rubiconproject.com
@@ -11087,6 +11100,7 @@ glossmagazine.shop
 gmslb.net
 go.urbanairship.com
 goinsideitmore.com
+goja.click
 google-analytics.com
 google.workspacedoc.com
 googleanalytics.com
@@ -11283,6 +11297,7 @@ jimcooks211.github.io
 jjspy.com
 jjspy.ml
 join-inapp.com
+join-zoomm.online
 jorvlen.cfd
 js-agent.newrelic.com
 js-sec.indexww.com
@@ -11309,6 +11324,7 @@ kitchensecretbook.com
 klaviyo.com
 klg.a-spy.com
 kochava.com
+kokcsgo.com
 kokum.ru
 komodia.com
 kongzaixian.com
@@ -11449,6 +11465,7 @@ media.ulta.com
 mediagetapp.com
 mediamath.com
 mediasncr.com
+meetgoogle.chat
 megapush.com
 mentaorb.com
 merkantalolol.asia
@@ -11474,6 +11491,7 @@ mg-spyzie.oss-us-west-1.aliyuncs.com
 mi.thd.cc
 miao.wondershare.cn
 microsoft-telemetry.at
+microsoftteams.site
 microtracker-1ca43.firebaseio.com
 microwindow-e9fvg7ahe0cxf6a6.z02.azurefd.net
 milliontv.sbs
@@ -11617,6 +11635,7 @@ npm-security-audit.com
 nr-data.net
 ns1.virsis.net
 ns2.virsis.net
+nzctjvr.com
 o1.ingest.sentry.io
 obliquity.top
 observability.splunkcloud.com
@@ -11922,6 +11941,7 @@ r.lr-ingest.io
 r.marketing.spyic.com
 raccoonstealer.com
 radarsubmissions.apple.com
+radwantest.click
 rakuten-banks.top
 rampid.com
 rapid.thomsonreuters.com
@@ -11967,6 +11987,7 @@ restsetestes.com
 retailmedia.homedepot.com
 revealmobile.com
 revenuecat.com
+reviewshared.s3.us-east-005.backblazeb2.com
 rhythmone.com
 richpush.co
 rl.dc.rubiconproject.com
@@ -12261,6 +12282,7 @@ ssl.google-analytics.com
 sslwidget.criteo.com
 sso-sync.at
 sspstats.smartadserver.com
+sssrrllodhff.duckdns.org
 staffcop.com
 stage.spystealth.com
 staging-all-tracker.appspot.com
@@ -12606,6 +12628,7 @@ unacast.com
 unagi.amazon.com
 unidentifiedanalytics.web.app
 unisafe-a342f.firebaseio.com
+unitstrust.click
 unknowntool.shop
 unrulymedia.com
 uo.evaspy.com
@@ -12626,6 +12649,7 @@ us.i.posthog.com
 us.info.lgsmartad.com
 us.umobix.com
 us06webzoomus2fj2f830440905293.com
+us10-web-zoom.com
 us968web-zoom.us
 usabilla.com
 usafe-ca594.firebaseio.com
@@ -12674,6 +12698,7 @@ viuonicoiscienic.web.app
 vizio.com
 vkur.se
 vkur1.se
+voltpay.cfd
 volusialawyer.screenconnect.com
 vscode-extension-update.net
 vwwv-roblox.co
@@ -12777,6 +12802,8 @@ x.pgv4.com
 x1panel.com
 xad.com
 xboxtelemetry-defender.cc
+xl.goja.click
+xl.radwantest.click
 xmode.io
 xmrig.com
 xmyevq.birxpk.com
@@ -12806,5 +12833,8 @@ zeotap.com
 zinhoooo.workers.dev
 zion-telemetry.api.cnn.io
 zmngfjl.fun
+zoffry.qpon
+zoomclientus.icu
+zoomwebmeet.icu
 zsxocjarsate.com
 zttrych.icu
