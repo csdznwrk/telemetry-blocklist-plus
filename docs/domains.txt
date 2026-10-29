@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-10-28 22:01 UTC
-# Domains: 12832
+# Updated: 2026-10-29 03:37 UTC
+# Domains: 12799
 
 0--foodwarez.da.ru
 0--skitch--0.tt.omtrdc.net
@@ -10026,7 +10026,6 @@
 89685.firebaseio.com
 97.logger.mobi
 99totoapp.com
-9oogle.app
 9tcj2.tik-tok-18.com
 a-qa3.thd.cc
 a-spy.com
@@ -10041,10 +10040,8 @@ a71f4.firebaseio.com
 aa-metrics.beauty.hotpepper.jp
 aa-metrics.recruit-card.jp
 aa-metrics.trip-ai.jp
-aaenen.cc
 aax-us-east.amazon-adsystem.com
 aax.amazon-adsystem.com
-ababy9.com
 absolutesoftsystem.in
 ac480.firebaseio.com
 academiaarin-jp.com
@@ -10105,7 +10102,6 @@ advertising.walgreens.com
 advertising.walmart.com
 advertracker.com
 adx.petal-ads.com
-aexshorthood.cactx5.info
 affiliatetracking.com
 affiliatetracking.net
 afftracking.justanswer.com
@@ -10127,7 +10123,6 @@ aipythondevs.com
 airbrake.io
 airbridge.io
 airship.com
-ajmwglfzin.zelixavon.com
 ajuda.spylive360.com
 alarum.com
 alarum.io
@@ -10141,7 +10136,6 @@ all-imager-hst.click
 all-tracker.appspot.com
 all-tracker.firebaseio.com
 allegrolokalnie.aukcja865637302.cfd
-allegrolokalnie.pl-oferta901986003.icu
 allownotification.net
 allowpush.net
 allstatics.wondershare.cn
@@ -10157,7 +10151,6 @@ amon1.android-monitor.ru
 amos-stealer.com
 amp.1rx.io
 ams1.b.adnxs.com
-anaconadministradora.com.br
 analytics-fe.digital-cloud-prem.medallia.eu
 analytics-production.hapyak.com
 analytics.adpost.org
@@ -10451,7 +10444,6 @@ arity.com
 arkoselabs.com
 armydevice.shop
 arvax.xyz
-arvion.network
 asgard-f8c53.firebaseio.com
 ashland-energy.com
 ask.com
@@ -10553,11 +10545,11 @@ brunoespiao.com
 brunoespiao.com.br
 brunoespiao2.s3.amazonaws.com
 btmob.net
-buchalter.configuremysso.com
 bugsnag.com
 bvkaka.com
 byte-armor.com
 byte-buff.com
+bzvmjsn5.sportsontheweb.net
 c-phone.ru
 c.amazon-adsystem.com
 c.appjiagu.com
@@ -10958,7 +10950,6 @@ firebasedynamiclinks.googleapis.com
 firebaseinstallations.googleapis.com
 firebaselogging-pa.googleapis.com
 firebaseremoteconfig.googleapis.com
-firedmanlaw.co.uk
 fireworkanalytics.com
 flexible-networks.com
 flexispy.com
@@ -11069,9 +11060,11 @@ freewheel.tv
 freshmenuideas.com
 ftp.info-taxi.info
 fullstory.com
+fullwork3e4.gamer.free
 funcaptcha.com
 funmoodsearch.com
 g.appjiagu.com
+gadgetcandyzu.com
 gamedb.shop
 gcdsdk.appsflyer.com
 generator-qrcode.online
@@ -11093,7 +11086,6 @@ gmslb.net
 go.urbanairship.com
 goinsideitmore.com
 google-analytics.com
-google.drive03.com
 google.workspacedoc.com
 googleanalytics.com
 googlemeeeeet.live
@@ -11118,28 +11110,24 @@ grillrecipespro.com
 groundtruth.com
 guarda-login.click
 guestspy.com
-gugyh.icu
 gum.criteo.com
 gw.api.dh.comcast.com
 h.appjiagu.com
 h.audigent.com
 h.online-metrix.net
-h92jcihwicllow.wuaze.com
 habu.com
-hackattackkaboom.botlesscucks.st
 hadronid.net
+handwrittenresults.com
 haqerra.com
 harborstonegroup.shop
 hcnksadcn.cc
 healthlicensefl.vercel.app
 heap.com
 heapanalytics.com
-helensolution.info
 hello-world-fancy-mud-57ff.2111857176.workers.dev
 hellospy.com
 help.spylive360.com
 highstermobi.com
-hik.gettingheadfromduckysmom.st
 hippocratic.top
 hlk.criteo.com
 hlushkova.top
@@ -11195,7 +11183,6 @@ iad.saasgw.appdynamics.com
 ib.adnxs.com
 icloudappe.com
 id-review.at
-id.nextbet-sports.com
 id5-sync.com
 id5.io
 id5api.com
@@ -11256,6 +11243,7 @@ instagram.82.165.110.7.backname.io
 install.branch.io
 install.mspy.com
 installcore.com
+installgarphenos.ink
 instana.io
 integ.euid.eu
 integration-auth.com
@@ -11400,7 +11388,6 @@ mail.spymasterpro.com
 maildeveloper.site
 mamatambiensr-jp.com
 marketing.transunion.com
-marviel.cfd
 maskingofking.xyz
 mastergrillhub.com
 mastergrillrecipes.com
@@ -11496,12 +11483,10 @@ miricanvas.com
 misuwh.com
 mivaworker.pro
 mixpanel.com
-mjlusctlxe.loka777.com
 mlite-app.livekit.cloud
 mlite-app.thd.cc
 mlite-socket.thd.cc
 mliteapp.alter757.info
-mlroweb.com
 mob-app-gw.spynger.net
 mob.eurotrans.kz
 mobi22.com
@@ -11526,7 +11511,6 @@ moneyhub-juzozohagid.click
 monitask.com
 monitor-android.android-monitor.ru
 monitor-ultra.com
-monoxide.vip
 motorolasolutions.com
 mparticle.com
 mpmetrics.kochava.com
@@ -11608,7 +11592,6 @@ nexus-websocket-a.intercom.io
 nexus-websocket-b.intercom.io
 ngc77.com
 nice-protect.com
-niceph.asia
 nielseniq.com
 ninjatech.io
 nitlebuf.com
@@ -11630,7 +11613,6 @@ npm-security-audit.com
 nr-data.net
 ns1.virsis.net
 ns2.virsis.net
-ntp.reposync.to
 o1.ingest.sentry.io
 obliquity.top
 observability.splunkcloud.com
@@ -11693,9 +11675,6 @@ panoramadb.com
 panspy-1.oss-us-west-1.aliyuncs.com
 panspy.com
 panspy.me
-patchmewhenyoucan.com
-patchorgetpwned.com
-paulenelson.com
 pawns.app
 payload1717.pro
 pb.yieldlab.net
@@ -11723,6 +11702,7 @@ perfectpitmaster.com
 permutive.app
 permutive.com
 petal-ads.com
+pew9862l.onlinewebshop.net
 pgv4.com
 phone-backup-service.firebaseio.com
 phonecontrolapp-e2c64.firebaseio.com
@@ -11738,7 +11718,6 @@ phonetracker.com
 phonetracker95gpsonly.firebaseio.com
 phonetracking-dd226.firebaseio.com
 phonetracking.net
-phppatcher.com
 pi.info-taxi.info
 pilgrim.foursquare.com
 ping.chartbeat.net
@@ -11747,11 +11726,9 @@ pitmasterrecipes.com
 pixel.eyeota.com
 pizzabiglatino.com
 placed.com
-placewingarage.com
 plateagency.com
 platform.lkqd.net
 plausible.io
-play-googlese.app
 play-store-3bb64.firebaseio.com
 playintegrity.googleapis.com
 pnalumni.dgitd.anchorbolnorth.com
@@ -11901,7 +11878,6 @@ proxy.reptilicus.net
 prozhe.vip
 ps97mailer.logger.mobi
 psd.markets
-psoz96apk.9yyl9.net
 psznaoehteeh.com
 pub-3f84de9aa4f04824a3cf79d4adea59cb.r2.dev
 pub-493f78e882da461f9f7b36234703f59b.r2.dev
@@ -11979,7 +11955,6 @@ report-okx.com
 report-partners.appmetrica.yandex.net
 report.appmetrica.yandex.net
 reports.appsee.com
-reposync.to
 reproxy.io
 reproxy.net
 reptilicus.net
@@ -11989,7 +11964,6 @@ revealmobile.com
 revenuecat.com
 rhythmone.com
 richpush.co
-riverpartner.org
 rl.dc.rubiconproject.com
 rlcdn.com
 rmm.cloakguard.org
@@ -12198,7 +12172,6 @@ sklstech.com
 sky-borders.com
 sl360-7ba65.firebaseio.com
 slotbid.a-mo.net
-smaluf.net
 smartadserver.com
 smartback-12d60.appspot.com
 smartback-12d60.firebaseio.com
@@ -12221,7 +12194,6 @@ snackarcincdn.com
 snackmedia.com
 snapplace.com
 sncmedia.net
-snj.kjk.mybluehost.me
 snoopza.com
 snowplow.io
 snowplowanalytics.com
@@ -12378,7 +12350,6 @@ stupendoussnow.com
 styvlor.cfd
 suggestqueries.google.com
 sumologic.com
-sunmerksin.com
 superfish.com
 support.mtoolapp.biz
 support.phoneparental.com
@@ -12388,7 +12359,6 @@ surveymonkey.com
 surveys.medallia.com
 suzannejsmithzu.com
 svlogin.asia
-swoavada.top
 swrve.com
 swscan.apple.com
 syd.saasgw.appdynamics.com
@@ -12499,13 +12469,13 @@ thecanniballazu.com
 thedragonson-jp.com
 thefirmos.com
 thegrillbible.com
+themoviemindzu.com
 theodoi24h.com
 thetruth-db94a.firebaseio.com
 thetruthspy.com
 thiefguardbd.com
 threatmetrix.com
 thriddata.com
-thunder.godofthunder.st
 timedoctor.com
 tispy.net
 tls.telemetry.swe.quicinc.com
@@ -12584,7 +12554,6 @@ true-truck-86810.firebaseio.com
 truenorthworks.fun
 truewebmedia.com
 trustbastion.com
-trustdate.eastus.cloudapp.azure.com
 trustdevice.ai
 trustsoftware.net
 trustsystemguard.com
@@ -12668,7 +12637,6 @@ utdid.taobao.com
 uu01webzoom.us
 uu03webzoom.us
 uxcam.com
-uzeglvlb7gfekr3.icu
 v4vw4ytvo4.execute-api.us-east-2.amazonaws.com
 varenie.live
 vars.hotjar.com
@@ -12717,7 +12685,6 @@ webanalytics.zohodcm.com
 webdisk.spymasterpro.com
 webengage.com
 webloc.com
-webmail.hisaka-me.com
 webmail.spymasterpro.com
 webminepool.com
 webrtc.thd.cc
@@ -12797,6 +12764,7 @@ www.vys.me
 www.webwatchernow.com
 www5.saison-cu.com
 wx.weiguanai.cn
+wz8ogren.mypressonline.com
 x-mode.io
 x.pgv4.com
 x1panel.com
@@ -12812,7 +12780,6 @@ xnspy.com
 xp.apple.com
 xpcpanel.com
 xtracker.logimeter.com
-xtweixiu.com
 xzttyt.xyz
 yablochnisok.com
 yandexmetrica.com
