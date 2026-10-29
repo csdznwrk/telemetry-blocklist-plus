@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-10-29 03:37 UTC
-# Domains: 12799
+# Updated: 2026-10-29 11:59 UTC
+# Domains: 12806
 
 0--foodwarez.da.ru
 0--skitch--0.tt.omtrdc.net
@@ -10229,6 +10229,7 @@ api-js.mixpanel.com
 api-project-285519687053.firebaseio.com
 api-project-999803017449.firebaseio.com
 api-spotlight-ause2c.smoot.apple.com
+api-webvision.com
 api.activtrak.com
 api.adbrix.io
 api.adsquare.com
@@ -10546,6 +10547,7 @@ brunoespiao.com.br
 brunoespiao2.s3.amazonaws.com
 btmob.net
 bugsnag.com
+buildpoint.blob.core.windows.net
 bvkaka.com
 byte-armor.com
 byte-buff.com
@@ -11273,6 +11275,7 @@ ixyjb.com
 izapk.xyz
 izspy-1313.firebaseio.com
 jailbreak-gateway.thd.cc
+jal-air.spguiapp.com
 jampp.com
 japan-five.top
 jg97xz957ekix.scienceontheweb.net
@@ -11288,6 +11291,7 @@ jsecoin.com
 kadam.net
 kakisafedecrypt.com
 kbmgroup.com
+kethvion.cfd
 key-logger-90fff.firebaseio.com
 keylogger-pro-us.imonitorsoft.com
 keylogger-software-org.imonitorsoft.com
@@ -11731,6 +11735,7 @@ platform.lkqd.net
 plausible.io
 play-store-3bb64.firebaseio.com
 playintegrity.googleapis.com
+plesk.swissrdp.com
 pnalumni.dgitd.anchorbolnorth.com
 pobruog.wiki
 policiacivilmg.com
@@ -12087,6 +12092,7 @@ secure.adnxs.com
 securebackuponline.net
 securemetrics.apple.com
 securemetrics.apple.com.cn
+security.cortivas.us
 sedotracker.com
 seg.audigent.com
 segment-cdn.producthunt.com
@@ -12664,6 +12670,7 @@ viptelefonprogrami.com
 viptrack.pro
 virsis.net
 visit.tealiumiq.com
+viuonicoiscienic.web.app
 vizio.com
 vkur.se
 vkur1.se
