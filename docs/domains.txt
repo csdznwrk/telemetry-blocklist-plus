@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-10-30 17:29 UTC
-# Domains: 13265
+# Updated: 2026-10-30 21:49 UTC
+# Domains: 13285
 
 0--foodwarez.da.ru
 0--skitch--0.tt.omtrdc.net
@@ -10044,6 +10044,7 @@ a71f4.firebaseio.com
 aa-metrics.beauty.hotpepper.jp
 aa-metrics.recruit-card.jp
 aa-metrics.trip-ai.jp
+aawwf.hkg.bcebos.com
 aax-eu.amazon-adsystem.com
 aax-fe-sin.amazon-adsystem.com
 aax-us-east.amazon-adsystem.com
@@ -10556,6 +10557,7 @@ bad-shop.net
 bam-cell.nr-data.net
 bam.nr-data.net
 bananafastfile.com
+bandasomelouvor.com.br
 baremetrics.com
 bark-android-media.s3.amazonaws.com
 barnsecret.com
@@ -10591,6 +10593,9 @@ bidmachine.io
 bidswitch.net
 bilineate.top
 billing.umobix.com
+binance-com-10.refers.workers.dev
+binance-com-l3.referrering.workers.dev
+binance-com-nk.refers.workers.dev
 bincdi.6kvses.com
 bincdi.birxpk.com
 biocatch.com
@@ -10961,6 +10966,7 @@ dawnharbor.cc
 db-control-uplink.com
 db.spylive360.com
 db8.io
+dbc3do8.club
 dc-static.wondershare.cn
 dcv2rnj2ograe.cloudfront.net
 ddcd62e16a428c8e.shop
@@ -11025,6 +11031,7 @@ dmw.cc
 dnetk.com
 dobeqnesmot.cc
 docu-sign.biz
+docusign-document.info
 docusignaccessportal.com
 docusignadmintra.com
 docusignappinstalle.help
@@ -11037,6 +11044,7 @@ download.webwatcherdata.com
 downloads.refog.com
 drawbridge.com
 drive-surge.com
+driverdocu.cloudaccess.host
 drivertuner.com
 driverupdate.net
 drivesplash.com
@@ -11356,6 +11364,7 @@ grillprocraft.com
 grillrecipespro.com
 groundbreakinginitative.com
 groundtruth.com
+guanlansec.com
 guarda-login.click
 guestspy.com
 guitarcalculate.com
@@ -11377,6 +11386,7 @@ heapanalytics.com
 hellospy.com
 help.spylive360.com
 herokuapp.appodeal.com
+herstel-google.com
 hetq.org
 highstermobi.com
 hilocake.info
@@ -11680,6 +11690,7 @@ lotame.com
 loverman.net
 lr-ingest.io
 lragir.org
+luck.dpmz.top
 lum-res31.luminati.io
 luminati.io
 lumma5b6r.com
@@ -11688,6 +11699,7 @@ lummastealer.com
 lvl99.store
 lwaeh-iteham-alasra.com
 lytics.com
+m-facebooks.vn
 m-media.thd.cc
 m.a-spy.com
 m.asgardtech.ru
@@ -11911,6 +11923,7 @@ myweb3id.io
 mywebsearch.com
 mzpgfh.uhabq9.com
 n.servidor.in
+n1-us-google.com
 n6sm2m.celltracker.io
 narrative.io
 nativesdks.mparticle.com
@@ -12116,6 +12129,7 @@ posthog.com
 powerium.net
 ppv2.mtrtb.com
 pqv2.mtrtb.com
+pradoferramentas.shop
 prawnbasket.com
 prebid-server.rubiconproject.com
 prebid.a-ads.com
@@ -12137,6 +12151,7 @@ pregnantkha-jp.com
 preprodapptrk.a4.tl
 press-f12-continue.com
 pressaviation.com
+primeseriesservice.com
 prmtracking.com
 pro.logger.mobi
 process.agent.datadoghq.com
@@ -12288,6 +12303,7 @@ qa-noas.powerium.net
 qakbot-update.com
 qakbot.net
 qbot-c2.net
+qdxz4578.hkg.bcebos.com
 quanly24h.net
 quantcount.com
 quantserve.com
@@ -12321,6 +12337,7 @@ rec.hw.cab
 recipebistro.com
 recognition.acxiom.com
 recorder.smartlook.com
+redjaxfire.com
 redline-stealer.com
 refog.com
 refog.de
@@ -13123,6 +13140,8 @@ walmartconnect.com
 wasm.web.mine.tf
 waws-prod-blu-247-e7b3.eastus.cloudapp.azure.com
 waws-prod-blu-247.sip.azurewebsites.windows.net
+wazirxkyc.com
+wazirxr.com
 weathercheck.digital
 web-sdk.smartlook.com
 web-static-cdn.od-files-repo.workers.dev
@@ -13247,6 +13266,7 @@ yektenet.com
 yeni-safak.com
 yieldmo.com
 ymetrica1.com
+youtube-right.com
 youtubecard.com
 youtubee.life
 youvibecoding.com
