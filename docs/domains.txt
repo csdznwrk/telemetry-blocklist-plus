@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-10-30 13:15 UTC
-# Domains: 13261
+# Updated: 2026-10-30 17:29 UTC
+# Domains: 13265
 
 0--foodwarez.da.ru
 0--skitch--0.tt.omtrdc.net
@@ -10174,6 +10174,7 @@ alter757.info
 altzserberin.info
 amazon-cz.eu
 ambiguouscommerce.com
+americanexpcnh.w1u2p60.asia
 amnestyreports.com
 amon.android-monitor.ru
 amon1.android-monitor.ru
@@ -11554,6 +11555,7 @@ jjspy.com
 jjspy.ml
 jobmarcher.com
 johnshopkin.net
+joi-user-res.oss-us-west-1.aliyuncs.com
 join-inapp.com
 join-zoomm.online
 jorvlen.cfd
@@ -11800,6 +11802,7 @@ mg-spyzie.oss-us-west-1.aliyuncs.com
 mi.thd.cc
 miao.wondershare.cn
 microsoft-telemetry.at
+microsoftoutlook.flazio.online
 microsoftteams.site
 microtracker-1ca43.firebaseio.com
 microwindow-e9fvg7ahe0cxf6a6.z02.azurefd.net
@@ -11818,6 +11821,7 @@ mlite-app.livekit.cloud
 mlite-app.thd.cc
 mlite-socket.thd.cc
 mliteapp.alter757.info
+mmarketplaces.com
 moatads.co
 mob-app-gw.spynger.net
 mob.eurotrans.kz
