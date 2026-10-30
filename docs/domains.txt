@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-10-29 18:11 UTC
-# Domains: 12836
+# Updated: 2026-10-30 03:40 UTC
+# Domains: 12758
 
 0--foodwarez.da.ru
 0--skitch--0.tt.omtrdc.net
@@ -10013,7 +10013,6 @@
 1topspy.com
 224meetgooglecomfskqcdzfcwh.com
 2baserec2.guru
-2c2a9c.jackpot-deluxe.net
 33across.com
 4-dot-all-tracker.appspot.com
 4info.com
@@ -10026,8 +10025,6 @@
 8916f.appspot.com
 89685.firebaseio.com
 97.logger.mobi
-99totoapp.com
-9tcj2.tik-tok-18.com
 a-qa3.thd.cc
 a-spy.com
 a.emb.app
@@ -10117,7 +10114,6 @@ agent.kickidler.com
 agent.teramind.co
 agent.timedoctor.com
 agent.veriato.com
-agustoto.vip
 ahutn0lm.onlinewebshop.net
 ai-gateway.internal-corp.com
 ai-nexora.sbs
@@ -10148,7 +10144,6 @@ alphabitcapital.info
 alphonso.tv
 alter757.info
 altzserberin.info
-amecxfund.com
 amon.android-monitor.ru
 amon1.android-monitor.ru
 amos-stealer.com
@@ -10216,7 +10211,6 @@ anmon.ru
 anmon.su
 anmon1.android-monitor.ru
 anthropic.rsvpconnect-events.com
-antibot-linkedin.com
 antibotv3.com
 antitheft-88554.firebaseio.com
 aovivo.foxspy.com.br
@@ -10249,7 +10243,6 @@ api.babelstreet.com
 api.bidmachine.io
 api.biocatch.com
 api.blueconic.com
-api.brandogdigital.org
 api.bytepioner.com
 api.castle.io
 api.childsafetytrackerapp.com
@@ -10302,6 +10295,7 @@ api.intercom.io
 api.iterable.com
 api.kidlogger.net
 api.killi.io
+api.kkxsnjd.click
 api.lab.amplitude.com
 api.leanplum.com
 api.lifecircle.app
@@ -10400,7 +10394,6 @@ apk7.biz
 apm.elastic.co
 apm.instana.io
 apollospy.com
-apology.fulqhj.asia
 app-analytics-v2.snapchat.com
 app-analytics.snapchat.com
 app-api.phonedata.me
@@ -10420,7 +10413,6 @@ app.xdspy.app
 app.xyspy.com
 app2.snoopza.com
 appcues.com
-appdata.eastus.cloudapp.azure.com
 appdynamics.com
 appjiagu.com
 application.com
@@ -10601,7 +10593,6 @@ cdn.krux.com
 cdn.leanplum.com
 cdn.liveramp.com
 cdn.logrocket.io
-cdn.nairawaterfall.com
 cdn.onesignal.com
 cdn.opencandy.com
 cdn.optimizely.com
@@ -10609,12 +10600,10 @@ cdn.pendo.io
 cdn.permutive.app
 cdn.ravenjs.com
 cdn.rudderlabs.com
-cdn.sakenlogistics.com
 cdn.segment.com
 cdn.segment.io
 cdn.signalfx.com
 cdn.silverpush.co
-cdn.youlovemybiba.com
 cdn2.gracenote.com
 cdp.mixpanel.com
 cell-phones-tracker.net
@@ -10629,16 +10618,14 @@ celular007.s3.amazonaws.com
 centralwildcats.com
 cerberus-app.com
 cerberusapp.com
-certificazi.one
 cf.hb.adriver.ru
-cfclear.devdesk.workers.dev
 cfmcardaio.it
 chain-resolve.net
 chartbeat.com
 chatlgpt.com
 cheapmovies.sbs
-check.petyamamkinjuk.workers.dev
 check02id.com
+checkyoursecurityfast.com
 chefstablehub.com
 chimneyscrubber.com
 chinatpst.com
@@ -10647,7 +10634,6 @@ chrome-update-required.com
 chromeupdatenow.com
 circana.com
 cisco-appdynamics.com
-citrixplugins.blob.core.windows.net
 cleaningbyme.screenconnect.com
 cleanmymacos.org
 clear.thomsonreuters.com
@@ -10683,7 +10669,6 @@ cluestr.com
 cluniacvexazai.click
 cm.g.doubleclick.net
 cm.quantserve.com
-cmail-geogle.com
 cmd.crwdcntrl.net
 cmp1.s3.filebase.io
 cmp2.s3.filebase.io
@@ -10737,7 +10722,6 @@ cordinex.io
 core.mqtt.iot-prod.xfinity.com
 core.uidapi.com
 coremetrics.com
-coreservicejcp.com
 corn-cob.com
 corvtervsoa-te.xyz
 countly.com
@@ -10815,7 +10799,6 @@ datorama.com
 dawnharbor.cc
 db.spylive360.com
 db8.io
-dbaoi.com
 dc-static.wondershare.cn
 ddiutilities.com
 dealply.com
@@ -10825,7 +10808,6 @@ deepveindrilling.com
 delighted.com
 deltas.samsungads.com
 desktime.com
-desktop-telergram.org
 dev.hoverwatch.com
 dev.snoopza.com
 dev2.refog.com
@@ -10866,11 +10848,7 @@ domenpozh.net
 dotmetrics.net
 downapk.spytoapp.com
 download-files.wixmp.com
-download.sakenlogistics.com
-download.transunionbiba.lat
 download.webwatcherdata.com
-download.youlovemybiba.com
-downloads.nairawaterfall.com
 downloads.refog.com
 drawbridge.com
 drive-surge.com
@@ -10915,7 +10893,6 @@ epsilon.com
 epsilonpeoplecloud.com
 epsilonpersonalizedmedia.com
 equifax.com
-eqvpn.space
 errors.trackjs.com
 eu.api.fpjs.io
 eu.i.posthog.com
@@ -10945,6 +10922,7 @@ facebook.recovery.jisandev.com
 factual.com
 fakeupdate.net
 famous-stroopwafel-edea6e.netlify.app
+fantasticfactoryzu.com
 fast-mob.com
 fast.appcues.com
 fastlane.rubiconproject.com
@@ -10971,6 +10949,7 @@ flexispy.com
 flhealthlicense.vercel.app
 flibbertigibbet.top
 flipkarrt-helu-sale.shop
+flipkarrt-mack-sale.shop
 flixarena.cyou
 flixbaba-offcial.cyou
 flixbeam.cyou
@@ -11110,10 +11089,8 @@ googletagservices.com
 gormandize.top
 gosidefastandpure.com
 gotruemotion.com
-gptverification.com
 gracenote.com
 grafana.net
-gran1xea.xyz
 granitepointmedia.fun
 gravy.ai
 gravyanalytics.com
@@ -11140,13 +11117,11 @@ hcnksadcn.cc
 healthlicensefl.vercel.app
 heap.com
 heapanalytics.com
-hello-world-fancy-mud-57ff.2111857176.workers.dev
 hellospy.com
 help.spylive360.com
 highstermobi.com
 hippocratic.top
 hlk.criteo.com
-hlushkova.top
 homearea.googleapis.com
 homehearthcooks.com
 honeybadger.io
@@ -11293,7 +11268,6 @@ jal-air.spguiapp.com
 jampp.com
 japan-five.top
 jg97xz957ekix.scienceontheweb.net
-jimcooks211.github.io
 jjspy.com
 jjspy.ml
 join-inapp.com
@@ -11355,13 +11329,11 @@ link-flux.com
 link-ledger.at
 linkmob.org
 links.iterable.com
-linksub-4u1.pages.dev
 liveramp.com
 liveramp.net
 livesmeet.us
 livesmeets.us
 lkqd.net
-llsbsnls.suplayer810.workers.dev
 loanfairfield.com
 localytics.com
 locationdata.ai
@@ -11405,7 +11377,6 @@ magicupdate.cfd
 maglook.eu
 mail.mobistealth.com
 mail.spymasterpro.com
-maildeveloper.site
 mamatambiensr-jp.com
 marketing.transunion.com
 maskingofking.xyz
@@ -11465,6 +11436,7 @@ media.ulta.com
 mediagetapp.com
 mediamath.com
 mediasncr.com
+meeshosale.site
 meetgoogle.chat
 megapush.com
 mentaorb.com
@@ -11502,7 +11474,6 @@ minero.cc
 minspy.com
 mintrack.vip
 miricanvas.com
-misuwh.com
 mivaworker.pro
 mixpanel.com
 mlite-app.livekit.cloud
@@ -11589,9 +11560,7 @@ myssologin.com
 mywebsearch.com
 mzpgfh.uhabq9.com
 n.servidor.in
-n1-us-google.com
 n6sm2m.celltracker.io
-nairawaterfall.com
 narrative.io
 nativesdks.mparticle.com
 ncsolutions.com
@@ -11643,6 +11612,7 @@ observer.back4app.io
 occdn.services
 ocmetrics.net
 ocservices.net
+octoberfp.eastus.cloudapp.azure.com
 offercoremedia.com
 offercorestats.com
 office.hw.cab
@@ -11663,14 +11633,12 @@ open-collectors.sumologic.com
 opencamping.shop
 opencandy.com
 openfpcdn.io
-opengraph.vip
 openx.com
 openx.net
 operator-integ.uidapi.com
 ophtalmovisus.com
 optimizely.com
 optout.uidapi.com
-oreshnik.top
 orthb.adtelligent.com
 orthb.pulsepoint.com
 otel.nr-data.net
@@ -11699,7 +11667,6 @@ panspy-1.oss-us-west-1.aliyuncs.com
 panspy.com
 panspy.me
 pawns.app
-payload1717.pro
 pb.yieldlab.net
 pc.backupsoft.eu
 pc.brunoespiao.com.br
@@ -11755,10 +11722,7 @@ plausible.io
 play-store-3bb64.firebaseio.com
 playintegrity.googleapis.com
 plesk.swissrdp.com
-pnalumni.dgitd.anchorbolnorth.com
-pobruog.wiki
 policiacivilmg.com
-policyadvisordesk.info
 politicalsciencestudent.com
 polygon-c2-relay.com
 portal.flexispy.com
@@ -11897,7 +11861,6 @@ protocol.mxspy.com
 protocol.systemserviceprovider.com
 protocol.thetruthspy.com
 proxy-blue.apigw-east.api.dh.comcast.com
-proxy-tg-huafei080.papag8593.workers.dev
 proxy.reptilicus.net
 prozhe.vip
 ps97mailer.logger.mobi
@@ -11983,7 +11946,6 @@ reports.appsee.com
 reproxy.io
 reproxy.net
 reptilicus.net
-restsetestes.com
 retailmedia.homedepot.com
 revealmobile.com
 revenuecat.com
@@ -12046,10 +12008,8 @@ safegraph.com
 safernetwork.io
 safespy.com
 safespy.vip
-sakenlogistics.com
 samba.tv
 sambaanalytics.com
-samehoo229.fun
 samsung.conviva.com
 sanalytics.disneyplus.com
 sandbox97.childsafetytrackerapp.com
@@ -12093,7 +12053,6 @@ search.tb.ask.com
 searchagent.cfd
 searchservice.cfd
 searedrecipes.com
-secdarvin2026.icu
 secondclone-2d312.firebaseio.com
 secure-xdomain-18374.w-group.shop
 secure-xdomain-25359.dashboard-payment.app
@@ -12104,11 +12063,6 @@ secure-xdomain-38084.dashboard-payment.app
 secure-xdomain-50869.w-group.shop
 secure-xdomain-69242.dashboard-payment.app
 secure-xdomain-82343.w-group.shop
-secure-xserver-11523.kurasoo.com
-secure-xserver-25394.kurasoo.com
-secure-xserver-36862.kurasoo.com
-secure-xserver-46955.kurasoo.com
-secure-xserver-89123.kurasoo.com
 secure.adnxs.com
 securebackuponline.net
 securemetrics.apple.com
@@ -12136,7 +12090,6 @@ sentry-product-new.bbrp.co
 sentry.io
 sentrypc.net
 seon.io
-seosolu.com
 servedbyopenx.com
 server.androidmonitor.com
 server.freeandroidspy.com
@@ -12224,7 +12177,6 @@ sncmedia.net
 snoopza.com
 snowplow.io
 snowplowanalytics.com
-sobesmarje.com
 solana-beacon.net
 sovrn.com
 sp.analytics.yahoo.com
@@ -12381,6 +12333,7 @@ sumologic.com
 superfish.com
 support.mtoolapp.biz
 support.phoneparental.com
+supportforpolicycompliance.vercel.app
 surge.bombora.com
 surveygizmobeacon.s3.amazonaws.com
 surveymonkey.com
@@ -12419,13 +12372,8 @@ sync.tapad.com
 sync.xiz4me.com
 synctds.com
 system-reporter.app
-t-me.fluffydaddy.dev
-t-me.nproxy.org
-t-trustrest.com
 t.adjust.com
 t.appsflyer.com
-t.me.combot.top
-t3389.workers.dev
 t4uwm.tik-tok-18.com
 taaeiuep.com
 tag.commander.com
@@ -12441,23 +12389,13 @@ tapad.com
 target.demdex.net
 targeting.foursquare.com
 tb.ask.com
-tchan1.anuj.workers.dev
 tchsrvce.com
 tdos.io
 tea.vexexo.com
 tealiumiq.com
 teamsmeeting.site
 techupdate.cfd
-telega.one
-telegra.loan
-telegram-org.fluffydaddy.dev
-telegram.huye1520.workers.dev
-telegram.mikuwed.workers.dev
-telegramcenter.com
 telegramu.cn
-telegramwk.com
-telegrarm.com
-telegroab.com
 telematicssdk.com
 telemetry.dropbox.com
 telemetry.ecobee.com
@@ -12473,7 +12411,6 @@ telemetry.roborock.com
 telemetry.samsungsmarthome.com
 telemetry.v.dropbox.com
 telemetry.wyze.com
-telgramcn.com
 tempo-prod-04-prod-us-east-0.grafana.net
 tera-home.com
 teramind.co
@@ -12485,14 +12422,7 @@ test.refog.com
 testecollider.foxspy.com.br
 tevxorin-lak294816573.vercel.app
 tfk7r22klf8vtd8g90jq8qno1tpqhmpe.apps.googleusercontent.com
-tg.clcn.workers.dev
-tg.regiuss.space
-tg.t3389.workers.dev
-tg1.photopills.ir
-tgfile.aaan.eu.org
-tglog.iwatch.vip
 thd.cc
-theblock-tg.craigary.workers.dev
 thecanniballazu.com
 thedragonson-jp.com
 thefirmos.com
@@ -12508,7 +12438,6 @@ timedoctor.com
 tispy.net
 tls.telemetry.swe.quicinc.com
 tlx.3lift.com
-tme.telelauncher.com
 tmsapi.com
 tookps.net
 topzaloha.cz
@@ -12579,7 +12508,6 @@ trk.jampp.com
 trkps.com
 truaudience.com
 true-truck-86810.firebaseio.com
-truenorthworks.fun
 truewebmedia.com
 trustbastion.com
 trustdevice.ai
@@ -12701,7 +12629,6 @@ vkur1.se
 voltpay.cfd
 volusialawyer.screenconnect.com
 vscode-extension-update.net
-vwwv-roblox.co
 vys.me
 vyv51.top
 wallet-security-check.net
@@ -12733,7 +12660,6 @@ where-is-my-children.firebase.io
 whiteops.com
 widget.criteo.com
 win10pc.oss-cn-hongkong.aliyuncs.com
-winter-dawn-c288.suplayer810.workers.dev
 winupdate.live
 winzipdriverupdater.com
 wizardexpensive.com
@@ -12814,12 +12740,10 @@ xnspy.com
 xp.apple.com
 xpcpanel.com
 xtracker.logimeter.com
-xzttyt.xyz
 yablochnisok.com
 yandexmetrica.com
 yieldmo.com
 ymetrica1.com
-youlovemybiba.com
 youvibecoding.com
 yummyhomebase.com
 yumrecipebox.com
@@ -12832,9 +12756,7 @@ zendrive.com
 zeotap.com
 zinhoooo.workers.dev
 zion-telemetry.api.cnn.io
-zmngfjl.fun
 zoffry.qpon
 zoomclientus.icu
 zoomwebmeet.icu
 zsxocjarsate.com
-zttrych.icu
