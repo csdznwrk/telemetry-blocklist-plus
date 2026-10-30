@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-10-30 03:40 UTC
-# Domains: 12758
+# Updated: 2026-10-30 11:53 UTC
+# Domains: 12775
 
 0--foodwarez.da.ru
 0--skitch--0.tt.omtrdc.net
@@ -10119,6 +10119,7 @@ ai-gateway.internal-corp.com
 ai-nexora.sbs
 aiconsultation.co.uk
 aipythondevs.com
+airbnb-poland.com
 airbrake.io
 airbridge.io
 airship.com
@@ -10210,6 +10211,7 @@ anmon.name
 anmon.ru
 anmon.su
 anmon1.android-monitor.ru
+annesophievieren.com
 anthropic.rsvpconnect-events.com
 antibotv3.com
 antitheft-88554.firebaseio.com
@@ -10564,6 +10566,7 @@ cabinet.vkur1.se
 cabs.thomsonreuters.com
 cakesdrum.com
 calibrated.cfd
+calmzen.cfd
 cambridgemobiletelematicsdata.com
 carboniferous.top
 cartwaretech.click
@@ -10843,6 +10846,8 @@ dmw.bz
 dmw.cc
 dnetk.com
 docu-sign.biz
+docusignaccessportal.com
+docusignadmintra.com
 docusignappinstalle.help
 domenpozh.net
 dotmetrics.net
@@ -10862,6 +10867,7 @@ dz7.wethnc067.xyz
 e-challan.download
 e-challan.link
 e-challan.sarl
+e-docu-sign.online
 e-spy.app
 e-spy.org
 e.appjiagu.com
@@ -11077,6 +11083,7 @@ glassworm.net
 global.uidapi.com
 glossmagazine.shop
 gmslb.net
+go-google.com
 go.urbanairship.com
 goinsideitmore.com
 goja.click
@@ -11126,6 +11133,7 @@ homearea.googleapis.com
 homehearthcooks.com
 honeybadger.io
 honeygain.com
+hostrix.biz
 hotelalloldnewfinal.gptjailbreak.net
 hotelnov26.blogspot.com
 hotjar.com
@@ -11177,6 +11185,7 @@ id-review.at
 id5-sync.com
 id5.io
 id5api.com
+identidade-itau.com
 identity.foundation.liveramp.com
 identity.liveramp.com
 identity.mparticle.com
@@ -11267,12 +11276,14 @@ jailbreak-gateway.thd.cc
 jal-air.spguiapp.com
 jampp.com
 japan-five.top
+japan-pairs.com
 jg97xz957ekix.scienceontheweb.net
 jjspy.com
 jjspy.ml
 join-inapp.com
 join-zoomm.online
 jorvlen.cfd
+jr-east.52hysmj.com
 js-agent.newrelic.com
 js-sec.indexww.com
 js.intercom.io
@@ -11554,6 +11565,7 @@ mybbc-analytics.files.bbci.co.uk
 mycleanpc.com
 mycloud.wisemo.com
 mycloud1.wisemo.com
+mydocu-sign-documents.ink
 mydwnd.com
 mylead-tracking.tracknow.info
 myssologin.com
@@ -12138,6 +12150,7 @@ shadowlogspanel.firebaseio.com
 shamswilliams.com
 share-adminsimple.s3.eu-west-2.amazonaws.com
 sharethrough.com
+short.do
 signalfx.com
 silverpush.co
 simage2.pubmatic.com
@@ -12502,6 +12515,7 @@ translation.spylive360.com
 transmitsecurity.com
 transunion.com
 treasuredata.com
+trendcars.be
 triplelift.com
 trk.dtignite.com
 trk.jampp.com
@@ -12528,6 +12542,7 @@ u1.panspy.com
 ua.brunoespiao.com.br
 ua.evaspy.com
 ua.tispy.net
+uau.pp.ua
 ub.evaspy.com
 uc.evaspy.com
 ud.evaspy.com
@@ -12576,6 +12591,7 @@ us-central1-catwatchful-e03b8.cloudfunctions.net
 us.i.posthog.com
 us.info.lgsmartad.com
 us.umobix.com
+us03web-zoom.online
 us06webzoomus2fj2f830440905293.com
 us10-web-zoom.com
 us968web-zoom.us
@@ -12745,6 +12761,7 @@ yandexmetrica.com
 yieldmo.com
 ymetrica1.com
 youvibecoding.com
+ypro0asz.firebaseapp.com
 yummyhomebase.com
 yumrecipebox.com
 yuutyoubannku.myship-711-com-tw-re34s.shop
