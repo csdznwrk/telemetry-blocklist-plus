@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-10-30 13:04 UTC
-# Domains: 13194
+# Updated: 2026-10-30 13:15 UTC
+# Domains: 13261
 
 0--foodwarez.da.ru
 0--skitch--0.tt.omtrdc.net
@@ -10044,6 +10044,8 @@ a71f4.firebaseio.com
 aa-metrics.beauty.hotpepper.jp
 aa-metrics.recruit-card.jp
 aa-metrics.trip-ai.jp
+aax-eu.amazon-adsystem.com
+aax-fe-sin.amazon-adsystem.com
 aax-us-east.amazon-adsystem.com
 aax.amazon-adsystem.com
 abacusfederal.sbs
@@ -10065,9 +10067,11 @@ acoustic.com
 acr-us-prd.samsungcloud.tv
 acr.conviva.com
 acr.unruly.co
+action.metaffiliation.com
 actioniq.com
 activtrak.com
 acxjixsd.ltd
+ad.ad-stir.com
 ad.centrum.cz
 ad.crwdcntrl.net
 ad.doubleclick.net
@@ -10090,6 +10094,7 @@ admin.mtrtb.com
 ads-game-187f4.firebaseapp.com
 ads-impressions.com
 ads-monitor.xyz
+ads.aerserv.com
 ads.amazon.com
 ads.bestbuy.com
 ads.gopuff.com
@@ -10101,9 +10106,11 @@ ads.samsungads.com
 ads.target.com
 ads.vervegroup.com
 adsdatahub.google.com
+adserver.bluestack.app
 adserver.irishwebmasterforum.com
 adservice.google.com
 adsmartracker.com
+adsmetadata.startappservice.com
 adsquare.com
 adsterra.com
 adtimizer.co
@@ -10118,6 +10125,7 @@ advertising.kroger.com
 advertising.walgreens.com
 advertising.walmart.com
 advertracker.com
+adx.opera.com
 adx.petal-ads.com
 affiliatetracking.com
 affiliatetracking.net
@@ -10268,7 +10276,9 @@ api.atatus.com
 api.awarenesstechnologies.com
 api.babelstreet.com
 api.bidmachine.io
+api.bidon.org
 api.biocatch.com
+api.bluecats.com
 api.blueconic.com
 api.bytepioner.com
 api.castle.io
@@ -10285,13 +10295,16 @@ api.crashlytics.com
 api.customer.io
 api.damoov.com
 api.datadoghq.com
+api.datashim.com
 api.delighted.com
 api.desktime.com
 api.deviceatlas.com
 api.embrace.io
 api.eu.amplitude.com
+api.eu.getblueshift.com
 api.eyezy.com
 api.factual.com
+api.feedad.com
 api.findmykids.org
 api.flexispy.com
 api.flurry.com
@@ -10299,6 +10312,7 @@ api.foursquare.com
 api.fpjs.io
 api.fpjs.pro
 api.free-spy.com
+api.getblueshift.com
 api.glassbox.com
 api.gravyanalytics.com
 api.groundtruth.com
@@ -10310,6 +10324,7 @@ api.honeygain.com
 api.hotjar.com
 api.hubstaff.com
 api.human.security
+api.huqindustries.co.uk
 api.id5-sync.com
 api.igexin.com
 api.ikeymonitor.com
@@ -10320,9 +10335,11 @@ api.insightful.io
 api.instabug.com
 api.intercom.io
 api.iterable.com
+api.keen.io
 api.kidlogger.net
 api.killi.io
 api.kkxsnjd.click
+api.kontakt.io
 api.lab.amplitude.com
 api.leanplum.com
 api.lifecircle.app
@@ -10334,6 +10351,7 @@ api.mobilebackup.biz
 api.mobilespy.at
 api.mobilewalla.com
 api.monitask.com
+api.mossturbo.com
 api.mspy.com
 api.mycellspy.com
 api.narrative.io
@@ -10344,10 +10362,12 @@ api.ogymogy.com
 api.onesignal.com
 api.packetstream.io
 api.permutive.com
+api.proximi.fi
 api.pubnative.net
 api.push.amazon.com
 api.pushwoosh.com
 api.quantummetric.com
+api.radar.io
 api.raygun.com
 api.reimage.com
 api.remerge.io
@@ -10358,6 +10378,7 @@ api.rudderstack.com
 api.safegraph.com
 api.samba.tv
 api.sardine.ai
+api.sdk.echo-analytics.org
 api.segment.io
 api.seniorsafetyapp.com
 api.sense360.com
@@ -10373,6 +10394,7 @@ api.spyrix.com
 api.stalkerware.app
 api.statsig.com
 api.swrve.com
+api.taboola.com
 api.talkingdata.com
 api.tamoco.com
 api.telematicssdk.com
@@ -10399,6 +10421,7 @@ api.vizio.com
 api.webengage.com
 api.wurfl.io
 api.xmode.io
+api.xtremepush.com
 api.zendrive.com
 api007.foxspy.com.br
 api1.easydoc.info
@@ -10450,10 +10473,12 @@ appnexus.com
 appreciateapp.com
 apprtc.appspot.com
 appsee.com
+appserver.vidint.net
 appsflyer.com
 appspy-net.firebaseio.com
 appspy.net
 appsumer.com
+apptrk.a4.tl
 apricotfilepoint.com
 aps12.spyhuman.com
 aps13.spyhuman.com
@@ -10580,6 +10605,7 @@ blacklivesmatters.info
 blockc2.io
 blockroster.net
 blog.ikeymonitor.com
+bluecatswebapistage.apphb.com
 blueconic.com
 blurspy.com
 bombora.com
@@ -10741,6 +10767,7 @@ clientsdk.launchdarkly.com
 cloamenastraone.click
 clocktok.cfd
 closetmeat.com
+cloud-api.sensoro.com
 cloud.51degrees.com
 cloud.antibotv3.com
 cloud.teramind.co
@@ -10755,6 +10782,7 @@ clues4.com
 cluestr.com
 cluniacvexazai.click
 cm.g.doubleclick.net
+cm.publishers.advertising.a2z.com
 cm.quantserve.com
 cmd.crwdcntrl.net
 cmp1.s3.filebase.io
@@ -10788,6 +10816,7 @@ collect.cuebiq.com
 collect.medallia.com
 collect.tealiumiq.com
 collect.veriato.com
+collector.pyze.com
 collectors.sumologic.com
 collider.foxspy.com.br
 colorpallatess.com
@@ -10840,6 +10869,7 @@ cp.thewispy.com
 cpanel.spymasterpro.com
 cpcalendars.spymasterpro.com
 cpcontacts.spymasterpro.com
+cpn.netcoresmartech.com
 cranberrybear.com
 crash-telemetry.net
 crash-upload.newrelic.com
@@ -10877,6 +10907,7 @@ d.appjiagu.com
 d.castle.io
 d.corn-cob.com
 d.d-app-apk.com
+d.socdm.com
 d.tispy.net
 d1.panspy.com
 d147nolwbekx2b.cloudfront.net
@@ -10976,7 +11007,9 @@ discovertech-alb-100966113.us-east-1.elb.amazonaws.com
 discovertech.us.auth0.com
 disenthral.top
 disp2.mrec24.com
+dispatcher.bluestack.app
 dispatcher.mrecorder.com
+display.io
 distractionfar.com
 districtm.ca
 djp.bz
@@ -11014,6 +11047,7 @@ drummerjourney.com
 dtech.adtimizer.co
 dtech.adtimizer.com
 dtech.mtrtb.com
+dtn.nodle.io
 dumplingbell.com
 dw-arabic.com
 dwn.vys.me
@@ -11062,6 +11096,7 @@ epsilonpeoplecloud.com
 epsilonpersonalizedmedia.com
 equifax.com
 errors.trackjs.com
+ett.eulerian.net
 eu.api.fpjs.io
 eu.i.posthog.com
 euid.eu
@@ -11264,6 +11299,7 @@ fullstory.com
 fullwork3e4.gamer.free
 funcaptcha.com
 funmoodsearch.com
+g-pb.silvermob.com
 g.appjiagu.com
 gadgetcandyzu.com
 gamedb.shop
@@ -11339,6 +11375,7 @@ heap.com
 heapanalytics.com
 hellospy.com
 help.spylive360.com
+herokuapp.appodeal.com
 hetq.org
 highstermobi.com
 hilocake.info
@@ -11400,6 +11437,7 @@ i7.clientreport.info
 i8.clientreport.info
 i9.clientreport.info
 iad.saasgw.appdynamics.com
+ib.adnxs-simple.com
 ib.adnxs.com
 icecreamtester.com
 icloudappe.com
@@ -11431,6 +11469,7 @@ imp.powerium.net
 in-echallan.win
 in.treasuredata.com
 inappevent.appsflyer.com
+inapps.appsflyersdk.com
 incognia.com
 incoming-telemetry.thunderbird.net
 incoming.telemetry.mozilla.org
@@ -11441,6 +11480,7 @@ info-taxi.info
 info.lgsmartad.com
 infoacxiom.com
 infoanalytics.live
+infoevent.startappservice.com
 infores.com
 infosum.com
 infosum.net
@@ -11481,6 +11521,7 @@ interacty.me
 intercom-clicks.com
 intercom.io
 interguard.com
+inv-nets-eu.admixer.net
 inv.logger.mobi
 ioi.life
 ios-gw.spynger.net
@@ -11597,6 +11638,7 @@ linkmob.org
 links.iterable.com
 lioiamcount.com
 liokida.com
+live3.eu.steerpath.net
 liveramp.com
 liveramp.net
 livesesion.bid
@@ -11628,6 +11670,7 @@ logs-prod-us-central1.grafana.net
 logs.activtrak.com
 logs.browser-intake-datadoghq.com
 logs.roborock.com
+logs.starbolt.io
 logs.uvexio.com
 logx.optimizely.com
 lookup-lgr.to
@@ -11725,6 +11768,7 @@ media.ulta.com
 mediagetapp.com
 mediamath.com
 mediasncr.com
+mediation.adnxs.com
 medica-tradefair.co
 meeshosale.site
 meetgoogle.chat
@@ -11736,6 +11780,7 @@ messages01.smstracker.com
 messages02.smstracker.com
 metabase.spylive360.com
 metastealer.org
+metricreceiver.cellrebel.com
 metrics-a.wbx2.com
 metrics-logger.spot.im
 metrics.api.drift.com
@@ -11749,6 +11794,8 @@ metrics.govexec.com
 metrics.icloud.com
 metrics.mzstatic.com
 mflx.biz
+mfx-track.mobilefuse.com
+mfx.mobilefuse.com
 mg-spyzie.oss-us-west-1.aliyuncs.com
 mi.thd.cc
 miao.wondershare.cn
@@ -11829,6 +11876,7 @@ my.hws.icu
 my.ispyoo.com
 my.jjspy.com
 my.kidsecured.com
+my.mobfox.com
 my.mobiletool.ru
 my.mobispy.net
 my.mrec24.com
@@ -12082,6 +12130,7 @@ predicio.com
 predictivenomics.com
 predictproper.com
 pregnantkha-jp.com
+preprodapptrk.a4.tl
 press-f12-continue.com
 pressaviation.com
 prmtracking.com
@@ -12208,6 +12257,7 @@ psd.markets
 psznaoehteeh.com
 pub-3f84de9aa4f04824a3cf79d4adea59cb.r2.dev
 pub-493f78e882da461f9f7b36234703f59b.r2.dev
+pub.tappx.com
 publicismedia.com
 pubmatic.com
 pubnative.net
@@ -12296,6 +12346,7 @@ reports.appsee.com
 reproxy.io
 reproxy.net
 reptilicus.net
+res.adx.opera.com
 retailmedia.homedepot.com
 revealmobile.com
 revenuecat.com
@@ -12344,6 +12395,7 @@ rum-ingest.us1.signalfx.com
 rum.aliyuncs.com
 rum.browser-intake-datadoghq.com
 runaki-support.appspot.com
+s.adx.opera.com
 s.amazon-adsystem.com
 s.appjiagu.com
 s.servidor.in
@@ -12387,6 +12439,9 @@ scorecardresearch.com
 scoreparade.com
 screentimelabs.appspot.com
 scribe.logs.roku.com
+sdk-b.apptornado.com
+sdk.appbrain.com
+sdk.applause.com
 sdk.embrace.io
 sdk.fra-01.braze.eu
 sdk.fra-02.braze.eu
@@ -12402,6 +12457,7 @@ sdk.netnut.io
 sdk.outlogic.io
 sdk.revenuecat.com
 sdk.split.io
+sdk.starbolt.io
 sdk.x-mode.io
 sdk.zeotap.com
 sdkhub.com
@@ -12450,6 +12506,7 @@ sentrypc.net
 seon.io
 servedbyopenx.com
 server.androidmonitor.com
+server.bidstack.com
 server.freeandroidspy.com
 service-deamon.com
 service.n.weiguanai.cn
@@ -12556,6 +12613,8 @@ sp30ct-vadex-biz-qanik-rumol.pages.dev
 spappmonitoring.com
 spc-runtimes.s3.amazonaws.com
 spigot.com
+spiky.clevertap-prod.com
+spiky.wzrkt.com
 spinbox.techtracker.com
 spinbox.versiontracker.com
 split.io
@@ -12757,6 +12816,8 @@ synctds.com
 system-reporter.app
 t.adjust.com
 t.appsflyer.com
+t.mplxtms.com
+t.visx.net
 t4uwm.tik-tok-18.com
 taaeiuep.com
 tacticscheap.net
@@ -12843,6 +12904,7 @@ total-slovenia-news.net
 towerdata.com
 tpab7.com
 tpc.googlesyndication.com
+tr.ad-stir.com
 tr.appmia.com
 traccar-client-app.firebaseio.com
 traccar.org
@@ -12863,6 +12925,7 @@ trackier.vip
 trackine.vip
 tracking-smartphone.firebaseio.com
 tracking.adstrategysites.com
+tracking.appmetrica.yandex.net
 tracking.casheddy.com
 tracking.cybertips.uk
 tracking.epicgames.com
@@ -12881,6 +12944,7 @@ tracking.mspyonline.com
 tracking.netalerts.io
 tracking.olx-st.com
 tracking.orixa-media.com
+tracking.reserve.appmetrica.yandex.net
 tracking.wetter.at
 tracking01.walmart.com
 tracking101.com
@@ -12907,6 +12971,7 @@ trendcars.be
 triplelift.com
 trk.dtignite.com
 trk.jampp.com
+trk.preprod.netav3.c2bdev.net
 trkps.com
 truaudience.com
 true-truck-86810.firebaseio.com
@@ -12962,6 +13027,7 @@ un.evaspy.com
 unacast.com
 unagi.amazon.com
 unidentifiedanalytics.web.app
+unifiedcollector.pyze.com
 unisafe-a342f.firebaseio.com
 unitstrust.click
 unknowntool.shop
@@ -13007,6 +13073,7 @@ uu01webzoom.us
 uu03webzoom.us
 uxcam.com
 v4vw4ytvo4.execute-api.us-east-2.amazonaws.com
+validate.appsflyersdk.com
 varenie.live
 vars.hotjar.com
 velvetpremier.com
