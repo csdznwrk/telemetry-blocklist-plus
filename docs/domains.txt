@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-10-31 03:24 UTC
-# Domains: 13121
+# Updated: 2026-10-31 11:27 UTC
+# Domains: 13128
 
 0--foodwarez.da.ru
 0--skitch--0.tt.omtrdc.net
@@ -10597,6 +10597,7 @@ binance-com-nk.refers.workers.dev
 bincdi.6kvses.com
 bincdi.birxpk.com
 biocatch.com
+birch-nuiis-d9q37.xyz
 birxpk.com
 bit-ly.site
 bitly.bz
@@ -10665,6 +10666,7 @@ cabinet.vegosm.ru
 cabinet.vkur.se
 cabinet.vkur1.se
 cabs.thomsonreuters.com
+cachedpage-jp.com
 cakesdrum.com
 calibrated.cfd
 calmbase.org
@@ -11226,6 +11228,7 @@ gamedb.shop
 gateway-ink.amazon.com
 gcdsdk.appsflyer.com
 gelora.org
+gemini-alarmes.com
 genderconference.org
 generator-qrcode.online
 get.snoopza.com
@@ -11257,6 +11260,7 @@ googletagservices.com
 googlplay.store
 gormandize.top
 gotruemotion.com
+grabola.cfd
 gracenote.com
 grafana.net
 granitepointmedia.fun
@@ -13084,6 +13088,7 @@ x.pgv4.com
 x1panel.com
 xad.com
 xboxtelemetry-defender.cc
+xfinity-145t.square.site
 xiksjha.cc
 xl.goja.click
 xl.radwantest.click
@@ -13121,5 +13126,7 @@ zinhoooo.workers.dev
 zion-telemetry.api.cnn.io
 zoffry.qpon
 zoomclientus.icu
+zoommeeting.click
+zoommeetingconnect.click
 zoomwebmeet.icu
 zsxocjarsate.com
