@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-10-31 16:33 UTC
-# Domains: 13131
+# Updated: 2026-10-31 20:48 UTC
+# Domains: 13128
 
 0--foodwarez.da.ru
 0--skitch--0.tt.omtrdc.net
@@ -10057,7 +10057,6 @@ account-booking.vercel.app
 account.cellphone-remote-tracker.com
 account.childsafetytrackerapp.com
 account.logger.mobi
-account.payoneer.com
 account.refog.com
 account.trackerplus.ru
 accounts.wondershare.cn
@@ -10143,7 +10142,6 @@ agent.veriato.com
 ahutn0lm.onlinewebshop.net
 ai-gateway.internal-corp.com
 ai-nexora.sbs
-aiconsultation.co.uk
 aipythondevs.com
 airbnb-poland.com
 airbrake.io
@@ -11037,7 +11035,6 @@ domenpozh.net
 dotmetrics.net
 doubleclick.ac
 downapk.spytoapp.com
-download-files.wixmp.com
 download.webwatcherdata.com
 downloads.refog.com
 drawbridge.com
@@ -11051,6 +11048,7 @@ droimon20.ru
 drpbx-update.net
 druid.mtrtb.com
 drummerjourney.com
+dtb-bank.pages.dev
 dtech.adtimizer.co
 dtech.adtimizer.com
 dtech.mtrtb.com
@@ -11283,6 +11281,7 @@ guestspy.com
 guitarcalculate.com
 gum.criteo.com
 gw.api.dh.comcast.com
+gwkinvestmicrosoftteams.com
 h.appjiagu.com
 h.audigent.com
 h.online-metrix.net
@@ -11738,7 +11737,6 @@ minero.cc
 minspy.com
 minstagram.net
 mintrack.vip
-miricanvas.com
 mivaworker.pro
 mixpanel.com
 mlite-app.livekit.cloud
@@ -11766,8 +11764,6 @@ mobiletool.ru
 mobiletracking.appsflyer.com
 mobilewalla.com
 moengage.com
-moneyhub-cebicuzotoy.click
-moneyhub-juzozohagid.click
 monitask.com
 monitor-android.android-monitor.ru
 monitor-ultra.com
@@ -12484,7 +12480,6 @@ shadow-logs.com
 shadow-spy.com
 shadowappbundle-default-rtdb.firebaseio.com
 shadowlogspanel.firebaseio.com
-shamswilliams.com
 shareitwork.com
 sharethere.net
 sharethrough.com
@@ -12535,6 +12530,7 @@ sncmedia.net
 snoopza.com
 snowplow.io
 snowplowanalytics.com
+sofel.site
 solana-beacon.net
 somelitersofblood.pw
 sovrn.com
@@ -12977,6 +12973,7 @@ vkur1.se
 volasim.com
 voltpay.cfd
 volusialawyer.screenconnect.com
+vpnaegis2.site
 vscode-extension-update.net
 vys.me
 vyv51.top
