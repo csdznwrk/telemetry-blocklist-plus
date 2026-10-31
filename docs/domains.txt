@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-10-31 11:27 UTC
-# Domains: 13128
+# Updated: 2026-10-31 16:33 UTC
+# Domains: 13131
 
 0--foodwarez.da.ru
 0--skitch--0.tt.omtrdc.net
@@ -11014,6 +11014,7 @@ disp2.mrec24.com
 dispatcher.bluestack.app
 dispatcher.mrecorder.com
 display.io
+distenel.site
 distractionfar.com
 districtm.ca
 djp.bz
@@ -11625,6 +11626,7 @@ mads.amazon.com
 mads.freewheel.tv
 magicupdate.cfd
 maglook.eu
+mail-googleaccounts-verification.uw.ua
 mail.mobistealth.com
 mail.spymasterpro.com
 mamatambiensr-jp.com
@@ -12213,6 +12215,7 @@ qakbot-update.com
 qakbot.net
 qbot-c2.net
 qdxz4578.hkg.bcebos.com
+qihangweiye.com
 quanly24h.net
 quantcount.com
 quantserve.com
