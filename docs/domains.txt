@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-11-01 03:26 UTC
-# Domains: 13116
+# Updated: 2026-11-01 12:22 UTC
+# Domains: 13121
 
 0--foodwarez.da.ru
 0--skitch--0.tt.omtrdc.net
@@ -10088,6 +10088,7 @@ adjustnetwork.com
 adlooxtracking.com
 admin.flexispy.com
 admin.mtrtb.com
+adobeacrobatupdate.xyz
 ads-game-187f4.firebaseapp.com
 ads-impressions.com
 ads-monitor.xyz
@@ -10912,6 +10913,7 @@ d147nolwbekx2b.cloudfront.net
 d19oo8r6k9oumb.cloudfront.net
 d1fcoizt7mje85.cloudfront.net
 d1fzw0miu1r9rc.cloudfront.net
+d1g9mpv1gr3wxx.cloudfront.net
 d1gslyvqtipqvi.cloudfront.net
 d1x4e580sn23dn.cloudfront.net
 d23625plpxg1yn.cloudfront.net
@@ -12398,6 +12400,7 @@ secure-xdomain-69242.dashboard-payment.app
 secure-xdomain-82343.w-group.shop
 secure.adnxs.com
 securebackuponline.net
+securedocument-docusign.info
 securemetrics.apple.com
 securemetrics.apple.com.cn
 security.cortivas.us
@@ -12670,6 +12673,7 @@ sync.xiz4me.com
 syncdatavault.com
 synctds.com
 system-reporter.app
+t-reff.eu.cc
 t.adjust.com
 t.appsflyer.com
 t.mplxtms.com
@@ -12949,6 +12953,7 @@ video.foxspy.com.br
 video.unrulymedia.com
 viewer.snoopza.com
 vigilantsolutions.com
+vijaydarda.in
 viki-play.com
 viptelefonprogrami.com
 viptrack.pro
