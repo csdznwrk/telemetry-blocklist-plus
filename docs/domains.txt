@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-10-31 20:48 UTC
-# Domains: 13128
+# Updated: 2026-11-01 03:26 UTC
+# Domains: 13116
 
 0--foodwarez.da.ru
 0--skitch--0.tt.omtrdc.net
@@ -10061,7 +10061,6 @@ account.refog.com
 account.trackerplus.ru
 accounts.wondershare.cn
 acdn.adnxs.com
-acounts-google.duckdns.org
 acoustic.com
 acr-us-prd.samsungcloud.tv
 acr.conviva.com
@@ -10081,7 +10080,6 @@ ad.yieldmo.com
 adblockanalytics.com
 adbrix.io
 additionalver.com
-addsecureapps.com
 addthis.events
 adetracking.com
 adikteev.com
@@ -10139,7 +10137,6 @@ agent.kickidler.com
 agent.teramind.co
 agent.timedoctor.com
 agent.veriato.com
-ahutn0lm.onlinewebshop.net
 ai-gateway.internal-corp.com
 ai-nexora.sbs
 aipythondevs.com
@@ -10156,6 +10153,7 @@ alert.bk128.com
 alert.xiz4me.com
 alex.a2z.com
 alexaresponse.amazon.com
+alfrescoarcd-jp.com
 ali.panspy.com
 all-imager-hst.click
 all-tracker.appspot.com
@@ -10432,7 +10430,6 @@ apigrokcloud.icu
 apis.mediamathapis.com
 apispyhuman.com
 apitest.awarenesstechnologies.com
-apiupdated.com
 apiv4.alter757.info
 apk.mtf.re
 apk01.spytoapp.com
@@ -10538,6 +10535,7 @@ avazutracking.net
 awamisolution.com
 awsapi.io
 axe-net.com
+azorade.top
 azurenetfiles.net
 b.appjiagu.com
 b.infosum.net
@@ -10748,7 +10746,6 @@ citecivilization.com
 claudecodedoc.squarespace.com
 cleanmymacos.org
 clear.thomsonreuters.com
-clearer.kesug.com
 clearfake.net
 clevertap.com
 clevguard.com
@@ -11251,7 +11248,6 @@ goatsandals.com
 goja.click
 golfconcert.com
 google-analytics.com
-google.workspacedoc.com
 googleanalytics.com
 googlemeeeeet.live
 googletagmanager.com
@@ -11295,6 +11291,7 @@ hdfdsi84j3h.top
 healthlicensefl.vercel.app
 heap.com
 heapanalytics.com
+heleket.com
 hellospy.com
 help.spylive360.com
 herokuapp.appodeal.com
@@ -11428,8 +11425,6 @@ insights.hotjar.com
 insinght.site
 instabug.com
 instacart.com
-instagram-verifica.freemyip.com
-instagram.82.165.110.7.backname.io
 instagrarn.co
 install.branch.io
 install.mspy.com
@@ -11470,7 +11465,6 @@ jal-air.spguiapp.com
 jampp.com
 japan-pairs.com
 jellybat.net
-jg97xz957ekix.scienceontheweb.net
 jjspy.com
 jjspy.ml
 jobmarcher.com
@@ -11478,7 +11472,6 @@ johnshopkin.net
 joi-user-res.oss-us-west-1.aliyuncs.com
 join-inapp.com
 join-zoomm.online
-jorvlen.cfd
 journeyjest.net
 jr-east.52hysmj.com
 js-agent.newrelic.com
@@ -12288,8 +12281,6 @@ rmm.cloakguard.org
 rmwjb.com
 rn-a-g-a-z-i-n-promocoes.com
 rncdn1.com
-rne1sf2u.onlinewebshop.net
-robiox.com.af
 rockalab.com
 rockermoviezu.com
 roku.conviva.com
@@ -12683,7 +12674,6 @@ t.adjust.com
 t.appsflyer.com
 t.mplxtms.com
 t.visx.net
-t4uwm.tik-tok-18.com
 taaeiuep.com
 tacticscheap.net
 tag.commander.com
@@ -12735,7 +12725,6 @@ test.androidlost.com
 test.onetouchsecurities.com
 test.refog.com
 testecollider.foxspy.com.br
-tevxorin-lak294816573.vercel.app
 tfk7r22klf8vtd8g90jq8qno1tpqhmpe.apps.googleusercontent.com
 thd.cc
 thecanniballazu.com
@@ -13018,7 +13007,6 @@ windomination.com
 winmslaf.xyz
 winupdate.live
 winzipdriverupdater.com
-wizardexpensive.com
 wmdcommander.appspot.com
 wmt.com
 womanstudies.co
@@ -13096,7 +13084,6 @@ xmode.io
 xmrig.com
 xmyevq.birxpk.com
 xn--smarktt-y0a.net
-xncdvoghw.wuaze.com
 xnore.com
 xnspy.com
 xp.apple.com
@@ -13104,6 +13091,7 @@ xpcpanel.com
 xtracker.logimeter.com
 yablochnisok.com
 yandexmetrica.com
+ycfhfm.com
 yektenet.com
 yeni-safak.com
 yieldmo.com
