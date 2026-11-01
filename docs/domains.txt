@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-11-01 12:22 UTC
-# Domains: 13121
+# Updated: 2026-11-01 21:30 UTC
+# Domains: 13137
 
 0--foodwarez.da.ru
 0--skitch--0.tt.omtrdc.net
@@ -10088,6 +10088,7 @@ adjustnetwork.com
 adlooxtracking.com
 admin.flexispy.com
 admin.mtrtb.com
+adobe.parterro.com
 adobeacrobatupdate.xyz
 ads-game-187f4.firebaseapp.com
 ads-impressions.com
@@ -10519,6 +10520,7 @@ atomicstealer.com
 ats.rlcdn.com
 au-club.top
 audigent.com
+auditormadrid.es
 auracorp.cfd
 auracorp.shop
 auramatrixa.com
@@ -11229,6 +11231,7 @@ gelora.org
 gemini-alarmes.com
 genderconference.org
 generator-qrcode.online
+geoogle.top
 get.snoopza.com
 getfeedback.com
 getfile.centreomega.ca
@@ -11249,6 +11252,7 @@ go.urbanairship.com
 goatsandals.com
 goja.click
 golfconcert.com
+googie-chrome.top
 google-analytics.com
 googleanalytics.com
 googlemeeeeet.live
@@ -11492,6 +11496,7 @@ kenoratravels.com
 kethvion.cfd
 key-logger-90fff.firebaseio.com
 keyadapter.com
+keychainagent.pro
 keylogger-pro-us.imonitorsoft.com
 keylogger-software-org.imonitorsoft.com
 kickidler.com
@@ -11542,6 +11547,7 @@ leanplum.com
 lemonfilewave.com
 lenovo-setup.tk
 lessonhandle.com
+lestvnas.icu
 letmespy.com
 lever-analytics.com
 lg.conviva.com
@@ -11763,6 +11769,7 @@ monitask.com
 monitor-android.android-monitor.ru
 monitor-ultra.com
 motorolasolutions.com
+movecogi.z16.web.core.windows.net
 mparticle.com
 mpmetrics.kochava.com
 mpsnare.com
@@ -11776,6 +11783,7 @@ mspy.com
 mspyonline.com
 mspytrackercom.alter757.info
 msstore.io
+msteamsoss.top
 mtechn.zendesk.com
 mtf.re
 mtoolapp.biz
@@ -12271,6 +12279,7 @@ reproxy.io
 reproxy.net
 reptilicus.net
 res.adx.opera.com
+res65.traffer.net
 retailmedia.homedepot.com
 revealmobile.com
 revenuecat.com
@@ -12396,8 +12405,13 @@ secure-xdomain-27095.w-group.shop
 secure-xdomain-32259.w-group.shop
 secure-xdomain-38084.dashboard-payment.app
 secure-xdomain-50869.w-group.shop
+secure-xdomain-55493.w-group.shop
 secure-xdomain-69242.dashboard-payment.app
+secure-xdomain-69342.w-group.shop
+secure-xdomain-71481.w-group.shop
 secure-xdomain-82343.w-group.shop
+secure-xdomain-88755.w-group.shop
+secure-xdomain-92411.w-group.shop
 secure.adnxs.com
 securebackuponline.net
 securedocument-docusign.info
@@ -12697,6 +12711,7 @@ tchsrvce.com
 tdos.io
 tea.vexexo.com
 tealiumiq.com
+teamsosl123.oss-cn-hongkong.aliyuncs.com
 techupdate.cfd
 tehrantimes.org
 tekma-dmp.ai
@@ -12817,6 +12832,7 @@ tracksp-7743c.firebaseio.com
 tracksp.in
 trackview.net
 tracookiepixel.xyz
+traffer.net
 traffic.iproyal.com
 traffictds.com
 translation.spylive360.com
