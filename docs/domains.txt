@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-11-01 21:30 UTC
-# Domains: 13137
+# Updated: 2026-11-02 03:35 UTC
+# Domains: 13093
 
 0--foodwarez.da.ru
 0--skitch--0.tt.omtrdc.net
@@ -10002,13 +10002,11 @@
 042fd4a295419af8.com
 042gmail.com
 042vip.com
-0c7057.wjpeso-ph.net
 12d60.appspot.com
 12d60.firebaseio.com
 13-5.org
 13-5.ru
 16.fp.us.acr.unruly.co
-181818data1.icu
 1960.ef4x.com
 1ca43.appspot.com
 1topspy.com
@@ -10068,7 +10066,6 @@ acr.unruly.co
 action.metaffiliation.com
 actioniq.com
 activtrak.com
-acxjixsd.ltd
 ad.ad-stir.com
 ad.centrum.cz
 ad.crwdcntrl.net
@@ -10139,7 +10136,6 @@ agent.kickidler.com
 agent.teramind.co
 agent.timedoctor.com
 agent.veriato.com
-ai-gateway.internal-corp.com
 ai-nexora.sbs
 aipythondevs.com
 airbnb-poland.com
@@ -10160,6 +10156,7 @@ ali.panspy.com
 all-imager-hst.click
 all-tracker.appspot.com
 all-tracker.firebaseio.com
+allegro.ur372h9.buzz
 allegrolokalnie.aukcja865637302.cfd
 allownotification.net
 allowpush.net
@@ -10355,7 +10352,6 @@ api.mspy.com
 api.mycellspy.com
 api.narrative.io
 api.near.co
-api.newenterpr1se.lat
 api.nielseniq.com
 api.ogymogy.com
 api.onesignal.com
@@ -10735,9 +10731,7 @@ cheapmovies.sbs
 check02id.com
 checkmyimp.com
 checkyoursecurityfast.com
-chefstablehub.com
 chickenstrawberry.com
-chimneyscrubber.com
 chinatpst.com
 choclatey.org
 chondritic.top
@@ -10787,8 +10781,6 @@ cm.g.doubleclick.net
 cm.publishers.advertising.a2z.com
 cm.quantserve.com
 cmd.crwdcntrl.net
-cmp1.s3.filebase.io
-cmp2.s3.filebase.io
 cms.krux.com
 cmtelematics.com
 cn.druid.mtrtb.com
@@ -10927,7 +10919,6 @@ d39619tdxn6mhj.cloudfront.net
 d3g4zswpacwtfb.cloudfront.net
 d8lmy5wyiokrq.cloudfront.net
 dahieenloo.com
-dailychefrecipe.com
 damageconsider.com
 damoov.com
 dasdasdikasjdas.click
@@ -10958,7 +10949,6 @@ dataform.googleapis.com
 datanalytic.org
 dataplane.rudderstack.com
 datorama.com
-dawnharbor.cc
 db-control-uplink.com
 db.spylive360.com
 db8.io
@@ -11027,7 +11017,6 @@ dmw.bz
 dmw.cc
 dnetk.com
 dobeqnesmot.cc
-docu-sign.biz
 docusign-document.info
 docusignaccessportal.com
 docusignadmintra.com
@@ -11140,7 +11129,6 @@ fantasticfactoryzu.com
 fast-mob.com
 fast.appcues.com
 fastlane.rubiconproject.com
-fastpath.cyou
 fbcdnads.live
 fearevolve.com
 featuregates.org
@@ -11215,7 +11203,6 @@ france-24.news
 freemobilespy.net
 freespyapp.com
 freewheel.tv
-freshmenuideas.com
 ftp.info-taxi.info
 fullstory.com
 fullwork3e4.gamer.free
@@ -11269,12 +11256,7 @@ gravy.ai
 gravyanalytics.com
 grayhornet.com
 grid-push.com
-grillchefsecrets.com
-grillgastronomy.com
 grillmasterchef.com
-grillmastersrecipes.com
-grillprocraft.com
-grillrecipespro.com
 groundbreakinginitative.com
 groundtruth.com
 guanlansec.com
@@ -11292,7 +11274,6 @@ hadronid.net
 handwrittenresults.com
 haqerra.com
 harborstonegroup.shop
-hcnksadcn.cc
 hdfdsi84j3h.top
 healthlicensefl.vercel.app
 heap.com
@@ -11310,7 +11291,6 @@ hivinest.online
 hjazfioe.surf
 hlk.criteo.com
 homearea.googleapis.com
-homehearthcooks.com
 homelygrill.com
 honeybadger.io
 honeygain.com
@@ -11328,6 +11308,7 @@ hpapp.mywebsearch.com
 hraparak.org
 hs-analytics.net
 hubstaff.com
+huechura.firebaseapp.com
 huipiaoxia-jp.com
 human.security
 humanab.com
@@ -11398,7 +11379,6 @@ inapps.appsflyersdk.com
 incognia.com
 incoming-telemetry.thunderbird.net
 incoming.telemetry.mozilla.org
-indigo-flicker-zephyr-truior.pro
 indoprogress.co
 infinoas.mtrtb.com
 info-taxi.info
@@ -11470,6 +11450,7 @@ jailbreak-gateway.thd.cc
 jal-air.spguiapp.com
 jampp.com
 japan-pairs.com
+jbm-attrezzi.com
 jellybat.net
 jjspy.com
 jjspy.ml
@@ -11511,7 +11492,6 @@ killi.io
 kinesis.us-east-1.amazonaws.com
 kiriosyka.com
 kissmetrics.com
-kitchensecretbook.com
 kkeyyou.cc
 klaviyo.com
 klg.a-spy.com
@@ -11635,9 +11615,6 @@ manulfie.click
 marketing.transunion.com
 maskingofking.xyz
 massgravel.net
-mastergrillhub.com
-mastergrillrecipes.com
-mastermyrecipe.com
 matheranalytics.com
 matizu.com
 maturitygenesis.com
@@ -11738,7 +11715,6 @@ minero.cc
 minspy.com
 minstagram.net
 mintrack.vip
-mivaworker.pro
 mixpanel.com
 mlite-app.livekit.cloud
 mlite-app.thd.cc
@@ -11942,7 +11918,6 @@ otlp-gateway-prod-us-east-0.grafana.net
 outdooutcome.com
 outlogic.io
 outlook3650.com
-ovenwisdom.com
 ownseeking.com
 ownspy.com
 p2p.peer2profit.com
@@ -11987,9 +11962,7 @@ penlink.com
 penslice.com
 peoplecloud.epsilon.com
 pepperdominate.com
-perfectgrillguide.com
 perfectgrillrecipes.com
-perfectpitmaster.com
 permutive.app
 permutive.com
 petal-ads.com
@@ -12014,7 +11987,6 @@ pickarest.com
 pilgrim.foursquare.com
 ping.chartbeat.net
 pipe.thd.cc
-pitmasterrecipes.com
 piwiks.com
 pixel.eyeota.com
 pizzabiglatino.com
@@ -12069,7 +12041,6 @@ prod.uidapi.com
 profligatecensure.com
 prog-money.android-monitor.ru
 prog-money.com
-progrillguide.com
 project-323448153542050953.firebaseio.com
 project-7991479181228723357.firebaseio.com
 promdressu-jp.com
@@ -12220,7 +12191,6 @@ quantcount.com
 quantserve.com
 quantummetric.com
 querylight.net
-quickkitchendishes.com
 qwqerrqwr2145qw.com
 r.findmykids.org
 r.logrocket.io
@@ -12245,7 +12215,6 @@ realtracker.com
 reasonsecurityrealtime.com
 rebrandly.site
 rec.hw.cab
-recipebistro.com
 recognition.acxiom.com
 recorder.smartlook.com
 redjaxfire.com
@@ -12298,7 +12267,6 @@ roku.conviva.com
 rollbar.com
 rollstrech.com
 romancedrum.com
-rosaehessfrzimbra.vercel.app
 roujizaixian.com
 roundel.com
 rp.apollospy.com
@@ -12396,17 +12364,12 @@ sdootuk.marmorariacoral.website
 search.tb.ask.com
 searchagent.cfd
 searchservice.cfd
-searedrecipes.com
 secondclone-2d312.firebaseio.com
 secure-xdomain-18374.w-group.shop
-secure-xdomain-25359.dashboard-payment.app
-secure-xdomain-26376.dashboard-payment.app
 secure-xdomain-27095.w-group.shop
 secure-xdomain-32259.w-group.shop
-secure-xdomain-38084.dashboard-payment.app
 secure-xdomain-50869.w-group.shop
 secure-xdomain-55493.w-group.shop
-secure-xdomain-69242.dashboard-payment.app
 secure-xdomain-69342.w-group.shop
 secure-xdomain-71481.w-group.shop
 secure-xdomain-82343.w-group.shop
@@ -12499,7 +12462,6 @@ signifyslight.com
 silverpush.co
 simage2.pubmatic.com
 simpleanalytics.io
-simplegastronomy.com
 sin3.ib.adnxs.com
 sincereaccertain.com
 singular.net
@@ -12530,7 +12492,6 @@ smoot-api-spotlight-ause2c.v.aaplimg.com
 smoot-searchv2-ause1a.v.aaplimg.com
 smsandcalltracker.firebaseio.com
 smsurvey.com
-smulaf.net
 snackarcincdn.com
 snackmedia.com
 snapplace.com
@@ -12634,12 +12595,12 @@ strapi.msafely.com
 strapi.spyphone.cc
 strapi.spyx.com
 stream.launchdarkly.com
+studio.unicore.tv
 studio11-7e288.firebaseio.com
 stupendoussleet.com
 stupendoussnow.com
 stylebrakedown.com
 stylishblock.com
-styvlor.cfd
 suggestqueries.google.com
 suggestutterly.com
 sumologic.com
@@ -12746,10 +12707,8 @@ test.refog.com
 testecollider.foxspy.com.br
 tfk7r22klf8vtd8g90jq8qno1tpqhmpe.apps.googleusercontent.com
 thd.cc
-thecanniballazu.com
 thedragonson-jp.com
 thefirmos.com
-thegrillbible.com
 thegrilljournal.com
 themoviemindzu.com
 theodoi24h.com
@@ -12759,6 +12718,7 @@ thiefguardbd.com
 threatmetrix.com
 thriddata.com
 tidalscreen.com
+tik-tok-18.com
 timedoctor.com
 tinyurl.bz
 tinyurl.ist
@@ -12890,7 +12850,6 @@ uid2.prebid.org
 uj.evaspy.com
 uk.evaspy.com
 ul.evaspy.com
-ultimategrillhub.com
 ultimatematter.info
 um.evaspy.com
 umeng.com
@@ -12929,7 +12888,6 @@ us968web-zoom.us
 usabilla.com
 usafe-ca594.firebaseio.com
 usafe.ru
-usdts1.icu
 useinsider.com
 useproof.cc
 user.ownspy.es
@@ -13121,8 +13079,6 @@ youtube-right.com
 youtubecard.com
 youtubee.life
 ypro0asz.firebaseapp.com
-yummyhomebase.com
-yumrecipebox.com
 yzhw666.com
 z-na.amazon-adsystem.com
 zabbxsoftware.com
