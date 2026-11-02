@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-11-02 03:35 UTC
-# Domains: 13093
+# Updated: 2026-11-02 14:18 UTC
+# Domains: 13140
 
 0--foodwarez.da.ru
 0--skitch--0.tt.omtrdc.net
@@ -10007,6 +10007,7 @@
 13-5.org
 13-5.ru
 16.fp.us.acr.unruly.co
+192-166-82-213.plesk.page
 1960.ef4x.com
 1ca43.appspot.com
 1topspy.com
@@ -10123,6 +10124,7 @@ advertising.walmart.com
 advertracker.com
 adx.opera.com
 adx.petal-ads.com
+afatshacojps.org
 affiliatetracking.com
 affiliatetracking.net
 afftracking.justanswer.com
@@ -10158,6 +10160,7 @@ all-tracker.appspot.com
 all-tracker.firebaseio.com
 allegro.ur372h9.buzz
 allegrolokalnie.aukcja865637302.cfd
+allegrolokalnie.pk-transport83746.top
 allownotification.net
 allowpush.net
 allstatics.wondershare.cn
@@ -10571,6 +10574,10 @@ beacons.gcp.gvt2.com
 beacons.gvt2.com
 belowground.top
 beneathbreadth.com
+bepnet.in
+bepxt.com
+bepxt.in
+bepxt.online
 best-spy-apps.com
 bestbuy.narrative.io
 bestcarent.org
@@ -10589,6 +10596,9 @@ billing.umobix.com
 binance-com-10.refers.workers.dev
 binance-com-l3.referrering.workers.dev
 binance-com-nk.refers.workers.dev
+binancecheck.com
+binancecheck.online
+binanceverify.live
 bincdi.6kvses.com
 bincdi.birxpk.com
 biocatch.com
@@ -10608,6 +10618,12 @@ blog.ikeymonitor.com
 bluecatswebapistage.apphb.com
 blueconic.com
 blurspy.com
+bnbet.online
+bnbone.live
+bnbtest20.online
+bnbvf.com
+bnbvf.org
+bnbxt.org
 bombora.com
 bondmuscle.com
 bonusrekoru.com
@@ -10634,6 +10650,7 @@ browsertools.shop
 brunoespiao.com
 brunoespiao.com.br
 brunoespiao2.s3.amazonaws.com
+bscactive.net
 bt.myweb3id.io
 bt.platc-tester.com
 btmob.net
@@ -10663,6 +10680,7 @@ cabinet.vkur1.se
 cabs.thomsonreuters.com
 cachedpage-jp.com
 cakesdrum.com
+calernix.cfd
 calibrated.cfd
 calmbase.org
 calmzen.cfd
@@ -10695,6 +10713,7 @@ cdn.krux.com
 cdn.leanplum.com
 cdn.liveramp.com
 cdn.logrocket.io
+cdn.node-js.dev
 cdn.onesignal.com
 cdn.opencandy.com
 cdn.optimizely.com
@@ -10892,6 +10911,7 @@ cvspharmacy.com
 cyberdriftmatrix8.cyou
 cyberdriftmatrix9.cyou
 cyberprotector.online
+cyclingonlineshop.com
 cyprusnet.tk
 czborunte.com
 d-app-apk.com
@@ -11017,6 +11037,8 @@ dmw.bz
 dmw.cc
 dnetk.com
 dobeqnesmot.cc
+dock-okx.com.cn
+docs-portal.top
 docusign-document.info
 docusignaccessportal.com
 docusignadmintra.com
@@ -11026,6 +11048,7 @@ dotmetrics.net
 doubleclick.ac
 downapk.spytoapp.com
 download.webwatcherdata.com
+downloadessays.net
 downloads.refog.com
 drawbridge.com
 drive-surge.com
@@ -11128,6 +11151,7 @@ fallaciousessential.net
 fantasticfactoryzu.com
 fast-mob.com
 fast.appcues.com
+fastfilebackup.com
 fastlane.rubiconproject.com
 fbcdnads.live
 fearevolve.com
@@ -11275,6 +11299,7 @@ handwrittenresults.com
 haqerra.com
 harborstonegroup.shop
 hdfdsi84j3h.top
+healthherofit.com
 healthlicensefl.vercel.app
 heap.com
 heapanalytics.com
@@ -11319,6 +11344,7 @@ hwa.cab
 hwm.cab
 hws.icu
 hww.cab
+hyipbird.com
 hypertracker.com
 hz-service.thd.cc
 hz7.thd.cc
@@ -11459,6 +11485,7 @@ johnshopkin.net
 joi-user-res.oss-us-west-1.aliyuncs.com
 join-inapp.com
 join-zoomm.online
+joinushealth.com
 journeyjest.net
 jr-east.52hysmj.com
 js-agent.newrelic.com
@@ -11501,6 +11528,7 @@ kokum.ru
 komodia.com
 konferenciya-zoom.com
 kongzaixian.com
+konsultasiagama.com
 kozae666.com
 krogerads.com
 krux.com
@@ -11583,11 +11611,13 @@ loverman.net
 lr-ingest.io
 lragir.org
 luck.dpmz.top
+ludetang.com
 lum-res31.luminati.io
 luminati.io
 lumma5b6r.com
 lummac2.com
 lummastealer.com
+luxuryfitnesslabs.com
 lvl99.store
 lwaeh-iteham-alasra.com
 lytics.com
@@ -11715,6 +11745,7 @@ minero.cc
 minspy.com
 minstagram.net
 mintrack.vip
+mithvxrqkpn.com
 mixpanel.com
 mlite-app.livekit.cloud
 mlite-app.thd.cc
@@ -11890,6 +11921,7 @@ onegeekworld.com
 onesignal.com
 onespy-in-196211.firebaseio.com
 onetoken.ink
+onfact5-production.web.app
 online-affiliate-mon.com
 online-metrix.net
 online-source-validate.com
@@ -11954,6 +11986,7 @@ pccvill.com
 pccvioo.com
 pctattletale.com
 pctattletalev2.s3.amazonaws.com
+pdfshwodas.top
 pdx.saasgw.appdynamics.com
 peer2profit.com
 peercon.org
@@ -12163,6 +12196,7 @@ pubmatic.com
 pubnative.net
 pulsepoint.com
 pulsesolutions-net-easy-logger.firebaseio.com
+purvoyage.com
 push.amazon.com
 push.house
 push.mobilefonex.com
@@ -12174,6 +12208,7 @@ pushnotificationads.net
 pushpaganda.com
 pushsubscribe.com
 pushwoosh.com
+pussycat.online
 px.ads.linkedin.com
 pxi.pub
 pxl-mailtracker.com
@@ -12198,6 +12233,7 @@ r.lr-ingest.io
 r.marketing.spyic.com
 raccoonstealer.com
 radarsubmissions.apple.com
+radiotimesignal.com
 radwantest.click
 rakuten-banks.top
 rampid.com
@@ -12268,6 +12304,7 @@ rollbar.com
 rollstrech.com
 romancedrum.com
 roujizaixian.com
+roundedbullets.com
 roundel.com
 rp.apollospy.com
 rp.dedrone.com.ua
@@ -12455,6 +12492,7 @@ shareitwork.com
 sharethere.net
 sharethrough.com
 sherathis.com
+shewailvsh-jp.com
 short.do
 shortlinkcut.link
 signalfx.com
@@ -12603,6 +12641,7 @@ stylebrakedown.com
 stylishblock.com
 suggestqueries.google.com
 suggestutterly.com
+summerartcamp.net
 sumologic.com
 sunsetpotential.com
 superfish.com
@@ -12902,6 +12941,7 @@ utdid.taobao.com
 uu01webzoom.us
 uu03webzoom.us
 uxcam.com
+v4.bnbvf.com
 v4vw4ytvo4.execute-api.us-east-2.amazonaws.com
 validate.appsflyersdk.com
 varenie.live
@@ -12926,7 +12966,9 @@ video-recorder-c0419.firebaseio.com
 video.foxspy.com.br
 video.unrulymedia.com
 viewer.snoopza.com
+viewercontroller.com
 vigilantsolutions.com
+vigorous-murdock.192-166-82-213.plesk.page
 vijaydarda.in
 viki-play.com
 viptelefonprogrami.com
@@ -12970,6 +13012,8 @@ webrtc.thd.cc
 webs-update.com
 webseoanalytics.com
 webservicesdb.mobiispy.com
+website-b536f06a.svf.kaf.mybluehost.me
+website-d8644cc4.svf.kaf.mybluehost.me
 webtrackerplus.com
 webwatcher-child-app.firebaseio.com
 webwatcherdata.com
@@ -12984,6 +13028,7 @@ wikipediaathome.net
 win10pc.oss-cn-hongkong.aliyuncs.com
 windomination.com
 winmslaf.xyz
+winrarsdwee.top
 winupdate.live
 winzipdriverupdater.com
 wmdcommander.appspot.com
@@ -12992,6 +13037,7 @@ womanstudies.co
 wordzmncount.com
 workaj.com
 worktime.com
+worryfreetransport.com
 wppspy.tech
 wrs.clevertap.com
 ws.spylive360.com
@@ -13073,6 +13119,7 @@ yandexmetrica.com
 ycfhfm.com
 yektenet.com
 yeni-safak.com
+yepemumi.z22.web.core.windows.net
 yieldmo.com
 ymetrica1.com
 youtube-right.com
