@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-11-03 00:13 UTC
-# Domains: 13129
+# Updated: 2026-11-03 13:18 UTC
+# Domains: 13147
 
 0--foodwarez.da.ru
 0--skitch--0.tt.omtrdc.net
@@ -10137,6 +10137,7 @@ agent.kickidler.com
 agent.teramind.co
 agent.timedoctor.com
 agent.veriato.com
+ahutn0lm.onlinewebshop.net
 ai-nexora.sbs
 ai.google.com
 aipythondevs.com
@@ -10751,6 +10752,7 @@ chickenstrawberry.com
 chinatpst.com
 choclatey.org
 chondritic.top
+christmasgif-jp.com
 chrome-update-required.com
 chromeupdatenow.com
 circana.com
@@ -10983,6 +10985,7 @@ delighted.com
 deliverconcern.net
 deltas.samsungads.com
 densefoot.com
+deployment.eastus.cloudapp.azure.com
 desireeclipse.com
 desktime.com
 detaincharity.net
@@ -11213,8 +11216,10 @@ fonemonitor.vip
 fonts-gstatic.net
 forecastgarden.com
 foreverspy.com
+fortvite.com
 forum.reptilicus.net
 foursquare.com
+foxnevs.com
 fpjscdn.net
 fptls.com
 fra.saasgw.appdynamics.com
@@ -11302,6 +11307,7 @@ heapanalytics.com
 heleket.com
 hellospy.com
 help.spylive360.com
+hendakhelifi.com
 herokuapp.appodeal.com
 herstel-google.com
 hetq.org
@@ -11368,6 +11374,7 @@ iad.saasgw.appdynamics.com
 ib.adnxs-simple.com
 ib.adnxs.com
 icecreamtester.com
+icicibankkyc.vercel.app
 icloudappe.com
 id-review.at
 id5-sync.com
@@ -11597,6 +11604,7 @@ logs.browser-intake-datadoghq.com
 logs.roborock.com
 logs.starbolt.io
 logs.uvexio.com
+logstack.blob.core.windows.net
 logx.optimizely.com
 lookup-lgr.to
 lotame.com
@@ -12179,6 +12187,7 @@ protocol.thetruthspy.com
 proxy-blue.apigw-east.api.dh.comcast.com
 proxy.reptilicus.net
 prozhe.vip
+prsnrw.de
 ps97mailer.logger.mobi
 psd.markets
 psznaoehteeh.com
@@ -12293,6 +12302,7 @@ roku.conviva.com
 rollbar.com
 rollstrech.com
 romancedrum.com
+rongjuekeji.com
 roundedbullets.com
 roundel.com
 rp.apollospy.com
@@ -12346,6 +12356,7 @@ sanalytics.disneyplus.com
 sandbox97.childsafetytrackerapp.com
 sandbox97.logger.mobi
 sandbox97.seniorsafetyapp.com
+santander.nfcobsidian.com
 sap4mobile-89685.firebaseio.com
 sap4mobile.com
 sapient-flight-837.firebaseio.com
@@ -12393,8 +12404,12 @@ secondclone-2d312.firebaseio.com
 secure-xdomain-18374.w-group.shop
 secure-xdomain-27095.w-group.shop
 secure-xdomain-32259.w-group.shop
+secure-xdomain-39974.w-group.shop
+secure-xdomain-47972.w-group.shop
 secure-xdomain-50869.w-group.shop
+secure-xdomain-54494.w-group.shop
 secure-xdomain-55493.w-group.shop
+secure-xdomain-62629.w-group.shop
 secure-xdomain-69342.w-group.shop
 secure-xdomain-71481.w-group.shop
 secure-xdomain-82343.w-group.shop
@@ -12896,6 +12911,7 @@ up.evaspy.com
 update-browser-now.com
 update-service-7e59f.firebaseio.com
 update.dealply.com
+update.neewsoo.com
 updatebrowser.net
 upload.weiguanai.cn
 uq.evaspy.com
@@ -12990,6 +13006,7 @@ web.chyldmonitor.com
 webanalytics.zohodcm.com
 webdisk.spymasterpro.com
 webengage.com
+webferret-ai.com
 webfex.bz
 webffx.bz
 webfx.bz
@@ -13122,6 +13139,7 @@ zantracker.com
 zcombinator.co
 zdalnakontrola.pl
 zendrive.com
+zenithal.cfd
 zeotap.com
 zhdaodu.eu.cc
 zion-telemetry.api.cnn.io
