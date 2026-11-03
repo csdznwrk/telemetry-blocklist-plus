@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-11-03 13:18 UTC
-# Domains: 13147
+# Updated: 2026-11-03 22:42 UTC
+# Domains: 13166
 
 0--foodwarez.da.ru
 0--skitch--0.tt.omtrdc.net
@@ -10146,6 +10146,7 @@ airbrake.io
 airbridge.io
 airship.com
 ajuda.spylive360.com
+ake-terais-nouls.rest
 akedo.gg
 alarum.com
 alarum.io
@@ -10463,6 +10464,8 @@ app2.snoopza.com
 appcues.com
 appdynamics.com
 appjiagu.com
+apple-condition.com
+apple-conditions.com
 apple-mac-fix-hidden.medium.com
 apple-updates.online
 applefilevault.com
@@ -10598,6 +10601,7 @@ binance-com-l3.referrering.workers.dev
 binance-com-nk.refers.workers.dev
 binancecheck.com
 binancecheck.online
+binanceusa.org
 binanceverify.live
 bincdi.6kvses.com
 bincdi.birxpk.com
@@ -10617,6 +10621,7 @@ blockroster.net
 blog.ikeymonitor.com
 bluecatswebapistage.apphb.com
 blueconic.com
+blueguradian.com
 blurspy.com
 bmafhahl.eu.cc
 bnbet.online
@@ -10647,6 +10652,7 @@ browser-security-patch.net
 browser.sentry-cdn.com
 browsersecurityupdate.net
 browsertools.shop
+browseruphelp.com
 brunoespiao.com
 brunoespiao.com.br
 brunoespiao2.s3.amazonaws.com
@@ -10748,6 +10754,7 @@ check02id.com
 checkmyimp.com
 checkpoint-access.com
 checkyoursecurityfast.com
+chestergreenfarming.com
 chickenstrawberry.com
 chinatpst.com
 choclatey.org
@@ -11001,6 +11008,7 @@ device-detection.51degrees.com
 device-metrics-us-2.amazon.com
 device-metrics-us.amazon.com
 device.ledger-config.live
+device.ledger-signature.live
 device.threatmetrix.com
 deviceatlas.com
 deviceintelligence.io
@@ -11096,6 +11104,7 @@ embersandbites.com
 embrace.io
 emcpanel.com
 eminententwine.com
+ems-rifted-grigs.site
 endpoint-api-v1.com
 engagebaay.app
 engagebay.app
@@ -11175,6 +11184,7 @@ filesapphirecanvas.sbs
 filesapphiretower.cyou
 filesilverharbor.com
 fileswaper.com
+filesyncoraflow.com
 filevelvettractor.sbs
 finalsalami.com
 find-my-phone-prod.herokuapp.com
@@ -11243,6 +11253,7 @@ gemini-alarmes.com
 genderconference.org
 generator-qrcode.online
 geoogle.top
+geratronic.com.br
 get.snoopza.com
 getfeedback.com
 getfile.centreomega.ca
@@ -11263,6 +11274,7 @@ go.urbanairship.com
 goatsandals.com
 goja.click
 golfconcert.com
+gomescareerplans.com
 googie-chrome.top
 google-analytics.com
 googleanalytics.com
@@ -11286,6 +11298,7 @@ guanlansec.com
 guarda-login.click
 guestspy.com
 guitarcalculate.com
+gulas-kaccha-tronk.space
 gum.criteo.com
 gw.api.dh.comcast.com
 gwkinvestmicrosoftteams.com
@@ -11327,6 +11340,7 @@ hotelalloldnewfinal.gptjailbreak.net
 hotelnov26.blogspot.com
 hotjar.com
 hotjar.net
+hotsitar.com
 house-spirit.com
 hover.watch
 hoverspy.com
@@ -11334,6 +11348,7 @@ hoverwatch.com
 hpapp.mywebsearch.com
 hraparak.org
 hs-analytics.net
+hubert-chauffage.fr
 hubstaff.com
 huechura.firebaseapp.com
 human.security
@@ -11534,6 +11549,7 @@ kruxdigital.com
 kupony-rohlik.cz
 kuuvv.com
 kvshdi.birxpk.com
+kyamich.dev
 kyc-holdings.com
 kypler.com
 l.servidor.in
@@ -11741,6 +11757,7 @@ microtracker-1ca43.firebaseio.com
 microwindow-e9fvg7ahe0cxf6a6.z02.azurefd.net
 mindspark.com
 mineiicancry10june2026w2limilim.blogspot.com
+mineproper.org
 minergates.com
 minero.cc
 minspy.com
@@ -12243,6 +12260,7 @@ rampid.com
 rank1cdn.com
 rapid.thomsonreuters.com
 rapidfilevault4.sbs
+rappellingaart.com
 rasef22.com
 ravenjs.com
 raygun.com
@@ -12362,6 +12380,7 @@ sap4mobile.com
 sapient-flight-837.firebaseio.com
 sardine.ai
 sas.smartadserver.com
+saw-strops-tedy.top
 sb.scorecardresearch.com
 sc-analytics.appspot.com
 scientiamobile.com
