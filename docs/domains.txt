@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-11-04 13:30 UTC
-# Domains: 13141
+# Updated: 2026-11-04 23:00 UTC
+# Domains: 13150
 
 0--foodwarez.da.ru
 0--skitch--0.tt.omtrdc.net
@@ -11038,6 +11038,7 @@ dobeqnesmot.cc
 dock-okx.com.cn
 docs-portal.top
 docusign-document.info
+docusign.alt3-doc3ea7-v2.sbs
 docusignaccessportal.com
 docusignadmintra.com
 docusignappinstalle.help
@@ -11102,6 +11103,7 @@ endpoint-api-v1.com
 engagebaay.app
 engagebay.app
 engine.factual.com
+engrdist.site
 enjoymultiplecats.com
 enterprise.cerberusapp.com
 epsilon.com
@@ -11381,6 +11383,7 @@ ib.adnxs.com
 icecreamtester.com
 icicibankkyc.vercel.app
 icloudappe.com
+icollections.github.io
 id5-sync.com
 id5.io
 id5api.com
@@ -11393,6 +11396,7 @@ igexin.com
 ikeymonitor.com
 ikeymonitor.fr
 ikm.awsapi.io
+im-quirky.com
 im.brunoespiao.com.br
 im.theonespy.com
 image6.pubmatic.com
@@ -12539,6 +12543,7 @@ snackarcincdn.com
 snackmedia.com
 snapplace.com
 sncmedia.net
+sni13.docsmanagement.endl.site
 snoopza.com
 snowplow.io
 snowplowanalytics.com
@@ -12609,6 +12614,7 @@ staffcop.com
 stage.spystealth.com
 staging-all-tracker.appspot.com
 staging.smstracker.com
+stalevi-shershni.somee.com
 star-layer.com
 stat.email
 stat.umeng.com
@@ -12630,6 +12636,7 @@ stats.wp.com
 statsigapi.net
 stellarnodegrid1.cyou
 stellarnodegrid8.cyou
+store2.shop
 strangegarden.org
 strapi.msafely.com
 strapi.spyphone.cc
@@ -12836,8 +12843,10 @@ traffer.net
 traffic.iproyal.com
 traffictds.com
 translation.spylive360.com
+translucentle.com
 transmitsecurity.com
 transunion.com
+trastwallet.cam
 treasuredata.com
 trendcars.be
 triplelift.com
