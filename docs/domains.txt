@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-11-05 04:23 UTC
-# Domains: 13109
+# Updated: 2026-11-05 13:45 UTC
+# Domains: 13119
 
 0--foodwarez.da.ru
 0--skitch--0.tt.omtrdc.net
@@ -10018,6 +10018,7 @@
 40.fp.us.acr.unruly.co
 4info.com
 51degrees.com
+529motors.com
 6-dot-all-tracker.appspot.com
 6kvses.com
 77tracking.com
@@ -10169,6 +10170,7 @@ alphabitcapital.info
 alphonso.tv
 alter757.info
 altzserberin.info
+amazing-rooms.com
 amazon-cz.eu
 ambiguouscommerce.com
 americanexpcnh.w1u2p60.asia
@@ -10504,6 +10506,7 @@ arvax.xyz
 asbares.com
 asgard-f8c53.firebaseio.com
 ashevilleroofingcontractor.com
+asiioasdjasiojasodijasa.eastus.cloudapp.azure.com
 ask.com
 asknapkin.com
 ass.absolutesoftsystem.in
@@ -10595,6 +10598,7 @@ billing.umobix.com
 binance-com-10.refers.workers.dev
 binance-com-l3.referrering.workers.dev
 binance-com-nk.refers.workers.dev
+binance-kplaw.top
 binancecheck.com
 binancecheck.online
 binanceusa.org
@@ -10878,6 +10882,7 @@ crashlog-upload.com
 crashlytics.com
 crashlyticsreports-pa.googleapis.com
 crashreporter-update.com
+crepiehumru.lol
 cropcritique.com
 crossoverdue.com
 crosswise.com
@@ -11488,6 +11493,7 @@ karichilevels.click
 kartingrumble.com
 kbmgroup.com
 kenoratravels.com
+kenpousland.cfd
 key-logger-90fff.firebaseio.com
 keyadapter.com
 keychainagent.pro
@@ -11768,6 +11774,7 @@ mrec24.com
 mrswd.wo87sf.com
 msafe.xyz
 mscloud.cfd
+mscupdate.blob.core.windows.net
 mspy.alter757.info
 mspy.com
 mspyonline.com
@@ -11814,6 +11821,7 @@ mycleanpc.com
 mycloud.wisemo.com
 mycloud1.wisemo.com
 mydishisbom-jp.com
+mydishisbom.com
 mydocu-sign-documents.ink
 mydsp.io
 mydwnd.com
@@ -12003,6 +12011,7 @@ ping.chartbeat.net
 pipe.thd.cc
 piwiks.com
 pixel.eyeota.com
+pixelra2qbx7zhvb6mxdzxlo6rxm2mtouhbabqmdzyd4fesicvbz7bqd.onion
 placed.com
 plasticbells.com
 platc-tester.com
@@ -12915,6 +12924,7 @@ users.easemon.com
 users.thephonem.com
 users.tvinteractive.tv
 userswordpress-signin-customer.aromadiroma.org
+uspsfund.online
 utdid.taobao.com
 uu01webzoom.us
 uu03webzoom.us
