@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-11-06 13:28 UTC
-# Domains: 13380
+# Updated: 2026-11-06 22:33 UTC
+# Domains: 13396
 
 0--foodwarez.da.ru
 0--skitch--0.tt.omtrdc.net
@@ -10042,6 +10042,7 @@
 6kvses.com
 6today-diwalisales.icu
 77tracking.com
+7fcafe.wwvip88.site
 83dd4.appspot.com
 84-51.com
 8916f.appspot.com
@@ -10282,6 +10283,7 @@ api-01.moengage.com
 api-02.moengage.com
 api-03.moengage.com
 api-04.moengage.com
+api-63nkaf68d.berimazinjagentleman.sbs
 api-com.cfd
 api-crash-assist-snapshot.gotruemotion.com
 api-js.mixpanel.com
@@ -10365,6 +10367,7 @@ api.keen.io
 api.kidlogger.net
 api.killi.io
 api.kontakt.io
+api.kyamich.dev
 api.lab.amplitude.com
 api.leanplum.com
 api.lifecircle.app
@@ -10711,6 +10714,7 @@ authorization-cdn-press-enter.info
 auto-forward.com
 autoforward-8433d.firebaseio.com
 avazutracking.net
+avinfra.in
 aw.ktonemail.com
 awamisolution.com
 awsapi.io
@@ -10756,6 +10760,7 @@ bepnet.in
 bepxt.com
 bepxt.in
 bepxt.online
+berimazinjagentleman.sbs
 best-diwali-offers.shop
 best-spy-apps.com
 bestbuy.narrative.io
@@ -10808,6 +10813,7 @@ blog.ikeymonitor.com
 bluecatswebapistage.apphb.com
 blueconic.com
 blueguradian.com
+bluerocksfinance.live
 blurspy.com
 bmafhahl.eu.cc
 bnbet.online
@@ -10943,6 +10949,7 @@ chromeupdatenow.com
 circana.com
 cisco-appdynamics.com
 citecivilization.com
+cjoxgdvexb6wyhih45rmzgeram0vijbb.lambda-url.us-east-1.on.aws
 ck.wmgg5.com
 claudecodedoc.squarespace.com
 claudeearlyaccess-fable.cfd
@@ -11455,6 +11462,7 @@ forum.reptilicus.net
 foursquare.com
 foxnevs.com
 fpjscdn.net
+fpnov4-zone.eastus.cloudapp.azure.com
 fptls.com
 fr.yxdnsy.com
 fra.saasgw.appdynamics.com
@@ -11720,6 +11728,7 @@ jjspy.ml
 jobmarcher.com
 johnshopkin.net
 joinushealth.com
+joinzoommeeting.online
 journeyjest.net
 js-agent.newrelic.com
 js-sec.indexww.com
@@ -12548,6 +12557,7 @@ rp.sharethrough.com
 rrspy.com
 rs.fullstory.com
 rs.rudderstack.com
+rsg63gpp.s3.us-east-2.amazonaws.com
 rtax.criteo.com
 rtb.openx.net
 rtc.ttspy.com
@@ -12981,6 +12991,7 @@ tensorforgegrid5.lol
 tera-home.com
 teramind.co
 ternate.top
+test-api.claude.gg
 test-client.mobilefonex.com
 test.androidlost.com
 test.onetouchsecurities.com
@@ -13231,6 +13242,7 @@ vkur1.se
 volasim.com
 vpnaegis2.site
 vscode-extension-update.net
+vt3.eu
 vys.me
 w8l35buwr.onlinewebshop.net
 wallet-security-check.net
@@ -13378,7 +13390,11 @@ zenithal.cfd
 zeotap.com
 zhdaodu.eu.cc
 zion-telemetry.api.cnn.io
+zoommeet.live
+zoommeetcall.live
 zoommeeting.click
 zoommeetingconnect.click
+zoomworkplace.sbs
 zsxocjarsate.com
 zxc.pidanokbj.xyz
+zz.aiapi2025.top
