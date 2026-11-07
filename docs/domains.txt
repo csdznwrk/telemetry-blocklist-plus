@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-11-07 12:08 UTC
-# Domains: 13407
+# Updated: 2026-11-07 21:14 UTC
+# Domains: 13413
 
 0--foodwarez.da.ru
 0--skitch--0.tt.omtrdc.net
@@ -10647,6 +10647,7 @@ apple-zu.top
 apple-zv.top
 apple-zx.top
 apple-zy.top
+apple.eu10hub.com
 applefilevault.com
 application.com
 appnexus.com
@@ -10801,6 +10802,7 @@ bincdi.birxpk.com
 biocatch.com
 birxpk.com
 bit-ly.site
+bitlaunch.io
 bitly.bz
 bitly.tel
 bitly.tw
@@ -10998,6 +11000,7 @@ cluestr.com
 cm.g.doubleclick.net
 cm.publishers.advertising.a2z.com
 cm.quantserve.com
+cm88king.com
 cmd.crwdcntrl.net
 cms.krux.com
 cmtelematics.com
@@ -11846,6 +11849,7 @@ log.smartthings.com
 logger.controlium.net
 logger.powerium.net
 logger.quantummetric.com
+login-msftportal.com
 login.quanly24h.net
 login.webwatcher.com
 logrocket.com
@@ -12185,6 +12189,7 @@ onlinefundb.com
 only-music.net
 only1mafia.net
 open-collectors.sumologic.com
+open.spotify.mint.89237892.com
 opencamping.shop
 opencandy.com
 openfpcdn.io
@@ -12328,6 +12333,7 @@ predictproper.com
 preprodapptrk.a4.tl
 press-f12-continue.com
 pressaviation.com
+privatealps.net
 prmtracking.com
 pro.logger.mobi
 process.agent.datadoghq.com
