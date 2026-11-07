@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-11-07 03:50 UTC
-# Domains: 13389
+# Updated: 2026-11-07 12:08 UTC
+# Domains: 13407
 
 0--foodwarez.da.ru
 0--skitch--0.tt.omtrdc.net
@@ -10078,6 +10078,7 @@ account.childsafetytrackerapp.com
 account.logger.mobi
 account.refog.com
 account.trackerplus.ru
+accounts.billingmicrosloft365.site
 accounts.wondershare.cn
 acdn.adnxs.com
 acoustic.com
@@ -10890,6 +10891,12 @@ catchpoint.com
 catwatchful-e03b8-2.firebaseio.com
 catwatchful-e03b8.firebaseio.com
 catwatchful.com
+cb-customa.com
+cb-customb.com
+cb-customc.com
+cb-customd.com
+cb-oiuwalsdd.com
+cb-woiuuasd.com
 cd.biocatch.com
 cd.signalfx.com
 cdn.alphonso.tv
@@ -11557,6 +11564,7 @@ hjazfioe.surf
 hlk.criteo.com
 hnrtqbsfwxm.cfd
 homearea.googleapis.com
+homegardenfocus.com
 homelygrill.com
 honestcaradvice.com
 honeybadger.io
@@ -11780,6 +11788,7 @@ kypler.com
 l.servidor.in
 labrador.ua
 labyrinthextravagance.org
+ladygirl-series.com
 lanhd6549tdhse.top
 laucass.forumactif.org
 launchdarkly.com
@@ -11812,6 +11821,7 @@ linkmob.org
 links.iterable.com
 lioiamcount.com
 liokida.com
+liuwamksdas.com
 live3.eu.steerpath.net
 liveramp.com
 liveramp.net
@@ -11873,6 +11883,7 @@ macos-diagnostics.net
 macos-disk-space.medium.com
 macrodrop.net
 macromint.net
+madeofinkandiron.com
 mads.amazon.com
 mads.freewheel.tv
 magicupdate.cfd
@@ -12018,6 +12029,7 @@ monitor-ultra.com
 mossypinediwali.online
 motorolasolutions.com
 movecogi.z16.web.core.windows.net
+moyora.live
 mparticle.com
 mpmetrics.kochava.com
 mpsnare.com
@@ -12207,6 +12219,7 @@ pagead.trustlayersdk.com
 pagead2.googlesyndication.com
 pair-api.google.com
 pair.google.com
+paiwdlasd.com
 panel-aura.shop
 panel.spy24.net
 panel24.org
@@ -12266,6 +12279,7 @@ pi.info-taxi.info
 pickarest.com
 pilgrim.foursquare.com
 ping.chartbeat.net
+pinkgirl-tv.com
 pipe.thd.cc
 piwiks.com
 pixel.eyeota.com
@@ -12279,6 +12293,10 @@ plausible.io
 play-store-3bb64.firebaseio.com
 playintegrity.googleapis.com
 pochtarossiy.info
+poijkukasdd.com
+poiwalsdas.com
+poiwamsda.com
+pokikwasd.com
 polaternaert.top
 policiacivilmg.com
 politicalsciencestudent.com
