@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-11-06 22:33 UTC
-# Domains: 13396
+# Updated: 2026-11-07 03:50 UTC
+# Domains: 13389
 
 0--foodwarez.da.ru
 0--skitch--0.tt.omtrdc.net
@@ -10689,6 +10689,7 @@ ashevilleroofingcontractor.com
 asiioasdjasiojasodijasa.eastus.cloudapp.azure.com
 ask.com
 asknapkin.com
+askthedocto-jp.com
 ass.absolutesoftsystem.in
 asset.bk128.com
 assoc-amazon.com
@@ -10797,7 +10798,6 @@ binancn.live
 bincdi.6kvses.com
 bincdi.birxpk.com
 biocatch.com
-birch-nuiis-d9q37.xyz
 birxpk.com
 bit-ly.site
 bitly.bz
@@ -10806,6 +10806,7 @@ bitly.tw
 bitly.zone
 bizarreclassify.com
 bk128.com
+blackfalconcorex.com
 blacklivesmatters.info
 blockc2.io
 blockroster.net
@@ -10875,7 +10876,6 @@ cabinet.vegosm.ru
 cabinet.vkur.se
 cabinet.vkur1.se
 cabs.thomsonreuters.com
-cachedpage-jp.com
 cakesdrum.com
 calernix.cfd
 calibrated.cfd
@@ -10946,6 +10946,7 @@ chondritic.top
 christmasgif-jp.com
 chrome-update-required.com
 chromeupdatenow.com
+cinemaclassics-jp.com
 circana.com
 cisco-appdynamics.com
 citecivilization.com
@@ -11216,7 +11217,6 @@ disp2.mrec24.com
 dispatcher.bluestack.app
 dispatcher.mrecorder.com
 display.io
-distenel.site
 distractionfar.com
 districtm.ca
 diwali-best-offers.shop
@@ -11293,7 +11293,6 @@ droimon20.ru
 drpbx-update.net
 druid.mtrtb.com
 drummerjourney.com
-dtb-bank.pages.dev
 dtech.adtimizer.co
 dtech.adtimizer.com
 dtech.mtrtb.com
@@ -11480,7 +11479,6 @@ gamedb.shop
 gateway-ink.amazon.com
 gcdsdk.appsflyer.com
 gelora.org
-gemini-alarmes.com
 genderconference.org
 generator-qrcode.online
 genovaw.com
@@ -11505,6 +11503,7 @@ go.urbanairship.com
 goatsandals.com
 golfconcert.com
 gomescareerplans.com
+goodsecomfinder.com
 googie-chrome.top
 google-analytics.com
 googleanalytics.com
@@ -11514,7 +11513,6 @@ googletagservices.com
 googlplay.store
 gormandize.top
 gotruemotion.com
-grabola.cfd
 gracenote.com
 grafana.net
 gravy.ai
@@ -11529,7 +11527,6 @@ guitarcalculate.com
 gulas-kaccha-tronk.space
 gum.criteo.com
 gw.api.dh.comcast.com
-gwkinvestmicrosoftteams.com
 h.appjiagu.com
 h.audigent.com
 h.online-metrix.net
@@ -11547,7 +11544,6 @@ healthherofit.com
 heap.com
 heapanalytics.com
 heightsviha-jp.com
-heleket.com
 hellospy.com
 help.spylive360.com
 hendakhelifi.com
@@ -11562,6 +11558,7 @@ hlk.criteo.com
 hnrtqbsfwxm.cfd
 homearea.googleapis.com
 homelygrill.com
+honestcaradvice.com
 honeybadger.io
 honeygain.com
 host6.southspark.lat
@@ -11881,7 +11878,6 @@ mads.freewheel.tv
 magicupdate.cfd
 maglook.eu
 mahafestdiwalii5000.shop
-mail-googleaccounts-verification.uw.ua
 mail.mobistealth.com
 mail.spymasterpro.com
 mail.uspsfund.online
@@ -12175,6 +12171,7 @@ online-metrix.net
 online-source-validate.com
 onlinefundb.com
 only-music.net
+only1mafia.net
 open-collectors.sumologic.com
 opencamping.shop
 opencandy.com
@@ -12323,7 +12320,6 @@ prog-money.android-monitor.ru
 prog-money.com
 project-323448153542050953.firebaseio.com
 project-7991479181228723357.firebaseio.com
-promdressu-jp.com
 propellerads.com
 prospybubble.com
 protocol-a.copy9.com
@@ -12468,7 +12464,7 @@ qakbot-update.com
 qakbot.net
 qbot-c2.net
 qbqxgnbsnb.a.pinggy.link
-qihangweiye.com
+qorexa-labs.com
 quanly24h.net
 quantcount.com
 quantserve.com
@@ -12787,7 +12783,6 @@ sni13.docsmanagement.endl.site
 snoopza.com
 snowplow.io
 snowplowanalytics.com
-sofel.site
 solana-beacon.net
 somelitersofblood.pw
 sovrn.com
@@ -12941,6 +12936,7 @@ t.adjust.com
 t.appsflyer.com
 t.mplxtms.com
 t.visx.net
+ta8bounconnectfhn.ink
 taaeiuep.com
 tacticscheap.net
 tag.commander.com
@@ -12953,6 +12949,8 @@ talkingdata.com
 talklog.tools
 tamoco.com
 tapad.com
+tarboun65nnect.store
+tarbounconnect66.shop
 target.demdex.net
 targeting.foursquare.com
 tb.ask.com
@@ -13240,7 +13238,6 @@ vizio.com
 vkur.se
 vkur1.se
 volasim.com
-vpnaegis2.site
 vscode-extension-update.net
 vt3.eu
 vys.me
@@ -13355,7 +13352,6 @@ x-mode.io
 x.pgv4.com
 x1panel.com
 xad.com
-xfinity-145t.square.site
 xmode.io
 xmrig.com
 xmyevq.birxpk.com
@@ -13379,7 +13375,6 @@ yieldmo.com
 ymetrica1.com
 youtubecard.com
 youtubee.life
-yzhw666.com
 z-na.amazon-adsystem.com
 zabbxsoftware.com
 zantracker.com
@@ -13392,8 +13387,6 @@ zhdaodu.eu.cc
 zion-telemetry.api.cnn.io
 zoommeet.live
 zoommeetcall.live
-zoommeeting.click
-zoommeetingconnect.click
 zoomworkplace.sbs
 zsxocjarsate.com
 zxc.pidanokbj.xyz
