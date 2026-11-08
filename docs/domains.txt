@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-11-08 12:29 UTC
-# Domains: 13405
+# Updated: 2026-11-08 21:29 UTC
+# Domains: 13435
 
 0--foodwarez.da.ru
 0--skitch--0.tt.omtrdc.net
@@ -10053,6 +10053,7 @@
 98aicode.com
 9today-diwalisales.icu
 9today-diwalisales.info
+a-guci.top
 a-qa3.thd.cc
 a-spy.com
 a.emb.app
@@ -10166,7 +10167,6 @@ agent.timedoctor.com
 agent.veriato.com
 ahutn0lm.onlinewebshop.net
 ai-nexora.sbs
-ai.google.com
 aipythondevs.com
 airbrake.io
 airbridge.io
@@ -10200,6 +10200,7 @@ altzserberin.info
 amazing-rooms.com
 amazon-cz.eu
 amazon.cgiagent.com
+ambercouncil.xyz
 ambiguouscommerce.com
 amnestyreports.com
 amon.android-monitor.ru
@@ -10341,6 +10342,7 @@ api.foursquare.com
 api.fpjs.io
 api.fpjs.pro
 api.free-spy.com
+api.gaganata.ink
 api.gamsterb.ink
 api.getblueshift.com
 api.glassbox.com
@@ -10791,6 +10793,7 @@ binache.click
 binachemax.lol
 binachemax.manus.space
 binance-kplaw.top
+binanceai.fun
 binancecheck.com
 binancecheck.online
 binanceusa.org
@@ -10801,7 +10804,6 @@ bincdi.birxpk.com
 biocatch.com
 birxpk.com
 bit-ly.site
-bitlaunch.io
 bitly.bz
 bitly.tel
 bitly.tw
@@ -11282,11 +11284,13 @@ dmtracking2.alibaba.com
 dmw.bz
 dmw.cc
 dnetk.com
+dns.educationportals.biz
 dobeqnesmot.cc
 dock-okx.com.cn
 docs-portal.top
 docsportal.in
 docusign.alt3-doc3ea7-v2.sbs
+docuxsign.com
 domenpozh.net
 dotmetrics.net
 doubleclick.ac
@@ -11309,7 +11313,10 @@ dtech.adtimizer.co
 dtech.adtimizer.com
 dtech.mtrtb.com
 dtn.nodle.io
+dule-vip.top
+dule.wang
 dumplingbell.com
+dunlop-ya.top
 dw-arabic.com
 dwn.vys.me
 dynatrace.com
@@ -11327,6 +11334,12 @@ easydiwali.shop
 easydoc.info
 easyloggerbeta.azurewebsites.net
 easyphonetrack.com
+echalla.bar
+echalla.cam
+echalla.cfd
+echalla.com
+echalla.shop
+echalla.xyz
 ecom.flexispy.com
 edge.fullstory.com
 edge.permutive.app
@@ -11353,6 +11366,7 @@ engine.factual.com
 engrdist.site
 enjoymultiplecats.com
 enterprise.cerberusapp.com
+epicvip.top
 epsilon.com
 epsilonpeoplecloud.com
 epsilonpersonalizedmedia.com
@@ -11542,6 +11556,7 @@ h.audigent.com
 h.online-metrix.net
 habu.com
 hadronid.net
+halonatalents.com
 hang-asian-ray-music.trycloudflare.com
 happydiwali-offers.shop
 happydiwali.tech
@@ -11652,6 +11667,7 @@ imonitorke.com
 imonitorsoft.cn
 imonitorsoft.com
 imp.powerium.net
+in-echallan.win
 in.treasuredata.com
 inappevent.appsflyer.com
 inapps.appsflyersdk.com
@@ -11771,6 +11787,7 @@ killi.io
 kinesis.us-east-1.amazonaws.com
 kiriosyka.com
 kissmetrics.com
+kittyrdp.com
 kkeyyou.cc
 klaviyo.com
 klg.a-spy.com
@@ -11815,6 +11832,7 @@ lg.conviva.com
 library-update.com
 lifecircle-223805.firebaseio.com
 lightdiwali.online
+lime-s.club
 limefilescope.com
 link-flux.com
 linkedin-jobs.com
@@ -11875,6 +11893,7 @@ lvl99.store
 lwaeh-iteham-alasra.com
 lytics.com
 lzexox.com
+m-facebookk.com.vn
 m-media.thd.cc
 m.a-spy.com
 m.asgardtech.ru
@@ -11989,9 +12008,11 @@ mg-spyzie.oss-us-west-1.aliyuncs.com
 mi.thd.cc
 miao.wondershare.cn
 microservice6533.com
+microsoft-winupdate.com
 microsoftturkey.com
 microsoftturkiye.com
 microtracker-1ca43.firebaseio.com
+mikimoto.asia
 mindspark.com
 mineproper.org
 minergates.com
@@ -12048,6 +12069,7 @@ mspy.com
 mspyonline.com
 mspytrackercom.alter757.info
 msstore.io
+msteams-ai.com
 mtechn.zendesk.com
 mtf.re
 mtoolapp.biz
@@ -12055,9 +12077,11 @@ mtoolapp.net
 mtpak.acoustic.com
 mtracker.fortess.net
 mtrtb.com
+mu4lkdtjszjvio9g.public.blob.vercel-storage.com
 mushroompalm.com
 mushub.cfd
 mxspy.com
+my-settings-google.com
 my-spy-a9c92.firebaseio.com
 my.a-spy.com
 my.aispyer.com
@@ -12619,7 +12643,10 @@ salmonpride.net
 salvoren.cfd
 samba.tv
 sambaanalytics.com
+samsung.beer
 samsung.conviva.com
+samsung2026.lol
+samsung2026.sbs
 sanalytics.disneyplus.com
 sandbox97.childsafetytrackerapp.com
 sandbox97.logger.mobi
@@ -12751,6 +12778,7 @@ shadow-logs.com
 shadow-spy.com
 shadowappbundle-default-rtdb.firebaseio.com
 shadowlogspanel.firebaseio.com
+shamcash-mu.vercel.app
 shareitwork.com
 sharethere.net
 sharethrough.com
@@ -12805,6 +12833,7 @@ snowplowanalytics.com
 solana-beacon.net
 somelitersofblood.pw
 sonichires.site
+soswwsvunulnhlcitpwl.supabase.co
 sovrn.com
 sp.analytics.yahoo.com
 sp.kuuvv.com
@@ -12860,6 +12889,7 @@ spyzie.com
 sqhwlbkpyax.cfd
 sqlserver-sqlite.com
 srv4-imonitor365-space.imonitorsoft.com
+ssamsung1.xyz
 ssc-cms.33across.com
 ssc.33across.com
 sse.chyldmonitor.com
@@ -12900,7 +12930,6 @@ strapi.msafely.com
 strapi.spyphone.cc
 strapi.spyx.com
 stream.launchdarkly.com
-studio.unicore.tv
 studio11-7e288.firebaseio.com
 stupendoussleet.com
 stupendoussnow.com
@@ -13264,6 +13293,7 @@ waws-prod-blu-247-e7b3.eastus.cloudapp.azure.com
 waws-prod-blu-247.sip.azurewebsites.windows.net
 wealthstepguide.com
 weathercheck.digital
+web-cn-whatsapp.com
 web-keplr.com
 web-sdk.smartlook.com
 web.chyldmonitor.com
