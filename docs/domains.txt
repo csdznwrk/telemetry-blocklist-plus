@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-11-07 21:14 UTC
-# Domains: 13413
+# Updated: 2026-11-08 03:32 UTC
+# Domains: 13388
 
 0--foodwarez.da.ru
 0--skitch--0.tt.omtrdc.net
@@ -10111,8 +10111,6 @@ adlooxtracking.com
 admin.flexispy.com
 admin.model-point.click
 admin.mtrtb.com
-adobe.parterro.com
-adobeacrobatupdate.xyz
 ads-game-187f4.firebaseapp.com
 ads-impressions.com
 ads-monitor.xyz
@@ -10183,7 +10181,6 @@ alert.bk128.com
 alert.xiz4me.com
 alex.a2z.com
 alexaresponse.amazon.com
-alfrescoarcd-jp.com
 ali.panspy.com
 all-imager-hst.click
 all-tracker.appspot.com
@@ -10703,7 +10700,6 @@ atomicstealer.com
 ats.rlcdn.com
 au-club.top
 audigent.com
-auditormadrid.es
 auracorp.cfd
 auracorp.shop
 auramatrixa.com
@@ -10722,7 +10718,6 @@ aw.ktonemail.com
 awamisolution.com
 awsapi.io
 axe-net.com
-azorade.top
 azurenetfiles.net
 b.appjiagu.com
 b.infosum.net
@@ -11127,7 +11122,6 @@ d147nolwbekx2b.cloudfront.net
 d19oo8r6k9oumb.cloudfront.net
 d1fcoizt7mje85.cloudfront.net
 d1fzw0miu1r9rc.cloudfront.net
-d1g9mpv1gr3wxx.cloudfront.net
 d1gslyvqtipqvi.cloudfront.net
 d1x4e580sn23dn.cloudfront.net
 d23625plpxg1yn.cloudfront.net
@@ -11178,6 +11172,7 @@ ddcd62e16a428c8e.shop
 ddduuuppp.com
 ddfkljuvnnoifrsdfhtiop.top
 ddiutilities.com
+deadmansdrawz-jp.com
 dealdiwali.shop
 dealply.com
 deardrill.com
@@ -11191,6 +11186,7 @@ deliverconcern.net
 deltas.samsungads.com
 densefoot.com
 deployment.eastus.cloudapp.azure.com
+desertautoin-jp.com
 desireeclipse.com
 desktime.com
 detaincharity.net
@@ -11492,7 +11488,6 @@ gelora.org
 genderconference.org
 generator-qrcode.online
 genovaw.com
-geoogle.top
 geratronic.com.br
 get.snoopza.com
 getfeedback.com
@@ -11514,7 +11509,6 @@ goatsandals.com
 golfconcert.com
 gomescareerplans.com
 goodsecomfinder.com
-googie-chrome.top
 google-analytics.com
 googleanalytics.com
 googlegemini-earlyaccess.com
@@ -11586,7 +11580,6 @@ hraparak.org
 hs-analytics.net
 hubert-chauffage.fr
 hubstaff.com
-huechura.firebaseapp.com
 human.security
 humanab.com
 humanity.com
@@ -11657,6 +11650,7 @@ in.treasuredata.com
 inappevent.appsflyer.com
 inapps.appsflyersdk.com
 incognia.com
+incomestonefield.com
 incoming-telemetry.thunderbird.net
 incoming.telemetry.mozilla.org
 index.brew-reef.lat
@@ -11728,7 +11722,6 @@ izspy-1313.firebaseio.com
 jailbreak-gateway.thd.cc
 jampp.com
 jasperbalcony.live
-jbm-attrezzi.com
 jellybat.net
 jet-night.com
 jjspy.com
@@ -11756,7 +11749,6 @@ keplr-station.com
 keplr.to
 key-logger-90fff.firebaseio.com
 keyadapter.com
-keychainagent.pro
 keylogger-pro-us.imonitorsoft.com
 keylogger-software-org.imonitorsoft.com
 keysyncos.com
@@ -11809,7 +11801,6 @@ lehd01.hkg.bcebos.com
 lemonfilewave.com
 lenovo-setup.tk
 lessonhandle.com
-lestvnas.icu
 letmespy.com
 lever-analytics.com
 lg.conviva.com
@@ -12032,7 +12023,6 @@ monitor-android.android-monitor.ru
 monitor-ultra.com
 mossypinediwali.online
 motorolasolutions.com
-movecogi.z16.web.core.windows.net
 moyora.live
 mparticle.com
 mpmetrics.kochava.com
@@ -12048,7 +12038,6 @@ mspy.com
 mspyonline.com
 mspytrackercom.alter757.info
 msstore.io
-msteamsoss.top
 mtechn.zendesk.com
 mtf.re
 mtoolapp.biz
@@ -12549,7 +12538,6 @@ reproxy.io
 reproxy.net
 reptilicus.net
 res.adx.opera.com
-res65.traffer.net
 retailmedia.homedepot.com
 revealmobile.com
 revenuecat.com
@@ -12675,15 +12663,9 @@ secure-passkey.com
 secure-xdomain-39974.w-group.shop
 secure-xdomain-47972.w-group.shop
 secure-xdomain-54494.w-group.shop
-secure-xdomain-55493.w-group.shop
 secure-xdomain-62629.w-group.shop
-secure-xdomain-69342.w-group.shop
-secure-xdomain-71481.w-group.shop
-secure-xdomain-88755.w-group.shop
-secure-xdomain-92411.w-group.shop
 secure.adnxs.com
 securebackuponline.net
-securedocument-docusign.info
 securemetrics.apple.com
 securemetrics.apple.com.cn
 sedotracker.com
@@ -12955,7 +12937,6 @@ sync.xiz4me.com
 syncdatavault.com
 synctds.com
 system-reporter.app
-t-reff.eu.cc
 t.adjust.com
 t.appsflyer.com
 t.mplxtms.com
@@ -12983,7 +12964,6 @@ tdos.io
 te1egram.cfd
 te1egram.lol
 tealiumiq.com
-teamsosl123.oss-cn-hongkong.aliyuncs.com
 techupdate.cfd
 tehrantimes.org
 tekma-dmp.ai
@@ -13035,7 +13015,6 @@ tidalscreen.com
 tik-tok-18-2.cc
 tik-tok-18-3.cc
 tik-tok-18-4.cc
-tik-tok-18.com
 timedoctor.com
 tinyurl.bz
 tinyurl.ist
@@ -13113,7 +13092,6 @@ tracksp-7743c.firebaseio.com
 tracksp.in
 trackview.net
 tracookiepixel.xyz
-traffer.net
 traffic.iproyal.com
 traffictds.com
 translation.spylive360.com
@@ -13215,7 +13193,6 @@ users.awosoft.com
 users.easemon.com
 users.thephonem.com
 users.tvinteractive.tv
-userswordpress-signin-customer.aromadiroma.org
 uspsfund.online
 utdid.taobao.com
 uu01webzoom.us
@@ -13251,7 +13228,6 @@ viewer.snoopza.com
 viewercontroller.com
 vigilantsolutions.com
 vigorous-murdock.192-166-82-213.plesk.page
-vijaydarda.in
 viki-play.com
 viptelefonprogrami.com
 viptrack.pro
@@ -13390,7 +13366,6 @@ xrzyy.com
 xtracker.logimeter.com
 yablochnisok.com
 yandexmetrica.com
-ycfhfm.com
 yearofthecel-jp.com
 yektenet.com
 yeni-safak.com
