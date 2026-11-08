@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-11-08 03:32 UTC
-# Domains: 13388
+# Updated: 2026-11-08 12:29 UTC
+# Domains: 13405
 
 0--foodwarez.da.ru
 0--skitch--0.tt.omtrdc.net
@@ -10185,6 +10185,7 @@ ali.panspy.com
 all-imager-hst.click
 all-tracker.appspot.com
 all-tracker.firebaseio.com
+allegro.00049499994.quest
 allegro.ur372h9.buzz
 allegrolokalnie.pk-transport83746.top
 allownotification.net
@@ -10308,6 +10309,7 @@ api.bluecats.com
 api.blueconic.com
 api.bytepioner.com
 api.castle.io
+api.cerysoi.ink
 api.childsafetytrackerapp.com
 api.clear.thomsonreuters.com
 api.clevertap.com
@@ -10330,6 +10332,7 @@ api.eu.amplitude.com
 api.eu.getblueshift.com
 api.eyezy.com
 api.factual.com
+api.fallgamsterb.ink
 api.feedad.com
 api.findmykids.org
 api.flexispy.com
@@ -10338,6 +10341,7 @@ api.foursquare.com
 api.fpjs.io
 api.fpjs.pro
 api.free-spy.com
+api.gamsterb.ink
 api.getblueshift.com
 api.glassbox.com
 api.gravyanalytics.com
@@ -10823,6 +10827,7 @@ bnbvf.org
 bnbxt.org
 bombora.com
 bondmuscle.com
+boost.tanmath.shop
 bootstrapcdn.net
 branch.io
 braze.com
@@ -10852,6 +10857,7 @@ bt.myweb3id.io
 bt.platc-tester.com
 btmob.net
 bugsnag.com
+buildwithknexus.xyz
 bypassbirch.com
 bypasscalculate.com
 bypasscommerce.com
@@ -11699,6 +11705,7 @@ intercom.io
 interguard.com
 inv-nets-eu.admixer.net
 inv.logger.mobi
+inv2bullish.xyz
 ioi.life
 ios-gw.spynger.net
 iovation.com
@@ -11728,6 +11735,7 @@ jjspy.com
 jjspy.ml
 jobmarcher.com
 johnshopkin.net
+joinmotus.site
 joinushealth.com
 joinzoommeeting.online
 journeyjest.net
@@ -11889,6 +11897,7 @@ mail.spymasterpro.com
 mail.uspsfund.online
 mangocloudfile.com
 manulfie.click
+manw-2ansn-smanqjk.xo.je
 marketing.transunion.com
 maskingofking.xyz
 massgravel.net
@@ -12023,6 +12032,7 @@ monitor-android.android-monitor.ru
 monitor-ultra.com
 mossypinediwali.online
 motorolasolutions.com
+movementgigs.site
 moyora.live
 mparticle.com
 mpmetrics.kochava.com
@@ -12192,6 +12202,7 @@ orders-amazon-com.advancedfences.com
 orthb.adtelligent.com
 orthb.pulsepoint.com
 osesgy-unmissions.org
+oslhires.ink
 otel.nr-data.net
 otelcol.aspecto.io
 otelcol.honeycomb.io
@@ -12250,6 +12261,7 @@ penslice.com
 peoplecloud.epsilon.com
 pepperdominate.com
 perfectgrillrecipes.com
+perlyperlygi-jp.com
 permutive.app
 permutive.com
 petal-ads.com
@@ -12630,6 +12642,7 @@ scorecardresearch.com
 scoreparade.com
 screentimelabs.appspot.com
 scribe.logs.roku.com
+scrolltalents.online
 sdk-b.apptornado.com
 sdk.appbrain.com
 sdk.applause.com
@@ -12791,6 +12804,7 @@ snowplow.io
 snowplowanalytics.com
 solana-beacon.net
 somelitersofblood.pw
+sonichires.site
 sovrn.com
 sp.analytics.yahoo.com
 sp.kuuvv.com
@@ -12901,6 +12915,7 @@ superfish.com
 support.mtoolapp.biz
 support.phoneparental.com
 surge.bombora.com
+surgebuilders.ink
 surveygizmobeacon.s3.amazonaws.com
 surveymonkey.com
 surveys.medallia.com
@@ -13247,6 +13262,7 @@ walmartconnect.com
 wasm.web.mine.tf
 waws-prod-blu-247-e7b3.eastus.cloudapp.azure.com
 waws-prod-blu-247.sip.azurewebsites.windows.net
+wealthstepguide.com
 weathercheck.digital
 web-keplr.com
 web-sdk.smartlook.com
@@ -13291,6 +13307,7 @@ womanstudies.co
 wordzmncount.com
 workaj.com
 worktime.com
+workwitheigen.xyz
 worryfreetransport.com
 wppspy.tech
 wrs.clevertap.com
