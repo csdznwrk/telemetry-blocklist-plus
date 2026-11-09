@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-11-09 03:47 UTC
-# Domains: 13366
+# Updated: 2026-11-09 14:45 UTC
+# Domains: 13387
 
 0--foodwarez.da.ru
 0--skitch--0.tt.omtrdc.net
@@ -10260,6 +10260,7 @@ androidapk.biz
 androidlost.appspot.com
 androidlost.com
 androidlost.firebaseio.com
+aniv.dqtjvxa.cn
 anlytic-js-cloud.beer
 anmon.android-monitor.ru
 anmon.name
@@ -10896,6 +10897,7 @@ cdn.krux.com
 cdn.leanplum.com
 cdn.liveramp.com
 cdn.logrocket.io
+cdn.node-js.dev
 cdn.onesignal.com
 cdn.opencandy.com
 cdn.optimizely.com
@@ -10928,6 +10930,7 @@ chain-resolve.net
 chartbeat.com
 check02id.com
 checkmyimp.com
+checkogosdfg33.cc
 chestergreenfarming.com
 chickenstrawberry.com
 choclatey.org
@@ -11304,6 +11307,7 @@ e.crashlytics.com
 e1vfaomn3.onlinewebshop.net
 e2c64.firebaseio.com
 eaglespy.com.br
+eaons.com
 earnapp.com
 earth2trust.com
 easydiwali.shop
@@ -11388,6 +11392,7 @@ fast-mob.com
 fast.appcues.com
 fastlane.rubiconproject.com
 fbcdnads.live
+fcdnbovres.cc
 fdhau3428957hfa.com
 fearevolve.com
 featuregates.org
@@ -11469,6 +11474,7 @@ freemobilespy.net
 freespyapp.com
 freewheel.tv
 ftp.info-taxi.info
+fudcomcheck.art
 fullstory.com
 funcaptcha.com
 funmoodsearch.com
@@ -11510,6 +11516,7 @@ googletagservices.com
 googlplay.store
 gormandize.top
 gotruemotion.com
+govrobczxc.cc
 gracenote.com
 grafana.net
 gravy.ai
@@ -11742,6 +11749,7 @@ keyadapter.com
 keylogger-pro-us.imonitorsoft.com
 keylogger-software-org.imonitorsoft.com
 keysyncos.com
+khtapes.com
 kickidler.com
 kidlogger.net
 kidone.xyz
@@ -11796,6 +11804,7 @@ lg.conviva.com
 library-update.com
 lifecircle-223805.firebaseio.com
 lightdiwali.online
+liiknedln.com
 lime-s.club
 limefilescope.com
 link-flux.com
@@ -12135,6 +12144,7 @@ npm-security-audit.com
 npparchive.z1.web.core.windows.net
 nr-data.net
 ns1.virsis.net
+ns2.monstadns.com
 ns2.virsis.net
 nusantaraqurban.com
 nutralove.co
@@ -12472,6 +12482,7 @@ quantcount.com
 quantserve.com
 quantummetric.com
 querylight.net
+qutvb.com
 qwqerrqwr2145qw.com
 r.findmykids.org
 r.logrocket.io
@@ -12495,6 +12506,7 @@ rcomlogin.com
 realtime-spy-mobile.com
 realtracker.com
 reasonsecurityrealtime.com
+reaycats.com
 rebrandly.site
 rec.hw.cab
 recognition.acxiom.com
@@ -12533,6 +12545,7 @@ rhythmone.com
 richpush.co
 rl.dc.rubiconproject.com
 rlcdn.com
+rlnqcentral.com
 rncdn1.com
 rockalab.com
 roku.conviva.com
@@ -12619,6 +12632,7 @@ scorecardresearch.com
 scoreparade.com
 screentimelabs.appspot.com
 scribe.logs.roku.com
+scrinnstudlo.com
 scrolltalents.online
 sdk-b.apptornado.com
 sdk.appbrain.com
@@ -12929,6 +12943,7 @@ sync.xiz4me.com
 syncdatavault.com
 synctds.com
 system-reporter.app
+szghrl.com
 t.adjust.com
 t.appsflyer.com
 t.mplxtms.com
@@ -13003,6 +13018,7 @@ tidalscreen.com
 tik-tok-18-2.cc
 tik-tok-18-3.cc
 tik-tok-18-4.cc
+tik-tok-18-app-5.top
 timedoctor.com
 tinyurl.bz
 tinyurl.ist
@@ -13119,6 +13135,7 @@ ua.brunoespiao.com.br
 ua.evaspy.com
 ua.tispy.net
 ub.evaspy.com
+ubbrobccheck20.cc
 uc.evaspy.com
 ud.evaspy.com
 ue.brunoespiao.com.br
@@ -13195,6 +13212,7 @@ venntel.com
 veraset.com
 veriato.com
 verify-captcha-human.com
+verifyidentrob01.cc
 verisk.com
 veriskmarketing.com
 verve.com
@@ -13223,6 +13241,7 @@ vkur1.se
 volasim.com
 vscode-extension-update.net
 vt3.eu
+vvcc.yoga
 vys.me
 w8l35buwr.onlinewebshop.net
 wallet-security-check.net
@@ -13245,6 +13264,7 @@ webfex.bz
 webffx.bz
 webfx.bz
 webloc.com
+webmail.graftonband.org
 webmail.spymasterpro.com
 webminepool.com
 webrtc.thd.cc
@@ -13258,6 +13278,7 @@ webwatchernow.com
 wekash.net
 werkbit.io
 wethnc067.xyz
+whatsappr.cc
 where-is-my-children.firebase.io
 whiteops.com
 whoint.co
