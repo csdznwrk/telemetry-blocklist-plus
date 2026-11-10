@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-11-09 14:45 UTC
-# Domains: 13387
+# Updated: 2026-11-10 00:59 UTC
+# Domains: 13359
 
 0--foodwarez.da.ru
 0--skitch--0.tt.omtrdc.net
@@ -10147,6 +10147,7 @@ advertising.walmart.com
 advertracker.com
 adx.opera.com
 adx.petal-ads.com
+aepc.in
 aes-pdf.com
 aespdf.com
 aexshorthoo26d.9zy6p8.info
@@ -10163,14 +10164,12 @@ agent.kickidler.com
 agent.teramind.co
 agent.timedoctor.com
 agent.veriato.com
-ahutn0lm.onlinewebshop.net
 ai-nexora.sbs
 aipythondevs.com
 airbrake.io
 airbridge.io
 airship.com
 ajuda.spylive360.com
-ake-terais-nouls.rest
 akedo.gg
 alarum.com
 alarum.io
@@ -10512,8 +10511,6 @@ apple-ax.top
 apple-az.top
 apple-bk.com
 apple-br.site
-apple-condition.com
-apple-conditions.com
 apple-de.com
 apple-dk.cfd
 apple-dk.com
@@ -10787,7 +10784,6 @@ binachemax.lol
 binachemax.manus.space
 binance-kplaw.top
 binanceai.fun
-binanceusa.org
 binancn.live
 bincdi.6kvses.com
 bincdi.birxpk.com
@@ -10807,9 +10803,9 @@ blockroster.net
 blog.ikeymonitor.com
 bluecatswebapistage.apphb.com
 blueconic.com
-blueguradian.com
 bluerocksfinance.live
 blurspy.com
+bnmjko07ygbn.getenjoyment.net
 bombora.com
 bondmuscle.com
 boost.tanmath.shop
@@ -10833,7 +10829,6 @@ browser-security-patch.net
 browser.sentry-cdn.com
 browsersecurityupdate.net
 browsertools.shop
-browseruphelp.com
 brunoespiao.com
 brunoespiao.com.br
 brunoespiao2.s3.amazonaws.com
@@ -10931,11 +10926,9 @@ chartbeat.com
 check02id.com
 checkmyimp.com
 checkogosdfg33.cc
-chestergreenfarming.com
 chickenstrawberry.com
 choclatey.org
 chondritic.top
-christmasgif-jp.com
 chrome-update-required.com
 chromeupdatenow.com
 cinemaclassics-jp.com
@@ -11078,6 +11071,7 @@ crossoverdue.com
 crosswise.com
 cruisemacauu-jp.com
 crypto-loot.com
+cryptocommerceohpmigration.online
 cryptoloot.pro
 cryptonotepool.com
 cryptowallet-verify.com
@@ -11172,9 +11166,9 @@ delighted.com
 deliverconcern.net
 deltas.samsungads.com
 densefoot.com
-deployment.eastus.cloudapp.azure.com
 desertautoin-jp.com
 desireeclipse.com
+deskslink.com
 desktime.com
 detaincharity.net
 detan2go.web.app
@@ -11189,7 +11183,6 @@ device-api.urbanairship.com
 device-detection.51degrees.com
 device-metrics-us-2.amazon.com
 device-metrics-us.amazon.com
-device.ledger-signature.live
 device.threatmetrix.com
 deviceatlas.com
 deviceintelligence.io
@@ -11227,6 +11220,7 @@ diwali-wish.family
 diwali.homes
 diwali.lol
 diwali.pics
+diwali20.shop
 diwali2026.website
 diwali99.bar
 diwalibest-offers.shop
@@ -11242,8 +11236,10 @@ diwalijackpot.store
 diwalijackpott.shop
 diwalimela.org
 diwaling.store
+diwaliofer.com
 diwalioff.shop
 diwalioffers.shop
+diwalioffers2026.shop
 diwalirchrg.info
 diwalirchrg.shop
 diwalirecharge.online
@@ -11337,7 +11333,6 @@ embersandbites.com
 embrace.io
 emcpanel.com
 eminententwine.com
-ems-rifted-grigs.site
 endpoint-api-v1.com
 eng-keplr.com
 engagebaay.app
@@ -11393,10 +11388,10 @@ fast.appcues.com
 fastlane.rubiconproject.com
 fbcdnads.live
 fcdnbovres.cc
-fdhau3428957hfa.com
 fearevolve.com
 featuregates.org
 feedbackws.apple.com
+festive.info
 ff.ibig-tech.com
 fiklghytart-diwali-sale.space
 fileautumncastle.com
@@ -11420,7 +11415,6 @@ filesapphirecanvas.sbs
 filesapphiretower.cyou
 filesilverharbor.com
 fileswaper.com
-filesyncoraflow.com
 filevelvettractor.sbs
 filpkart-diwali-offers.shop
 filpkartdiwali-offers.shop
@@ -11460,10 +11454,8 @@ fonemonitor.vip
 fonts-gstatic.net
 forecastgarden.com
 foreverspy.com
-fortvite.com
 forum.reptilicus.net
 foursquare.com
-foxnevs.com
 fpjscdn.net
 fpnov4-zone.eastus.cloudapp.azure.com
 fptls.com
@@ -11487,7 +11479,6 @@ gelora.org
 genderconference.org
 generator-qrcode.online
 genovaw.com
-geratronic.com.br
 get.snoopza.com
 getfeedback.com
 getmspy.net
@@ -11506,7 +11497,6 @@ gmslb.net
 go.urbanairship.com
 goatsandals.com
 golfconcert.com
-gomescareerplans.com
 goodsecomfinder.com
 google-analytics.com
 googleanalytics.com
@@ -11528,7 +11518,6 @@ groundbreakinginitative.com
 groundtruth.com
 guestspy.com
 guitarcalculate.com
-gulas-kaccha-tronk.space
 gum.criteo.com
 gw.api.dh.comcast.com
 h.appjiagu.com
@@ -11537,6 +11526,7 @@ h.online-metrix.net
 habu.com
 hadronid.net
 halonatalents.com
+handanyonggu-jp.com
 happydiwali-offers.shop
 happydiwali.tech
 haqerra.com
@@ -11568,7 +11558,6 @@ host6.southspark.lat
 hostilefauna.com
 hotjar.com
 hotjar.net
-hotsitar.com
 house-spirit.com
 hover.watch
 hoverspy.com
@@ -11576,13 +11565,11 @@ hoverwatch.com
 hpapp.mywebsearch.com
 hraparak.org
 hs-analytics.net
-hubert-chauffage.fr
 hubstaff.com
 human.security
 humanab.com
 humanity.com
 hurgadatour.shop
-hvgua78432hfv.com
 hw.cab
 hwa.cab
 hwm.cab
@@ -11616,9 +11603,7 @@ iad.saasgw.appdynamics.com
 ib.adnxs-simple.com
 ib.adnxs.com
 icecreamtester.com
-icicibankkyc.vercel.app
 icloudappe.com
-icollections.github.io
 id5-sync.com
 id5.io
 id5api.com
@@ -11707,6 +11692,7 @@ iphone-ld.apple.com
 iproyal.com
 ipv6.reproxy.io
 iri.com
+irmaosrodriguesparafusos.com
 is-tracking-pixel-api-prod.appspot.com
 is.gd.appsflyer.com
 isolatelecture.com
@@ -11775,7 +11761,6 @@ kruxdigital.com
 kupony-rohlik.cz
 kuuvv.com
 kvshdi.birxpk.com
-kyamich.dev
 kyc-holdings.com
 kypler.com
 l.servidor.in
@@ -11849,7 +11834,6 @@ logs.activtrak.com
 logs.browser-intake-datadoghq.com
 logs.roborock.com
 logs.starbolt.io
-logstack.blob.core.windows.net
 logx.optimizely.com
 lotame.com
 loverman.net
@@ -11982,7 +11966,6 @@ microsoft-winupdate.com
 microtracker-1ca43.firebaseio.com
 mikimoto.asia
 mindspark.com
-mineproper.org
 minergates.com
 minero.cc
 minspy.com
@@ -12078,7 +12061,6 @@ mybbc-analytics.files.bbci.co.uk
 mycleanpc.com
 mycloud.wisemo.com
 mycloud1.wisemo.com
-mydishisbom-jp.com
 mydishisbom.com
 mydiwali.online
 mydsp.io
@@ -12155,7 +12137,6 @@ observer.back4app.io
 occdn.services
 ocmetrics.net
 ocservices.net
-octoberfp.eastus.cloudapp.azure.com
 offer-diwali-sale2026.space
 offercoremedia.com
 offercorestats.com
@@ -12322,6 +12303,7 @@ predictproper.com
 preprodapptrk.a4.tl
 press-f12-continue.com
 pressaviation.com
+primary-link.net
 privatealps.net
 prmtracking.com
 pro.logger.mobi
@@ -12442,7 +12424,6 @@ proximadeploy.app
 proxy-blue.apigw-east.api.dh.comcast.com
 proxy.reptilicus.net
 prozhe.vip
-prsnrw.de
 ps97mailer.logger.mobi
 psd.markets
 psznaoehteeh.com
@@ -12475,7 +12456,6 @@ qa-noas.powerium.net
 qakbot-update.com
 qakbot.net
 qbot-c2.net
-qbqxgnbsnb.a.pinggy.link
 qorexa-labs.com
 quanly24h.net
 quantcount.com
@@ -12496,7 +12476,6 @@ rampid.com
 rank1cdn.com
 rapid.thomsonreuters.com
 rapidfilevault4.sbs
-rappellingaart.com
 rasef22.com
 ravenjs.com
 raygun.com
@@ -12552,7 +12531,6 @@ roku.conviva.com
 rollbar.com
 rollstrech.com
 romancedrum.com
-rongjuekeji.com
 roseruvorif.app
 roseruvorif.zone
 roundel.com
@@ -12614,13 +12592,12 @@ sanalytics.disneyplus.com
 sandbox97.childsafetytrackerapp.com
 sandbox97.logger.mobi
 sandbox97.seniorsafetyapp.com
-santander.nfcobsidian.com
 sap4mobile-89685.firebaseio.com
 sap4mobile.com
 sapient-flight-837.firebaseio.com
 sardine.ai
 sas.smartadserver.com
-saw-strops-tedy.top
+savmtapp.b-cdn.net
 sb.scorecardresearch.com
 sc-analytics.appspot.com
 scientiamobile.com
@@ -12664,10 +12641,6 @@ searchly-five.vercel.app
 searchservice.cfd
 secondclone-2d312.firebaseio.com
 secure-passkey.com
-secure-xdomain-39974.w-group.shop
-secure-xdomain-47972.w-group.shop
-secure-xdomain-54494.w-group.shop
-secure-xdomain-62629.w-group.shop
 secure.adnxs.com
 securebackuponline.net
 securemetrics.apple.com
@@ -12766,7 +12739,6 @@ sklstech.com
 sky-borders.com
 sl360-7ba65.firebaseio.com
 slotbid.a-mo.net
-slpotify.com
 smartadserver.com
 smartback-12d60.appspot.com
 smartback-12d60.firebaseio.com
@@ -13104,6 +13076,7 @@ transmitsecurity.com
 transunion.com
 trastwallet.cam
 treasuredata.com
+treffert.screenconnect.com
 triplelift.com
 trk.dtignite.com
 trk.jampp.com
@@ -13171,7 +13144,6 @@ up.evaspy.com
 update-browser-now.com
 update-service-7e59f.firebaseio.com
 update.dealply.com
-update.neewsoo.com
 updatebrowser.net
 upload.weiguanai.cn
 uq.evaspy.com
@@ -13259,7 +13231,6 @@ webanalytics.zohodcm.com
 webbit6551.com
 webdisk.spymasterpro.com
 webengage.com
-webferret-ai.com
 webfex.bz
 webffx.bz
 webfx.bz
@@ -13291,6 +13262,7 @@ winzipdriverupdater.com
 wmdcommander.appspot.com
 wmt.com
 womanstudies.co
+word-majority-cahoots.ngrok-free.dev
 wordzmncount.com
 workaj.com
 worktime.com
@@ -13355,6 +13327,7 @@ x-mode.io
 x.pgv4.com
 x1panel.com
 xad.com
+xinyaojiancai-jp.com
 xmode.io
 xmrig.com
 xmyevq.birxpk.com
@@ -13380,7 +13353,6 @@ zantracker.com
 zcombinator.co
 zdalnakontrola.pl
 zendrive.com
-zenithal.cfd
 zeotap.com
 zion-telemetry.api.cnn.io
 zoommeet.live
