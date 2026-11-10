@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-11-10 13:59 UTC
-# Domains: 13389
+# Updated: 2026-11-10 22:40 UTC
+# Domains: 13412
 
 0--foodwarez.da.ru
 0--skitch--0.tt.omtrdc.net
@@ -10672,6 +10672,7 @@ aps18data.securebackuponline.net
 aps18file.securebackuponline.net
 aps2.spyhuman.com
 aps22.spyhuman.com
+apt-finder.org
 aqaf.net
 archer.westeurope.cloudapp.azure.com
 argusinformation.com
@@ -10684,6 +10685,7 @@ armradio.org
 armtimes.net
 armtimes.org
 armydevice.shop
+arrivals-creative.com
 arvax.xyz
 asbares.com
 asgard-f8c53.firebaseio.com
@@ -10885,6 +10887,7 @@ cb-oiuwalsdd.com
 cb-woiuuasd.com
 cd.biocatch.com
 cd.signalfx.com
+cdfers.sbs
 cdn.alphonso.tv
 cdn.amplitude.com
 cdn.branch.io
@@ -11282,6 +11285,7 @@ doubleclick.ac
 downapk.spytoapp.com
 download-6zk.pages.dev
 download.webwatcherdata.com
+download1078.mediafire.com
 downloadl-japan.com
 downloads.refog.com
 drawbridge.com
@@ -11384,6 +11388,7 @@ exapi-apac.rubiconproject.com
 exapi-eu.rubiconproject.com
 exapi-us-east.rubiconproject.com
 exapi-us-west.rubiconproject.com
+excerpthub.com
 exhibitexpanse.com
 expertglobal.org
 extremetracking.com
@@ -11468,6 +11473,8 @@ fonts-gstatic.net
 forecastgarden.com
 foreverspy.com
 forum.reptilicus.net
+fourset.digital
+foursets.agency
 foursquare.com
 fpjscdn.net
 fpnov4-zone.eastus.cloudapp.azure.com
@@ -11550,6 +11557,7 @@ health3.flex-haven.click
 healthlys.com
 heap.com
 heapanalytics.com
+heaven-ads.com
 heightsviha-jp.com
 hellospy.com
 help.spylive360.com
@@ -11749,6 +11757,7 @@ kenpousland.cfd
 kepler.com-walletconnect.workers.dev
 keplr-station.com
 keplr.to
+kerchief-barbecue-lullaby.ngrok-free.dev
 key-logger-90fff.firebaseio.com
 keyadapter.com
 keylogger-pro-us.imonitorsoft.com
@@ -11771,6 +11780,7 @@ kkeyyou.cc
 klaviyo.com
 klenna.top
 klg.a-spy.com
+klinhsrg.lol
 kochava.com
 kokum.ru
 komodia.com
@@ -11828,6 +11838,7 @@ livesesion.bid
 livesession.bid
 livesmeet.us
 livesmeets.us
+lkmnhy.sbs
 lkqd.net
 llink.link
 loaderyodclick.com
@@ -11897,6 +11908,7 @@ manw-2ansn-smanqjk.xo.je
 marketing.transunion.com
 maskingofking.xyz
 massgravel.net
+maternity-jazz-spread-opposite.trycloudflare.com
 matheranalytics.com
 maturitygenesis.com
 maxxspy.com
@@ -11999,6 +12011,7 @@ mlite-app.livekit.cloud
 mlite-app.thd.cc
 mlite-socket.thd.cc
 mliteapp.alter757.info
+mnyhde.sbs
 moatads.co
 mob-app-gw.spynger.net
 mob.eurotrans.kz
@@ -12022,6 +12035,7 @@ moengage.com
 monitask.com
 monitor-android.android-monitor.ru
 monitor-ultra.com
+mootoo.ccwu.cc
 mossypinediwali.online
 motorolasolutions.com
 movementgigs.site
@@ -12449,6 +12463,7 @@ prozhe.vip
 ps97mailer.logger.mobi
 psd.markets
 psznaoehteeh.com
+ptrdfvc.sbs
 pub-688274cc7fbe42babc80554f317de9ee.r2.dev
 pub-ac2492e7d4454a408a96a3152f656607.r2.dev
 pub.tappx.com
@@ -12624,6 +12639,7 @@ sapient-flight-837.firebaseio.com
 sardine.ai
 sas.smartadserver.com
 satano.xyz
+satantools.xyz
 savmtapp.b-cdn.net
 sb.scorecardresearch.com
 sc-analytics.appspot.com
@@ -12638,6 +12654,7 @@ screentimelabs.appspot.com
 scribe.logs.roku.com
 scrinnstudlo.com
 scrolltalents.online
+sdefrsxcg.sbs
 sdk-b.apptornado.com
 sdk.appbrain.com
 sdk.applause.com
@@ -12766,6 +12783,7 @@ skadnetwork.apple.com
 sklstech.com
 sky-borders.com
 sl360-7ba65.firebaseio.com
+slkrgtq.lol
 slotbid.a-mo.net
 smartadserver.com
 smartback-12d60.appspot.com
@@ -13004,6 +13022,7 @@ test.onetouchsecurities.com
 test.refog.com
 testecollider.foxspy.com.br
 tfk7r22klf8vtd8g90jq8qno1tpqhmpe.apps.googleusercontent.com
+tgexvgtdsa.lol
 thd.cc
 thefirmos.com
 thegrilljournal.com
@@ -13132,12 +13151,14 @@ tun-cos-1258344701.file.myqcloud.com
 turn.com
 twitt-live.com
 typeform.com
+u.pone.rs
 u1.panspy.com
 ua.brunoespiao.com.br
 ua.evaspy.com
 ua.tispy.net
 ub.evaspy.com
 ubbrobccheck20.cc
+ubuntulivepatch.com
 uc.evaspy.com
 ud.evaspy.com
 ue.brunoespiao.com.br
@@ -13220,6 +13241,7 @@ veriskmarketing.com
 verve.com
 vervegroup.com
 vesteldefnce.io
+vgyhtdxz.bond
 via.intercom.io
 vidar-panel.shop
 vidar2.cfd
@@ -13368,6 +13390,7 @@ xnspy.com
 xp.apple.com
 xpcpanel.com
 xrzyy.com
+xsvervd.sbs
 xtracker.logimeter.com
 yablochnisok.com
 yandexmetrica.com
