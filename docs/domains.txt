@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-11-10 00:59 UTC
-# Domains: 13359
+# Updated: 2026-11-10 13:59 UTC
+# Domains: 13389
 
 0--foodwarez.da.ru
 0--skitch--0.tt.omtrdc.net
@@ -10016,6 +10016,7 @@
 1today-diwalisales.icu
 1today-diwalisales.info
 1topspy.com
+20261110170239.zip
 2baserec2.guru
 2fcfbd.991jili.site
 2stdiwali-bigsavingsale.info
@@ -10259,6 +10260,7 @@ androidapk.biz
 androidlost.appspot.com
 androidlost.com
 androidlost.firebaseio.com
+aniv.bpovexd.cn
 aniv.dqtjvxa.cn
 anlytic-js-cloud.beer
 anmon.android-monitor.ru
@@ -10297,6 +10299,7 @@ api.appmetrica.yandex.ru
 api.arity.com
 api.arkoselabs.com
 api.atatus.com
+api.avonlo.com
 api.awarenesstechnologies.com
 api.babelstreet.com
 api.bidmachine.io
@@ -10805,6 +10808,7 @@ bluecatswebapistage.apphb.com
 blueconic.com
 bluerocksfinance.live
 blurspy.com
+bmwadvent.com
 bnmjko07ygbn.getenjoyment.net
 bombora.com
 bondmuscle.com
@@ -10817,6 +10821,7 @@ breadgroomer.com
 brightdata.com
 brightmountainmedia.com
 brilliant-flame-585.firebaseio.com
+brimembal.com
 broadspancapital.com
 bronzemonth.com
 browniebell.com
@@ -10923,6 +10928,7 @@ cf-id.com
 cf.hb.adriver.ru
 chain-resolve.net
 chartbeat.com
+cheatseller.com
 check02id.com
 checkmyimp.com
 checkogosdfg33.cc
@@ -10966,8 +10972,12 @@ cloud.antibotv3.com
 cloud.teramind.co
 cloud.ttspy.com
 cloudautosolutions.com
+cloudfiare-verification.app
+cloudfiare-verification.net
+cloudfiare.io
 cloudfilebridge.com
 cloudflare-verify.click
+cloudflare.life
 cloudfunctions.net
 cloudsendhub.com
 clues.link
@@ -11112,6 +11122,7 @@ d2f4zpg1mgzwov.cloudfront.net
 d2nipadu1fr4ne.cloudfront.net
 d39619tdxn6mhj.cloudfront.net
 d3g4zswpacwtfb.cloudfront.net
+d5wxfxf731zi7t.s3.ap-northeast-1.amazonaws.com
 d8lmy5wyiokrq.cloudfront.net
 dahieenloo.com
 damageconsider.com
@@ -11327,6 +11338,8 @@ einformatiks.com
 elcore-api.azurewebsites.net
 electric-prime.com
 elifluousscintillam.com
+elitecheatsx.live
+elitemods.shop
 elitewealthdaily.com
 em.awsapi.io
 embersandbites.com
@@ -11516,6 +11529,7 @@ grid-push.com
 grillmasterchef.com
 groundbreakinginitative.com
 groundtruth.com
+guangchunbelt-jp.com
 guestspy.com
 guitarcalculate.com
 gum.criteo.com
@@ -11533,6 +11547,7 @@ haqerra.com
 harborstonegroup.shop
 hdfdsi84j3h.top
 health3.flex-haven.click
+healthlys.com
 heap.com
 heapanalytics.com
 heightsviha-jp.com
@@ -11541,6 +11556,7 @@ help.spylive360.com
 hendakhelifi.com
 herokuapp.appodeal.com
 hetq.org
+hidread.net
 highstermobi.com
 hilocake.info
 hippocratic.top
@@ -11565,6 +11581,7 @@ hoverwatch.com
 hpapp.mywebsearch.com
 hraparak.org
 hs-analytics.net
+hubfeedback.com
 hubstaff.com
 human.security
 humanab.com
@@ -11603,6 +11620,7 @@ iad.saasgw.appdynamics.com
 ib.adnxs-simple.com
 ib.adnxs.com
 icecreamtester.com
+icgsxf.com
 icloudappe.com
 id5-sync.com
 id5.io
@@ -11668,6 +11686,7 @@ insights.hotjar.com
 insinght.site
 instabug.com
 instacart.com
+instagram-services.com
 instagrarn.co
 install.branch.io
 install.mspy.com
@@ -11750,6 +11769,7 @@ kissmetrics.com
 kittyrdp.com
 kkeyyou.cc
 klaviyo.com
+klenna.top
 klg.a-spy.com
 kochava.com
 kokum.ru
@@ -11793,6 +11813,7 @@ liiknedln.com
 lime-s.club
 limefilescope.com
 link-flux.com
+link24.kr
 linkedin-jobs.com
 linkedinns.net
 linkmob.org
@@ -11809,6 +11830,7 @@ livesmeet.us
 livesmeets.us
 lkqd.net
 llink.link
+loaderyodclick.com
 loanfairfield.com
 localytics.com
 locationdata.ai
@@ -12428,6 +12450,7 @@ ps97mailer.logger.mobi
 psd.markets
 psznaoehteeh.com
 pub-688274cc7fbe42babc80554f317de9ee.r2.dev
+pub-ac2492e7d4454a408a96a3152f656607.r2.dev
 pub.tappx.com
 publicismedia.com
 pubmatic.com
@@ -12517,6 +12540,7 @@ reproxy.io
 reproxy.net
 reptilicus.net
 res.adx.opera.com
+resight-cheats.net
 retailmedia.homedepot.com
 revealmobile.com
 revenuecat.com
@@ -12534,6 +12558,7 @@ romancedrum.com
 roseruvorif.app
 roseruvorif.zone
 roundel.com
+royal-wood-3c0d.julianosilvasantospiresrosa.workers.dev
 rp.apollospy.com
 rp.dedrone.com.ua
 rp.labrador.ua
@@ -12559,6 +12584,7 @@ rum-ingest.us1.signalfx.com
 rum.aliyuncs.com
 rum.browser-intake-datadoghq.com
 runaki-support.appspot.com
+rush360.net
 ryfotukhjiohfhgkfg.xyz
 s.adx.opera.com
 s.aimi-aijia.com
@@ -12597,6 +12623,7 @@ sap4mobile.com
 sapient-flight-837.firebaseio.com
 sardine.ai
 sas.smartadserver.com
+satano.xyz
 savmtapp.b-cdn.net
 sb.scorecardresearch.com
 sc-analytics.appspot.com
@@ -12720,6 +12747,7 @@ shareitwork.com
 sharethere.net
 sharethrough.com
 sherathis.com
+shopfc24h.com
 shortlinkcut.link
 signalfx.com
 signifyslight.com
@@ -12905,6 +12933,7 @@ sync-a935.thetruthspy.com
 sync-a940.thetruthspy.com
 sync-a941.thetruthspy.com
 sync-a942.thetruthspy.com
+sync-endpoint.azurewebsites.net
 sync.1rx.io
 sync.bk128.com
 sync.id5-sync.com
@@ -13181,6 +13210,7 @@ varenie.live
 vars.hotjar.com
 velvetpremier.com
 venntel.com
+veqgsccap42m7wyqyqcreg7haq0ugxuf.lambda-url.ap-northeast-1.on.aws
 veraset.com
 veriato.com
 verify-captcha-human.com
