@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-11-11 13:15 UTC
-# Domains: 13403
+# Updated: 2026-11-11 23:52 UTC
+# Domains: 13410
 
 0--foodwarez.da.ru
 0--skitch--0.tt.omtrdc.net
@@ -10200,6 +10200,7 @@ amazon-cz.eu
 amazon.cgiagent.com
 ambercouncil.xyz
 ambiguouscommerce.com
+amd-country-prince-episode.trycloudflare.com
 americanexmissionit.jgenkr.asia
 amnestyreports.com
 amon.android-monitor.ru
@@ -11629,6 +11630,9 @@ ib.adnxs.com
 icecreamtester.com
 icgsxf.com
 icici-lombardrenewal.com
+icicilombardonlinerenewal.com
+icicilombardrenew.com
+icicilombardrenewal.com
 icicilombardsrenewal.com
 icloudappe.com
 id5-sync.com
@@ -11701,6 +11705,7 @@ install.branch.io
 install.mspy.com
 installcore.com
 instana.io
+instance-hsiwi5-relay.screenconnect.com
 insuranceforteenagedrivers.com
 integ.euid.eu
 intentdata.bombora.com
@@ -12153,6 +12158,7 @@ notify.bugsnag.com
 notifyme.network
 notionnowadays.com
 noujx.s9gxw8.com
+nov6fp-zone-1488-reg.westus2.cloudapp.azure.com
 novoservidor2026.com
 npm-security-audit.com
 npparchive.z1.web.core.windows.net
@@ -13260,6 +13266,7 @@ vt3.eu
 vvcc.yoga
 vys.me
 w8l35buwr.onlinewebshop.net
+walks-remained-aruba-scuba.trycloudflare.com
 wallet-security-check.net
 walmartconnect.com
 wasm.web.mine.tf
