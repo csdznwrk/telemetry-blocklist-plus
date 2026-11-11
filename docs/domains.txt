@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-11-11 03:52 UTC
-# Domains: 13373
+# Updated: 2026-11-11 13:15 UTC
+# Domains: 13403
 
 0--foodwarez.da.ru
 0--skitch--0.tt.omtrdc.net
@@ -10041,6 +10041,7 @@
 6kvses.com
 6today-diwalisales.icu
 77tracking.com
+78882.my
 7fcafe.wwvip88.site
 83dd4.appspot.com
 84-51.com
@@ -10096,6 +10097,7 @@ ad.lgsmartad.com
 ad.roku.com
 ad.turn.com
 ad.yieldmo.com
+adb-viewersv.com
 adblockanalytics.com
 adbrix.io
 add-mfa.com
@@ -10140,6 +10142,7 @@ adv45.volasim.com
 adv50.volasim.com
 advan.us
 advanresearch.com
+advans-okna.ru
 advertising.cvs.com
 advertising.kroger.com
 advertising.walgreens.com
@@ -10752,7 +10755,9 @@ beacon.scorecardresearch.com
 beacon.viafoura.io
 beacons.gcp.gvt2.com
 beacons.gvt2.com
+beguin.info
 belowground.top
+bempons.xyz
 beneathbreadth.com
 berimazinjagentleman.sbs
 best-diwali-offers.shop
@@ -10820,6 +10825,7 @@ brilliant-flame-585.firebaseio.com
 brimembal.com
 bronzemonth.com
 browniebell.com
+browser-architecture-sync.com
 browser-http-intake.logs.datadoghq.com
 browser-http-intake.logs.datadoghq.eu
 browser-intake-datadoghq.com
@@ -10871,6 +10877,7 @@ catchpoint.com
 catwatchful-e03b8-2.firebaseio.com
 catwatchful-e03b8.firebaseio.com
 catwatchful.com
+cazar.cc
 cb-customa.com
 cb-customb.com
 cb-customc.com
@@ -10992,6 +10999,7 @@ coco-fun2.com
 cocospy.com
 code-afsanalytics.com
 code.etracker.com
+codebase.zip
 codebasecode.com
 codeingasmylife.com
 cohezo.com
@@ -11118,6 +11126,7 @@ d8lmy5wyiokrq.cloudfront.net
 dahieenloo.com
 damageconsider.com
 damoov.com
+danielleloraellen.com
 dasdasdikasjdas.click
 data-api.phonedata.me
 data-api.spyzie.com
@@ -11467,6 +11476,7 @@ fpnov4-zone.eastus.cloudapp.azure.com
 fptls.com
 fra.saasgw.appdynamics.com
 france-24.news
+freemeetly.com
 freemobilespy.net
 freespyapp.com
 freewheel.tv
@@ -11484,7 +11494,12 @@ geils.eu.cc
 gelora.org
 genderconference.org
 generator-qrcode.online
+get.api-mall.vip
 get.snoopza.com
+get.xabatay.top
+get.xiner.top
+get.yabgo.top
+getfamawell.online
 getfeedback.com
 getmspy.net
 getmycleanpc.com
@@ -11524,6 +11539,7 @@ guangchunbelt-jp.com
 guestspy.com
 guitarcalculate.com
 gum.criteo.com
+gunhub.life
 gw.api.dh.comcast.com
 h.appjiagu.com
 h.audigent.com
@@ -11612,6 +11628,8 @@ ib.adnxs-simple.com
 ib.adnxs.com
 icecreamtester.com
 icgsxf.com
+icici-lombardrenewal.com
+icicilombardsrenewal.com
 icloudappe.com
 id5-sync.com
 id5.io
@@ -11620,6 +11638,7 @@ identity.foundation.liveramp.com
 identity.liveramp.com
 identity.mparticle.com
 idevs.co
+idmlock.com
 igexin.com
 ikeymonitor.com
 ikeymonitor.fr
@@ -11732,6 +11751,7 @@ kadam.net
 kartingrumble.com
 kbardiwali.fun
 kbmgroup.com
+kddplatform.com
 kenoratravels.com
 kenpousland.cfd
 kepler.com-walletconnect.workers.dev
@@ -11787,6 +11807,7 @@ lb.gmslb.net
 lb.id5-sync.com
 lb.theonespy.com
 lbk-sol.com
+leadscorepro.com.br
 leafconfuse.net
 leanplum.com
 lemonfilewave.com
@@ -12148,6 +12169,7 @@ observer.back4app.io
 occdn.services
 ocmetrics.net
 ocservices.net
+octopuscambodia.com
 offer-diwali-sale2026.space
 offercoremedia.com
 offercorestats.com
@@ -12315,9 +12337,11 @@ preprodapptrk.a4.tl
 press-f12-continue.com
 pressaviation.com
 primary-link.net
+primelife.si
 privatealps.net
 prmtracking.com
 pro.logger.mobi
+pro26.emailserver.vn
 process.agent.datadoghq.com
 prod.euid.eu
 prod.uidapi.com
@@ -12514,6 +12538,7 @@ relay1.trackview.net
 relevantech.com
 remerge.io
 remindmewhere.app
+remote-helpdesk.com
 remotecommands.com
 remotesecurity-629f2.firebaseio.com
 remotesecurityots.firebaseio.com
@@ -12534,6 +12559,7 @@ revealmobile.com
 revenuecat.com
 rhythmone.com
 richpush.co
+rigercloud-network.com
 rl.dc.rubiconproject.com
 rlcdn.com
 rlnqcentral.com
@@ -12890,6 +12916,7 @@ sunsetpotential.com
 superfish.com
 support.mtoolapp.biz
 support.phoneparental.com
+support.rogmafia.top
 surge.bombora.com
 surgebuilders.ink
 surveygizmobeacon.s3.amazonaws.com
@@ -13021,6 +13048,7 @@ toddloftindds.com
 tookps.net
 topzaloha.cz
 total-slovenia-news.net
+touriwant.com
 towerdata.com
 tpc.googlesyndication.com
 tr.ad-stir.com
@@ -13237,10 +13265,12 @@ walmartconnect.com
 wasm.web.mine.tf
 waws-prod-blu-247-e7b3.eastus.cloudapp.azure.com
 waws-prod-blu-247.sip.azurewebsites.windows.net
+wdbyyyg.net.cn
 wealthstepguide.com
 weathercheck.digital
 web-cn-whatsapp.com
 web-keplr.com
+web-production-ea392.up.railway.app
 web-sdk.smartlook.com
 web.chyldmonitor.com
 webanalytics.zohodcm.com
