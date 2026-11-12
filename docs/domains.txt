@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-11-12 05:00 UTC
-# Domains: 13267
+# Updated: 2026-11-12 14:19 UTC
+# Domains: 13271
 
 0--foodwarez.da.ru
 0--skitch--0.tt.omtrdc.net
@@ -11696,6 +11696,7 @@ lb.gmslb.net
 lb.id5-sync.com
 lb.theonespy.com
 lbk-sol.com
+lc5o45m.medianewsonline.com
 leadscorepro.com.br
 leafconfuse.net
 leanplum.com
@@ -11914,6 +11915,7 @@ mobiletool.ru
 mobiletracking.appsflyer.com
 mobilewalla.com
 moengage.com
+mofa-gov-np.donwloaad-file.org
 monitask.com
 monitor-android.android-monitor.ru
 monitor-ultra.com
@@ -12043,6 +12045,7 @@ ns2.monstadns.com
 ns2.virsis.net
 nusantaraqurban.com
 nutralove.co
+nzxaxcj.cn
 o1.ingest.sentry.io
 obliquity.top
 observability.splunkcloud.com
@@ -12395,6 +12398,7 @@ raygun.com
 rbtlnk.net
 rc-api.lifecircle.app
 rcomlogin.com
+realmadridistats.org
 realtime-spy-mobile.com
 realtracker.com
 reasonsecurityrealtime.com
