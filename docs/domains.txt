@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-11-12 14:19 UTC
-# Domains: 13271
+# Updated: 2026-11-12 22:59 UTC
+# Domains: 13274
 
 0--foodwarez.da.ru
 0--skitch--0.tt.omtrdc.net
@@ -12346,6 +12346,7 @@ ptrdfvc.sbs
 pub-688274cc7fbe42babc80554f317de9ee.r2.dev
 pub-ac2492e7d4454a408a96a3152f656607.r2.dev
 pub.tappx.com
+public.mexc.co.com
 publicismedia.com
 pubmatic.com
 pubnative.net
@@ -12778,6 +12779,7 @@ stats.wp.com
 statsigapi.net
 stellarnodegrid1.cyou
 stellarnodegrid8.cyou
+store2.shop
 strand-output-firefox-laptop.trycloudflare.com
 strangegarden.org
 strapi.msafely.com
@@ -12917,6 +12919,7 @@ tispy.net
 tls.telemetry.swe.quicinc.com
 tlx.3lift.com
 tmsapi.com
+tolfex.com
 tookps.net
 topzaloha.cz
 total-slovenia-news.net
