@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-11-13 04:15 UTC
-# Domains: 13076
+# Updated: 2026-11-13 13:40 UTC
+# Domains: 13079
 
 0--foodwarez.da.ru
 0--skitch--0.tt.omtrdc.net
@@ -11365,6 +11365,7 @@ identity.mparticle.com
 idevs.co
 idmlock.com
 igexin.com
+ii-sen.ir
 ikeymonitor.com
 ikeymonitor.fr
 ikm.awsapi.io
@@ -12493,6 +12494,7 @@ smetrics.fedex.com
 smetrics.foxnews.com
 smetrics.walgreens.com
 smetrics.washingtonpost.com
+smokingpussy.store
 smoot-api-spotlight-ause1a.v.aaplimg.com
 smoot-api-spotlight-ause2c.v.aaplimg.com
 smoot-searchv2-ause1a.v.aaplimg.com
@@ -12982,6 +12984,7 @@ widget.criteo.com
 wikipediaathome.net
 windomination.com
 winmslaf.xyz
+winne.mynetav.net
 winupdate.live
 winzipdriverupdater.com
 wmdcommander.appspot.com
