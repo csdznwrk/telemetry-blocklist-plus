@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-11-14 04:12 UTC
-# Domains: 13053
+# Updated: 2026-11-14 12:44 UTC
+# Domains: 13056
 
 0--foodwarez.da.ru
 0--skitch--0.tt.omtrdc.net
@@ -10503,6 +10503,7 @@ arvax.xyz
 asbares.com
 asgard-f8c53.firebaseio.com
 ashevilleroofingcontractor.com
+asiannetmark.org
 ask.com
 asknapkin.com
 ass.absolutesoftsystem.in
@@ -11669,6 +11670,7 @@ message-tracker-98822.firebaseio.com
 messages01.smstracker.com
 messages02.smstracker.com
 metabase.spylive360.com
+metaslate.org
 metastealer.org
 metricreceiver.cellrebel.com
 metrics-a.wbx2.com
@@ -11915,6 +11917,7 @@ pagead.trustlayersdk.com
 pagead2.googlesyndication.com
 pair-api.google.com
 pair.google.com
+pakdigital.org
 panel-aura.shop
 panel.spy24.net
 panel24.org
