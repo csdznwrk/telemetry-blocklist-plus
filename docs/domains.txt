@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-11-13 23:02 UTC
-# Domains: 13079
+# Updated: 2026-11-14 04:12 UTC
+# Domains: 13053
 
 0--foodwarez.da.ru
 0--skitch--0.tt.omtrdc.net
@@ -10054,7 +10054,6 @@ account.childsafetytrackerapp.com
 account.logger.mobi
 account.refog.com
 account.trackerplus.ru
-accounts.billingmicrosloft365.site
 accounts.wondershare.cn
 acdn.adnxs.com
 acoustic.com
@@ -10462,7 +10461,6 @@ appdynamics.com
 appjiagu.com
 apple-mac-fix-hidden.medium.com
 apple-updates.online
-apple.eu10hub.com
 applefilevault.com
 application.com
 appnexus.com
@@ -10670,12 +10668,6 @@ catwatchful-e03b8-2.firebaseio.com
 catwatchful-e03b8.firebaseio.com
 catwatchful.com
 cazar.cc
-cb-customa.com
-cb-customb.com
-cb-customc.com
-cb-customd.com
-cb-oiuwalsdd.com
-cb-woiuuasd.com
 cd.biocatch.com
 cd.signalfx.com
 cdfers.sbs
@@ -10776,7 +10768,6 @@ cluestr.com
 cm.g.doubleclick.net
 cm.publishers.advertising.a2z.com
 cm.quantserve.com
-cm88king.com
 cmd.crwdcntrl.net
 cms.krux.com
 cmtelematics.com
@@ -10949,7 +10940,6 @@ dcv2rnj2ograe.cloudfront.net
 ddcd62e16a428c8e.shop
 ddduuuppp.com
 ddiutilities.com
-deadmansdrawz-jp.com
 dealply.com
 deardrill.com
 decide.mixpanel.com
@@ -10960,7 +10950,6 @@ delighted.com
 deliverconcern.net
 deltas.samsungads.com
 densefoot.com
-desertautoin-jp.com
 desireeclipse.com
 deskslink.com
 desktime.com
@@ -11244,7 +11233,6 @@ gmslb.net
 go.urbanairship.com
 goatsandals.com
 golfconcert.com
-goodsecomfinder.com
 google-analytics.com
 googleanalytics.com
 googletagmanager.com
@@ -11295,9 +11283,7 @@ hivinest.online
 hjazfioe.surf
 hlk.criteo.com
 homearea.googleapis.com
-homegardenfocus.com
 homelygrill.com
-honestcaradvice.com
 honeybadger.io
 honeygain.com
 hostilefauna.com
@@ -11513,7 +11499,6 @@ kypler.com
 l.servidor.in
 labrador.ua
 labyrinthextravagance.org
-ladygirl-series.com
 lanhd6549tdhse.top
 laucass.forumactif.org
 launchdarkly.com
@@ -11547,7 +11532,6 @@ linkmob.org
 links.iterable.com
 lioiamcount.com
 liokida.com
-liuwamksdas.com
 live3.eu.steerpath.net
 liveramp.com
 liveramp.net
@@ -11574,7 +11558,6 @@ log.smartthings.com
 logger.controlium.net
 logger.powerium.net
 logger.quantummetric.com
-login-msftportal.com
 login.quanly24h.net
 login.webwatcher.com
 logrocket.com
@@ -11608,7 +11591,6 @@ macos-diagnostics.net
 macos-disk-space.medium.com
 macrodrop.net
 macromint.net
-madeofinkandiron.com
 mads.amazon.com
 mads.freewheel.tv
 magicupdate.cfd
@@ -11749,7 +11731,6 @@ monitor-ultra.com
 mootoo.ccwu.cc
 motorolasolutions.com
 movementgigs.site
-moyora.live
 mparticle.com
 mpmetrics.kochava.com
 mpsnare.com
@@ -11900,7 +11881,6 @@ online-source-validate.com
 onlinefundb.com
 only-music.net
 open-collectors.sumologic.com
-open.spotify.mint.89237892.com
 opencamping.shop
 opencandy.com
 openfpcdn.io
@@ -11935,7 +11915,6 @@ pagead.trustlayersdk.com
 pagead2.googlesyndication.com
 pair-api.google.com
 pair.google.com
-paiwdlasd.com
 panel-aura.shop
 panel.spy24.net
 panel24.org
@@ -11993,7 +11972,6 @@ pi.info-taxi.info
 pickarest.com
 pilgrim.foursquare.com
 ping.chartbeat.net
-pinkgirl-tv.com
 pipe.thd.cc
 piwiks.com
 pixel.eyeota.com
@@ -12006,10 +11984,6 @@ plausible.io
 play-store-3bb64.firebaseio.com
 playintegrity.googleapis.com
 pochtarossiy.info
-poijkukasdd.com
-poiwalsdas.com
-poiwamsda.com
-pokikwasd.com
 policiacivilmg.com
 politicalsciencestudent.com
 polygon-c2-relay.com
