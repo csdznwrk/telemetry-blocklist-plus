@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-11-15 13:12 UTC
-# Domains: 13138
+# Updated: 2026-11-15 22:18 UTC
+# Domains: 13191
 
 0--foodwarez.da.ru
 0--skitch--0.tt.omtrdc.net
@@ -10008,6 +10008,7 @@
 13-5.ru
 16.fp.us.acr.unruly.co
 1ca43.appspot.com
+1drv.adessosnow.com
 1inch-extension.vercel.app
 1nvcjkz.asia
 1topspy.com
@@ -10131,6 +10132,7 @@ adx.opera.com
 adx.petal-ads.com
 aelogo.com
 aepc.in
+aexpresstrysive.a48qkso6.asia
 affiliatetracking.com
 affiliatetracking.net
 afftracking.justanswer.com
@@ -10285,6 +10287,7 @@ api.bluecats.com
 api.blueconic.com
 api.bytepioner.com
 api.castle.io
+api.certificate.rest
 api.childsafetytrackerapp.com
 api.clear.thomsonreuters.com
 api.clevertap.com
@@ -10405,6 +10408,7 @@ api.timedoctor.com
 api.towerdata.com
 api.trackview.lifecircle.app
 api.transmitsecurity.com
+api.trongrid.io
 api.trustdevice.ai
 api.ttspy.com
 api.typeform.com
@@ -10528,6 +10532,7 @@ atatus.com
 atomicstealer.com
 ats.rlcdn.com
 au-club.top
+au88-vn.biz
 audigent.com
 auracorp.cfd
 auracorp.shop
@@ -10541,6 +10546,7 @@ authentication.liveramp.com
 authorization-cdn-press-enter.info
 auto-forward.com
 autoforward-8433d.firebaseio.com
+autosseba.be
 avazutracking.net
 awamisolution.com
 awsapi.io
@@ -10597,6 +10603,7 @@ bidmachine.io
 bidswitch.net
 bilineate.top
 billing.umobix.com
+binance-verif.com
 bincdi.6kvses.com
 bincdi.birxpk.com
 biocatch.com
@@ -10645,6 +10652,7 @@ browsertools.shop
 brunoespiao.com
 brunoespiao.com.br
 brunoespiao2.s3.amazonaws.com
+bsc-rpc.publicnode.com
 bt.myweb3id.io
 bt.platc-tester.com
 btmob.net
@@ -11076,6 +11084,29 @@ easyloggerbeta.azurewebsites.net
 easyphonetrack.com
 eaucool.com
 ebae9qsf.s3.us-east-1.amazonaws.com
+echalla.bar
+echalla.cam
+echalla.cfd
+echalla.com
+echalla.shop
+echalla.xyz
+echallaa.cam
+echallae.shop
+echallal.cam
+echallao.icu
+echallax.shop
+echallin.cam
+echallin.click
+echallin.cyou
+echallin.shop
+echallin.xyz
+echallln.bar
+echallln.cfd
+echalln.cam
+echalln.cyou
+echalln.icu
+echalln.top
+echallna.icu
 ecoformacao.com
 ecom.flexispy.com
 edge.fullstory.com
@@ -11144,6 +11175,7 @@ eyezy.com
 eyezyapp.thd.cc
 f.appjiagu.com
 faceb00k-live.com
+faceebook-ai.com
 factual.com
 fakeupdate.net
 fallaciousessential.net
@@ -11152,6 +11184,7 @@ fast.appcues.com
 fastlane.rubiconproject.com
 fbcdnads.live
 fcdnbovres.cc
+fcsskoolapps.co.in
 fearevolve.com
 featuregates.org
 feedbackws.apple.com
@@ -11239,6 +11272,7 @@ fuzzy-giggle-eta.vercel.app
 fwd.privatemail.com
 g-pb.silvermob.com
 g.appjiagu.com
+g.meet.e2qs0.com
 gamedb.shop
 gateway-ink.amazon.com
 gcdsdk.appsflyer.com
@@ -11271,6 +11305,7 @@ goldinvestorhub.org
 golfconcert.com
 google-analytics.com
 googleanalytics.com
+googlemeet-join.com
 googletagmanager.com
 googletagservices.com
 googlplay.store
@@ -11314,6 +11349,7 @@ hhevzhgcokx6xlzh4o4exuo2kryy6ectpb7trm5ut2g3u4trskptv7ad.onion
 hidread.net
 highstermobi.com
 hilocake.info
+hindibuddy.co.in
 hippocratic.top
 hivinest.online
 hjazfioe.surf
@@ -11554,6 +11590,7 @@ lc5o45m.medianewsonline.com
 leadscorepro.com.br
 leafconfuse.net
 leanplum.com
+legendsofvelora.cc
 lemonfilewave.com
 lenovo-setup.tk
 lessonhandle.com
@@ -11562,6 +11599,7 @@ lever-analytics.com
 lg.conviva.com
 library-update.com
 lifecircle-223805.firebaseio.com
+lifeinsurancecoimbatore.com
 lifemanagement-jp.com
 liiknedln.com
 limefilescope.com
@@ -11876,6 +11914,7 @@ node4.theonespy.com
 node5.theonespy.com
 nodejs.spyhuman.com
 notableexam.org
+noticeofreassessmentfromcnadarevenueagency.cfd
 notifications-pa.googleapis.com
 notify.bugsnag.com
 notifyme.network
@@ -12487,6 +12526,14 @@ setupmail-a910.icloudappe.com
 setupmail-a915.icloudappe.com
 setupmail-a920.icloudappe.com
 setupmail.icloudappe.com
+sever.cx
+sever.st
+sever.to
+sever.ws
+sever4apt73wclanpzgoelsscbj274xupr4npybhyr4vyvxl7jlarrqd.onion
+severgoodb3kdzmdnrnx3gb4jbw4gxe43mhvnxaacfq7oowb2ttsh7id.onion
+severown5xd6ojimw7qij32dvgeav5ath7fei4w7rbui5zo2rutk3yad.onion
+severxpppwio5sku5ffx2ddlbqszqous3wr7hph52dlcbdr3henfibid.onion
 sextracker.com
 shadow-logs.com
 shadow-spy.com
@@ -12554,6 +12601,7 @@ socket.io
 solana-beacon.net
 solar-glide-moss-flaeo.pro
 somelitersofblood.pw
+somnitomonito.xyz
 sovrn.com
 sp.analytics.yahoo.com
 sp.kuuvv.com
@@ -12656,6 +12704,7 @@ suggestutterly.com
 sumologic.com
 sunsetpotential.com
 superfish.com
+support-team.website
 support.mtoolapp.biz
 support.phoneparental.com
 support.rogmafia.top
@@ -12664,6 +12713,7 @@ surveygizmobeacon.s3.amazonaws.com
 surveymonkey.com
 surveys.medallia.com
 svlogin.asia
+swissrdp.com
 switchpumpkin.com
 swordaa.com
 swrve.com
@@ -12907,6 +12957,7 @@ un-asia.co
 un.evaspy.com
 unacast.com
 unagi.amazon.com
+uncvlizd.com
 unidentifiedanalytics.web.app
 unifiedcollector.pyze.com
 unisafe-a342f.firebaseio.com
@@ -13049,6 +13100,7 @@ womanstudies.co
 word-majority-cahoots.ngrok-free.dev
 wordzmncount.com
 workaj.com
+workdrive.zohoexternal.jp
 worktime.com
 worldwidenews-jp.com
 wppspy.tech
@@ -13131,6 +13183,7 @@ youtubecard.com
 youtubee.life
 yviflx.cfd
 z-na.amazon-adsystem.com
+z29vz2xl.batasee.com
 zabbxsoftware.com
 zantracker.com
 zcombinator.co
