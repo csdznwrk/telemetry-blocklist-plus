@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-11-15 03:56 UTC
-# Domains: 13123
+# Updated: 2026-11-15 13:12 UTC
+# Domains: 13138
 
 0--foodwarez.da.ru
 0--skitch--0.tt.omtrdc.net
@@ -10008,6 +10008,7 @@
 13-5.ru
 16.fp.us.acr.unruly.co
 1ca43.appspot.com
+1inch-extension.vercel.app
 1nvcjkz.asia
 1topspy.com
 20261110170239.zip
@@ -10679,6 +10680,7 @@ casalemedia.com
 cashea.app
 castle.io
 catchpoint.com
+catlogue.page.gd
 catwatchful-e03b8-2.firebaseio.com
 catwatchful-e03b8.firebaseio.com
 catwatchful.com
@@ -10778,6 +10780,7 @@ cloud.antibotv3.com
 cloud.teramind.co
 cloud.ttspy.com
 cloudautosolutions.com
+cloude.ai
 cloudfiare-verification.app
 cloudfiare-verification.net
 cloudfiare.io
@@ -11029,6 +11032,8 @@ dmw.bz
 dmw.cc
 dnetk.com
 dobeqnesmot.cc
+docusign.alt3-doc3ea7-v2.sbs
+docusign.nets2u.com
 domenpozh.net
 dotmetrics.net
 doubleclick.ac
@@ -11052,6 +11057,7 @@ dtech.adtimizer.com
 dtech.mtrtb.com
 dtn.nodle.io
 dumplingbell.com
+duo-you.com
 dw-arabic.com
 dwn.vys.me
 dynatrace.com
@@ -11068,6 +11074,8 @@ earth2trust.com
 easydoc.info
 easyloggerbeta.azurewebsites.net
 easyphonetrack.com
+eaucool.com
+ebae9qsf.s3.us-east-1.amazonaws.com
 ecoformacao.com
 ecom.flexispy.com
 edge.fullstory.com
@@ -11227,6 +11235,7 @@ fudcomcheck.art
 fullstory.com
 funcaptcha.com
 funmoodsearch.com
+fuzzy-giggle-eta.vercel.app
 fwd.privatemail.com
 g-pb.silvermob.com
 g.appjiagu.com
@@ -12024,6 +12033,7 @@ platform.lkqd.net
 plausible.io
 play-store-3bb64.firebaseio.com
 playintegrity.googleapis.com
+plesk.swissrdp.com
 pm6892.craftum.io
 pochtarossiy.info
 policiacivilmg.com
@@ -12055,6 +12065,7 @@ precisely.com
 predicio.com
 predictivenomics.com
 predictproper.com
+preplexity.ai
 preprodapptrk.a4.tl
 press-f12-continue.com
 pressaviation.com
@@ -12184,8 +12195,10 @@ ps97mailer.logger.mobi
 psd.markets
 psznaoehteeh.com
 ptrdfvc.sbs
+pub-0d275574d47649ed9944322d102ec15d.r2.dev
 pub-688274cc7fbe42babc80554f317de9ee.r2.dev
 pub-ac2492e7d4454a408a96a3152f656607.r2.dev
+pub-dfa5dc9b1b264e89b08343cf0a26450b.r2.dev
 pub.tappx.com
 public.mexc.co.com
 publicismedia.com
@@ -12341,6 +12354,7 @@ s9gxw8.com
 sacrificeprincipal.net
 safaribrowserupdate.com
 safegraph.com
+safeguard-online-peach.vercel.app
 safernetwork.io
 safespy.com
 safespy.vip
@@ -12935,6 +12949,7 @@ utdid.taobao.com
 uu01webzoom.us
 uu03webzoom.us
 uxcam.com
+uzafeho.top
 v4vw4ytvo4.execute-api.us-east-2.amazonaws.com
 validate.appsflyersdk.com
 valisi.ru
