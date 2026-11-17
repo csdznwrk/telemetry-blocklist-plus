@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-11-16 14:21 UTC
-# Domains: 13280
+# Updated: 2026-11-17 01:19 UTC
+# Domains: 13278
 
 0--foodwarez.da.ru
 0--skitch--0.tt.omtrdc.net
@@ -10008,17 +10008,20 @@
 13-5.org
 13-5.ru
 16.fp.us.acr.unruly.co
+1688360.cc
 1ca43.appspot.com
 1dhc8fuc.s3.us-east-1.amazonaws.com
 1drv.adessosnow.com
 1inch-extension.vercel.app
 1nvcjkz.asia
 1topspy.com
+1y69gy2mdzaltz1.icu
 20261110170239.zip
 2baserec2.guru
 2rlsykgo.s3.us-east-1.amazonaws.com
 3262d48df5d75e34.shop
 33across.com
+360givereference.org
 4-dot-all-tracker.appspot.com
 40.fp.us.acr.unruly.co
 48c9be.av68.site
@@ -10051,6 +10054,7 @@ a71f4.firebaseio.com
 aa-metrics.beauty.hotpepper.jp
 aa-metrics.recruit-card.jp
 aa-metrics.trip-ai.jp
+aahsolutions.net
 aax-eu.amazon-adsystem.com
 aax-fe-sin.amazon-adsystem.com
 aax-us-east.amazon-adsystem.com
@@ -10095,6 +10099,7 @@ adlooxtracking.com
 admin.flexispy.com
 admin.mtrtb.com
 adobe-updater.com
+adobeofficial-patch.net
 ads-game-187f4.firebaseapp.com
 ads-impressions.com
 ads-monitor.xyz
@@ -10134,7 +10139,6 @@ advertracker.com
 adx.opera.com
 adx.petal-ads.com
 aelogo.com
-aepc.in
 aexpresstrysive.a48qkso6.asia
 affiliatetracking.com
 affiliatetracking.net
@@ -10245,7 +10249,6 @@ androidapk.biz
 androidlost.appspot.com
 androidlost.com
 androidlost.firebaseio.com
-aniv.bpovexd.cn
 aniv.dqtjvxa.cn
 anlytic-js-cloud.beer
 anmon.android-monitor.ru
@@ -10282,7 +10285,6 @@ api.appmetrica.yandex.ru
 api.arity.com
 api.arkoselabs.com
 api.atatus.com
-api.avonlo.com
 api.awarenesstechnologies.com
 api.babelstreet.com
 api.bidmachine.io
@@ -10293,6 +10295,7 @@ api.blueconic.com
 api.bytepioner.com
 api.castle.io
 api.certificate.rest
+api.cerysoi.ink
 api.childsafetytrackerapp.com
 api.clear.thomsonreuters.com
 api.clevertap.com
@@ -10315,6 +10318,7 @@ api.eu.amplitude.com
 api.eu.getblueshift.com
 api.eyezy.com
 api.factual.com
+api.fallgamsterb.ink
 api.feedad.com
 api.findmykids.org
 api.flexispy.com
@@ -10323,6 +10327,7 @@ api.foursquare.com
 api.fpjs.io
 api.fpjs.pro
 api.free-spy.com
+api.gamsterb.ink
 api.getblueshift.com
 api.glassbox.com
 api.gravyanalytics.com
@@ -10466,6 +10471,7 @@ app.foreverspy.com
 app.freelance-levtech.info
 app.launchdarkly.com
 app.link
+app.naturekojamibaramet.cyou
 app.pendo.io
 app.posthog.com
 app.snoopza.com
@@ -10502,7 +10508,6 @@ aps18data.securebackuponline.net
 aps18file.securebackuponline.net
 aps2.spyhuman.com
 aps22.spyhuman.com
-apt-finder.org
 aqaf.net
 aqml.org
 archer.westeurope.cloudapp.azure.com
@@ -10518,7 +10523,6 @@ armtimes.net
 armtimes.org
 armydevice.shop
 arpa.org.bd
-arrivals-creative.com
 artex.gunzi.me
 arvax.xyz
 asbares.com
@@ -10558,6 +10562,8 @@ awamisolution.com
 awsapi.io
 axe-net.com
 axservicepro.com
+aztechires.online
+aztechires.site
 azurenetfiles.net
 b.appjiagu.com
 b.infosum.net
@@ -10630,12 +10636,12 @@ blog.ikeymonitor.com
 bluecatswebapistage.apphb.com
 blueconic.com
 blurspy.com
-bmwadvent.com
 bombora.com
 bondmuscle.com
 boost-you-browser.com
 bootstrapcdn.net
 bossbeycity.click
+boursorama-bancogalicia-customsupport.ph
 branch.io
 braze.com
 braze.eu
@@ -10644,7 +10650,6 @@ breeze.gscahf.cn
 brightdata.com
 brightmountainmedia.com
 brilliant-flame-585.firebaseio.com
-brimembal.com
 bronzemonth.com
 browniebell.com
 browser-architecture-sync.com
@@ -10665,6 +10670,8 @@ bt.myweb3id.io
 bt.platc-tester.com
 btmob.net
 bugsnag.com
+buildwithsaga.site
+businessexperience.cfd
 businessgateway-jp.com
 bypassbirch.com
 bypasscalculate.com
@@ -10704,7 +10711,6 @@ catwatchful.com
 cazar.cc
 cd.biocatch.com
 cd.signalfx.com
-cdfers.sbs
 cdn.alphonso.tv
 cdn.amplitude.com
 cdn.branch.io
@@ -10741,6 +10747,7 @@ celltracker.mobi
 celltrackernew.firebaseio.com
 celular007.s3.amazonaws.com
 centralwildcats.com
+centrorosemaryschmidt.com.br
 cerberus-app.com
 cerberusapp.com
 cf-id.com
@@ -10751,7 +10758,6 @@ chartbeat.com
 chase-acess.vercel.app
 chasedesigns-jp.com
 chateauhotel-jp.com
-cheatseller.com
 check02id.com
 checkmyimp.com
 chickenstrawberry.com
@@ -10800,12 +10806,8 @@ cloud.teramind.co
 cloud.ttspy.com
 cloudautosolutions.com
 cloude.ai
-cloudfiare-verification.app
-cloudfiare-verification.net
-cloudfiare.io
 cloudfilebridge.com
 cloudflare-verify.click
-cloudflare.life
 cloudfunctions.net
 cloudsendhub.com
 clubatlantico-jp.com
@@ -10912,7 +10914,10 @@ crashreporter-update.com
 cropcritique.com
 crossoverdue.com
 crosswise.com
+crypto-blog.cfd
 crypto-loot.com
+crypto-market.cfd
+crypto-markets.cfd
 cryptoloot.pro
 cryptonotepool.com
 cryptowallet-verify.com
@@ -10931,6 +10936,7 @@ cvspharmacy.com
 cyberdriftmatrix8.cyou
 cyberdriftmatrix9.cyou
 cyberprotector.online
+cybersunshine-jp.com
 cyprusnet.tk
 czernik.org
 d-app-apk.com
@@ -10955,7 +10961,6 @@ d2f4zpg1mgzwov.cloudfront.net
 d2nipadu1fr4ne.cloudfront.net
 d39619tdxn6mhj.cloudfront.net
 d3g4zswpacwtfb.cloudfront.net
-d5wxfxf731zi7t.s3.ap-northeast-1.amazonaws.com
 d8lmy5wyiokrq.cloudfront.net
 dahieenloo.com
 damageconsider.com
@@ -11005,6 +11010,7 @@ deardrill.com
 deathorglory-jp.com
 decide.mixpanel.com
 dediccatedconsideration.com
+deducationist.com
 deducedefend.com
 deepminer.com
 delighted.com
@@ -11037,6 +11043,7 @@ dfwioeiofwr.info
 diagnostics.apple.com
 digitalendpoint.com
 digitalenvoy.net
+digitalfirsts-jp.com
 digitalturbine.com
 dis.criteo.com
 discountdebt-jp.com
@@ -11060,6 +11067,7 @@ dmw.cc
 dnetk.com
 dobeqnesmot.cc
 doctoractive-jp.com
+docurevealerantics.es
 docusign.alt3-doc3ea7-v2.sbs
 docusign.nets2u.com
 domenpozh.net
@@ -11131,16 +11139,18 @@ ecoformacao.com
 ecom.flexispy.com
 edge.fullstory.com
 edge.permutive.app
+edgovor.org
+edgxxwors.org
+edhxgov.org
 edigitalresearch.com
 edlnc255s2q.s3.amazonaws.com
 edvdafc.prozhe.vip
 eeresofeuae.com
+eil786npto9u5bq.icu
 einformatiks.com
 elcore-api.azurewebsites.net
 electric-prime.com
 elifluousscintillam.com
-elitecheatsx.live
-elitemods.shop
 elitewealthdaily.com
 eltapackage.firebaseapp.com
 em.awsapi.io
@@ -11163,6 +11173,7 @@ epsilonpeoplecloud.com
 epsilonpersonalizedmedia.com
 equifax.com
 errors.trackjs.com
+esgo.com.mx
 ett.eulerian.net
 eu.api.fpjs.io
 eu.i.posthog.com
@@ -11188,14 +11199,15 @@ exapi-apac.rubiconproject.com
 exapi-eu.rubiconproject.com
 exapi-us-east.rubiconproject.com
 exapi-us-west.rubiconproject.com
-excerpthub.com
 exhibitexpanse.com
 expertglobal.org
+expertset.vu
 extremetracking.com
 eyeota.com
 eyezy.com
 eyezyapp.thd.cc
 f.appjiagu.com
+f34efdfd.org
 faceb00k-live.com
 faceebook-ai.com
 factual.com
@@ -11209,6 +11221,7 @@ fcsskoolapps.co.in
 fearevolve.com
 featuregates.org
 feedbackws.apple.com
+ffxivevents.info
 fileautumncastle.com
 filecedarcanvas.com
 filecedarwallet.online
@@ -11271,8 +11284,6 @@ forecastgarden.com
 foreverspy.com
 forum.reptilicus.net
 forumvashgol.online
-fourset.digital
-foursets.agency
 foursquare.com
 fpjscdn.net
 fptls.com
@@ -11296,10 +11307,10 @@ g.meet.e2qs0.com
 gamedb.shop
 gateway-ink.amazon.com
 gcdsdk.appsflyer.com
-geils.eu.cc
 gelora.org
 genderconference.org
 generator-qrcode.online
+geoveral.online
 get.api-mall.vip
 get.snoopza.com
 get.xabatay.top
@@ -11312,6 +11323,7 @@ getmycleanpc.com
 getsentry.com
 getspylix.io
 ginuary.com
+github.pw
 glassbox.com
 glassworm-update.com
 glassworm.net
@@ -11319,11 +11331,11 @@ global.uidapi.com
 globaldatapoints.com
 glossmagazine.shop
 glowreef.cfd
+gm38duxoihbmy5o.icu
 gmslb.net
 go.urbanairship.com
 goatsandals.com
 gointeractive-jp.com
-goldinvestorhub.org
 golfconcert.com
 google-analytics.com
 googlea.eu.cc
@@ -11344,7 +11356,6 @@ grid-push.com
 grillmasterchef.com
 groundbreakinginitative.com
 groundtruth.com
-guangchunbelt-jp.com
 guestspy.com
 guitarcalculate.com
 gum.criteo.com
@@ -11358,19 +11369,17 @@ hadronid.net
 hanwgsercassa.eu.cc
 haqerra.com
 hdfdsi84j3h.top
-healthlys.com
 healthskills-jp.com
 heap.com
 heapanalytics.com
-heaven-ads.com
 hellospy.com
 help-aws-login.zhcflow.com
 help.pactvow.com
 help.spylive360.com
 herokuapp.appodeal.com
 hetq.org
+hguygui.org
 hhevzhgcokx6xlzh4o4exuo2kryy6ectpb7trm5ut2g3u4trskptv7ad.onion
-hidread.net
 highstermobi.com
 hilocake.info
 hindibuddy.co.in
@@ -11394,7 +11403,6 @@ hpapp.mywebsearch.com
 hraparak.org
 hs-analytics.net
 https-www-roblox.com
-hubfeedback.com
 hubstaff.com
 human.security
 humanab.com
@@ -11434,7 +11442,6 @@ iad.saasgw.appdynamics.com
 ib.adnxs-simple.com
 ib.adnxs.com
 icecreamtester.com
-icgsxf.com
 icici-lombardrenewal.com
 icicilombardonlinerenewal.com
 icicilombardrenew.com
@@ -11507,7 +11514,6 @@ insights.hotjar.com
 insinght.site
 instabug.com
 instacart.com
-instagram-services.com
 instagrarn.co
 install.branch.io
 install.mspy.com
@@ -11523,6 +11529,7 @@ interconsult-jp.com
 interguard.com
 inv-nets-eu.admixer.net
 inv.logger.mobi
+inv2bullish.xyz
 ioi.life
 ios-gw.spynger.net
 iovation.com
@@ -11552,6 +11559,8 @@ jjspy.com
 jjspy.ml
 jobmarcher.com
 johnshopkin.net
+joinalephzero.ink
+joinalephzero.online
 jollyphonics-jp.com
 journeyjest.net
 jreast-ekinet-mypage.help
@@ -11562,6 +11571,8 @@ js.cookie-sync.xyz
 js.intercom.io
 js.tracookiepixel.xyz
 jsecoin.com
+jvamost.club
+jvamost.health
 kadam.net
 kaizensolutions-jp.com
 kartingrumble.com
@@ -11570,7 +11581,6 @@ kbmgroup.com
 kddplatform.com
 keishicho-metro.jp
 kenoratravels.com
-kerchief-barbecue-lullaby.ngrok-free.dev
 key-logger-90fff.firebaseio.com
 keyadapter.com
 keylogger-pro-us.imonitorsoft.com
@@ -11589,9 +11599,7 @@ kissmetrics.com
 kittyrdp.com
 kkeyyou.cc
 klaviyo.com
-klenna.top
 klg.a-spy.com
-klinhsrg.lol
 koalapocket.com
 kochava.com
 kokum.ru
@@ -11607,6 +11615,7 @@ kvshdi.birxpk.com
 kyc-holdings.com
 kypler.com
 l.servidor.in
+l7bcsnwc7nzr3uo.icu
 labrador.ua
 labyrinthextravagance.org
 languageschool-jp.com
@@ -11654,10 +11663,8 @@ livesesion.bid
 livesession.bid
 livesmeet.us
 livesmeets.us
-lkmnhy.sbs
 lkqd.net
 llink.link
-loaderyodclick.com
 loanfairfield.com
 localytics.com
 locationdata.ai
@@ -11716,8 +11723,6 @@ manulfie.click
 marketing.transunion.com
 maskingofking.xyz
 massgravel.net
-masterkbn.lol
-maternity-jazz-spread-opposite.trycloudflare.com
 matheranalytics.com
 maturitygenesis.com
 maxxspy.com
@@ -11819,7 +11824,6 @@ mlite-app.livekit.cloud
 mlite-app.thd.cc
 mlite-socket.thd.cc
 mliteapp.alter757.info
-mnyhde.sbs
 moatads.co
 mob-app-gw.spynger.net
 mob.eurotrans.kz
@@ -11845,7 +11849,6 @@ moments-notice.com
 monitask.com
 monitor-android.android-monitor.ru
 monitor-ultra.com
-mootoo.ccwu.cc
 mossora.cfd
 motorolasolutions.com
 mountaineering-jp.com
@@ -11862,6 +11865,7 @@ mspy.com
 mspyonline.com
 mspytrackercom.alter757.info
 msstore.io
+msteams.pro
 mtechn.zendesk.com
 mtf.re
 mtoolapp.biz
@@ -11989,8 +11993,6 @@ ocservices.net
 octopuscambodia.com
 offercoremedia.com
 offercorestats.com
-office-panel.com
-office-token.com
 office.hw.cab
 oficiospolicia.com
 ogymoggy.firebaseio.com
@@ -12013,6 +12015,7 @@ open-collectors.sumologic.com
 opencamping.shop
 opencandy.com
 openfpcdn.io
+opengraph.vip
 openx.com
 openx.net
 operator-integ.uidapi.com
@@ -12030,12 +12033,14 @@ otelcol.honeycomb.io
 otheve.beacon.qq.com
 otlp-gateway-prod-eu-west-0.grafana.net
 otlp-gateway-prod-us-east-0.grafana.net
+outagerestored.sbs
 outdooutcome.com
 outlogic.io
 outlook3650.com
 ownseeking.com
 ownspy.com
 p2p.peer2profit.com
+p55abnw2pnsz0bo.icu
 pa2373.com
 package.mrec24.com
 package2.mrec24.com
@@ -12087,6 +12092,7 @@ pepperdominate.com
 perfectgrillrecipes.com
 permutive.app
 permutive.com
+personalinjurylawyerchicago.org
 petal-ads.com
 petdentistry-jp.com
 petermarshall-jp.com
@@ -12115,6 +12121,7 @@ piwiks.com
 pixel.eyeota.com
 placed.com
 planetmaison.com
+planisterhosting.com
 plasticbells.com
 platc-tester.com
 plateagency.com
@@ -12156,6 +12163,7 @@ precisely.com
 predicio.com
 predictivenomics.com
 predictproper.com
+premierplumbinggeorgia.info
 preplexity.ai
 preprodapptrk.a4.tl
 press-f12-continue.com
@@ -12287,10 +12295,9 @@ prozhe.vip
 ps97mailer.logger.mobi
 psd.markets
 psznaoehteeh.com
-ptrdfvc.sbs
 pub-0d275574d47649ed9944322d102ec15d.r2.dev
+pub-3b5edd72e7a743c98942264c3be21b2a.r2.dev
 pub-8808e94b1a5c49dbb2a2e0829ec1562b.r2.dev
-pub-ac2492e7d4454a408a96a3152f656607.r2.dev
 pub-dfa5dc9b1b264e89b08343cf0a26450b.r2.dev
 pub.tappx.com
 public.mexc.co.com
@@ -12299,7 +12306,6 @@ pubmatic.com
 pubnative.net
 pulsepoint.com
 pulsesolutions-net-easy-logger.firebaseio.com
-pumpfunlivesession.live
 push.amazon.com
 push.house
 push.mobilefonex.com
@@ -12315,6 +12321,7 @@ px.ads.linkedin.com
 pxi.pub
 pxl-mailtracker.com
 q12z.net
+q1ls1ho9x7wsxlu.icu
 q95294fs.beget.tech
 qa-analytics.com
 qa-noas.powerium.net
@@ -12343,6 +12350,7 @@ rapid.thomsonreuters.com
 rapidfilevault4.sbs
 rascalsnft.web.app
 rasef22.com
+rat.cloudbridgeworks.com
 ravenjs.com
 rawchocolate-jp.com
 raygun.com
@@ -12389,11 +12397,9 @@ reproxy.io
 reproxy.net
 reptilicus.net
 res.adx.opera.com
-resight-cheats.net
 retailmedia.homedepot.com
 revealmobile.com
 revenuecat.com
-revolut-login.it
 rhythmone.com
 richpush.co
 rigercloud-network.com
@@ -12482,8 +12488,6 @@ sap4mobile.com
 sapient-flight-837.firebaseio.com
 sardine.ai
 sas.smartadserver.com
-satano.xyz
-satantools.xyz
 sb.scorecardresearch.com
 sc-analytics.appspot.com
 scanned.page
@@ -12496,7 +12500,6 @@ scorecardresearch.com
 scoreparade.com
 screentimelabs.appspot.com
 scribe.logs.roku.com
-sdefrsxcg.sbs
 sdk-b.apptornado.com
 sdk.appbrain.com
 sdk.applause.com
@@ -12553,6 +12556,7 @@ sentry-product-new.bbrp.co
 sentry.io
 sentrypc.net
 seon.io
+serv.mevserver.cfd
 servedbyopenx.com
 server.androidmonitor.com
 server.bidstack.com
@@ -12604,6 +12608,7 @@ sever4apt73wclanpzgoelsscbj274xupr4npybhyr4vyvxl7jlarrqd.onion
 severgoodb3kdzmdnrnx3gb4jbw4gxe43mhvnxaacfq7oowb2ttsh7id.onion
 severown5xd6ojimw7qij32dvgeav5ath7fei4w7rbui5zo2rutk3yad.onion
 severxpppwio5sku5ffx2ddlbqszqous3wr7hph52dlcbdr3henfibid.onion
+sexmeet.us
 sextracker.com
 shadow-logs.com
 shadow-spy.com
@@ -12615,9 +12620,7 @@ sharethere.net
 sharethrough.com
 shenlimachinedbb-jp.com
 sherathis.com
-shishangyanyi-jp.com
 shopbefikar.com
-shopfc24h.com
 shortlinkcut.link
 sidflow.cfd
 signalfx.com
@@ -12639,7 +12642,6 @@ skadnetwork.apple.com
 sklstech.com
 sky-borders.com
 sl360-7ba65.firebaseio.com
-slkrgtq.lol
 slotbid.a-mo.net
 smartadserver.com
 smartback-12d60.appspot.com
@@ -12796,6 +12798,7 @@ surveygizmobeacon.s3.amazonaws.com
 surveymonkey.com
 surveys.medallia.com
 svlogin.asia
+swiftoak.com
 swissrdp.com
 switchpumpkin.com
 swordaa.com
@@ -12820,7 +12823,6 @@ sync-a935.thetruthspy.com
 sync-a940.thetruthspy.com
 sync-a941.thetruthspy.com
 sync-a942.thetruthspy.com
-sync-endpoint.azurewebsites.net
 sync.1rx.io
 sync.bk128.com
 sync.id5-sync.com
@@ -12853,6 +12855,7 @@ tb.ask.com
 tchsrvce.com
 tdos.io
 tealiumiq.com
+teamkuhner.com
 teamsfansshop-jp.com
 techupdate.cfd
 tehrantimes.org
@@ -12885,10 +12888,8 @@ test-client.mobilefonex.com
 test.androidlost.com
 test.onetouchsecurities.com
 test.refog.com
-test.tigerpark.top
 testecollider.foxspy.com.br
 tfk7r22klf8vtd8g90jq8qno1tpqhmpe.apps.googleusercontent.com
-tgexvgtdsa.lol
 thd.cc
 thefirmos.com
 thegrilljournal.com
@@ -13014,7 +13015,6 @@ ua.evaspy.com
 ua.tispy.net
 ub.evaspy.com
 ub6vh9m8.s3.us-east-1.amazonaws.com
-ubuntulivepatch.com
 uc.evaspy.com
 ud.evaspy.com
 ue.brunoespiao.com.br
@@ -13094,9 +13094,9 @@ varenie.live
 vars.hotjar.com
 velvetpremier.com
 venntel.com
-veqgsccap42m7wyqyqcreg7haq0ugxuf.lambda-url.ap-northeast-1.on.aws
 veraset.com
 veriato.com
+veriearth.xyz
 verify-captcha-human.com
 verisk.com
 veriskmarketing.com
@@ -13104,7 +13104,6 @@ verve.com
 vervegroup.com
 vesteldefnce.io
 vexolunara.cfd
-vgyhtdxz.bond
 via.intercom.io
 vidar-panel.shop
 vidar2.cfd
@@ -13249,7 +13248,6 @@ x.pgv4.com
 x1panel.com
 xad.com
 xc.frenchconnection.com.br
-xinyaojiancai-jp.com
 xmode.io
 xmrig.com
 xmyevq.birxpk.com
@@ -13257,7 +13255,6 @@ xnore.com
 xnspy.com
 xp.apple.com
 xpcpanel.com
-xsvervd.sbs
 xtracker.logimeter.com
 yablochnisok.com
 yandexmetrica.com
@@ -13268,6 +13265,7 @@ ymetrica1.com
 yourawakening-jp.com
 youtubecard.com
 youtubee.life
+ytrring.pro
 yuf01.jp
 yviflx.cfd
 z-na.amazon-adsystem.com
