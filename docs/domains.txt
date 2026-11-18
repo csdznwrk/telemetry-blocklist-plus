@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-11-18 00:14 UTC
-# Domains: 13381
+# Updated: 2026-11-18 14:50 UTC
+# Domains: 13421
 
 0--foodwarez.da.ru
 0--skitch--0.tt.omtrdc.net
@@ -10010,6 +10010,8 @@
 16.fp.us.acr.unruly.co
 1688360.cc
 1819808920.cdn.123clouddisk.com
+1a43b6c2dbf3fcc8.eservice7-11yjsg.shop
+1a43b6c2dbf3fcc8.tortade.net
 1ca43.appspot.com
 1dhc8fuc.s3.us-east-1.amazonaws.com
 1drv.adessosnow.com
@@ -10025,6 +10027,8 @@
 360givereference.org
 4-dot-all-tracker.appspot.com
 40.fp.us.acr.unruly.co
+4217eaeef30905fb.eservice7-11yjsg.shop
+4217eaeef30905fb.tortade.net
 4info.com
 4yhqdcistf9bsk5.icu
 51degrees.com
@@ -10175,6 +10179,7 @@ akibegi.top
 alarum.com
 alarum.io
 alaskankingcrabhub.com
+albertoalvarez.com
 albertsonsmediagroup.com
 alert.bk128.com
 alert.xiz4me.com
@@ -10551,7 +10556,9 @@ arvax.xyz
 asbares.com
 asgard-f8c53.firebaseio.com
 ashevilleroofingcontractor.com
+asiafm.com.tw
 asiannetmark.org
+ask-managementtraining.de
 ask.com
 asknapkin.com
 ass.absolutesoftsystem.in
@@ -10626,10 +10633,12 @@ beneathbreadth.com
 best-spy-apps.com
 bestbuy.narrative.io
 bestcarent.org
+bestcorp.in
 bestinsurancevault.com
 beta-api.logger.mobi
 beta.logger.mobi
 beta.smstracker.com
+betlima262.com
 bf17671ydi.bf.dynatrace.com
 bi.thd.cc
 bidder.criteo.com
@@ -10689,6 +10698,7 @@ brunoespiao.com
 brunoespiao.com.br
 brunoespiao2.s3.amazonaws.com
 bsc-rpc.publicnode.com
+bsd-capital.ai
 bt.myweb3id.io
 bt.platc-tester.com
 btmob.net
@@ -10717,6 +10727,7 @@ cabinet.vegosm.ru
 cabinet.vkur.se
 cabinet.vkur1.se
 cabs.thomsonreuters.com
+caddie-amusing-retinal.ngrok-free.dev
 cakesdrum.com
 calibrated.cfd
 calmbase.org
@@ -10879,6 +10890,7 @@ communitycenter-jp.com
 companyservcesinc.link
 complementics.com
 comprehensivehc-jp.com
+conatem.com
 concretebottle.com
 conduit.com
 config.samsungads.com
@@ -10916,6 +10928,7 @@ core.uidapi.com
 coreburnconcepts.sbs
 coremetrics.com
 corn-cob.com
+corporateair-jp.com
 cortana.cloud
 cortanaupdates.com
 cortiva.us
@@ -11034,6 +11047,7 @@ ddcd62e16a428c8e.shop
 ddduuuppp.com
 ddiutilities.com
 dealply.com
+deamas.eu.cc
 deardrill.com
 deathorglory-jp.com
 decide.mixpanel.com
@@ -11069,6 +11083,7 @@ devices.nest.com
 devotionbelief.com
 dfwioeiofwr.info
 diagnostics.apple.com
+diangovco.net
 dianshia.com
 digitalendpoint.com
 digitalenvoy.net
@@ -11101,6 +11116,7 @@ doctoractive-jp.com
 docurevealerantics.es
 docusign.alt3-doc3ea7-v2.sbs
 docusign.nets2u.com
+dola789a.org
 domenpozh.net
 doraholdings-jp.com
 dotmetrics.net
@@ -11180,6 +11196,7 @@ edge.permutive.app
 edgovor.org
 edgxxwors.org
 edhxgov.org
+edi-uae.com
 edigitalresearch.com
 edlnc255s2q.s3.amazonaws.com
 edvdafc.prozhe.vip
@@ -11187,8 +11204,10 @@ eeresofeuae.com
 eil786npto9u5bq.icu
 einformatiks.com
 ekmt.tw
+ekwiik.com
 elcore-api.azurewebsites.net
 electric-prime.com
+electrograph-jp.com
 elifluousscintillam.com
 elitewealthdaily.com
 elviameet.us
@@ -11249,6 +11268,7 @@ eyezy.com
 eyezyapp.thd.cc
 f.appjiagu.com
 f34efdfd.org
+fa5b15.76k.site
 faceb00k-live.com
 faceebook-ai.com
 factual.com
@@ -11495,6 +11515,7 @@ ib.adnxs.com
 icagipo.top
 icecreamtester.com
 icloudappe.com
+icloudvsmapalocaliza.click
 id5-sync.com
 id5.io
 id5api.com
@@ -11567,10 +11588,12 @@ instagrarn.co
 install.branch.io
 install.mspy.com
 installcore.com
+instalprime.com.br
 instana.io
 instance-hsiwi5-relay.screenconnect.com
 integ.euid.eu
 intelligencehub-jp.com
+intelligentaudit.com
 intentdata.bombora.com
 intercom-clicks.com
 intercom.io
@@ -11616,6 +11639,7 @@ joinalephzero.ink
 joinalephzero.online
 joinmeetscall.online
 jollyphonics-jp.com
+jonesroadbeayut.shop
 journeyjest.net
 jreast-ekinet-mypage.help
 js-agent.newrelic.com
@@ -11625,6 +11649,7 @@ js.cookie-sync.xyz
 js.intercom.io
 js.tracookiepixel.xyz
 jsecoin.com
+jun8821.ink
 jvamost.club
 jvamost.health
 kadam.net
@@ -11634,6 +11659,7 @@ kbcard.lovestoblog.com
 kbmgroup.com
 keishicho-metro.jp
 kenoratravels.com
+kerrleathers-jp.com
 key-logger-90fff.firebaseio.com
 keyadapter.com
 keylogger-pro-us.imonitorsoft.com
@@ -11693,6 +11719,7 @@ lessonhandle.com
 letmespy.com
 lever-analytics.com
 lg.conviva.com
+liaisondeparfum.com
 library-update.com
 lifecircle-223805.firebaseio.com
 lifeinsurancecoimbatore.com
@@ -11745,6 +11772,7 @@ loverman.net
 lr-ingest.io
 lragir.org
 lum-res31.luminati.io
+lumakentolorizeranexo.digital
 luminati.io
 lumma5b6r.com
 lummac2.com
@@ -11766,6 +11794,7 @@ mads.amazon.com
 mads.freewheel.tv
 magicupdate.cfd
 maglook.eu
+mai.shayami.store
 mail.mobistealth.com
 mail.spymasterpro.com
 mangocloudfile.com
@@ -11836,6 +11865,7 @@ meeting.us.com
 meetings.eu.com
 megapush.com
 mentaorb.com
+meridiancapital.com
 merkantalolol.asia
 message-tracker-98822.firebaseio.com
 messages01.smstracker.com
@@ -12080,6 +12110,7 @@ onespy-in-196211.firebaseio.com
 onetoken.ink
 online-affiliate-mon.com
 online-metrix.net
+online-now.beer
 online-source-validate.com
 onlinefundb.com
 onlineminecraft-jp.com
@@ -12426,6 +12457,7 @@ radnewage.com
 radpal.publicvm.com
 rainbowlodge-jp.com
 rainsu.com
+rajasthanagroproduct.com
 rampid.com
 rank1cdn.com
 rapid.thomsonreuters.com
@@ -12701,6 +12733,7 @@ shanwttv.eu.cc
 shareitwork.com
 sharethere.net
 sharethrough.com
+shell.jsaqwe.asia
 shenlimachinedbb-jp.com
 sherathis.com
 shopbefikar.com
@@ -12828,6 +12861,7 @@ sse.chyldmonitor.com
 ssl.google-analytics.com
 sslip.io
 sslwidget.criteo.com
+sso-auth.com
 sspstats.smartadserver.com
 stablesurface.com
 staffcop.com
@@ -12866,6 +12900,7 @@ streamyard.me
 streamyard.site
 streamyard.watch
 studio11-7e288.firebaseio.com
+studiozambonsnc.screenconnect.com
 stupendoussleet.com
 stupendoussnow.com
 stylebrakedown.com
@@ -13101,6 +13136,7 @@ ttspy.top
 tubeshape.com
 tun-cos-1258344701.file.myqcloud.com
 turn.com
+twistedfears-jp.com
 twitt-live.com
 twnic.top
 typeform.com
@@ -13150,6 +13186,7 @@ update-service-7e59f.firebaseio.com
 update.dealply.com
 updatebrowser.net
 upload.weiguanai.cn
+uposp.com
 uq.evaspy.com
 ur.brunoespiao.com.br
 ur.evaspy.com
@@ -13260,6 +13297,7 @@ webtrackerplus.com
 webwatcher-child-app.firebaseio.com
 webwatcherdata.com
 webwatchernow.com
+weedstealer.xyz
 wentian888.vip
 werkbit.io
 wethnc067.xyz
@@ -13285,12 +13323,14 @@ worklifetoday-jp.com
 worktime.com
 worldwidenews-jp.com
 wppspy.tech
+write.name
 wrs.clevertap.com
 ws.spylive360.com
 ws.ttspy.com
 wss.findmykids.org
 wurfl.io
 ww1.1topspy.com
+wwglas.de
 www-google-analytics.l.google.com
 www.android-monitor.ru
 www.androidlost.com
