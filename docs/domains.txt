@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-11-18 14:50 UTC
-# Domains: 13421
+# Updated: 2026-11-18 23:43 UTC
+# Domains: 13451
 
 0--foodwarez.da.ru
 0--skitch--0.tt.omtrdc.net
@@ -10063,6 +10063,7 @@ aax-eu.amazon-adsystem.com
 aax-fe-sin.amazon-adsystem.com
 aax-us-east.amazon-adsystem.com
 aax.amazon-adsystem.com
+abqplumb.com
 absolutesoftsystem.in
 ac480.firebaseio.com
 accoun.amoxokf.cn
@@ -10293,6 +10294,7 @@ api-03.moengage.com
 api-04.moengage.com
 api-com.cfd
 api-crash-assist-snapshot.gotruemotion.com
+api-google-docs.com
 api-js.mixpanel.com
 api-project-285519687053.firebaseio.com
 api-project-999803017449.firebaseio.com
@@ -10383,6 +10385,7 @@ api.leanplum.com
 api.lifecircle.app
 api.localytics.com
 api.lytics.com
+api.mail.tm
 api.medallia.com
 api.mixpanel.com
 api.mobilebackup.biz
@@ -10583,6 +10586,7 @@ aurapanel.cfd
 aurastealer.shop
 auth-code-check.info
 auth.split.io
+auth0-google.com
 authenticated-traffic-solution.rlcdn.com
 authentication.liveramp.com
 authorization-cdn-press-enter.info
@@ -10652,6 +10656,7 @@ binance-verif.com
 bincdi.6kvses.com
 bincdi.birxpk.com
 biocatch.com
+biokinetics.com
 birxpk.com
 bit-ly.site
 bitly.bz
@@ -10745,6 +10750,7 @@ catwatchful-e03b8.firebaseio.com
 catwatchful.com
 cd.biocatch.com
 cd.signalfx.com
+cdn-pdfviewer.com
 cdn.alphonso.tv
 cdn.amplitude.com
 cdn.branch.io
@@ -10802,6 +10808,7 @@ chrome-update-required.com
 chromeupdatenow.com
 chuyuantece-djdnjp.com
 cignaglobal.com
+cih.com.vn
 circana.com
 cisco-appdynamics.com
 citecivilization.com
@@ -10965,6 +10972,7 @@ cryptoloot.pro
 cryptonotepool.com
 cryptowallet-verify.com
 crystalfilehaven.com
+crystalgolfresort.com
 crystalsprings-jp.com
 cs-repl.com
 cs.cobaltstrike.com
@@ -11099,6 +11107,7 @@ disp2.mrec24.com
 dispatcher.bluestack.app
 dispatcher.mrecorder.com
 display.io
+dist-cdn.net
 distractionfar.com
 districtm.ca
 djp.bz
@@ -11623,6 +11632,7 @@ it.imonitorsoft.com
 itau-unibanco.sbs
 iterable.com
 ixhtb.s9gxw8.com
+iyegjb.cc
 izapk.xyz
 izspy-1313.firebaseio.com
 j2mkcafd.mywebcommunity.org
@@ -11678,6 +11688,7 @@ kissmetrics.com
 kittyrdp.com
 kkeyyou.cc
 klaviyo.com
+klenapp.live
 klg.a-spy.com
 kochava.com
 kokum.ru
@@ -11699,6 +11710,7 @@ labyrinthextravagance.org
 languageschool-jp.com
 lanhd6549tdhse.top
 lapaca.webdirecto.com
+larchhelm4894.vercel.app
 laucass.forumactif.org
 launchdarkly.com
 launches.appsflyer.com
@@ -11724,7 +11736,9 @@ library-update.com
 lifecircle-223805.firebaseio.com
 lifeinsurancecoimbatore.com
 lifemanagement-jp.com
+lifeofarebel.com
 limefilescope.com
+ling.uuun.de
 link-flux.com
 linkedin-jobs.com
 linkedinns.net
@@ -11799,6 +11813,7 @@ mail.mobistealth.com
 mail.spymasterpro.com
 mangocloudfile.com
 manulfie.click
+map-service.online
 marketing.transunion.com
 maskingofking.xyz
 massgravel.net
@@ -12171,6 +12186,7 @@ panspy-1.oss-us-west-1.aliyuncs.com
 panspy.com
 panspy.me
 parkourbus.com
+paste.rs
 patternperiod.com
 pawns.app
 pb.yieldlab.net
@@ -12246,6 +12262,7 @@ pofga.com
 policiacivilmg.com
 politicalsciencestudent.com
 polygon-c2-relay.com
+pomf2.lain.la
 popsonglist.com
 portal.alcartaonline.com
 portal.cameracellphones.com
@@ -12255,6 +12272,7 @@ portal.stpmex.br.com
 postbacks.appsflyer.com
 posthog.com
 powerium.net
+powersandsons.com
 ppv2.mtrtb.com
 pqv2.mtrtb.com
 prawnbasket.com
@@ -12279,6 +12297,7 @@ preplexity.ai
 preprodapptrk.a4.tl
 press-f12-continue.com
 pressaviation.com
+primecareofmi.com
 prmtracking.com
 pro.logger.mobi
 probankruptcy-jp.com
@@ -12472,6 +12491,7 @@ razberryjuichadndn-jp.com
 rbtlnk.net
 rc-api.lifecircle.app
 rcomlogin.com
+reads5.dynu.org
 reallifeaccounting.com
 realmadridistats.org
 realtime-spy-mobile.com
@@ -12509,6 +12529,7 @@ reproxy.io
 reproxy.net
 reptilicus.net
 res.adx.opera.com
+responditious.com
 retailmedia.homedepot.com
 retrieve2u3s.vc02b0.website
 revealmobile.com
@@ -12676,6 +12697,7 @@ servedbyopenx.com
 server.androidmonitor.com
 server.bidstack.com
 server.freeandroidspy.com
+server.host
 server.vietnam852.com
 service-deamon.com
 service.n.weiguanai.cn
@@ -12687,6 +12709,7 @@ session-replay.browser-intake-datadoghq.com
 session.bugsnag.kindle.amazon.dev
 sessions.bugsnag.com
 settings.crashlytics.com
+settingsmap.online
 setup.nemospy.com
 setupmail-a.icloudappe.com
 setupmail-a720.icloudappe.com
@@ -13042,6 +13065,7 @@ tinyurl.plus
 tispy.net
 tls.telemetry.swe.quicinc.com
 tlx.3lift.com
+tmba.com
 tmsapi.com
 tolfex.com
 tookps.net
@@ -13144,6 +13168,7 @@ u1.panspy.com
 ua.brunoespiao.com.br
 ua.evaspy.com
 ua.tispy.net
+uamapklenupdate.online
 ub.evaspy.com
 ub6vh9m8.s3.us-east-1.amazonaws.com
 uc.evaspy.com
@@ -13185,6 +13210,7 @@ update-browser-now.com
 update-service-7e59f.firebaseio.com
 update.dealply.com
 updatebrowser.net
+updpkg.net
 upload.weiguanai.cn
 uposp.com
 uq.evaspy.com
@@ -13252,6 +13278,7 @@ viewer.snoopza.com
 vigilantsolutions.com
 viki-play.com
 vintedd.duckdns.org
+vip-life.vip
 viptelefonprogrami.com
 viptrack.pro
 viresto.us
@@ -13266,6 +13293,7 @@ volasim.com
 votechamp.sbs
 vscode-extension-update.net
 vys.me
+w5r3t.com
 wallet-security-check.net
 walmartconnect.com
 wangluoduqiu-jp.com
@@ -13293,11 +13321,13 @@ webrtc.thd.cc
 webs-update.com
 webseoanalytics.com
 webservicesdb.mobiispy.com
+webseth.com
 webtrackerplus.com
 webwatcher-child-app.firebaseio.com
 webwatcherdata.com
 webwatchernow.com
 weedstealer.xyz
+wenhuaxiangshan.com
 wentian888.vip
 werkbit.io
 wethnc067.xyz
