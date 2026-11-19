@@ -1,5 +1,5 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-11-19 05:10 UTC
+# Updated: 2026-11-19 14:56 UTC
 # Domains: 13416
 
 0--foodwarez.da.ru
@@ -10063,7 +10063,6 @@ aax-eu.amazon-adsystem.com
 aax-fe-sin.amazon-adsystem.com
 aax-us-east.amazon-adsystem.com
 aax.amazon-adsystem.com
-abqplumb.com
 absolutesoftsystem.in
 ac480.firebaseio.com
 accoun.amoxokf.cn
@@ -10175,7 +10174,6 @@ akibegi.top
 alarum.com
 alarum.io
 alaskankingcrabhub.com
-albertoalvarez.com
 albertsonsmediagroup.com
 alert.bk128.com
 alert.xiz4me.com
@@ -10202,6 +10200,7 @@ altzserberin.info
 amazon-cz.eu
 ambiancerealty-jp.com
 ambiguouscommerce.com
+amendments-grace-suggested-effects.trycloudflare.com
 amerepxtauric.aoqwox.asia
 amnestyreports.com
 amon.android-monitor.ru
@@ -10438,7 +10437,6 @@ api.timedoctor.com
 api.towerdata.com
 api.trackview.lifecircle.app
 api.transmitsecurity.com
-api.trongrid.io
 api.trustdevice.ai
 api.ttspy.com
 api.typeform.com
@@ -10551,7 +10549,6 @@ arvax.xyz
 asbares.com
 asgard-f8c53.firebaseio.com
 ashevilleroofingcontractor.com
-asiafm.com.tw
 asiannetmark.org
 ask-managementtraining.de
 ask.com
@@ -10570,6 +10567,7 @@ auctionfloor-jp.com
 audigent.com
 audit.beamzfetch.cc
 audit.bitfetch.cc
+aumcvy8y.onlinewebshop.net
 auracorp.cfd
 auracorp.shop
 auramatrixa.com
@@ -10594,6 +10592,7 @@ azurenetfiles.net
 b.appjiagu.com
 b.infosum.net
 b55y.net
+babarahoney.wuaze.com
 babelstreet.com
 babybon.cfd
 babylon.com
@@ -10628,7 +10627,6 @@ beneathbreadth.com
 best-spy-apps.com
 bestbuy.narrative.io
 bestcarent.org
-bestcorp.in
 bestinsurancevault.com
 beta-api.logger.mobi
 beta.logger.mobi
@@ -10640,6 +10638,7 @@ bidder.criteo.com
 bidder.sharethrough.com
 bidmachine.io
 bidswitch.net
+biglobe.myartsonline.com
 bilineate.top
 billiardacademy-jp.com
 billing.umobix.com
@@ -10647,7 +10646,6 @@ binance-verif.com
 bincdi.6kvses.com
 bincdi.birxpk.com
 biocatch.com
-biokinetics.com
 birxpk.com
 bit-ly.site
 bitly.bz
@@ -10692,12 +10690,12 @@ browsertools.shop
 brunoespiao.com
 brunoespiao.com.br
 brunoespiao2.s3.amazonaws.com
-bsc-rpc.publicnode.com
 bsd-capital.ai
 bt.myweb3id.io
 bt.platc-tester.com
 btmob.net
 bugsnag.com
+bugsolve.net
 buildersemp.sharepoint.com
 buildwithsaga.site
 businessexperience.cfd
@@ -10730,7 +10728,6 @@ cambridgemobiletelematicsdata.com
 carboniferous.top
 cartoondrop.net
 casalemedia.com
-cashea.app
 castle.io
 catchpoint.com
 catlogue.page.gd
@@ -10796,8 +10793,6 @@ chondritic.top
 chrome-update-required.com
 chromeupdatenow.com
 chuyuantece-djdnjp.com
-cignaglobal.com
-cih.com.vn
 circana.com
 cisco-appdynamics.com
 citecivilization.com
@@ -10857,6 +10852,7 @@ code-afsanalytics.com
 code.etracker.com
 codebasecode.com
 codeingasmylife.com
+codex.com.ai
 cohezo.com
 cohezo.io
 coin-have.com
@@ -10952,7 +10948,6 @@ cryptoloot.pro
 cryptonotepool.com
 cryptowallet-verify.com
 crystalfilehaven.com
-crystalgolfresort.com
 crystalsprings-jp.com
 cs-repl.com
 cs.cobaltstrike.com
@@ -11068,6 +11063,7 @@ deviceatlas.com
 deviceintelligence.io
 devices.nest.com
 devotionbelief.com
+dfv.pages.dev
 dfwioeiofwr.info
 diagnostics.apple.com
 diangovco.net
@@ -11182,7 +11178,6 @@ edge.permutive.app
 edgovor.org
 edgxxwors.org
 edhxgov.org
-edi-uae.com
 edigitalresearch.com
 edlnc255s2q.s3.amazonaws.com
 edvdafc.prozhe.vip
@@ -11190,7 +11185,6 @@ eeresofeuae.com
 eil786npto9u5bq.icu
 einformatiks.com
 ekmt.tw
-ekwiik.com
 elcore-api.azurewebsites.net
 electric-prime.com
 electrograph-jp.com
@@ -11239,7 +11233,6 @@ events.platc-tester.com
 events.segment.io
 events.split.io
 evt17.com
-examinetics.com
 exapi-apac.rubiconproject.com
 exapi-eu.rubiconproject.com
 exapi-us-east.rubiconproject.com
@@ -11362,6 +11355,7 @@ gcdsdk.appsflyer.com
 gelora.org
 genderconference.org
 generator-qrcode.online
+gentle-blancmange-84b3cd.netlify.app
 geoveral.online
 get.snoopza.com
 getfeedback.com
@@ -11419,7 +11413,6 @@ habu.com
 hadronid.net
 haopusd.com
 haqerra.com
-havingbabies.com
 haykey.click
 hdfdsi84j3h.top
 healthskills-jp.com
@@ -11429,7 +11422,6 @@ hellospy.com
 help-aws-login.zhcflow.com
 help.pactvow.com
 help.spylive360.com
-henryschein.com
 herokuapp.appodeal.com
 hetq.org
 hguygui.org
@@ -11577,7 +11569,6 @@ instana.io
 instance-hsiwi5-relay.screenconnect.com
 integ.euid.eu
 intelligencehub-jp.com
-intelligentaudit.com
 intentdata.bombora.com
 intercom-clicks.com
 intercom.io
@@ -11610,6 +11601,7 @@ iyegjb.cc
 izapk.xyz
 izspy-1313.firebaseio.com
 j2mkcafd.mywebcommunity.org
+j8882.buzz
 jailbreak-gateway.thd.cc
 jampp.com
 jasperly.cfd
@@ -11786,6 +11778,7 @@ maglook.eu
 mai.shayami.store
 mail.mobistealth.com
 mail.spymasterpro.com
+mail.swoopsworld.com
 mangocloudfile.com
 manulfie.click
 map-service.online
@@ -11854,9 +11847,10 @@ medica-tradefair.co
 meethubly.com
 meeting.us.com
 meetings.eu.com
+meetlivegoogle.icu
 megapush.com
 mentaorb.com
-meridiancapital.com
+mepintei.com
 merkantalolol.asia
 message-tracker-98822.firebaseio.com
 messages01.smstracker.com
@@ -11998,6 +11992,9 @@ mydsp.io
 mydwnd.com
 myipinfo.io
 mylead-tracking.tracknow.info
+mysecurityinfo.com
+mysso-setup.com
+myssosetup.com
 myweb3id.io
 mywebsearch.com
 mzpgfh.uhabq9.com
@@ -12058,6 +12055,7 @@ node4.theonespy.com
 node5.theonespy.com
 nodejs.spyhuman.com
 nodvian.us
+noroveli.com
 notableexam.org
 notepal.me
 noticeofreassessmentfromcnadarevenueagency.cfd
@@ -12074,6 +12072,7 @@ nr-data.net
 ns1.virsis.net
 ns2.virsis.net
 nusantaraqurban.com
+nutmegbelfry.live
 nutralove.co
 o1.ingest.sentry.io
 o9tq2b08.onlinewebshop.net
@@ -12120,6 +12119,7 @@ orangesmartfile.com
 orders-amazon-com.advancedfences.com
 orthb.adtelligent.com
 orthb.pulsepoint.com
+orventa.vu
 osesgy-unmissions.org
 otel.nr-data.net
 otelcol.aspecto.io
@@ -12224,7 +12224,6 @@ planisterhosting.com
 plasticbells.com
 platc-tester.com
 plateagency.com
-platform.dfir-lab.ch
 platform.lkqd.net
 plausible.io
 play-store-3bb64.firebaseio.com
@@ -12246,7 +12245,6 @@ portal.flexispy.com
 postbacks.appsflyer.com
 posthog.com
 powerium.net
-powersandsons.com
 ppv2.mtrtb.com
 pqv2.mtrtb.com
 prawnbasket.com
@@ -12271,7 +12269,6 @@ preplexity.ai
 preprodapptrk.a4.tl
 press-f12-continue.com
 pressaviation.com
-primecareofmi.com
 prmtracking.com
 pro.logger.mobi
 probankruptcy-jp.com
@@ -12457,6 +12454,7 @@ rank1cdn.com
 rapid.thomsonreuters.com
 rapidfilevault4.sbs
 rasef22.com
+rashut-max-app.pro
 rat.cloudbridgeworks.com
 ratedbronzecrafts.com
 ravenjs.com
@@ -12492,6 +12490,7 @@ remotecommands.com
 remotesecurity-629f2.firebaseio.com
 remotesecurityots.firebaseio.com
 remoto.foxspy.com.br
+reoddium-thistle.pro
 repo.mspyonline.com
 report-1.appmetrica.webvisor.com
 report-2.appmetrica.webvisor.com
@@ -12516,7 +12515,6 @@ robin.osaqwe.asia
 robiox.com.gr
 robloxrobloxrobloxrobloxrobloxrobloxrobloxrobloxrobloxrobloxrob.website
 rockalab.com
-roedentallab.com
 roku.conviva.com
 rollbar.com
 rollstrech.com
@@ -12598,7 +12596,7 @@ sardine.ai
 sas.smartadserver.com
 sb.scorecardresearch.com
 sc-analytics.appspot.com
-scanned.page
+sc-crypt.xyz
 scientiamobile.com
 scif.roku.com
 scmbank.shop
@@ -12790,12 +12788,12 @@ sncmedia.net
 snoopza.com
 snowplow.io
 snowplowanalytics.com
+socialeng.social
 solana-beacon.net
 solar-glide-moss-flaeo.pro
 solarwarehouse-jp.com
 somelitersofblood.pw
 somnitomonito.xyz
-soul.md
 sourcessignal.com
 sovrn.com
 sp.analytics.yahoo.com
@@ -12803,6 +12801,7 @@ sp.kuuvv.com
 sp18022019.firebaseio.com
 spappmonitoring.com
 spc-runtimes.s3.amazonaws.com
+speed-rankeer-east.com
 spigot.com
 spiky.clevertap-prod.com
 spiky.wzrkt.com
@@ -13035,7 +13034,6 @@ tinyurl.plus
 tispy.net
 tls.telemetry.swe.quicinc.com
 tlx.3lift.com
-tmba.com
 tmsapi.com
 tookps.net
 topzaloha.cz
@@ -13254,6 +13252,7 @@ virsis.net
 visaforchina-jp.com
 visit.tealiumiq.com
 visitortrack.net
+visscoregate.com
 vizio.com
 vkur.se
 vkur1.se
@@ -13298,6 +13297,8 @@ wenhuaxiangshan.com
 wentian888.vip
 werkbit.io
 wethnc067.xyz
+whatsapp-online.me
+whatsapp.us.org
 whatsappsdzuan.cfd
 where-is-my-children.firebase.io
 whiteops.com
@@ -13325,7 +13326,6 @@ ws.ttspy.com
 wss.findmykids.org
 wurfl.io
 ww1.1topspy.com
-wwglas.de
 www-google-analytics.l.google.com
 www.android-monitor.ru
 www.androidlost.com
