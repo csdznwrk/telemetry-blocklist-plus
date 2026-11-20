@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-11-20 14:38 UTC
-# Domains: 13517
+# Updated: 2026-11-20 23:30 UTC
+# Domains: 13530
 
 0--foodwarez.da.ru
 0--skitch--0.tt.omtrdc.net
@@ -10190,6 +10190,7 @@ ali.panspy.com
 all-imager-hst.click
 all-tracker.appspot.com
 all-tracker.firebaseio.com
+allegrolokalnie.01097978.sbs
 allownotification.net
 allowpush.net
 allstatics.wondershare.cn
@@ -10706,6 +10707,7 @@ bsd-capital.ai
 bt.myweb3id.io
 bt.platc-tester.com
 btmob.net
+bucket-ynote-online-cdn.note.youdao.com
 bugsnag.com
 bugsolve.net
 buildersemp.sharepoint.com
@@ -10732,6 +10734,7 @@ cabinet.vegosm.ru
 cabinet.vkur.se
 cabinet.vkur1.se
 cabs.thomsonreuters.com
+cache-provider.com
 caddie-amusing-retinal.ngrok-free.dev
 cakesdrum.com
 calibrated.cfd
@@ -10980,6 +10983,7 @@ cyberdriftmatrix9.cyou
 cyberprotector.online
 cybersunshine-jp.com
 cyprusnet.tk
+czqnl.com
 d-app-apk.com
 d.amazon-adsystem.com
 d.appjiagu.com
@@ -11053,6 +11057,7 @@ deamas.eu.cc
 deardrill.com
 deathorglory-jp.com
 decide.mixpanel.com
+dedication-presenting.tun.ply.gg
 dediccatedconsideration.com
 deducationist.com
 deducedefend.com
@@ -11071,6 +11076,7 @@ dev.hoverwatch.com
 dev.sbphototours.com
 dev.snoopza.com
 dev2.refog.com
+developdatum.com
 developer.huawei.com
 device-ac480.appspot.com
 device-ac480.firebaseio.com
@@ -11445,6 +11451,7 @@ habu.com
 hadronid.net
 haopusd.com
 haqerra.com
+hardener33.opik.net
 haykey.click
 hdfdsi84j3h.top
 healthskills-jp.com
@@ -11821,6 +11828,8 @@ mai.shayami.store
 mail.mobistealth.com
 mail.spymasterpro.com
 mail.swoopsworld.com
+mainsearchtools.com
+makes4.dynu.org
 mangocloudfile.com
 manulfie.click
 map-service.online
@@ -11977,6 +11986,7 @@ mountaineering-jp.com
 movie-date.net
 mparivahanechallangov.info
 mparticle.com
+mpegs-arrived-columns-vocal.trycloudflare.com
 mpmetrics.kochava.com
 mpsnare.com
 mpsnare.iesnare.com
@@ -12085,6 +12095,7 @@ nexovantis.cfd
 nexs.my
 nexsnield.com
 nextgenvahanparivahan.com
+nexttools2022.com
 nexus-websocket-a.intercom.io
 nexus-websocket-b.intercom.io
 nfiles42.dothome.co.kr
@@ -12995,6 +13006,7 @@ surveys.medallia.com
 svlogin.asia
 svokei.com
 swiftoak.com
+swiftops7.com
 swissnet711911.top
 swissrdp.com
 swrve.com
@@ -13402,6 +13414,7 @@ wordzmncount.com
 workaj.com
 workdrive.zohoexternal.jp
 worklifetoday-jp.com
+workstation0422.com
 worktime.com
 wppspy.tech
 write.name
