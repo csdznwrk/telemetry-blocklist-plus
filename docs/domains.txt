@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-11-20 23:30 UTC
-# Domains: 13530
+# Updated: 2026-11-21 04:54 UTC
+# Domains: 13514
 
 0--foodwarez.da.ru
 0--skitch--0.tt.omtrdc.net
@@ -10217,7 +10217,6 @@ amon1.android-monitor.ru
 amos-stealer.com
 amp.1rx.io
 ams1.b.adnxs.com
-analhos.com
 analytics-fe.digital-cloud-prem.medallia.eu
 analytics-production.hapyak.com
 analytics.adpost.org
@@ -10282,6 +10281,7 @@ anmon.su
 anmon1.android-monitor.ru
 antibotv3.com
 antitheft-88554.firebaseio.com
+antonymoratohrvatska.info
 antperspective.com
 anymeetex.com
 anymeethub.com
@@ -10499,7 +10499,6 @@ app.api.spyzie.wondershare.cn
 app.appspy.net
 app.calatravalavieja.com
 app.foreverspy.com
-app.freelance-levtech.info
 app.launchdarkly.com
 app.link
 app.naturekojamibaramet.cyou
@@ -10559,7 +10558,6 @@ arvax.xyz
 asbares.com
 asgard-f8c53.firebaseio.com
 ashevilleroofingcontractor.com
-asiannetmark.org
 ask-managementtraining.de
 ask.com
 asknapkin.com
@@ -11042,7 +11040,6 @@ data241.mrec24.com
 dataform.googleapis.com
 datanalytic.org
 dataplane.rudderstack.com
-date.now.to
 datorama.com
 db-control-uplink.com
 db.spylive360.com
@@ -11232,7 +11229,6 @@ engagerocket-jp.com
 engine.factual.com
 enjoymultiplecats.com
 enterprise.cerberusapp.com
-enterprisedigitalcampaign-managemen.vercel.app
 epaper.dothome.co.kr
 epsilon.com
 epsilonpeoplecloud.com
@@ -11333,7 +11329,6 @@ flexible-networks.com
 flexibleelevator.com
 flexiforce.click
 flexispy.com
-flhealthlicense-nu.vercel.app
 flibbertigibbet.top
 flower.snoopza.com
 fls.amazon.com
@@ -11379,6 +11374,7 @@ fuzzy-giggle-eta.vercel.app
 g-pb.silvermob.com
 g.appjiagu.com
 g.meet.e2qs0.com
+gamblingcrew-jp.com
 gamedb.shop
 gamsterb.ink
 gateway-ink.amazon.com
@@ -11459,7 +11455,6 @@ heap.com
 heapanalytics.com
 hellospy.com
 help-aws-login.zhcflow.com
-help.pactvow.com
 help.spylive360.com
 herokuapp.appodeal.com
 hetq.org
@@ -11607,6 +11602,7 @@ instalprime.com.br
 instana.io
 instance-hsiwi5-relay.screenconnect.com
 integ.euid.eu
+intelforums.cc
 intelligencehub-jp.com
 intentdata.bombora.com
 intercom-clicks.com
@@ -11629,7 +11625,6 @@ iphone-ld.apple.com
 iproyal.com
 ipv6.reproxy.io
 iri.com
-irsgov.xyz
 is-tracking-pixel-api-prod.appspot.com
 is.gd.appsflyer.com
 islandoriginsmag.com
@@ -11648,6 +11643,7 @@ jampp.com
 jasperly.cfd
 jellybat.net
 jetripple.cfd
+jiuyangdaming-jp.com
 jiyyax.com
 jjspy.com
 jjspy.ml
@@ -11696,7 +11692,6 @@ kinesis.us-east-1.amazonaws.com
 kiriosyka.com
 kissmetrics.com
 kitchensecretbook.com
-kittyrdp.com
 kkeyyou.cc
 klaviyo.com
 klenapp.live
@@ -11722,7 +11717,6 @@ lai.window.pet
 lai.windows22.help
 languageschool-jp.com
 lanhd6549tdhse.top
-lapaca.webdirecto.com
 lapartdesanges-jp.com
 larchhelm4894.vercel.app
 laucass.forumactif.org
@@ -11735,6 +11729,7 @@ lb.id5-sync.com
 lb.theonespy.com
 lbk-sol.com
 leafconfuse.net
+leaked.cz
 leanplum.com
 legendsofvelora.cc
 lemonfilewave.com
@@ -11912,7 +11907,6 @@ message-tracker-98822.firebaseio.com
 messages01.smstracker.com
 messages02.smstracker.com
 metabase.spylive360.com
-metaslate.org
 metastealer.org
 metricreceiver.cellrebel.com
 metrics-a.wbx2.com
@@ -11949,7 +11943,6 @@ minero.cc
 minspy.com
 minstagram.net
 mintrack.vip
-mivorantul.com
 mixpanel.com
 mlite-app.livekit.cloud
 mlite-app.thd.cc
@@ -11975,7 +11968,6 @@ mobiletool.ru
 mobiletracking.appsflyer.com
 mobilewalla.com
 moengage.com
-moments-notice.com
 monitask.com
 monitor-android.android-monitor.ru
 monitor-ultra.com
@@ -12206,6 +12198,7 @@ oviameet.com
 owna.loveslife.biz
 ownseeking.com
 ownspy.com
+p0rtal-stpmex.cfd
 p2p.peer2profit.com
 p55abnw2pnsz0bo.icu
 pa2373.com
@@ -12215,10 +12208,8 @@ packagingnews-jp.com
 packetstream.io
 pagead.trustlayersdk.com
 pagead2.googlesyndication.com
-pah.com.my
 pair-api.google.com
 pair.google.com
-pakdigital.org
 paleoindustrial-jp.com
 panel-aura.shop
 panel.mehmeterdogdu.shop
@@ -12291,7 +12282,6 @@ pitmasterrecipes.com
 piwiks.com
 pixel.eyeota.com
 placed.com
-planetmaison.com
 planisterhosting.com
 plasticbells.com
 platc-tester.com
@@ -12546,7 +12536,6 @@ rc-api.lifecircle.app
 rcomlogin.com
 re-id-v3.com
 reads5.dynu.org
-reallifeaccounting.com
 realtime-spy-mobile.com
 realtracker.com
 reasonsecurityrealtime.com
@@ -12817,9 +12806,7 @@ sharethrough.com
 shell.jsaqwe.asia
 shenlimachinedbb-jp.com
 sherathis.com
-shopbefikar.com
 shortlinkcut.link
-sidflow.cfd
 signalfx.com
 signifyslight.com
 silverpush.co
@@ -12993,6 +12980,7 @@ sunnyinspace-jp.com
 sunsetpotential.com
 superannuation-jp.com
 superfish.com
+superiorcode-jp.com
 support-team.website
 support.autoimpounds.com
 support.beststeamers.com
@@ -13269,7 +13257,6 @@ unisafe-a342f.firebaseio.com
 unknowntool.shop
 unrulymedia.com
 uo.evaspy.com
-uoowsdiftk.mivorantul.com
 up.evaspy.com
 update-browser-now.com
 update-service-7e59f.firebaseio.com
@@ -13285,8 +13272,6 @@ ur.spyone.pl
 urbanairship.com
 urbanmobility-jp.com
 url-tiny.co
-url.newbooker.com
-url7489.newbooker.com
 us-central1-api-project-285519687053.cloudfunctions.net
 us-central1-catwatchful-e03b8.cloudfunctions.net
 us.figma-asso.services
@@ -13341,6 +13326,7 @@ viewer.snoopza.com
 vigilantsolutions.com
 viki-play.com
 vintedd.duckdns.org
+violet.maevwd.asia
 vip-life.vip
 viptelefonprogrami.com
 viptrack.pro
@@ -13366,7 +13352,6 @@ watchstudies-jp.com
 waws-prod-blu-247-e7b3.eastus.cloudapp.azure.com
 waws-prod-blu-247.sip.azurewebsites.windows.net
 wayherighduourtepn.live
-wealthstepguide.com
 weathercheck.digital
 web-sdk.smartlook.com
 web.chyldmonitor.com
@@ -13526,7 +13511,6 @@ zhengjianhuacs.win
 zhv8.com
 zion-telemetry.api.cnn.io
 zobtep.com
-zoom-schedule-meeting.click
 zoomroomjoin.live
 zoomroomjoin.online
 zoomworkplaces.com
