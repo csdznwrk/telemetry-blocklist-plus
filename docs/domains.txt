@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-11-21 04:54 UTC
-# Domains: 13514
+# Updated: 2026-11-21 13:55 UTC
+# Domains: 13568
 
 0--foodwarez.da.ru
 0--skitch--0.tt.omtrdc.net
@@ -10016,6 +10016,8 @@
 1ca43.appspot.com
 1dhc8fuc.s3.us-east-1.amazonaws.com
 1drv.adessosnow.com
+1echa.cam
+1echa.shop
 1inch-extension.vercel.app
 1topspy.com
 1y69gy2mdzaltz1.icu
@@ -10024,19 +10026,25 @@
 202611194199.zip
 20form.xlsl.zip
 2baserec2.guru
+2echa.cam
+2echa.shop
 2rlsykgo.s3.us-east-1.amazonaws.com
 3262d48df5d75e34.shop
 33across.com
 3601688.cc
 360givereference.org
+3echa.cam
 4-dot-all-tracker.appspot.com
 40.fp.us.acr.unruly.co
 4217eaeef30905fb.eservice7-11yjsg.shop
 4217eaeef30905fb.tortade.net
 45ac42900299a815ee30206d536249d3.r2.cloudflarestorage.com
+4echa.cam
 4info.com
 4yhqdcistf9bsk5.icu
 51degrees.com
+5echa.cam
+5echa.shop
 6-dot-all-tracker.appspot.com
 6kvses.com
 711sahwd.eu.cc
@@ -10046,6 +10054,8 @@
 84-51.com
 8916f.appspot.com
 89685.firebaseio.com
+8echa.cam
+8echa.shop
 97.logger.mobi
 98aiblog.com
 98aicai.com
@@ -10171,6 +10181,7 @@ ai-nexora.sbs
 aipythondevs.com
 airbrake.io
 airbridge.io
+airport.adam-46c.workers.dev
 airship.com
 aisikeen.com
 aji9w5i3.scienceontheweb.net
@@ -10544,6 +10555,7 @@ aqaf.net
 archer.westeurope.cloudapp.azure.com
 archive-download.click
 archive-page.click
+arehuekiddingme.com
 argusinformation.com
 arity.com
 arkoselabs.com
@@ -10588,6 +10600,7 @@ authenticated-traffic-solution.rlcdn.com
 authentication.liveramp.com
 authorization-cdn-press-enter.info
 auto-forward.com
+auto.trovit.be
 autoforward-8433d.firebaseio.com
 autosseba.be
 avazutracking.net
@@ -10684,6 +10697,7 @@ breadgroomer.com
 breeze.gscahf.cn
 brightdata.com
 brightmountainmedia.com
+brightpress.site
 brilliant-flame-585.firebaseio.com
 bronzemonth.com
 browniebell.com
@@ -11040,6 +11054,7 @@ data241.mrec24.com
 dataform.googleapis.com
 datanalytic.org
 dataplane.rudderstack.com
+datatimes.centralus.cloudapp.azure.com
 datorama.com
 db-control-uplink.com
 db.spylive360.com
@@ -11049,6 +11064,7 @@ dcv2rnj2ograe.cloudfront.net
 ddcd62e16a428c8e.shop
 ddduuuppp.com
 ddiutilities.com
+de-lcloud.co
 dealply.com
 deamas.eu.cc
 deardrill.com
@@ -11171,6 +11187,12 @@ easyloggerbeta.azurewebsites.net
 easyphonetrack.com
 eaucool.com
 ebae9qsf.s3.us-east-1.amazonaws.com
+echa.qpon
+echa.shop
+echal3.shop
+echall55.cam
+echall66.cfd
+echall66.click
 echalla.bar
 echalla.cam
 echalla.cfd
@@ -11180,6 +11202,12 @@ echalla.xyz
 echallaa.cam
 echallae.shop
 echallal.cam
+echallan1.cam
+echallan1.shop
+echallan66.shop
+echallana.cam
+echallana.shop
+echallanu.shop
 echallao.icu
 echallax.shop
 echallin.cam
@@ -11194,6 +11222,7 @@ echalln.cyou
 echalln.icu
 echalln.top
 echallna.icu
+echalo8.shop
 ecom.flexispy.com
 eddiebauerofficiall.com
 eddiebauersala.com
@@ -11436,6 +11465,8 @@ grillprocraft.com
 grillrecipespro.com
 groundbreakinginitative.com
 groundtruth.com
+grove-satin.com
+gta6cloud.nexus
 guestspy.com
 guitarcalculate.com
 gum.criteo.com
@@ -11468,6 +11499,7 @@ hjazfioe.surf
 hlk.criteo.com
 hollowly.cfd
 homearea.googleapis.com
+homebrexwin.com
 homehearthcooks.com
 homelygrill.com
 honeybadger.io
@@ -11481,6 +11513,7 @@ hoverspy.com
 hoverwatch.com
 hpapp.mywebsearch.com
 hraparak.org
+hrzqyx.cc
 hs-analytics.net
 https-www-roblox.com
 hubstaff.com
@@ -11524,6 +11557,7 @@ ib.adnxs-simple.com
 ib.adnxs.com
 icagipo.top
 icecreamtester.com
+icioud.center
 icloudappe.com
 icloudvsmapalocaliza.click
 id5-sync.com
@@ -11601,6 +11635,8 @@ installcore.com
 instalprime.com.br
 instana.io
 instance-hsiwi5-relay.screenconnect.com
+instance-mfdh1z-relay.screenconnect.com
+instance-vzx9mk-relay.screenconnect.com
 integ.euid.eu
 intelforums.cc
 intelligencehub-jp.com
@@ -11618,6 +11654,7 @@ investigationj6.com
 invitemeet.us
 ioi.life
 ios-gw.spynger.net
+ios-search.app
 iovation.com
 iovation.mpsnare.com
 ip-api.gracenote.com
@@ -11696,6 +11733,7 @@ kkeyyou.cc
 klaviyo.com
 klenapp.live
 klg.a-spy.com
+kmtxyn.com
 kochava.com
 kokum.ru
 komodia.com
@@ -11717,6 +11755,7 @@ lai.window.pet
 lai.windows22.help
 languageschool-jp.com
 lanhd6549tdhse.top
+lanternclip.live
 lapartdesanges-jp.com
 larchhelm4894.vercel.app
 laucass.forumactif.org
@@ -11797,6 +11836,7 @@ lr-ingest.io
 lragir.org
 lum-res31.luminati.io
 lumakentolorizeranexo.digital
+lumensupply.site
 luminati.io
 lumitakes5gcreatinedaily.xyz
 lumma5b6r.com
@@ -12096,6 +12136,7 @@ nginxmysql.com
 nice-protect.com
 nid.weffm.p-e.kr
 nielseniq.com
+nimbuskeep.com
 ninjatech.io
 nitlebuf.com
 nmtracking.netflix.com
@@ -12113,6 +12154,7 @@ node4.theonespy.com
 node5.theonespy.com
 nodejs.spyhuman.com
 nodvian.us
+nomeibrew.com
 noroveli.com
 notableexam.org
 notepal.me
@@ -12122,6 +12164,7 @@ notify.bugsnag.com
 notifyme.network
 notionnowadays.com
 noujx.s9gxw8.com
+nourishbeyondlife.info
 novastream.cfd
 noventrax.us
 novoservidor2026.com
@@ -12206,6 +12249,7 @@ package.mrec24.com
 package2.mrec24.com
 packagingnews-jp.com
 packetstream.io
+paduaacademy.screenconnect.com
 pagead.trustlayersdk.com
 pagead2.googlesyndication.com
 pair-api.google.com
@@ -12275,9 +12319,11 @@ phonetracking-dd226.firebaseio.com
 phonetracking.net
 pi.info-taxi.info
 pickarest.com
+pifilubihu.shop
 pilgrim.foursquare.com
 ping.chartbeat.net
 pipe.thd.cc
+pirloz.com
 pitmasterrecipes.com
 piwiks.com
 pixel.eyeota.com
@@ -12488,6 +12534,7 @@ pushwoosh.com
 px.ads.linkedin.com
 pxi.pub
 pxl-mailtracker.com
+pxmas.click
 q12z.net
 q1ls1ho9x7wsxlu.icu
 q95294fs.beget.tech
@@ -12958,6 +13005,7 @@ steelsconnect.com
 stellarnodegrid1.cyou
 stellarnodegrid8.cyou
 sterlingdesigns-jp.com
+storageprofiler.com
 strangegarden.org
 strapi.msafely.com
 strapi.spyphone.cc
@@ -13035,6 +13083,7 @@ t.appsflyer.com
 t.mplxtms.com
 t.visx.net
 taaeiuep.com
+tacada-base.paperleaftest.com
 tacticscheap.net
 tag.commander.com
 tag.rlcdn.com
@@ -13210,6 +13259,7 @@ ttspy.com
 ttspy.net
 ttspy.top
 tubeshape.com
+tuikper.site
 tun-cos-1258344701.file.myqcloud.com
 turn.com
 twistedfears-jp.com
@@ -13301,6 +13351,7 @@ v4vw4ytvo4.execute-api.us-east-2.amazonaws.com
 validate.appsflyersdk.com
 varenie.live
 vars.hotjar.com
+velmontriq.net
 velvetpremier.com
 venntel.com
 veraset.com
@@ -13325,6 +13376,7 @@ video.unrulymedia.com
 viewer.snoopza.com
 vigilantsolutions.com
 viki-play.com
+vine-96.com
 vintedd.duckdns.org
 violet.maevwd.asia
 vip-life.vip
@@ -13339,6 +13391,7 @@ visscoregate.com
 vizio.com
 vkur.se
 vkur1.se
+vn99.site
 volasim.com
 vscode-extension-update.net
 vys.me
@@ -13346,6 +13399,7 @@ w5r3t.com
 wallet-security-check.net
 walmartconnect.com
 wangluoduqiu-jp.com
+wangty.site
 warden7xzx54m6xk2zn5wpptekpe5rgewdjkfxnkjuu63fbbvjnljrqd.onion
 wasm.web.mine.tf
 watchstudies-jp.com
