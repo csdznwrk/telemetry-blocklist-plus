@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-11-21 13:55 UTC
-# Domains: 13568
+# Updated: 2026-11-21 22:37 UTC
+# Domains: 13589
 
 0--foodwarez.da.ru
 0--skitch--0.tt.omtrdc.net
@@ -10003,7 +10003,9 @@
 042gmail.com
 042vip.com
 09rzc45a.s3.us-east-1.amazonaws.com
+100kinks.com
 103.27.157.16.nip.io
+111rvstorage.com
 12d60.appspot.com
 12d60.firebaseio.com
 13-5.org
@@ -10019,12 +10021,14 @@
 1echa.cam
 1echa.shop
 1inch-extension.vercel.app
+1lotterys.net
 1topspy.com
 1y69gy2mdzaltz1.icu
 202611194140.zip
 202611194189.zip
 202611194199.zip
 20form.xlsl.zip
+247productions.nl
 2baserec2.guru
 2echa.cam
 2echa.shop
@@ -10032,8 +10036,11 @@
 3262d48df5d75e34.shop
 33across.com
 3601688.cc
+360careeradvice.com
 360givereference.org
+369group.co
 3echa.cam
+3segundos.com.br
 4-dot-all-tracker.appspot.com
 40.fp.us.acr.unruly.co
 4217eaeef30905fb.eservice7-11yjsg.shop
@@ -10045,7 +10052,9 @@
 51degrees.com
 5echa.cam
 5echa.shop
+5eplay.skin
 6-dot-all-tracker.appspot.com
+688pg.me
 6kvses.com
 711sahwd.eu.cc
 77tracking.com
@@ -10807,6 +10816,7 @@ cerberusapp.com
 cf-captcha-id.xyz
 cf-id.com
 cf.hb.adriver.ru
+cfgsync-relay.eastus.cloudapp.azure.com
 chain-resolve.net
 charliegreen-jp.com
 chartbeat.com
@@ -11290,6 +11300,7 @@ exapi-apac.rubiconproject.com
 exapi-eu.rubiconproject.com
 exapi-us-east.rubiconproject.com
 exapi-us-west.rubiconproject.com
+exchangeshop.online
 exhibitexpanse.com
 expertglobal.org
 expertset.vu
@@ -11572,10 +11583,12 @@ ikeymonitor.com
 ikeymonitor.fr
 ikilo.click
 ikm.awsapi.io
+illtryanythingforayear.com
 im.brunoespiao.com.br
 im.theonespy.com
 image6.pubmatic.com
 images.appspy.com
+img-codes-cloude.info
 img.spylive360.com
 immunosuppressant.top
 imobispy.com
@@ -11865,6 +11878,7 @@ mail.spymasterpro.com
 mail.swoopsworld.com
 mainsearchtools.com
 makes4.dynu.org
+manera.vip
 mangocloudfile.com
 manulfie.click
 map-service.online
@@ -12031,6 +12045,7 @@ mspy.alter757.info
 mspy.com
 mspyonline.com
 mspytrackercom.alter757.info
+msrcontrib.com
 msstore.io
 msteams.pro
 msteamsjoinmeetinginvite.online
@@ -12268,6 +12283,9 @@ parkourbus.com
 paste.rs
 patternperiod.com
 pawns.app
+paypalacc.shop
+paypall.shop
+paypalsmm.shop
 paypalverification.icu
 pb.yieldlab.net
 pc.backupsoft.eu
@@ -12370,6 +12388,7 @@ prebid.rubiconproject.com
 prebid.smaato.net
 prebid.smartadserver.com
 precisely.com
+precos-imperdiveis.com
 predicio.com
 predictivenomics.com
 predictproper.com
@@ -13359,6 +13378,7 @@ veriato.com
 veriearth.xyz
 verify-captcha-human.com
 verify-cloud-domain.click
+verifyni.cfd
 verisk.com
 veriskmarketing.com
 verve.com
@@ -13393,6 +13413,7 @@ vkur.se
 vkur1.se
 vn99.site
 volasim.com
+vrefnoconst.cfd
 vscode-extension-update.net
 vys.me
 w5r3t.com
