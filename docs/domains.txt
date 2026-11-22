@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-11-22 13:48 UTC
-# Domains: 13538
+# Updated: 2026-11-22 22:59 UTC
+# Domains: 13543
 
 0--foodwarez.da.ru
 0--skitch--0.tt.omtrdc.net
@@ -10028,11 +10028,13 @@
 20form.xlsl.zip
 247productions.nl
 2baserec2.guru
+2e7.420zm3.org
 2echa.cam
 2echa.shop
 2jcoasr.top
 2rlsykgo.s3.us-east-1.amazonaws.com
 3262d48df5d75e34.shop
+33.3mir3.org
 33across.com
 3601688.cc
 360careeradvice.com
@@ -10404,7 +10406,6 @@ api.leanplum.com
 api.lifecircle.app
 api.localytics.com
 api.lytics.com
-api.mail.tm
 api.medallia.com
 api.mixpanel.com
 api.mobilebackup.biz
@@ -10606,7 +10607,6 @@ authenticated-traffic-solution.rlcdn.com
 authentication.liveramp.com
 authorization-cdn-press-enter.info
 auto-forward.com
-auto.trovit.be
 autoforward-8433d.firebaseio.com
 avazutracking.net
 awamisolution.com
@@ -10723,7 +10723,6 @@ bsd-capital.ai
 bt.myweb3id.io
 bt.platc-tester.com
 btmob.net
-bucket-ynote-online-cdn.note.youdao.com
 bugsnag.com
 bugsolve.net
 buildersemp.sharepoint.com
@@ -10815,6 +10814,7 @@ cfgsync-relay.eastus.cloudapp.azure.com
 chain-resolve.net
 charliegreen-jp.com
 chartbeat.com
+chaseconnectlivesupport.com
 chasedesigns-jp.com
 chateauhotel-jp.com
 check02id.com
@@ -10913,6 +10913,7 @@ concretebottle.com
 conduit.com
 config.samsungads.com
 connect.liveramp.com
+connectsup2.click
 connupdate.cfd
 conquerconfess.com
 containsnow.com
@@ -11140,6 +11141,7 @@ dmw.cc
 dnetk.com
 dobeqnesmot.cc
 doc-msi.sbs
+doc.pdf-unico.lat
 dock-sync.com
 docswatq.vc02b0.website
 doctoractive-jp.com
@@ -11442,6 +11444,7 @@ grillrecipespro.com
 groundbreakinginitative.com
 groundtruth.com
 grove-satin.com
+gta6-keys-ru.com
 gta6cloud.nexus
 guestspy.com
 guitarcalculate.com
@@ -11452,7 +11455,6 @@ h.audigent.com
 h.online-metrix.net
 habu.com
 hadronid.net
-haopusd.com
 haqerra.com
 hardener33.opik.net
 haykey.click
@@ -11502,7 +11504,6 @@ hwa.cab
 hwm.cab
 hws.icu
 hww.cab
-hypernotepad.com
 hypertracker.com
 hz-service.thd.cc
 hz7.thd.cc
@@ -11590,6 +11591,7 @@ ingest.us.sentry.io
 ingest.us1.signalfx.com
 ingress.coralogix.com
 inineci.top
+initiatedby.app
 inmain.22web.org
 inmarket.com
 inmobi.com
@@ -11989,6 +11991,7 @@ monitask.com
 monitor-android.android-monitor.ru
 monitor-ultra.com
 moomytrollz.xyz
+moreth.com
 mossora.cfd
 motorolasolutions.com
 mountaineering-jp.com
@@ -12111,6 +12114,7 @@ nexus-websocket-b.intercom.io
 nfiles42.dothome.co.kr
 ngc77.com
 nginxmysql.com
+ni.sh
 nice-protect.com
 nid.weffm.p-e.kr
 nielseniq.com
@@ -12118,6 +12122,7 @@ nimbuskeep.com
 ninjatech.io
 nitlebuf.com
 nmtracking.netflix.com
+nnmo57xxqhah6i2tydttlvjg7azar6ifek3odif2j5672mvhfq7ojnid.onion
 noas.adtimizer.co
 noas.impchkdsp.com
 noas.mtrtb.com
@@ -12135,7 +12140,6 @@ nodvian.us
 nomeibrew.com
 noroveli.com
 notableexam.org
-notepal.me
 notifications-pa.googleapis.com
 notify.bugsnag.com
 notifyme.network
@@ -12244,9 +12248,9 @@ panspy-1.oss-us-west-1.aliyuncs.com
 panspy.com
 panspy.me
 parkourbus.com
-paste.rs
 patternperiod.com
 pawns.app
+pay.finaliza-agora.com
 paypalacc.shop
 paypall.shop
 paypalsmm.shop
@@ -12325,7 +12329,6 @@ police.gr.com
 policiacivilmg.com
 politicalsciencestudent.com
 polygon-c2-relay.com
-pomf2.lain.la
 popsonglist.com
 portal.alcartaonline.com
 portal.cameracellphones.com
@@ -12360,6 +12363,7 @@ preprodapptrk.a4.tl
 press-f12-continue.com
 pressaviation.com
 pritue.com
+privacy4.dynu.org
 privacy5.dynu.org
 prmtracking.com
 pro.logger.mobi
@@ -12771,7 +12775,6 @@ servedbyopenx.com
 server.androidmonitor.com
 server.bidstack.com
 server.freeandroidspy.com
-server.host
 service-deamon.com
 service.n.weiguanai.cn
 service.weiguanai.cn
@@ -12831,6 +12834,7 @@ simage2.pubmatic.com
 simpleanalytics.io
 simplegastronomy.com
 sin3.ib.adnxs.com
+sinalizabr.com
 sincereaccertain.com
 singular.net
 site-improve.net
@@ -13377,6 +13381,7 @@ waws-prod-blu-247-e7b3.eastus.cloudapp.azure.com
 waws-prod-blu-247.sip.azurewebsites.windows.net
 wayherighduourtepn.live
 weathercheck.digital
+web-exodea-io.pineapple.page
 web-sdk.smartlook.com
 web.chyldmonitor.com
 webanalytics.zohodcm.com
@@ -13425,7 +13430,6 @@ worklifetoday-jp.com
 workstation0422.com
 worktime.com
 wppspy.tech
-write.name
 wrs.clevertap.com
 ws.spylive360.com
 ws.ttspy.com
@@ -13534,6 +13538,7 @@ zeotap.com
 zhengjianhuacs.win
 zhv8.com
 zion-telemetry.api.cnn.io
+zm420.vip
 zobtep.com
 zoomroomjoin.live
 zoomroomjoin.online
