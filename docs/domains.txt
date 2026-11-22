@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-11-21 22:37 UTC
-# Domains: 13589
+# Updated: 2026-11-22 04:12 UTC
+# Domains: 13525
 
 0--foodwarez.da.ru
 0--skitch--0.tt.omtrdc.net
@@ -10017,10 +10017,8 @@
 1a43b6c2dbf3fcc8.tortade.net
 1ca43.appspot.com
 1dhc8fuc.s3.us-east-1.amazonaws.com
-1drv.adessosnow.com
 1echa.cam
 1echa.shop
-1inch-extension.vercel.app
 1lotterys.net
 1topspy.com
 1y69gy2mdzaltz1.icu
@@ -10056,7 +10054,6 @@
 6-dot-all-tracker.appspot.com
 688pg.me
 6kvses.com
-711sahwd.eu.cc
 77tracking.com
 7fysn-q6f-wi6j-ubkwf-24-09-2026-aa.pages.dev
 83dd4.appspot.com
@@ -10171,7 +10168,6 @@ advertising.walmart.com
 advertracker.com
 adx.opera.com
 adx.petal-ads.com
-aexpresstrysive.a48qkso6.asia
 affiliatetracking.com
 affiliatetracking.net
 afftracking.justanswer.com
@@ -10230,6 +10226,7 @@ ambiancerealty-jp.com
 ambiguouscommerce.com
 amendments-grace-suggested-effects.trycloudflare.com
 amerepxtauric.aoqwox.asia
+americaxpsbregiliv.bzdzx.com
 americaxpseshojyzo.yestegroup.com
 amnestyreports.com
 amon.android-monitor.ru
@@ -10341,7 +10338,6 @@ api.bluecats.com
 api.blueconic.com
 api.bytepioner.com
 api.castle.io
-api.certificate.rest
 api.cerysoi.ink
 api.childsafetytrackerapp.com
 api.clear.thomsonreuters.com
@@ -10511,6 +10507,7 @@ app-api.dlforge.cc
 app-api.embervault.cc
 app-api.phonedata.me
 app-api.spyzie.com
+app-kleinanzeigen.de
 app-measurement.com
 app.adjust.com
 app.alcartawereldatlas.com
@@ -10591,7 +10588,6 @@ atatus.com
 atomicstealer.com
 ats.rlcdn.com
 au-club.top
-au88-vn.biz
 auctionfloor-jp.com
 audigent.com
 audit.beamzfetch.cc
@@ -10611,7 +10607,6 @@ authorization-cdn-press-enter.info
 auto-forward.com
 auto.trovit.be
 autoforward-8433d.firebaseio.com
-autosseba.be
 avazutracking.net
 awamisolution.com
 awsapi.io
@@ -10674,7 +10669,6 @@ biglobe.myartsonline.com
 bilineate.top
 billiardacademy-jp.com
 billing.umobix.com
-binance-verif.com
 bincdi.6kvses.com
 bincdi.birxpk.com
 biocatch.com
@@ -10703,7 +10697,6 @@ branch.io
 braze.com
 braze.eu
 breadgroomer.com
-breeze.gscahf.cn
 brightdata.com
 brightmountainmedia.com
 brightpress.site
@@ -10767,7 +10760,6 @@ cartoondrop.net
 casalemedia.com
 castle.io
 catchpoint.com
-catlogue.page.gd
 catwatchful-e03b8-2.firebaseio.com
 catwatchful-e03b8.firebaseio.com
 catwatchful.com
@@ -10862,7 +10854,6 @@ cloud.antibotv3.com
 cloud.teramind.co
 cloud.ttspy.com
 cloudautosolutions.com
-cloude.ai
 cloudfilebridge.com
 cloudflacecdn.com
 cloudflare-verify.click
@@ -11148,8 +11139,6 @@ dock-sync.com
 docswatq.vc02b0.website
 doctoractive-jp.com
 docurevealerantics.es
-docusign.alt3-doc3ea7-v2.sbs
-docusign.nets2u.com
 dola789a.org
 domenpozh.net
 doraholdings-jp.com
@@ -11177,7 +11166,6 @@ dtech.mtrtb.com
 dtn.nodle.io
 dumbsplash.com
 dumplingbell.com
-duo-you.com
 dw-arabic.com
 dwindledistribution.com
 dwn.vys.me
@@ -11195,43 +11183,18 @@ easternheritage-jp.com
 easydoc.info
 easyloggerbeta.azurewebsites.net
 easyphonetrack.com
-eaucool.com
-ebae9qsf.s3.us-east-1.amazonaws.com
 echa.qpon
 echa.shop
 echal3.shop
 echall55.cam
 echall66.cfd
 echall66.click
-echalla.bar
-echalla.cam
-echalla.cfd
-echalla.com
-echalla.shop
-echalla.xyz
-echallaa.cam
-echallae.shop
-echallal.cam
 echallan1.cam
 echallan1.shop
 echallan66.shop
 echallana.cam
 echallana.shop
 echallanu.shop
-echallao.icu
-echallax.shop
-echallin.cam
-echallin.click
-echallin.cyou
-echallin.shop
-echallin.xyz
-echallln.bar
-echallln.cfd
-echalln.cam
-echalln.cyou
-echalln.icu
-echalln.top
-echallna.icu
 echalo8.shop
 ecom.flexispy.com
 eddiebauerofficiall.com
@@ -11312,7 +11275,6 @@ f.appjiagu.com
 f34efdfd.org
 fa5b15.76k.site
 faceb00k-live.com
-faceebook-ai.com
 factual.com
 fakeupdate.net
 fallaciousessential.net
@@ -11320,7 +11282,6 @@ fast-mob.com
 fast.appcues.com
 fastlane.rubiconproject.com
 fbcdnads.live
-fcsskoolapps.co.in
 fearevolve.com
 featuregates.org
 feedbackws.apple.com
@@ -11410,7 +11371,6 @@ fullstory.com
 fullwork3e4.gamer.free
 funcaptcha.com
 funmoodsearch.com
-fuzzy-giggle-eta.vercel.app
 g-pb.silvermob.com
 g.appjiagu.com
 g.meet.e2qs0.com
@@ -11503,7 +11463,6 @@ hetq.org
 hguygui.org
 highstermobi.com
 hilocake.info
-hindibuddy.co.in
 hippocratic.top
 hivinest.online
 hjazfioe.surf
@@ -11602,7 +11561,6 @@ in.treasuredata.com
 inappevent.appsflyer.com
 inapps.appsflyersdk.com
 incognia.com
-incomestonefield.com
 incoming-telemetry.thunderbird.net
 incoming.telemetry.mozilla.org
 incptbug3ziqym4rhgsj7h7hbpzt3v4ympcf42gsdb5haqq237fziaad.onion
@@ -11647,7 +11605,6 @@ install.mspy.com
 installcore.com
 instalprime.com.br
 instana.io
-instance-hsiwi5-relay.screenconnect.com
 instance-mfdh1z-relay.screenconnect.com
 instance-vzx9mk-relay.screenconnect.com
 integ.euid.eu
@@ -11783,7 +11740,6 @@ lbk-sol.com
 leafconfuse.net
 leaked.cz
 leanplum.com
-legendsofvelora.cc
 lemonfilewave.com
 lemonsqueeze-jp.com
 lenovo-setup.tk
@@ -11795,7 +11751,6 @@ lg.conviva.com
 liaisondeparfum.com
 library-update.com
 lifecircle-223805.firebaseio.com
-lifeinsurancecoimbatore.com
 lifeofarebel.com
 limefilescope.com
 ling.uuun.de
@@ -12133,7 +12088,6 @@ netnut.net
 netspy-7b8ec.firebaseio.com
 new.androidlost.com
 newblackage.com
-newbooker.com
 neweviteattendd.sbs
 newminersage.com
 newrelic.com
@@ -12173,7 +12127,6 @@ nomeibrew.com
 noroveli.com
 notableexam.org
 notepal.me
-noticeofreassessmentfromcnadarevenueagency.cfd
 notifications-pa.googleapis.com
 notify.bugsnag.com
 notifyme.network
@@ -12354,7 +12307,6 @@ platform.lkqd.net
 plausible.io
 play-store-3bb64.firebaseio.com
 playintegrity.googleapis.com
-plesk.swissrdp.com
 plmh0-bqa-37gz-nsdzn-15-10-2026-aa.pages.dev
 pochtarossiy.info
 pofga.com
@@ -12393,7 +12345,6 @@ predicio.com
 predictivenomics.com
 predictproper.com
 premierplumbinggeorgia.info
-preplexity.ai
 preprodapptrk.a4.tl
 press-f12-continue.com
 pressaviation.com
@@ -12525,13 +12476,11 @@ prozhe.vip
 ps97mailer.logger.mobi
 psd.markets
 psznaoehteeh.com
-pub-0d275574d47649ed9944322d102ec15d.r2.dev
 pub-166c31a8757b4296b35b12825d8c17ca.r2.dev
 pub-25fc9e55d86448eb9be438db671dcfa4.r2.dev
 pub-3b5edd72e7a743c98942264c3be21b2a.r2.dev
 pub-8808e94b1a5c49dbb2a2e0829ec1562b.r2.dev
 pub-dad5144323dd4384b4198a74448f2cc7.r2.dev
-pub-dfa5dc9b1b264e89b08343cf0a26450b.r2.dev
 pub.tappx.com
 publicismedia.com
 pubmatic.com
@@ -12705,7 +12654,6 @@ sacrificeprincipal.net
 sadxc.top
 safaribrowserupdate.com
 safegraph.com
-safeguard-online-peach.vercel.app
 safernetwork.io
 safesolution-jp.com
 safespy.com
@@ -12852,14 +12800,6 @@ setupmail-a910.icloudappe.com
 setupmail-a915.icloudappe.com
 setupmail-a920.icloudappe.com
 setupmail.icloudappe.com
-sever.cx
-sever.st
-sever.to
-sever.ws
-sever4apt73wclanpzgoelsscbj274xupr4npybhyr4vyvxl7jlarrqd.onion
-severgoodb3kdzmdnrnx3gb4jbw4gxe43mhvnxaacfq7oowb2ttsh7id.onion
-severown5xd6ojimw7qij32dvgeav5ath7fei4w7rbui5zo2rutk3yad.onion
-severxpppwio5sku5ffx2ddlbqszqous3wr7hph52dlcbdr3henfibid.onion
 sexmeet.us
 sextracker.com
 shadow-logs.com
@@ -12932,7 +12872,6 @@ solana-beacon.net
 solarwarehouse-jp.com
 somali99.club
 somelitersofblood.pw
-somnitomonito.xyz
 sourcessignal.com
 sourgrill.com
 sovrn.com
@@ -12987,6 +12926,7 @@ spyzee.com
 spyzie-a.firebaseio.com
 spyzie.com
 sqlserver-sqlite.com
+src.img-codes-cloude.info
 srv4-imonitor365-space.imonitorsoft.com
 ssc-cms.33across.com
 ssc.33across.com
@@ -13063,7 +13003,6 @@ svokei.com
 swiftoak.com
 swiftops7.com
 swissnet711911.top
-swissrdp.com
 swrve.com
 swscan.apple.com
 syd.saasgw.appdynamics.com
@@ -13182,6 +13121,7 @@ tinyurl.photos
 tinyurl.plus
 tispy.net
 tls.telemetry.swe.quicinc.com
+tlschssl22read.cc
 tlx.3lift.com
 tmsapi.com
 tookps.net
@@ -13262,7 +13202,6 @@ trk.preprod.netav3.c2bdev.net
 trkps.com
 truaudience.com
 true-truck-86810.firebaseio.com
-truenorthworks.fun
 truewebmedia.com
 trustbastion.com
 trustdevice.ai
@@ -13318,7 +13257,6 @@ un-asia.co
 un.evaspy.com
 unacast.com
 unagi.amazon.com
-uncvlizd.com
 unidentifiedanalytics.web.app
 unifiedcollector.pyze.com
 unionfootball-jp.com
@@ -13365,7 +13303,6 @@ utdid.taobao.com
 uu01webzoom.us
 uu03webzoom.us
 uxcam.com
-uzafeho.top
 v4vw4ytvo4.execute-api.us-east-2.amazonaws.com
 validate.appsflyersdk.com
 varenie.live
@@ -13472,7 +13409,6 @@ wmt.com
 womanstudies.co
 wordzmncount.com
 workaj.com
-workdrive.zohoexternal.jp
 worklifetoday-jp.com
 workstation0422.com
 worktime.com
