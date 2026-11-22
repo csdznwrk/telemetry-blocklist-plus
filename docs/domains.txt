@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-11-22 04:12 UTC
-# Domains: 13525
+# Updated: 2026-11-22 13:48 UTC
+# Domains: 13538
 
 0--foodwarez.da.ru
 0--skitch--0.tt.omtrdc.net
@@ -10030,6 +10030,7 @@
 2baserec2.guru
 2echa.cam
 2echa.shop
+2jcoasr.top
 2rlsykgo.s3.us-east-1.amazonaws.com
 3262d48df5d75e34.shop
 33across.com
@@ -10626,6 +10627,7 @@ back.brunoespiao.com.br
 backup-a71f4.firebaseio.com
 backxercise.com
 bad-shop.net
+bafvgy.asia
 bam-cell.nr-data.net
 bam.nr-data.net
 bananafastfile.com
@@ -10763,6 +10765,7 @@ catchpoint.com
 catwatchful-e03b8-2.firebaseio.com
 catwatchful-e03b8.firebaseio.com
 catwatchful.com
+cbcgsil.asia
 cd.biocatch.com
 cd.signalfx.com
 cdn-pdfviewer.com
@@ -10969,6 +10972,7 @@ crashlog-upload.com
 crashlytics.com
 crashlyticsreports-pa.googleapis.com
 crashreporter-update.com
+crimebay.im
 cropcritique.com
 crossoverdue.com
 crosswise.com
@@ -11062,6 +11066,7 @@ db.spylive360.com
 db8.io
 dc-static.wondershare.cn
 dcv2rnj2ograe.cloudfront.net
+dcvbnm.asia
 ddcd62e16a428c8e.shop
 ddduuuppp.com
 ddiutilities.com
@@ -11674,6 +11679,7 @@ jsecoin.com
 jun8821.ink
 jvamost.club
 jvamost.health
+jwxt.nefu.edu.cn
 kadam.net
 kaizensolutions-jp.com
 kartingrumble.com
@@ -11702,6 +11708,7 @@ kitchensecretbook.com
 kkeyyou.cc
 klaviyo.com
 klenapp.live
+klenna.top
 klg.a-spy.com
 kmtxyn.com
 kochava.com
@@ -11812,6 +11819,7 @@ lummac2.com
 lummastealer.com
 lvl99.store
 lwaeh-iteham-alasra.com
+lwgshuv.asia
 lytics.com
 m-media.thd.cc
 m.a-spy.com
@@ -12064,6 +12072,7 @@ mywebsearch.com
 mzpgfh.uhabq9.com
 n.servidor.in
 n6sm2m.celltracker.io
+naconda.top
 narrative.io
 nativesdks.mparticle.com
 naturaloasis-jp.com
@@ -12138,6 +12147,7 @@ noventrax.us
 novoservidor2026.com
 npm-security-audit.com
 nr-data.net
+ns1.az
 ns1.virsis.net
 ns2.virsis.net
 nukgy.com
@@ -12174,6 +12184,7 @@ online-source-validate.com
 onlinefundb.com
 onlineminecraft-jp.com
 only-music.net
+oob.jlns.site
 open-collectors.sumologic.com
 opencamping.shop
 opencandy.com
@@ -13219,6 +13230,7 @@ ttspy.top
 tubeshape.com
 tuikper.site
 tun-cos-1258344701.file.myqcloud.com
+tupnlaf.top
 turn.com
 twistedfears-jp.com
 twitt-live.com
@@ -13475,6 +13487,7 @@ x1panel.com
 xad.com
 xc.frenchconnection.com.br
 xeffstealer.xyz
+xibxw.com
 xmode.io
 xmrig.com
 xmyevq.birxpk.com
