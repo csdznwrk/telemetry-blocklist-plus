@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-11-23 04:53 UTC
-# Domains: 13388
+# Updated: 2026-11-23 16:54 UTC
+# Domains: 13406
 
 0--foodwarez.da.ru
 0--skitch--0.tt.omtrdc.net
@@ -10519,6 +10519,8 @@ app.xdspy.app
 app.xyspy.com
 app.yolandamartinez.com
 app2.snoopza.com
+app25006.servicebus.windows.net
+app99940.servicebus.windows.net
 appcues.com
 appdynamics.com
 appjiagu.com
@@ -10881,6 +10883,7 @@ collector.pyze.com
 collectors.sumologic.com
 collider.foxspy.com.br
 colorpallatess.com
+comcast.fqtjw.com
 comicstar.lat
 commonclever.com
 companyservcesinc.link
@@ -10995,6 +10998,7 @@ d39619tdxn6mhj.cloudfront.net
 d3g4zswpacwtfb.cloudfront.net
 d8lmy5wyiokrq.cloudfront.net
 dahieenloo.com
+daiichilife-group.com
 dailychefrecipe.com
 damageconsider.com
 damoov.com
@@ -11115,6 +11119,7 @@ download-zip.click
 download-zipfile.click
 download.webwatcherdata.com
 downloads.refog.com
+dp3jryp4.s3.us-east-1.amazonaws.com
 drawbridge.com
 drive-surge.com
 drivertuner.com
@@ -11346,6 +11351,7 @@ getsentry.com
 getspylix.io
 getverifiednow.online
 ginuary.com
+gl-inet.top
 glassbox.com
 glassworm-update.com
 glassworm.net
@@ -11360,6 +11366,7 @@ go.urbanairship.com
 goatsandals.com
 golfconcert.com
 gomeetbridge.com
+google-917533.com
 google-analytics.com
 googleanalytics.com
 googletagmanager.com
@@ -11386,6 +11393,7 @@ groundbreakinginitative.com
 groundtruth.com
 grove-satin.com
 gta6-keys-ru.com
+gta6cloud.cc
 gta6cloud.nexus
 guestspy.com
 guitarcalculate.com
@@ -11419,6 +11427,7 @@ homehearthcooks.com
 homelygrill.com
 honeybadger.io
 honeygain.com
+host-4001.com
 hostilefauna.com
 hotjar.com
 hotjar.net
@@ -11748,6 +11757,7 @@ m-media.thd.cc
 m.a-spy.com
 m.asgardtech.ru
 m.lifecircle.app
+m.makrobet548.com
 mac-storage-guide.squarespace.com
 macclean.craft.me
 macos-diagnostics.net
@@ -11764,6 +11774,7 @@ mail.spymasterpro.com
 mail.swoopsworld.com
 mainsearchtools.com
 makes4.dynu.org
+makrobet548.com
 manera.vip
 mangocloudfile.com
 manulfie.click
@@ -11982,6 +11993,7 @@ mycloud.wisemo.com
 mycloud1.wisemo.com
 mydsp.io
 mydwnd.com
+mygta6.icu
 myipinfo.io
 mylead-tracking.tracknow.info
 mysecurityinfo.com
@@ -12115,6 +12127,7 @@ oppsite.dothome.co.kr
 optimizely.com
 optout.uidapi.com
 orangesmartfile.com
+orbittwilightx-jp.com
 orders-amazon-com.advancedfences.com
 orthb.adtelligent.com
 orthb.pulsepoint.com
@@ -12617,8 +12630,11 @@ searchservice.cfd
 searedrecipes.com
 secondclone-2d312.firebaseio.com
 secure-xserver-14204-paymentlink.horschamp.info
+secure-xserver-28110-paymentlink.horschamp.info
 secure-xserver-29525-paymentlink.horschamp.info
 secure-xserver-43885-paymentlink.horschamp.info
+secure-xserver-55751-paymentlink.horschamp.info
+secure-xserver-95587-paymentlink.horschamp.info
 secure.adnxs.com
 securebackuponline.net
 securemetrics.apple.com
@@ -12853,6 +12869,7 @@ stream.launchdarkly.com
 streamyard.me
 streamyard.site
 streamyard.watch
+stroygeotrans.ru
 studio11-7e288.firebaseio.com
 studiozambonsnc.screenconnect.com
 stupendoussleet.com
@@ -12925,6 +12942,7 @@ tagcommander.com
 tagdps.ru
 tagmanager.google.com
 tags.tiqcdn.com
+takeup4.dynuddns.net
 talkbrave.app
 talkingdata.com
 talklog.tools
