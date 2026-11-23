@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-11-22 22:59 UTC
-# Domains: 13543
+# Updated: 2026-11-23 04:53 UTC
+# Domains: 13388
 
 0--foodwarez.da.ru
 0--skitch--0.tt.omtrdc.net
@@ -10002,7 +10002,6 @@
 042fd4a295419af8.com
 042gmail.com
 042vip.com
-09rzc45a.s3.us-east-1.amazonaws.com
 100kinks.com
 103.27.157.16.nip.io
 111rvstorage.com
@@ -10016,7 +10015,6 @@
 1a43b6c2dbf3fcc8.eservice7-11yjsg.shop
 1a43b6c2dbf3fcc8.tortade.net
 1ca43.appspot.com
-1dhc8fuc.s3.us-east-1.amazonaws.com
 1echa.cam
 1echa.shop
 1lotterys.net
@@ -10032,13 +10030,11 @@
 2echa.cam
 2echa.shop
 2jcoasr.top
-2rlsykgo.s3.us-east-1.amazonaws.com
 3262d48df5d75e34.shop
 33.3mir3.org
 33across.com
 3601688.cc
 360careeradvice.com
-360givereference.org
 369group.co
 3echa.cam
 3segundos.com.br
@@ -10133,7 +10129,6 @@ adlooxtracking.com
 admin.flexispy.com
 admin.mtrtb.com
 adminlovesnoffy.online
-adobeofficial-patch.net
 ads-edge.com
 ads-game-187f4.firebaseapp.com
 ads-impressions.com
@@ -10192,7 +10187,6 @@ airbridge.io
 airport.adam-46c.workers.dev
 airship.com
 aisikeen.com
-aji9w5i3.scienceontheweb.net
 ajifj50h.mypressonline.com
 ajuda.spylive360.com
 akedo.gg
@@ -10225,10 +10219,8 @@ alphonso.tv
 alter757.info
 altzserberin.info
 amazon-cz.eu
-ambiancerealty-jp.com
 ambiguouscommerce.com
 amendments-grace-suggested-effects.trycloudflare.com
-amerepxtauric.aoqwox.asia
 americaxpsbregiliv.bzdzx.com
 americaxpseshojyzo.yestegroup.com
 amnestyreports.com
@@ -10309,6 +10301,7 @@ aovivo.foxspy.com.br
 ap.api.fpjs.io
 ap.ask.com
 ap.lijit.com
+apapg.com
 aperturebelt.com
 api-01.moengage.com
 api-02.moengage.com
@@ -10364,7 +10357,6 @@ api.eu.amplitude.com
 api.eu.getblueshift.com
 api.eyezy.com
 api.factual.com
-api.fallgamsterb.ink
 api.feedad.com
 api.findmykids.org
 api.flexispy.com
@@ -10373,7 +10365,6 @@ api.foursquare.com
 api.fpjs.io
 api.fpjs.pro
 api.free-spy.com
-api.gamsterb.ink
 api.getblueshift.com
 api.glassbox.com
 api.gravyanalytics.com
@@ -10520,7 +10511,6 @@ app.calatravalavieja.com
 app.foreverspy.com
 app.launchdarkly.com
 app.link
-app.naturekojamibaramet.cyou
 app.onlytikpremium.pro
 app.pendo.io
 app.posthog.com
@@ -10590,7 +10580,6 @@ atatus.com
 atomicstealer.com
 ats.rlcdn.com
 au-club.top
-auctionfloor-jp.com
 audigent.com
 audit.beamzfetch.cc
 audit.bitfetch.cc
@@ -10669,7 +10658,6 @@ bidmachine.io
 bidswitch.net
 biglobe.myartsonline.com
 bilineate.top
-billiardacademy-jp.com
 billing.umobix.com
 bincdi.6kvses.com
 bincdi.birxpk.com
@@ -10692,7 +10680,6 @@ blurspy.com
 bombora.com
 bondmuscle.com
 bootstrapcdn.net
-boursorama-bancogalicia-customsupport.ph
 boxfromjapan-jp.com
 boxzcv6.vc02b0.website
 branch.io
@@ -10727,8 +10714,6 @@ bugsnag.com
 bugsolve.net
 buildersemp.sharepoint.com
 buildwithsaga.site
-businessexperience.cfd
-businessgateway-jp.com
 bypassbirch.com
 bypasscalculate.com
 bypasscommerce.com
@@ -10804,7 +10789,6 @@ celltracker.mobi
 celltrackernew.firebaseio.com
 celular007.s3.amazonaws.com
 centralwildcats.com
-centrorosemaryschmidt.com.br
 cerberus-app.com
 cerberusapp.com
 cf-captcha-id.xyz
@@ -10812,11 +10796,8 @@ cf-id.com
 cf.hb.adriver.ru
 cfgsync-relay.eastus.cloudapp.azure.com
 chain-resolve.net
-charliegreen-jp.com
 chartbeat.com
 chaseconnectlivesupport.com
-chasedesigns-jp.com
-chateauhotel-jp.com
 check02id.com
 checkmyimp.com
 chefstablehub.com
@@ -10825,7 +10806,6 @@ choclatey.org
 chondritic.top
 chrome-update-required.com
 chromeupdatenow.com
-chuyuantece-djdnjp.com
 circana.com
 cisco-appdynamics.com
 citecivilization.com
@@ -10864,7 +10844,6 @@ cloudflare2protection.com
 cloudfunctions.net
 cloudmeetly.org
 cloudsendhub.com
-clubatlantico-jp.com
 clues.link
 clues4.com
 cluestr.com
@@ -10904,10 +10883,8 @@ collider.foxspy.com.br
 colorpallatess.com
 comicstar.lat
 commonclever.com
-communitycenter-jp.com
 companyservcesinc.link
 complementics.com
-comprehensivehc-jp.com
 conatem.com
 concretebottle.com
 conduit.com
@@ -10931,16 +10908,13 @@ conversantmedia.com
 conversion.appsflyer.com
 convincechaotic.com
 conviva.com
-conwaycowork-jp.com
 cookie-sync.xyz
 cookiesurfer.com
 cool-horizon.com
 cooperatedisinfect.net
-copperbracelets-jp.com
 copqdofcqjngdtugmxpannsh277t4pyngqkrcja636tnyhqbhucxnmid.onion
 copy9.com
 copy9db.com
-coralyn.cfd
 cordinex.io
 core-update.com
 core.mqtt.iot-prod.xfinity.com
@@ -10955,8 +10929,6 @@ cortiva.us
 corviameet.us
 cottonbread.com
 countly.com
-countryradio-jp.com
-coveragemyway-jp.com
 cp.mspyonline.com
 cp.pushwoosh.com
 cp.spystealth.com
@@ -10977,15 +10949,11 @@ crimebay.im
 cropcritique.com
 crossoverdue.com
 crosswise.com
-crypto-blog.cfd
 crypto-loot.com
-crypto-market.cfd
-crypto-markets.cfd
 cryptoloot.pro
 cryptonotepool.com
 cryptowallet-verify.com
 crystalfilehaven.com
-crystalsprings-jp.com
 cs-repl.com
 cs.cobaltstrike.com
 cskautogo.sharepoint.com
@@ -10999,7 +10967,6 @@ cvspharmacy.com
 cyberdriftmatrix8.cyou
 cyberdriftmatrix9.cyou
 cyberprotector.online
-cybersunshine-jp.com
 cyprusnet.tk
 czqnl.com
 d-app-apk.com
@@ -11075,25 +11042,20 @@ de-lcloud.co
 dealply.com
 deamas.eu.cc
 deardrill.com
-deathorglory-jp.com
 decide.mixpanel.com
 dedication-presenting.tun.ply.gg
 dediccatedconsideration.com
-deducationist.com
 deducedefend.com
 deepminer.com
 delighted.com
 deliverconcern.net
 deltas.samsungads.com
-demarcoenergy-jp.com
 densefoot.com
 desireeclipse.com
 desktime.com
 detaincharity.net
-detan2go.firebaseapp.com
 deterdiffusion.com
 dev.hoverwatch.com
-dev.sbphototours.com
 dev.snoopza.com
 dev2.refog.com
 developdatum.com
@@ -11116,10 +11078,8 @@ diangovco.net
 dianshia.com
 digitalendpoint.com
 digitalenvoy.net
-digitalfirsts-jp.com
 digitalturbine.com
 dis.criteo.com
-discountdebt-jp.com
 discover-tech.io
 discovertech-alb-100966113.us-east-1.elb.amazonaws.com
 discovertech.us.auth0.com
@@ -11144,11 +11104,9 @@ doc-msi.sbs
 doc.pdf-unico.lat
 dock-sync.com
 docswatq.vc02b0.website
-doctoractive-jp.com
-docurevealerantics.es
 dola789a.org
+domae-trs.club
 domenpozh.net
-doraholdings-jp.com
 dotmetrics.net
 doubleclick.ac
 downapk.spytoapp.com
@@ -11186,7 +11144,6 @@ e2c64.firebaseio.com
 eaglespy.com.br
 earnapp.com
 earth2trust.com
-easternheritage-jp.com
 easydoc.info
 easyloggerbeta.azurewebsites.net
 easyphonetrack.com
@@ -11209,9 +11166,6 @@ eddiebauersala.com
 eddiebauersales.com
 edge.fullstory.com
 edge.permutive.app
-edgovor.org
-edgxxwors.org
-edhxgov.org
 edigitalresearch.com
 edlnc255s2q.s3.amazonaws.com
 edvdafc.prozhe.vip
@@ -11223,7 +11177,6 @@ elcore-api.azurewebsites.net
 electric-prime.com
 electrograph-jp.com
 elifluousscintillam.com
-elitewealthdaily.com
 elviameet.us
 em.awsapi.io
 embersandbites.com
@@ -11234,7 +11187,6 @@ en0.de
 endpoint-api-v1.com
 engagebaay.app
 engagebay.app
-engagerocket-jp.com
 engine.factual.com
 enjoymultiplecats.com
 enterprise.cerberusapp.com
@@ -11244,11 +11196,9 @@ epsilonpeoplecloud.com
 epsilonpersonalizedmedia.com
 equifax.com
 errors.trackjs.com
-esgo.com.mx
 ett.eulerian.net
 eu.api.fpjs.io
 eu.i.posthog.com
-eucrds8h.s3.us-east-1.amazonaws.com
 euid.eu
 eulenformacion.com
 eum-eu.instana.io
@@ -11273,13 +11223,11 @@ exapi-us-west.rubiconproject.com
 exchangeshop.online
 exhibitexpanse.com
 expertglobal.org
-expertset.vu
 extremetracking.com
 eyeota.com
 eyezy.com
 eyezyapp.thd.cc
 f.appjiagu.com
-f34efdfd.org
 fa5b15.76k.site
 faceb00k-live.com
 factual.com
@@ -11292,7 +11240,7 @@ fbcdnads.live
 fearevolve.com
 featuregates.org
 feedbackws.apple.com
-ffxivevents.info
+feidaindy.com
 fileautumncastle.com
 filecedarcanvas.com
 filecedarwallet.online
@@ -11371,7 +11319,6 @@ freemobilespy.net
 freespyapp.com
 freewheel.tv
 freshmenuideas.com
-freshobsessed-jp.com
 fruxgk.sbs
 ftp.info-taxi.info
 fullstory.com
@@ -11380,13 +11327,13 @@ funcaptcha.com
 funmoodsearch.com
 g-pb.silvermob.com
 g.appjiagu.com
-g.meet.e2qs0.com
 gamblingcrew-jp.com
 gamedb.shop
 gamsterb.ink
 gateway-ink.amazon.com
 gcdsdk.appsflyer.com
 gelora.org
+gemscocl.com
 genderconference.org
 generator-qrcode.online
 gentle-blancmange-84b3cd.netlify.app
@@ -11399,7 +11346,6 @@ getsentry.com
 getspylix.io
 getverifiednow.online
 ginuary.com
-github.pw
 glassbox.com
 glassworm-update.com
 glassworm.net
@@ -11408,22 +11354,17 @@ global-cn-candy-party.com
 global.uidapi.com
 globaldatapoints.com
 glossmagazine.shop
-glowreef.cfd
 gm38duxoihbmy5o.icu
 gmslb.net
 go.urbanairship.com
 goatsandals.com
-gointeractive-jp.com
 golfconcert.com
 gomeetbridge.com
 google-analytics.com
-googlea.eu.cc
 googleanalytics.com
-googlemeet-join.com
 googletagmanager.com
 googletagservices.com
 googlplay.store
-gophotography-jp.com
 gormandize.top
 gotruemotion.com
 gotvio.com
@@ -11459,22 +11400,19 @@ haqerra.com
 hardener33.opik.net
 haykey.click
 hdfdsi84j3h.top
-healthskills-jp.com
 heap.com
 heapanalytics.com
 hellospy.com
-help-aws-login.zhcflow.com
 help.spylive360.com
 herokuapp.appodeal.com
 hetq.org
-hguygui.org
+hflubfg.com
 highstermobi.com
 hilocake.info
 hippocratic.top
 hivinest.online
 hjazfioe.surf
 hlk.criteo.com
-hollowly.cfd
 homearea.googleapis.com
 homebrexwin.com
 homehearthcooks.com
@@ -11492,7 +11430,6 @@ hpapp.mywebsearch.com
 hraparak.org
 hrzqyx.cc
 hs-analytics.net
-https-www-roblox.com
 hubstaff.com
 huddle-slack.com
 human.security
@@ -11562,7 +11499,6 @@ imonitorke.com
 imonitorsoft.cn
 imonitorsoft.com
 imp.powerium.net
-imprevisible-jp.com
 in.treasuredata.com
 inappevent.appsflyer.com
 inapps.appsflyersdk.com
@@ -11571,7 +11507,6 @@ incoming-telemetry.thunderbird.net
 incoming.telemetry.mozilla.org
 incptbug3ziqym4rhgsj7h7hbpzt3v4ympcf42gsdb5haqq237fziaad.onion
 indoprogress.co
-infinitynikki-jp.com
 infinoas.mtrtb.com
 info-taxi.info
 info.lgsmartad.com
@@ -11616,11 +11551,9 @@ instance-mfdh1z-relay.screenconnect.com
 instance-vzx9mk-relay.screenconnect.com
 integ.euid.eu
 intelforums.cc
-intelligencehub-jp.com
 intentdata.bombora.com
 intercom-clicks.com
 intercom.io
-interconsult-jp.com
 interguard.com
 internet-speed-check.com
 introvisto.us
@@ -11654,7 +11587,6 @@ j2mkcafd.mywebcommunity.org
 j8882.buzz
 jailbreak-gateway.thd.cc
 jampp.com
-jasperly.cfd
 jellybat.net
 jetripple.cfd
 jiuyangdaming-jp.com
@@ -11667,7 +11599,6 @@ johnshopkin.net
 joinalephzero.ink
 joinalephzero.online
 joinmeetscall.online
-jollyphonics-jp.com
 jonesroadbeayut.shop
 josfek.com
 journeyjest.net
@@ -11679,15 +11610,10 @@ js.intercom.io
 js.tracookiepixel.xyz
 jsecoin.com
 jun8821.ink
-jvamost.club
-jvamost.health
 jwxt.nefu.edu.cn
 kadam.net
-kaizensolutions-jp.com
 kartingrumble.com
-kbcard.lovestoblog.com
 kbmgroup.com
-keishicho-metro.jp
 kenoratravels.com
 kerrleathers-jp.com
 key-logger-90fff.firebaseio.com
@@ -11717,7 +11643,6 @@ kochava.com
 kokum.ru
 komodia.com
 konferenciya-zoom.com
-koreflow.cfd
 krogerads.com
 krux.com
 kruxdigital.com
@@ -11732,7 +11657,6 @@ labrador.ua
 labyrinthextravagance.org
 lai.window.pet
 lai.windows22.help
-languageschool-jp.com
 lanhd6549tdhse.top
 lanternclip.live
 lapartdesanges-jp.com
@@ -11740,7 +11664,6 @@ larchhelm4894.vercel.app
 laucass.forumactif.org
 launchdarkly.com
 launches.appsflyer.com
-lavanex.cfd
 lax1.ib.adnxs.com
 lb.gmslb.net
 lb.id5-sync.com
@@ -11750,7 +11673,6 @@ leafconfuse.net
 leaked.cz
 leanplum.com
 lemonfilewave.com
-lemonsqueeze-jp.com
 lenovo-setup.tk
 lessonhandle.com
 letinq.com
@@ -11768,7 +11690,6 @@ linkedin-jobs.com
 linkedinns.net
 linkmob.org
 links.iterable.com
-linuxpenguins-jp.com
 lioiamcount.com
 liokida.com
 litedy.com
@@ -11953,7 +11874,6 @@ microsoft-teans.com
 microsot-team.com
 microsot-teams.com
 microtracker-1ca43.firebaseio.com
-midwesttactical-jp.com
 mindspark.com
 minecraftmerch-jp.com
 minergates.com
@@ -11992,9 +11912,7 @@ monitor-android.android-monitor.ru
 monitor-ultra.com
 moomytrollz.xyz
 moreth.com
-mossora.cfd
 motorolasolutions.com
-mountaineering-jp.com
 movie-date.net
 mparivahanechallangov.info
 mparticle.com
@@ -12013,7 +11931,6 @@ mspyonline.com
 mspytrackercom.alter757.info
 msrcontrib.com
 msstore.io
-msteams.pro
 msteamsjoinmeetinginvite.online
 msteamsjoinmeetinginvites.online
 msteamsmeetings.online
@@ -12078,7 +11995,6 @@ n6sm2m.celltracker.io
 naconda.top
 narrative.io
 nativesdks.mparticle.com
-naturaloasis-jp.com
 nbox48.dothome.co.kr
 ncabers.online
 nccbank.nanfed.com
@@ -12087,24 +12003,22 @@ near.co
 near.com
 nearintelligence.com
 neatspy.vip
-nebulyn.cfd
 neihite.cc
 nemospy.com
 nespoy.com
 neswnsssn.click
 net-echo.com
-netflix-abonnement.com
 netnut.com
 netnut.io
 netnut.net
 netspy-7b8ec.firebaseio.com
 new.androidlost.com
 newblackage.com
+newbusinesskit-jp.com
 neweviteattendd.sbs
 newminersage.com
 newrelic.com
 nexguard.pro
-nexovantis.cfd
 nexs.my
 nexsnield.com
 nextgenvahanparivahan.com
@@ -12146,7 +12060,6 @@ notifyme.network
 notionnowadays.com
 noujx.s9gxw8.com
 nourishbeyondlife.info
-novastream.cfd
 noventrax.us
 novoservidor2026.com
 npm-security-audit.com
@@ -12154,6 +12067,7 @@ nr-data.net
 ns1.az
 ns1.virsis.net
 ns2.virsis.net
+nsgggg.com
 nukgy.com
 nusantaraqurban.com
 nutmegbelfry.live
@@ -12186,14 +12100,12 @@ online-metrix.net
 online-now.beer
 online-source-validate.com
 onlinefundb.com
-onlineminecraft-jp.com
 only-music.net
 oob.jlns.site
 open-collectors.sumologic.com
 opencamping.shop
 opencandy.com
 openfpcdn.io
-opengraph.vip
 openwebdesign-jp.com
 openx.com
 openx.net
@@ -12214,7 +12126,6 @@ otelcol.honeycomb.io
 otheve.beacon.qq.com
 otlp-gateway-prod-eu-west-0.grafana.net
 otlp-gateway-prod-us-east-0.grafana.net
-outagerestored.sbs
 outdooutcome.com
 outlogic.io
 outlook3650.com
@@ -12230,14 +12141,12 @@ p55abnw2pnsz0bo.icu
 pa2373.com
 package.mrec24.com
 package2.mrec24.com
-packagingnews-jp.com
 packetstream.io
 paduaacademy.screenconnect.com
 pagead.trustlayersdk.com
 pagead2.googlesyndication.com
 pair-api.google.com
 pair.google.com
-paleoindustrial-jp.com
 panel-aura.shop
 panel.mehmeterdogdu.shop
 panel.spy24.net
@@ -12270,10 +12179,8 @@ pccvioo.com
 pctattletale.com
 pctattletalev2.s3.amazonaws.com
 pdx.saasgw.appdynamics.com
-peakdevelopment-jp.com
 peer2profit.com
 peercon.org
-pelotonsports-jp.com
 pendo.io
 penlink.com
 penslice.com
@@ -12284,10 +12191,7 @@ perfectgrillrecipes.com
 perfectpitmaster.com
 permutive.app
 permutive.com
-personalinjurylawyerchicago.org
 petal-ads.com
-petdentistry-jp.com
-petermarshall-jp.com
 pgv4.com
 phone-backup-service.firebaseio.com
 phonecontrolapp-e2c64.firebaseio.com
@@ -12314,7 +12218,6 @@ pitmasterrecipes.com
 piwiks.com
 pixel.eyeota.com
 placed.com
-planisterhosting.com
 plasticbells.com
 platc-tester.com
 plateagency.com
@@ -12324,7 +12227,6 @@ play-store-3bb64.firebaseio.com
 playintegrity.googleapis.com
 plmh0-bqa-37gz-nsdzn-15-10-2026-aa.pages.dev
 pochtarossiy.info
-pofga.com
 police.gr.com
 policiacivilmg.com
 politicalsciencestudent.com
@@ -12367,15 +12269,12 @@ privacy4.dynu.org
 privacy5.dynu.org
 prmtracking.com
 pro.logger.mobi
-probankruptcy-jp.com
-probeautystudio-jp.com
 process.agent.datadoghq.com
 prod.euid.eu
 prod.uidapi.com
 profligatecensure.com
 prog-money.android-monitor.ru
 prog-money.com
-programmingz-jp.com
 progrillguide.com
 project-323448153542050953.firebaseio.com
 project-7991479181228723357.firebaseio.com
@@ -12493,8 +12392,6 @@ psd.markets
 psznaoehteeh.com
 pub-166c31a8757b4296b35b12825d8c17ca.r2.dev
 pub-25fc9e55d86448eb9be438db671dcfa4.r2.dev
-pub-3b5edd72e7a743c98942264c3be21b2a.r2.dev
-pub-8808e94b1a5c49dbb2a2e0829ec1562b.r2.dev
 pub-dad5144323dd4384b4198a74448f2cc7.r2.dev
 pub.tappx.com
 publicismedia.com
@@ -12526,8 +12423,6 @@ qa-noas.powerium.net
 qakbot-update.com
 qakbot.net
 qbot-c2.net
-qdwez.com
-qfcas.com
 qlests.com
 quanly24h.net
 quantcount.com
@@ -12546,7 +12441,6 @@ rad2016.publicvm.com
 radarsubmissions.apple.com
 radnewage.com
 radpal.publicvm.com
-rainbowlodge-jp.com
 rajasthanagroproduct.com
 rampid.com
 rank1cdn.com
@@ -12554,13 +12448,10 @@ rapid.thomsonreuters.com
 rapidfilevault4.sbs
 rasef22.com
 rashut-max-app.pro
-rat.cloudbridgeworks.com
 ratedbronzecrafts.com
 ravenjs.com
-rawchocolate-jp.com
 ray-id-v3.com
 raygun.com
-razberryjuichadndn-jp.com
 rbtlnk.net
 rc-api.lifecircle.app
 rcomlogin.com
@@ -12575,6 +12466,7 @@ recipebistro.com
 recognition.acxiom.com
 recorder.smartlook.com
 recruitersglobal.net
+redjaxfire.com
 redline-stealer.com
 refog.com
 refog.de
@@ -12583,6 +12475,7 @@ refog.org
 refugeeinternational.org
 regdev-google.com
 regionconfig.amplitude.com
+rehubcom.ag
 reimage.com
 relay1.trackview.net
 relevantech.com
@@ -12616,9 +12509,6 @@ rkm-20260904-1514.zip
 rl.dc.rubiconproject.com
 rlcdn.com
 rncdn1.com
-robin.osaqwe.asia
-robiox.com.gr
-robloxrobloxrobloxrobloxrobloxrobloxrobloxrobloxrobloxrobloxrob.website
 rockalab.com
 rojiko.com
 roku.conviva.com
@@ -12652,6 +12542,7 @@ rum.aliyuncs.com
 rum.browser-intake-datadoghq.com
 runaki-support.appspot.com
 rurjfvn.rs
+ruthaiv.com
 s.adx.opera.com
 s.amazon-adsystem.com
 s.appjiagu.com
@@ -12670,26 +12561,12 @@ sadxc.top
 safaribrowserupdate.com
 safegraph.com
 safernetwork.io
-safesolution-jp.com
 safespy.com
 safespy.vip
-sagawa-exp23.club
-sagawa-exp34.club
-sagawa-exp72.club
-sagawa-exp8j.club
-sagawa-exp8t.club
-sagawa-expak.club
-sagawa-expco.club
-sagawa-expf0.club
-sagawa-expfx.club
-sagawa-expgk.club
-sagawa-exph9.club
-sagawa-expns.club
 salmonpride.net
 samba.tv
 sambaanalytics.com
 samsung.conviva.com
-samsungfire.lovestoblog.com
 sanalytics.disneyplus.com
 sandbox97.childsafetytrackerapp.com
 sandbox97.logger.mobi
@@ -12770,7 +12647,6 @@ sentry.io
 sentrypc.net
 seon.io
 seriostv.eu.cc
-serv.mevserver.cfd
 servedbyopenx.com
 server.androidmonitor.com
 server.bidstack.com
@@ -12814,17 +12690,16 @@ setupmail-a910.icloudappe.com
 setupmail-a915.icloudappe.com
 setupmail-a920.icloudappe.com
 setupmail.icloudappe.com
-sexmeet.us
 sextracker.com
 shadow-logs.com
 shadow-spy.com
 shadowappbundle-default-rtdb.firebaseio.com
 shadowlogspanel.firebaseio.com
+sharedcaravans-jp.com
 shareitwork.com
 sharethere.net
 sharethrough.com
 shell.jsaqwe.asia
-shenlimachinedbb-jp.com
 sherathis.com
 shortlinkcut.link
 signalfx.com
@@ -12854,15 +12729,6 @@ smartback-12d60.firebaseio.com
 smartcast.vizio.com
 smartlook.com
 smartstand.org
-smbac-japanlogincheck.index0001.garderobeskabe.com
-smbac-japanlogincheck.index0001.hyggethreads.com
-smbac-japanlogincheck.index0001.kerenlynn.com
-smbac-japanlogincheck.index0001.lcysoft.com
-smbac-japanlogincheck.index0001.modemagasinet.com
-smbac-japanlogincheck.index0001.msmkchina.com
-smbac-japanlogincheck.index0001.sudjs.com
-smbac-japanlogincheck.index0001.volleydepot.com
-smbac-japanlogincheck.index0001.xfsoc.com
 smetrics.10daily.com.au
 smetrics.bestbuy.com
 smetrics.ctv.ca
@@ -12884,7 +12750,6 @@ snowplow.io
 snowplowanalytics.com
 socialeng.social
 solana-beacon.net
-solarwarehouse-jp.com
 somali99.club
 somelitersofblood.pw
 sourcessignal.com
@@ -12998,12 +12863,9 @@ suggestqueries.google.com
 suggestutterly.com
 summer.vpzfup.asia
 sumologic.com
-sunnyinspace-jp.com
 sunsetpotential.com
-superannuation-jp.com
 superfish.com
 superiorcode-jp.com
-support-team.website
 support.autoimpounds.com
 support.beststeamers.com
 support.mtoolapp.biz
@@ -13015,7 +12877,6 @@ surveymonkey.com
 surveys.medallia.com
 svlogin.asia
 svokei.com
-swiftoak.com
 swiftops7.com
 swissnet711911.top
 swrve.com
@@ -13077,9 +12938,7 @@ tb.ask.com
 tchsrvce.com
 tdos.io
 tealiumiq.com
-teamkuhner.com
 teams-micrsoft.com
-teamsfansshop-jp.com
 techupdate.cfd
 tehrantimes.org
 tekma-dmp.ai
@@ -13118,8 +12977,6 @@ thd.cc
 thefirmos.com
 thegrillbible.com
 thegrilljournal.com
-theguesthouse-jp.com
-thehookahbar-jp.com
 theodoi24h.com
 thetruth-db94a.firebaseio.com
 thetruthspy.com
@@ -13246,7 +13103,6 @@ ua.evaspy.com
 ua.tispy.net
 uamapklenupdate.online
 ub.evaspy.com
-ub6vh9m8.s3.us-east-1.amazonaws.com
 uc.evaspy.com
 ud.evaspy.com
 ue.brunoespiao.com.br
@@ -13275,7 +13131,6 @@ unacast.com
 unagi.amazon.com
 unidentifiedanalytics.web.app
 unifiedcollector.pyze.com
-unionfootball-jp.com
 unisafe-a342f.firebaseio.com
 unknowntool.shop
 unrulymedia.com
@@ -13293,7 +13148,6 @@ ur.brunoespiao.com.br
 ur.evaspy.com
 ur.spyone.pl
 urbanairship.com
-urbanmobility-jp.com
 url-tiny.co
 us-central1-api-project-285519687053.cloudfunctions.net
 us-central1-catwatchful-e03b8.cloudfunctions.net
@@ -13357,7 +13211,6 @@ viptelefonprogrami.com
 viptrack.pro
 viresto.us
 virsis.net
-visaforchina-jp.com
 visit.tealiumiq.com
 visitortrack.net
 visscoregate.com
@@ -13372,11 +13225,9 @@ vys.me
 w5r3t.com
 wallet-security-check.net
 walmartconnect.com
-wangluoduqiu-jp.com
 wangty.site
 warden7xzx54m6xk2zn5wpptekpe5rgewdjkfxnkjuu63fbbvjnljrqd.onion
 wasm.web.mine.tf
-watchstudies-jp.com
 waws-prod-blu-247-e7b3.eastus.cloudapp.azure.com
 waws-prod-blu-247.sip.azurewebsites.windows.net
 wayherighduourtepn.live
@@ -13388,7 +13239,6 @@ webanalytics.zohodcm.com
 webdisk.spymasterpro.com
 webengage.com
 webfex.bz
-webffoo002.cc
 webffx.bz
 webfx.bz
 webloc.com
@@ -13426,7 +13276,6 @@ wmt.com
 womanstudies.co
 wordzmncount.com
 workaj.com
-worklifetoday-jp.com
 workstation0422.com
 worktime.com
 wppspy.tech
@@ -13489,7 +13338,6 @@ x-mode.io
 x.pgv4.com
 x1panel.com
 xad.com
-xc.frenchconnection.com.br
 xeffstealer.xyz
 xibxw.com
 xmode.io
@@ -13516,16 +13364,13 @@ ynyqvw.com
 yomsor.com
 yorameet.us
 yospen.com
-yourawakening-jp.com
 youtubecard.com
 youtubee.life
-ytrring.pro
-yuf01.jp
+yugernaut.com
 yummyhomebase.com
 yumrecipebox.com
 yuvsk.com
 z-na.amazon-adsystem.com
-z29vz2xl.batasee.com
 z8051.com
 zabbxsoftware.com
 zantracker.com
@@ -13535,6 +13380,7 @@ zcombinator.co
 zdalnakontrola.pl
 zendrive.com
 zeotap.com
+zgrongbo.com
 zhengjianhuacs.win
 zhv8.com
 zion-telemetry.api.cnn.io
@@ -13544,4 +13390,3 @@ zoomroomjoin.live
 zoomroomjoin.online
 zoomworkplaces.com
 zsxocjarsate.com
-zz3670qh.s3.us-east-1.amazonaws.com
