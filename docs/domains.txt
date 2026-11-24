@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-11-24 03:38 UTC
-# Domains: 13268
+# Updated: 2026-11-24 16:44 UTC
+# Domains: 13306
 
 0--foodwarez.da.ru
 0--skitch--0.tt.omtrdc.net
@@ -10011,6 +10011,7 @@
 13-5.org
 13-5.ru
 16.fp.us.acr.unruly.co
+1688360.cc
 1a43b6c2dbf3fcc8.eservice7-11yjsg.shop
 1a43b6c2dbf3fcc8.tortade.net
 1ca43.appspot.com
@@ -10023,6 +10024,7 @@
 202611194199.zip
 20form.xlsl.zip
 247productions.nl
+28296c.lux88.site
 2baserec2.guru
 2e7.420zm3.org
 2echa.cam
@@ -10039,6 +10041,7 @@
 40.fp.us.acr.unruly.co
 4217eaeef30905fb.eservice7-11yjsg.shop
 4217eaeef30905fb.tortade.net
+45.156.87.102.sslip.io
 45ac42900299a815ee30206d536249d3.r2.cloudflarestorage.com
 4echa.cam
 4info.com
@@ -10325,6 +10328,7 @@ api.datashim.com
 api.delighted.com
 api.desktime.com
 api.deviceatlas.com
+api.drgdj.top
 api.embrace.io
 api.eu.amplitude.com
 api.eu.getblueshift.com
@@ -10370,6 +10374,7 @@ api.leanplum.com
 api.lifecircle.app
 api.localytics.com
 api.lytics.com
+api.mail.tm
 api.medallia.com
 api.mixpanel.com
 api.mobilebackup.biz
@@ -10408,6 +10413,7 @@ api.seniorsafetyapp.com
 api.sense360.com
 api.sensortower.com
 api.seon.io
+api.shzhtxcz.com
 api.singular.net
 api.smartlook.com
 api.snoopza.com
@@ -10449,6 +10455,7 @@ api.xtremepush.com
 api.zendrive.com
 api007.foxspy.com.br
 api1.easydoc.info
+api2.aiskill.bot
 api2.amplitude.com
 api2.branch.io
 api3.easydoc.info
@@ -10536,6 +10543,7 @@ arvax.xyz
 asbares.com
 asgard-f8c53.firebaseio.com
 ashevilleroofingcontractor.com
+asiioasdjasiojasodijasa.eastus.cloudapp.azure.com
 ask-managementtraining.de
 ask.com
 asknapkin.com
@@ -10548,6 +10556,7 @@ asyncrat.com
 atatus.com
 atomicstealer.com
 ats.rlcdn.com
+attachment-gmail.com
 au-club.top
 audigent.com
 aumcvy8y.onlinewebshop.net
@@ -10688,6 +10697,7 @@ c.amazon-adsystem.com
 c.appjiagu.com
 c0cc.cc
 c1.panspy.com
+c7ee21.fk222.site
 c85grt98sd.com
 cabinet.ecohouse-eg.com
 cabinet.gps-monitor.uz
@@ -10826,6 +10836,7 @@ code-afsanalytics.com
 code.etracker.com
 codebasecode.com
 codeingasmylife.com
+codex-help.com
 codex.com.ai
 codice-ledger.io
 cohezo.com
@@ -10873,6 +10884,7 @@ conviva.com
 cookie-sync.xyz
 cookiesurfer.com
 cool-horizon.com
+coolcams.duckdns.org
 cooperatedisinfect.net
 copqdofcqjngdtugmxpannsh277t4pyngqkrcja636tnyhqbhucxnmid.onion
 copy9.com
@@ -10954,8 +10966,10 @@ d3g4zswpacwtfb.cloudfront.net
 d5bybeuh.com
 d8lmy5wyiokrq.cloudfront.net
 dahieenloo.com
+dai-ichi-life.co.jp
 daiichilife-group.com
 dailychefrecipe.com
+dainam.bot.cd
 damageconsider.com
 damoov.com
 danoam334iqjo0ap2scg6ofosjxfgqhsa.oast.pro
@@ -11286,6 +11300,7 @@ getmspy.net
 getmycleanpc.com
 getsentry.com
 getspylix.io
+gh.drgdj.top
 ginuary.com
 gl-inet.top
 glassbox.com
@@ -11493,6 +11508,7 @@ intentdata.bombora.com
 intercom-clicks.com
 intercom.io
 interguard.com
+interior.gob.es
 inv-nets-eu.admixer.net
 inv.logger.mobi
 investigationj6.com
@@ -11605,6 +11621,7 @@ lbk-sol.com
 leafconfuse.net
 leaked.cz
 leanplum.com
+legal-reddit.com
 lemonfilewave.com
 lenovo-setup.tk
 lessonhandle.com
@@ -11800,6 +11817,7 @@ mg-spyzie.oss-us-west-1.aliyuncs.com
 mhlwgo.org
 mi.thd.cc
 miao.wondershare.cn
+microsoftsignin.azurewebsites.net
 microtracker-1ca43.firebaseio.com
 mindspark.com
 minecraftmerch-jp.com
@@ -11839,6 +11857,7 @@ monitor-android.android-monitor.ru
 monitor-ultra.com
 monstreamingespaces.com
 moomytrollz.xyz
+moooooooooooops.cv
 moreth.com
 motorolasolutions.com
 movie-date.net
@@ -11967,11 +11986,13 @@ node5.theonespy.com
 nodejs.spyhuman.com
 nomeibrew.com
 noroveli.com
+northwestel4.screenconnect.com
 notableexam.org
 notifications-pa.googleapis.com
 notify.bugsnag.com
 notifyme.network
 notionnowadays.com
+notis_taksiran.zip
 noujx.s9gxw8.com
 nourishbeyondlife.info
 novoservidor2026.com
@@ -12016,6 +12037,7 @@ onlinefundb.com
 only-music.net
 oob.jlns.site
 open-collectors.sumologic.com
+open_to_view.zip
 opencamping.shop
 opencandy.com
 openfpcdn.io
@@ -12087,6 +12109,7 @@ pccvill.com
 pccvioo.com
 pctattletale.com
 pctattletalev2.s3.amazonaws.com
+pdfclick.icu
 pdx.saasgw.appdynamics.com
 peer2profit.com
 peercon.org
@@ -12318,6 +12341,7 @@ px.ads.linkedin.com
 pxi.pub
 pxl-mailtracker.com
 pxmas.click
+pxyedge.com
 q12z.net
 q95294fs.beget.tech
 qa-analytics.com
@@ -12363,7 +12387,9 @@ rec.hw.cab
 recipebistro.com
 recognition.acxiom.com
 recorder.smartlook.com
+recoveryourmac.com
 recruitersglobal.net
+reddit-legal.com
 redjaxfire.com
 redline-stealer.com
 refog.com
@@ -12395,6 +12421,7 @@ reports.appsee.com
 reproxy.io
 reproxy.net
 reptilicus.net
+require5.dynu.org
 res.adx.opera.com
 responditious.com
 retailmedia.homedepot.com
@@ -12403,6 +12430,7 @@ revenuecat.com
 rhythmone.com
 richpush.co
 riensy.com
+rkbot.houtzkvaternik.workers.dev
 rkm-20260904-1514.zip
 rl.dc.rubiconproject.com
 rlcdn.com
@@ -12420,6 +12448,7 @@ rp.labrador.ua
 rp.liquidblue.com.ua
 rp.sharethrough.com
 rrspy.com
+rs-ny.rustdesk.com
 rs.fullstory.com
 rs.rudderstack.com
 rtax.criteo.com
@@ -12597,6 +12626,7 @@ sharethere.net
 sharethrough.com
 shell.jsaqwe.asia
 sherathis.com
+shinyazvxkdfoqmpht7xyqo2xa2vlqzzalkqqmkfq3nsfbinmkukhjad.onion
 shortlinkcut.link
 signalfx.com
 signifyslight.com
@@ -12637,10 +12667,12 @@ smoot-api-spotlight-ause2c.v.aaplimg.com
 smoot-searchv2-ause1a.v.aaplimg.com
 smsandcalltracker.firebaseio.com
 smsurvey.com
+smxsyjx.com
 snackarcincdn.com
 snackmedia.com
 snapplace.com
 sncmedia.net
+snekblockdev.com
 snoopza.com
 snowplow.io
 snowplowanalytics.com
@@ -12827,6 +12859,7 @@ techupdate.cfd
 tehrantimes.org
 tekma-dmp.ai
 tekma.adtimizer.co
+telegramkk.com
 telematicssdk.com
 telemetry.dropbox.com
 telemetry.ecobee.com
@@ -13051,6 +13084,7 @@ users.awosoft.com
 users.easemon.com
 users.thephonem.com
 users.tvinteractive.tv
+usps-vmts.azurewebsites.net
 utdid.taobao.com
 uu01webzoom.us
 uu03webzoom.us
@@ -13131,6 +13165,7 @@ webs-update.com
 webseoanalytics.com
 webservicesdb.mobiispy.com
 webseth.com
+webshell.lol
 webtrackerplus.com
 webwatcher-child-app.firebaseio.com
 webwatcherdata.com
@@ -13160,6 +13195,7 @@ workaj.com
 workstation0422.com
 worktime.com
 wovplaying.help
+wowowcow.dns.army
 wppspy.tech
 wrfregergerg.com
 wrs.clevertap.com
@@ -13232,6 +13268,7 @@ xnore.com
 xnspy.com
 xp.apple.com
 xpcpanel.com
+xt.longsuongminh.workers.dev
 xtracker.logimeter.com
 yablochnisok.com
 yad2-app-download.pro
@@ -13253,6 +13290,7 @@ yumrecipebox.com
 yuvsk.com
 z-na.amazon-adsystem.com
 z8051.com
+za3nfm.top
 zabbxsoftware.com
 zantracker.com
 zbnebc.com
