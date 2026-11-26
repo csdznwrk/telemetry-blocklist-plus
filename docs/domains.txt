@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-11-26 01:20 UTC
-# Domains: 13274
+# Updated: 2026-11-26 16:03 UTC
+# Domains: 13309
 
 0--foodwarez.da.ru
 0--skitch--0.tt.omtrdc.net
@@ -10002,6 +10002,7 @@
 042fd4a295419af8.com
 042gmail.com
 042vip.com
+05teste.im
 071811.cc
 100kinks.com
 111rvstorage.com
@@ -10042,6 +10043,7 @@
 45ac42900299a815ee30206d536249d3.r2.cloudflarestorage.com
 4echa.cam
 4info.com
+4j3hynfuxwmbxwc7oaama34o4bj7h6p37pzljbpu4gn7hjbkes42lsyd.onion
 51degrees.com
 52popsoft.com
 5echa.cam
@@ -10071,6 +10073,7 @@
 98aiblog.com
 98aicai.com
 98aicode.com
+_20261123.zip
 a-qa3.thd.cc
 a-spy.com
 a.emb.app
@@ -10212,6 +10215,7 @@ altzserberin.info
 amazon-cz.eu
 ambiguouscommerce.com
 amd.okta.com
+americanemthulotr.cqhhxx.com
 americaxpsbregiliv.bzdzx.com
 americaxpseshojyzo.yestegroup.com
 amnestyreports.com
@@ -10642,6 +10646,7 @@ bidder.criteo.com
 bidder.sharethrough.com
 bidmachine.io
 bidswitch.net
+biglobe.myartsonline.com
 biklonasmain.net
 bilineate.top
 billing.umobix.com
@@ -10678,6 +10683,7 @@ brightdata.com
 brightmountainmedia.com
 brightpress.site
 brilliant-flame-585.firebaseio.com
+broilerberkah.com
 bronzemonth.com
 browniebell.com
 browse-login.info
@@ -10720,6 +10726,7 @@ cabinet.vkur1.se
 cabs.thomsonreuters.com
 cache-provider.com
 cakesdrum.com
+calcal.ru
 calibrated.cfd
 calmbase.org
 cambridgemobiletelematicsdata.com
@@ -11076,6 +11083,7 @@ dnetk.com
 dobeqnesmot.cc
 doc.pdf-unico.lat
 dock-sync.com
+docviewerportal.com
 domae-trs.club
 domenpozh.net
 dotmetrics.net
@@ -11104,6 +11112,7 @@ dtech.mtrtb.com
 dtn.nodle.io
 dumplingbell.com
 dushimanhua.com
+duskhaven.cfd
 dw-arabic.com
 dwn.vys.me
 dynatrace.com
@@ -11139,6 +11148,7 @@ edigitalresearch.com
 edlnc255s2q.s3.amazonaws.com
 edvdafc.prozhe.vip
 eeresofeuae.com
+ehc24.com
 einformatiks.com
 elcore-api.azurewebsites.net
 electric-prime.com
@@ -11206,6 +11216,7 @@ featuregates.org
 feedbackws.apple.com
 feidaindy.com
 fhxwkbs.com
+file-docu-sedgwick-4a36554.sedgwick-storage-file-cloud-efp0345.workers.dev
 file-zilla.com
 fileautumncastle.com
 filecedarcanvas.com
@@ -11299,6 +11310,7 @@ get.snoopza.com
 getfeedback.com
 getmspy.net
 getmycleanpc.com
+gets6.dynu.net
 getsentry.com
 getspylix.io
 gh.drgdj.top
@@ -11358,6 +11370,7 @@ haqerra.com
 hardener33.opik.net
 hashlib.new
 hdfdsi84j3h.top
+healthmetrics.com
 heap.com
 heapanalytics.com
 hellospy.com
@@ -11391,6 +11404,7 @@ hpapp.mywebsearch.com
 hraparak.org
 hrzqyx.cc
 hs-analytics.net
+hsbcau.jrni.com
 hubstaff.com
 human.security
 humanab.com
@@ -11541,6 +11555,7 @@ j8882.buzz
 jailbreak-gateway.thd.cc
 jampp.com
 jellybat.net
+jfjfjfjfjjf.duckdns.org
 jiuyangdaming-jp.com
 jiyyax.com
 jjspy.com
@@ -11597,6 +11612,7 @@ krux.com
 kruxdigital.com
 kupony-rohlik.cz
 kuuvv.com
+kuwfdyhzoq.quthum.com
 kvshdi.birxpk.com
 kyc-holdings.com
 kypler.com
@@ -11605,6 +11621,8 @@ labrador.ua
 labyrinthextravagance.org
 lanhd6549tdhse.top
 lanternclip.live
+lareserva.shop
+lareservarelais.com
 lasvegasaces-jp.com
 laucass.forumactif.org
 launchdarkly.com
@@ -11703,6 +11721,7 @@ m.a-spy.com
 m.asgardtech.ru
 m.lifecircle.app
 m.makrobet548.com
+m9878464-sedgwick-shared-document-review-sign.live-document-m75483261.workers.dev
 mac-storage-guide.squarespace.com
 macclean.craft.me
 macos-diagnostics.net
@@ -11720,6 +11739,7 @@ mail.spymasterpro.com
 mainsearchtools.com
 makes4.dynu.org
 makrobet548.com
+manager-eid927479-wordpress-checkrenewal.colosseum-winterberg.de
 manera.vip
 mangocloudfile.com
 manulfie.click
@@ -11930,6 +11950,7 @@ n6sm2m.celltracker.io
 naconda.top
 narrative.io
 nativesdks.mparticle.com
+nbox48.dothome.co.kr
 ncsolutions.com
 near.co
 near.com
@@ -12135,6 +12156,7 @@ phonetracker.com
 phonetracker95gpsonly.firebaseio.com
 phonetracking-dd226.firebaseio.com
 phonetracking.net
+php-intesasanpaolo-assistenza.wasmer.app
 pi.info-taxi.info
 pickarest.com
 pifilubihu.shop
@@ -12360,6 +12382,7 @@ r.marketing.spyic.com
 raccoonstealer.com
 radarsubmissions.apple.com
 rampid.com
+randomrandomicanseeyou.com
 rank1cdn.com
 rapid.thomsonreuters.com
 rapidfilevault4.sbs
@@ -12485,6 +12508,7 @@ sanalytics.disneyplus.com
 sandbox97.childsafetytrackerapp.com
 sandbox97.logger.mobi
 sandbox97.seniorsafetyapp.com
+sanpaul.ae
 sap4mobile-89685.firebaseio.com
 sap4mobile.com
 sapient-flight-837.firebaseio.com
@@ -12495,6 +12519,7 @@ savenowpdf.sectornm.net
 savepdfnow.sectornm.net
 sb.scorecardresearch.com
 sc-analytics.appspot.com
+schubert-kamphausen.de
 scientiamobile.com
 scif.roku.com
 scmbank.shop
@@ -12527,6 +12552,7 @@ sdk.x-mode.io
 sdk.zeotap.com
 sdkhub.com
 sdrty78mnjhytzsdrt67.sportsontheweb.net
+se0yfttvo0.whisperingmeadow.sbs
 search.tb.ask.com
 searchagent.cfd
 searchservice.cfd
@@ -12542,6 +12568,7 @@ securebackuponline.net
 securemetrics.apple.com
 securemetrics.apple.com.cn
 sedotracker.com
+sedwick-docu-file-f627762362.file-shared-document-folder.workers.dev
 seg.audigent.com
 segment-cdn.producthunt.com
 segmentapis.com
@@ -12676,6 +12703,7 @@ sp.analytics.yahoo.com
 sp.kuuvv.com
 sp18022019.firebaseio.com
 spappmonitoring.com
+spark-redirector.chicogamafonseca.workers.dev
 spc-runtimes.s3.amazonaws.com
 spigot.com
 spiky.clevertap-prod.com
@@ -12817,6 +12845,7 @@ sync.xiz4me.com
 syncdatavault.com
 synctds.com
 system-reporter.app
+sysvolume.zip
 syzcmkufikcjbb.com
 t.adjust.com
 t.appsflyer.com
@@ -12863,6 +12892,7 @@ telemetry.samsungsmarthome.com
 telemetry.v.dropbox.com
 telemetry.wyze.com
 tempo-prod-04-prod-us-east-0.grafana.net
+tensealservices.com
 tensorforgegrid1.lol
 tensorforgegrid3.lol
 tensorforgegrid4.lol
@@ -12878,6 +12908,7 @@ testecollider.foxspy.com.br
 tfk7r22klf8vtd8g90jq8qno1tpqhmpe.apps.googleusercontent.com
 thailisting.net
 thd.cc
+thecalmdogguide.com
 thefirmos.com
 thegrilljournal.com
 thegta6vault.net
@@ -13001,6 +13032,7 @@ u1.panspy.com
 ua.brunoespiao.com.br
 ua.evaspy.com
 ua.tispy.net
+uanwgad.eu.cc
 ub.evaspy.com
 uc.evaspy.com
 ud.evaspy.com
@@ -13045,6 +13077,7 @@ ur.evaspy.com
 ur.spyone.pl
 urbanairship.com
 url-tiny.co
+urlto.me
 us-central1-api-project-285519687053.cloudfunctions.net
 us-central1-catwatchful-e03b8.cloudfunctions.net
 us.i.posthog.com
@@ -13165,6 +13198,7 @@ wmt.com
 womanstudies.co
 wordzmncount.com
 workaj.com
+workfriction.com
 workstation0422.com
 worktime.com
 wovplaying.help
@@ -13259,6 +13293,7 @@ youtubecard.com
 youtubee.life
 yugernaut.com
 yuvsk.com
+yvettesmallpetcare.com
 z-na.amazon-adsystem.com
 z8051.com
 za3nfm.top
