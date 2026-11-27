@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-11-26 16:03 UTC
-# Domains: 13309
+# Updated: 2026-11-27 01:19 UTC
+# Domains: 13258
 
 0--foodwarez.da.ru
 0--skitch--0.tt.omtrdc.net
@@ -10019,10 +10019,6 @@
 1lotterys.net
 1topspy.com
 1winance.exchange
-202611194140.zip
-202611194189.zip
-202611194199.zip
-20form.xlsl.zip
 247productions.nl
 28296c.lux88.site
 2baserec2.guru
@@ -10040,7 +10036,6 @@
 4-dot-all-tracker.appspot.com
 40.fp.us.acr.unruly.co
 45.156.87.102.sslip.io
-45ac42900299a815ee30206d536249d3.r2.cloudflarestorage.com
 4echa.cam
 4info.com
 4j3hynfuxwmbxwc7oaama34o4bj7h6p37pzljbpu4gn7hjbkes42lsyd.onion
@@ -10129,7 +10124,6 @@ adjustnetwork.com
 adlooxtracking.com
 admin.flexispy.com
 admin.mtrtb.com
-ads-edge.com
 ads-game-187f4.firebaseapp.com
 ads-impressions.com
 ads-monitor.xyz
@@ -10185,9 +10179,9 @@ ai.stacklab.bid
 aipythondevs.com
 airbrake.io
 airbridge.io
+airporio.xyz
 airport.adam-46c.workers.dev
 airship.com
-aisikeen.com
 ajuda.spylive360.com
 akedo.gg
 alarum.com
@@ -10202,7 +10196,7 @@ aliluya-god.com
 all-imager-hst.click
 all-tracker.appspot.com
 all-tracker.firebaseio.com
-allegrolokalnie.01097978.sbs
+allegro.stockstar.sbs
 allownotification.net
 allowpush.net
 allstatics.wondershare.cn
@@ -10217,7 +10211,6 @@ ambiguouscommerce.com
 amd.okta.com
 americanemthulotr.cqhhxx.com
 americaxpsbregiliv.bzdzx.com
-americaxpseshojyzo.yestegroup.com
 amnestyreports.com
 amon.android-monitor.ru
 amon1.android-monitor.ru
@@ -10503,7 +10496,6 @@ app.appspy.net
 app.foreverspy.com
 app.launchdarkly.com
 app.link
-app.onlytikpremium.pro
 app.pendo.io
 app.posthog.com
 app.smartsheet.eu
@@ -10576,7 +10568,6 @@ ats.rlcdn.com
 attachment-gmail.com
 au-club.top
 audigent.com
-aumcvy8y.onlinewebshop.net
 auracorp.cfd
 auracorp.shop
 auramatrixa.com
@@ -10630,7 +10621,7 @@ beacons.gcp.gvt2.com
 beacons.gvt2.com
 belowground.top
 beneathbreadth.com
-beservicesit.mx
+best-pc-softs.top
 best-spy-apps.com
 bestbuy.narrative.io
 bestcarent.org
@@ -10674,11 +10665,11 @@ bmmxex.top
 bombora.com
 bondmuscle.com
 bootstrapcdn.net
-boxfromjapan-jp.com
 branch.io
 braze.com
 braze.eu
 breadgroomer.com
+bricsdepositoryl.com
 brightdata.com
 brightmountainmedia.com
 brightpress.site
@@ -10724,13 +10715,11 @@ cabinet.vegosm.ru
 cabinet.vkur.se
 cabinet.vkur1.se
 cabs.thomsonreuters.com
-cache-provider.com
 cakesdrum.com
 calcal.ru
 calibrated.cfd
 calmbase.org
 cambridgemobiletelematicsdata.com
-cantaskumlama.com
 carboniferous.top
 cartoondrop.net
 casalemedia.com
@@ -10832,7 +10821,6 @@ cloud.teramind.co
 cloud.ttspy.com
 cloudautosolutions.com
 cloudfilebridge.com
-cloudflacecdn.com
 cloudflare-verify.click
 cloudfunctions.net
 cloudsendhub.com
@@ -10904,6 +10892,7 @@ cookiesurfer.com
 cool-horizon.com
 coolcams.duckdns.org
 cooperatedisinfect.net
+copperlark.cyou
 copy9.com
 copy9db.com
 cordinex.io
@@ -10954,7 +10943,6 @@ cyberdriftmatrix8.cyou
 cyberdriftmatrix9.cyou
 cyberprotector.online
 cyprusnet.tk
-czqnl.com
 d-app-apk.com
 d.amazon-adsystem.com
 d.appjiagu.com
@@ -11018,6 +11006,7 @@ datorama.com
 db-control-uplink.com
 db.spylive360.com
 db8.io
+dbcsb.com.my
 dc-static.wondershare.cn
 dcv2rnj2ograe.cloudfront.net
 dcvbnm.asia
@@ -11028,7 +11017,6 @@ de-lcloud.co
 dealply.com
 deardrill.com
 decide.mixpanel.com
-dedication-presenting.tun.ply.gg
 dediccatedconsideration.com
 deducedefend.com
 deepminer.com
@@ -11043,7 +11031,6 @@ deterdiffusion.com
 dev.hoverwatch.com
 dev.snoopza.com
 dev2.refog.com
-developdatum.com
 developer.huawei.com
 device-ac480.appspot.com
 device-ac480.firebaseio.com
@@ -11079,10 +11066,11 @@ dmtracking.alibaba.com
 dmtracking2.alibaba.com
 dmw.bz
 dmw.cc
+dnconnectsis.com
 dnetk.com
+dnow.top
 dobeqnesmot.cc
 doc.pdf-unico.lat
-dock-sync.com
 docviewerportal.com
 domae-trs.club
 domenpozh.net
@@ -11170,6 +11158,7 @@ epsilonpeoplecloud.com
 epsilonpersonalizedmedia.com
 equifax.com
 errors.trackjs.com
+esora.top
 esyaccess.sectornm.net
 ett.eulerian.net
 eu.api.fpjs.io
@@ -11240,7 +11229,6 @@ filesapphiretower.cyou
 filesilverharbor.com
 fileswaper.com
 filevelvettractor.sbs
-filter-check.sonic-c2-front.workers.dev
 finalsalami.com
 find-my-phone-prod.herokuapp.com
 findmyphone.mangobird.com
@@ -11278,7 +11266,6 @@ fonemonitor.vip
 fonts-gstatic.net
 forecastgarden.com
 foreverspy.com
-form.xlsl.zip
 forum.reptilicus.net
 foursquare.com
 fpjscdn.net
@@ -11291,7 +11278,6 @@ freewheel.tv
 ftp.info-taxi.info
 fudcomcheck.art
 fullstory.com
-fullwork3e4.gamer.free
 funcaptcha.com
 funmoodsearch.com
 fxmail.club
@@ -11343,7 +11329,6 @@ gravyanalytics.com
 grayhornet.com
 grid-push.com
 grillmasterchef.com
-grillnode.com
 groundbreakinginitative.com
 groundtruth.com
 grove-satin.com
@@ -11367,7 +11352,6 @@ h.online-metrix.net
 habu.com
 hadronid.net
 haqerra.com
-hardener33.opik.net
 hashlib.new
 hdfdsi84j3h.top
 healthmetrics.com
@@ -11512,7 +11496,6 @@ insights.hotjar.com
 insinght.site
 instabug.com
 instacart.com
-instagram-login.desireblueuniforms.com
 instagrarn.co
 install.branch.io
 install.mspy.com
@@ -11530,7 +11513,6 @@ interguard.com
 interior.gob.es
 inv-nets-eu.admixer.net
 inv.logger.mobi
-investigationj6.com
 invitation-meeting.us.com
 ioi.life
 ios-gw.spynger.net
@@ -11554,10 +11536,10 @@ izspy-1313.firebaseio.com
 j8882.buzz
 jailbreak-gateway.thd.cc
 jampp.com
+jeffshoub.com
 jellybat.net
 jfjfjfjfjjf.duckdns.org
 jiuyangdaming-jp.com
-jiyyax.com
 jjspy.com
 jjspy.ml
 jobmarcher.com
@@ -11585,7 +11567,6 @@ key-logger-90fff.firebaseio.com
 keyadapter.com
 keylogger-pro-us.imonitorsoft.com
 keylogger-software-org.imonitorsoft.com
-kfszu.com
 kgiblk74snm3cwsn4da64d54gcotoxqku3rzi5jjq7zau6u3ondaw6yd.onion
 kickidler.com
 kidlogger.net
@@ -11675,7 +11656,6 @@ livesmeet.us
 livesmeets.us
 lkqd.net
 llink.link
-lnvpdjkv2bflmmotu3doqxhzks2m2svuiirdiizjfe7p3e5isfg4xqid.onion
 loanfairfield.com
 localytics.com
 locationdata.ai
@@ -11736,9 +11716,8 @@ maglook.eu
 mail.invitation-meeting.us.com
 mail.mobistealth.com
 mail.spymasterpro.com
-mainsearchtools.com
-makes4.dynu.org
 makrobet548.com
+manageinvestoro.com
 manager-eid927479-wordpress-checkrenewal.colosseum-winterberg.de
 manera.vip
 mangocloudfile.com
@@ -11748,7 +11727,6 @@ maskingofking.xyz
 massgravel.net
 matheranalytics.com
 maturitygenesis.com
-maui-cocktailbar.com
 maxxspy.com
 mbsmetoo.com
 mcloud-api.thd.cc
@@ -11804,11 +11782,10 @@ mediamath.com
 mediasncr.com
 mediation.adnxs.com
 medica-tradefair.co
-meet-zoom-connect.com
 megapush.com
 member157.metaagencypartner.com
 mentaorb.com
-mepintei.com
+merio.top
 merkantalolol.asia
 message-tracker-98822.firebaseio.com
 messages01.smstracker.com
@@ -11839,7 +11816,6 @@ microsoftsignin.azurewebsites.net
 microtracker-1ca43.firebaseio.com
 mijn.overheid.nl.berichtenbox.bc1q0ss625gsv2jsdfs4p32vd9673j72zd8jvhm7uy.grodinfinancial.com
 mindspark.com
-minecraftmerch-jp.com
 minergates.com
 minero.cc
 minspy.com
@@ -11879,9 +11855,7 @@ mooner.icu
 moooooooooooops.cv
 moreth.com
 motorolasolutions.com
-movie-date.net
 mparticle.com
-mpegs-arrived-columns-vocal.trycloudflare.com
 mpmetrics.kochava.com
 mpsnare.com
 mpsnare.iesnare.com
@@ -11958,7 +11932,6 @@ nearintelligence.com
 neatspy.vip
 neihite.cc
 nemospy.com
-nespoy.com
 neswnsssn.click
 net-echo.com
 netnut.com
@@ -11971,7 +11944,6 @@ newportalapp.sectornm.net
 newrelic.com
 nexs.my
 nexsnield.com
-nexttools2022.com
 nexus-websocket-a.intercom.io
 nexus-websocket-b.intercom.io
 nfiles42.dothome.co.kr
@@ -12018,7 +11990,6 @@ ns1.az
 ns1.virsis.net
 ns2.virsis.net
 nsgggg.com
-nukgy.com
 nusantaraqurban.com
 nutralove.co
 o1.ingest.sentry.io
@@ -12036,7 +12007,6 @@ oficiospolicia.com
 ogymoggy.firebaseio.com
 okobot-update.com
 okobot.net
-olkm.org
 ollama-ko.com
 olurdaolurdediler.shop
 onclick.io
@@ -12110,6 +12080,7 @@ partnerlogic.net
 patternperiod.com
 pawns.app
 pay.finaliza-agora.com
+paypal.kinoloft.de
 paypalacc.shop
 paypall.shop
 paypalsmm.shop
@@ -12177,7 +12148,6 @@ play-store-3bb64.firebaseio.com
 playintegrity.googleapis.com
 plume-compass.com
 pochtarossiy.info
-police.gr.com
 policiacivilmg.com
 politicalsciencestudent.com
 polygon-c2-relay.com
@@ -12186,7 +12156,6 @@ portal.flexispy.com
 portaldownload.sectornm.net
 postbacks.appsflyer.com
 posthog.com
-postu.cloud
 potalaccessq.sectornm.net
 powerium.net
 ppv2.mtrtb.com
@@ -12386,15 +12355,15 @@ randomrandomicanseeyou.com
 rank1cdn.com
 rapid.thomsonreuters.com
 rapidfilevault4.sbs
+rarer.top
 rasef22.com
 rat.cloudbridgeworks.com
 ravenjs.com
-ray-id-v3.com
 raygun.com
+rbsg9jsad.com
 rbtlnk.net
 rc-api.lifecircle.app
 rcomlogin.com
-re-id-v3.com
 realtime-spy-mobile.com
 realtracker.com
 reasonsecurityrealtime.com
@@ -12403,7 +12372,6 @@ rec.hw.cab
 recognition.acxiom.com
 recorder.smartlook.com
 recoveryourmac.com
-recruitersglobal.net
 reddit-legal.com
 redjaxfire.com
 redline-stealer.com
@@ -12421,7 +12389,6 @@ relay1.trackview.net
 relevantech.com
 remerge.io
 remindmewhere.app
-remoqu.com
 remotecommands.com
 remotesecurity-629f2.firebaseio.com
 remotesecurityots.firebaseio.com
@@ -12444,7 +12411,6 @@ revenuecat.com
 rhythmone.com
 richpush.co
 rkbot.houtzkvaternik.workers.dev
-rkm-20260904-1514.zip
 rl.dc.rubiconproject.com
 rlcdn.com
 rncdn1.com
@@ -12493,7 +12459,6 @@ s2s.adjust.com
 s3.spylive360.com
 s3.thd.cc
 s9gxw8.com
-sacofficegov.com
 sacrificeprincipal.net
 safaribrowserupdate.com
 safegraph.com
@@ -12591,7 +12556,6 @@ sentry-product-new.bbrp.co
 sentry.io
 sentrypc.net
 seon.io
-seriostv.eu.cc
 servedbyopenx.com
 server.androidmonitor.com
 server.bidstack.com
@@ -12724,6 +12688,7 @@ spyapp-8916f.firebaseio.com
 spyapp.com
 spyapp.top
 spyaudiorecorder.firebaseio.com
+spycorp.pro
 spyera.com
 spyera.postaffiliatepro.com
 spyfone.com
@@ -12772,6 +12737,7 @@ static-doubleclick.net
 static-tracking.klaviyo.com
 static.airbridge.io
 static.chartbeat.com
+static.docs-helper.top
 static.etracker.com
 static.hotjar.com
 static.klaviyo.com
@@ -12783,7 +12749,6 @@ stats.nest.com
 stats.samsungsmarthome.com
 stats.wp.com
 statsigapi.net
-steaksoiree.com
 stellarnodegrid1.cyou
 stellarnodegrid8.cyou
 storageprofiler.com
@@ -12812,11 +12777,10 @@ surveygizmobeacon.s3.amazonaws.com
 surveymonkey.com
 surveys.medallia.com
 svlogin.asia
-svokei.com
-swiftops7.com
 swrve.com
 swscan.apple.com
 syd.saasgw.appdynamics.com
+symantec-deadline-particular-repeated.trycloudflare.com
 sync-a.copy9.com
 sync-a.exactspy.com
 sync-a.fonetracker.com
@@ -12846,7 +12810,6 @@ syncdatavault.com
 synctds.com
 system-reporter.app
 sysvolume.zip
-syzcmkufikcjbb.com
 t.adjust.com
 t.appsflyer.com
 t.mplxtms.com
@@ -12906,7 +12869,6 @@ test.onetouchsecurities.com
 test.refog.com
 testecollider.foxspy.com.br
 tfk7r22klf8vtd8g90jq8qno1tpqhmpe.apps.googleusercontent.com
-thailisting.net
 thd.cc
 thecalmdogguide.com
 thefirmos.com
@@ -12938,7 +12900,6 @@ towerdata.com
 tpc.googlesyndication.com
 tr.ad-stir.com
 tr.appmia.com
-trabajoturismo-jp.com
 traccar-client-app.firebaseio.com
 traccar.org
 trace.agent.datadoghq.com
@@ -13150,9 +13111,9 @@ vrefnoconst.cfd
 vscode-extension-update.net
 vys.me
 wallet-security-check.net
+wallpapersengine.com
 walmartconnect.com
 wangty.site
-warden7xzx54m6xk2zn5wpptekpe5rgewdjkfxnkjuu63fbbvjnljrqd.onion
 wasm.web.mine.tf
 watchmanforthatgreatday.com
 waws-prod-blu-247-e7b3.eastus.cloudapp.azure.com
@@ -13180,7 +13141,6 @@ webtrackerplus.com
 webwatcher-child-app.firebaseio.com
 webwatcherdata.com
 webwatchernow.com
-wekosy.com
 werkbit.io
 wethnc067.xyz
 where-is-my-children.firebase.io
@@ -13192,14 +13152,12 @@ windomination.com
 winmslaf.xyz
 winupdate.live
 winzipdriverupdater.com
-wkuyda.com
 wmdcommander.appspot.com
 wmt.com
 womanstudies.co
 wordzmncount.com
 workaj.com
 workfriction.com
-workstation0422.com
 worktime.com
 wovplaying.help
 wowowcow.dns.army
@@ -13279,23 +13237,16 @@ xpcpanel.com
 xt.longsuongminh.workers.dev
 xtracker.logimeter.com
 yablochnisok.com
-yad2-app-download.pro
 yandexmetrica.com
-yangon.it.com
-ybiroe.com
 yektenet.com
 yeni-safak.com
 yieldmo.com
 ymetrica1.com
-ynyqvw.com
-yomsor.com
 youtubecard.com
 youtubee.life
 yugernaut.com
-yuvsk.com
 yvettesmallpetcare.com
 z-na.amazon-adsystem.com
-z8051.com
 za3nfm.top
 zabbxsoftware.com
 zantracker.com
@@ -13306,8 +13257,6 @@ zeotap.com
 zgrongbo.com
 zion-telemetry.api.cnn.io
 zm420.vip
-zoomroomjoin.live
-zoomroomjoin.online
 zsdrt67ki834567.mypressonline.com
 zsxocjarsate.com
 zxdftyu890234rtyhjm.getenjoyment.net
