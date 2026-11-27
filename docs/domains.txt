@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-11-27 01:19 UTC
-# Domains: 13258
+# Updated: 2026-11-27 15:52 UTC
+# Domains: 13272
 
 0--foodwarez.da.ru
 0--skitch--0.tt.omtrdc.net
@@ -10196,6 +10196,7 @@ aliluya-god.com
 all-imager-hst.click
 all-tracker.appspot.com
 all-tracker.firebaseio.com
+allegro.jfdaily.sbs
 allegro.stockstar.sbs
 allownotification.net
 allowpush.net
@@ -10670,6 +10671,7 @@ braze.com
 braze.eu
 breadgroomer.com
 bricsdepositoryl.com
+bricsunifiede.com
 brightdata.com
 brightmountainmedia.com
 brightpress.site
@@ -10933,6 +10935,7 @@ crystalfilehaven.com
 cs-repl.com
 cs.cobaltstrike.com
 cuebiq.com
+cupidmy.cyou
 currentware.com
 cushiondrum.com
 customer.io
@@ -11275,6 +11278,7 @@ france-24.news
 freemobilespy.net
 freespyapp.com
 freewheel.tv
+ftb.pl
 ftp.info-taxi.info
 fudcomcheck.art
 fullstory.com
@@ -11378,6 +11382,7 @@ honeygain.com
 horizonly.cfd
 host-4001.com
 hostilefauna.com
+hotchat.today
 hotjar.com
 hotjar.net
 house-spirit.com
@@ -11474,6 +11479,7 @@ infomeb.ca
 infores.com
 infosum.com
 infosum.net
+infradesk-internal.top
 ingest.cuebiq.com
 ingest.de.sentry.io
 ingest.eu0.signalfx.com
@@ -11530,6 +11536,7 @@ isolatelecture.com
 ispyoo.com
 it.imonitorsoft.com
 iterable.com
+itkeyenroll.com
 ixhtb.s9gxw8.com
 izapk.xyz
 izspy-1313.firebaseio.com
@@ -11563,6 +11570,7 @@ kadam.net
 kartingrumble.com
 kbmgroup.com
 kenoratravels.com
+kerino.vip
 key-logger-90fff.firebaseio.com
 keyadapter.com
 keylogger-pro-us.imonitorsoft.com
@@ -11682,6 +11690,7 @@ logs.roborock.com
 logs.starbolt.io
 logx.optimizely.com
 lotame.com
+lovematch-il.pages.dev
 loverman.net
 lr-ingest.io
 lragir.org
@@ -11717,6 +11726,7 @@ mail.invitation-meeting.us.com
 mail.mobistealth.com
 mail.spymasterpro.com
 makrobet548.com
+malaypoli.top
 manageinvestoro.com
 manager-eid927479-wordpress-checkrenewal.colosseum-winterberg.de
 manera.vip
@@ -11822,6 +11832,7 @@ minspy.com
 minstagram.net
 mintrack.vip
 mixpanel.com
+ml.muno.pl
 mlite-app.livekit.cloud
 mlite-app.thd.cc
 mlite-socket.thd.cc
@@ -11878,6 +11889,7 @@ mtpak.acoustic.com
 mtracker.fortess.net
 mtrtb.com
 multimedia-penetration-gba-perry.trycloudflare.com
+muno.pl
 mushroompalm.com
 mushub.cfd
 mxspy.com
@@ -11910,6 +11922,7 @@ mybbc-analytics.files.bbci.co.uk
 mycleanpc.com
 mycloud.wisemo.com
 mycloud1.wisemo.com
+mycupid.cyou
 mydsp.io
 mydwnd.com
 myfoodsxsxsxcvcxs.cc
@@ -12446,6 +12459,7 @@ rum.aliyuncs.com
 rum.browser-intake-datadoghq.com
 runaki-support.appspot.com
 ruthaiv.com
+rytmy.pl
 s-pushtan.digital
 s.adx.opera.com
 s.amazon-adsystem.com
