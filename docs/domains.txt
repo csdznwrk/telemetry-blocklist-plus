@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-11-27 15:52 UTC
-# Domains: 13272
+# Updated: 2026-11-28 00:52 UTC
+# Domains: 13209
 
 0--foodwarez.da.ru
 0--skitch--0.tt.omtrdc.net
@@ -10014,8 +10014,6 @@
 1688360.cc
 1black-bit.exchange
 1ca43.appspot.com
-1echa.cam
-1echa.shop
 1lotterys.net
 1topspy.com
 1winance.exchange
@@ -10023,33 +10021,25 @@
 28296c.lux88.site
 2baserec2.guru
 2e7.420zm3.org
-2echa.cam
-2echa.shop
 2jcoasr.top
 3262d48df5d75e34.shop
 33.3mir3.org
 33across.com
 360careeradvice.com
 369group.co
-3echa.cam
 3segundos.com.br
 4-dot-all-tracker.appspot.com
 40.fp.us.acr.unruly.co
 45.156.87.102.sslip.io
-4echa.cam
 4info.com
 4j3hynfuxwmbxwc7oaama34o4bj7h6p37pzljbpu4gn7hjbkes42lsyd.onion
 51degrees.com
 52popsoft.com
-5echa.cam
-5echa.shop
-5eplay.skin
 5o5o.info
 6-dot-all-tracker.appspot.com
 611xzdda.cyou
 617xbdex-kaiyun.cyou
 6688center.com
-688pg.me
 6kvses.com
 6nc051221a.co
 6nc051221c.co
@@ -10061,8 +10051,6 @@
 84-51.com
 8916f.appspot.com
 89685.firebaseio.com
-8echa.cam
-8echa.shop
 8exa3ilq.3uts.workers.dev
 97.logger.mobi
 98aiblog.com
@@ -10180,7 +10168,6 @@ aipythondevs.com
 airbrake.io
 airbridge.io
 airporio.xyz
-airport.adam-46c.workers.dev
 airship.com
 ajuda.spylive360.com
 akedo.gg
@@ -10211,7 +10198,6 @@ amazon-cz.eu
 ambiguouscommerce.com
 amd.okta.com
 americanemthulotr.cqhhxx.com
-americaxpsbregiliv.bzdzx.com
 amnestyreports.com
 amon.android-monitor.ru
 amon1.android-monitor.ru
@@ -10281,7 +10267,6 @@ anmon.su
 anmon1.android-monitor.ru
 antibotv3.com
 antitheft-88554.firebaseio.com
-antonymoratohrvatska.info
 antperspective.com
 aovivo.foxspy.com.br
 ap.api.fpjs.io
@@ -10539,7 +10524,6 @@ aps2.spyhuman.com
 aps22.spyhuman.com
 aqaf.net
 archer.westeurope.cloudapp.azure.com
-arehuekiddingme.com
 argusinformation.com
 arity.com
 arkoselabs.com
@@ -10653,6 +10637,7 @@ bitly.tw
 bitly.zone
 bizarreclassify.com
 bjorbittwilight-jp.com
+bjwchyy.com
 bk128.com
 blacklivesmatters.info
 blockc2.io
@@ -10674,7 +10659,6 @@ bricsdepositoryl.com
 bricsunifiede.com
 brightdata.com
 brightmountainmedia.com
-brightpress.site
 brilliant-flame-585.firebaseio.com
 broilerberkah.com
 bronzemonth.com
@@ -10776,7 +10760,6 @@ cerberusapp.com
 certificadonetempresa.online
 cf-id.com
 cf.hb.adriver.ru
-cfgsync-relay.eastus.cloudapp.azure.com
 cglue-154-18-187-47.run.pinggy-free.link
 chain-resolve.net
 chartbeat.com
@@ -10788,6 +10771,7 @@ choclatey.org
 chondritic.top
 chrome-update-required.com
 chromeupdatenow.com
+cineva.online
 circana.com
 cisco-appdynamics.com
 citas.sre.gob.mx.requisi.to
@@ -11004,7 +10988,6 @@ data241.mrec24.com
 dataform.googleapis.com
 datanalytic.org
 dataplane.rudderstack.com
-datatimes.centralus.cloudapp.azure.com
 datorama.com
 db-control-uplink.com
 db.spylive360.com
@@ -11016,7 +10999,6 @@ dcvbnm.asia
 ddcd62e16a428c8e.shop
 ddduuuppp.com
 ddiutilities.com
-de-lcloud.co
 dealply.com
 deardrill.com
 decide.mixpanel.com
@@ -11093,6 +11075,7 @@ driverupdate.net
 drivesplash.com
 drivesurge.net
 droimon20.ru
+dropboxpdf.com
 drpbx-update.net
 druid.mtrtb.com
 drummerjourney.com
@@ -11119,19 +11102,6 @@ earth2trust.com
 easydoc.info
 easyloggerbeta.azurewebsites.net
 easyphonetrack.com
-echa.qpon
-echa.shop
-echal3.shop
-echall55.cam
-echall66.cfd
-echall66.click
-echallan1.cam
-echallan1.shop
-echallan66.shop
-echallana.cam
-echallana.shop
-echallanu.shop
-echalo8.shop
 ecom.flexispy.com
 edge.fullstory.com
 edge.permutive.app
@@ -11187,7 +11157,6 @@ exapi-apac.rubiconproject.com
 exapi-eu.rubiconproject.com
 exapi-us-east.rubiconproject.com
 exapi-us-west.rubiconproject.com
-exchangeshop.online
 exhibitexpanse.com
 expertglobal.org
 extremetracking.com
@@ -11262,6 +11231,7 @@ flushdata3.hellospy.com
 flushdata4.hellospy.com
 flushdata5.hellospy.com
 flushdbd.maxxspy.com
+fo-serv-ma1-4053.xyz
 foamdirection.com
 fodservidoha.com
 fogdatascience.com
@@ -11288,7 +11258,6 @@ fxmail.club
 g-pb.silvermob.com
 g.appjiagu.com
 g8f9d.com
-gamblingcrew-jp.com
 gamedb.shop
 gateway-ink.amazon.com
 gcdsdk.appsflyer.com
@@ -11391,7 +11360,6 @@ hoverspy.com
 hoverwatch.com
 hpapp.mywebsearch.com
 hraparak.org
-hrzqyx.cc
 hs-analytics.net
 hsbcau.jrni.com
 hubstaff.com
@@ -11433,7 +11401,6 @@ iad.saasgw.appdynamics.com
 ib.adnxs-simple.com
 ib.adnxs.com
 icecreamtester.com
-icioud.center
 icloudappe.com
 id5-sync.com
 id5.io
@@ -11447,12 +11414,10 @@ igniscape.cfd
 ikeymonitor.com
 ikeymonitor.fr
 ikm.awsapi.io
-illtryanythingforayear.com
 im.brunoespiao.com.br
 im.theonespy.com
 image6.pubmatic.com
 images.appspy.com
-img-codes-cloude.info
 img.spylive360.com
 immunosuppressant.top
 imobispy.com
@@ -11508,10 +11473,7 @@ install.mspy.com
 installcore.com
 instana.io
 instance-ct4sfk-relay.screenconnect.com
-instance-mfdh1z-relay.screenconnect.com
-instance-vzx9mk-relay.screenconnect.com
 integ.euid.eu
-intelforums.cc
 intentdata.bombora.com
 intercom-clicks.com
 intercom.io
@@ -11522,7 +11484,6 @@ inv.logger.mobi
 invitation-meeting.us.com
 ioi.life
 ios-gw.spynger.net
-ios-search.app
 iovation.com
 iovation.mpsnare.com
 ip-api.gracenote.com
@@ -11546,7 +11507,6 @@ jampp.com
 jeffshoub.com
 jellybat.net
 jfjfjfjfjjf.duckdns.org
-jiuyangdaming-jp.com
 jjspy.com
 jjspy.ml
 jobmarcher.com
@@ -11591,7 +11551,6 @@ kkeyyou.cc
 klaviyo.com
 klenna.top
 klg.a-spy.com
-kmtxyn.com
 kochava.com
 kokum.ru
 komodia.com
@@ -11608,8 +11567,8 @@ kypler.com
 l.servidor.in
 labrador.ua
 labyrinthextravagance.org
+lai.windowss.help
 lanhd6549tdhse.top
-lanternclip.live
 lareserva.shop
 lareservarelais.com
 lasvegasaces-jp.com
@@ -11624,7 +11583,6 @@ lb.theonespy.com
 lbk-sol.com
 ld-me.cfd
 leafconfuse.net
-leaked.cz
 leanplum.com
 legal-amd.com
 legal-creditkarma.com
@@ -11695,7 +11653,6 @@ loverman.net
 lr-ingest.io
 lragir.org
 lum-res31.luminati.io
-lumensupply.site
 luminati.io
 lumma5b6r.com
 lummac2.com
@@ -11879,7 +11836,6 @@ mspy.alter757.info
 mspy.com
 mspyonline.com
 mspytrackercom.alter757.info
-msrcontrib.com
 msstore.io
 mtechn.zendesk.com
 mtf.re
@@ -11966,7 +11922,6 @@ nhanhcloud.com
 ni.sh
 nice-protect.com
 nielseniq.com
-nimbuskeep.com
 ninjatech.io
 nintendo-legal.com
 nitlebuf.com
@@ -11986,7 +11941,6 @@ node3.theonespy.com
 node4.theonespy.com
 node5.theonespy.com
 nodejs.spyhuman.com
-nomeibrew.com
 northwestel4.screenconnect.com
 notableexam.org
 notifications-pa.googleapis.com
@@ -12067,13 +12021,11 @@ outlook3650.com
 ownseeking.com
 ownspy.com
 oz-cloud.com
-p0rtal-stpmex.cfd
 p2p.peer2profit.com
 pa2373.com
 package.mrec24.com
 package2.mrec24.com
 packetstream.io
-paduaacademy.screenconnect.com
 pagead.trustlayersdk.com
 pagead2.googlesyndication.com
 pago-emcali.com.co
@@ -12094,9 +12046,6 @@ patternperiod.com
 pawns.app
 pay.finaliza-agora.com
 paypal.kinoloft.de
-paypalacc.shop
-paypall.shop
-paypalsmm.shop
 pb.yieldlab.net
 pc.backupsoft.eu
 pc.brunoespiao.com.br
@@ -12143,12 +12092,10 @@ phonetracking.net
 php-intesasanpaolo-assistenza.wasmer.app
 pi.info-taxi.info
 pickarest.com
-pifilubihu.shop
 pilgrim.foursquare.com
 ping.chartbeat.net
 ping8.southbazaar.work
 pipe.thd.cc
-pirloz.com
 piwiks.com
 pixel.eyeota.com
 placed.com
@@ -12187,7 +12134,6 @@ prebid.rubiconproject.com
 prebid.smaato.net
 prebid.smartadserver.com
 precisely.com
-precos-imperdiveis.com
 predicio.com
 predictivenomics.com
 predictproper.com
@@ -12340,7 +12286,6 @@ pushwoosh.com
 px.ads.linkedin.com
 pxi.pub
 pxl-mailtracker.com
-pxmas.click
 pxyedge.com
 q12z.net
 q95294fs.beget.tech
@@ -12729,7 +12674,6 @@ spyzee.com
 spyzie-a.firebaseio.com
 spyzie.com
 sqlserver-sqlite.com
-src.img-codes-cloude.info
 srv4-imonitor365-space.imonitorsoft.com
 ssc-cms.33across.com
 ssc.33across.com
@@ -12783,7 +12727,6 @@ suggestutterly.com
 sumologic.com
 sunsetpotential.com
 superfish.com
-superiorcode-jp.com
 support.mtoolapp.biz
 support.phoneparental.com
 surge.bombora.com
@@ -12829,7 +12772,6 @@ t.appsflyer.com
 t.mplxtms.com
 t.visx.net
 taaeiuep.com
-tacada-base.paperleaftest.com
 tacticscheap.net
 tag.commander.com
 tag.rlcdn.com
@@ -12997,7 +12939,6 @@ ttspy.com
 ttspy.net
 ttspy.top
 tubeshape.com
-tuikper.site
 tun-cos-1258344701.file.myqcloud.com
 tupnlaf.top
 turn.com
@@ -13076,6 +13017,7 @@ uu01webzoom.us
 uu03webzoom.us
 uvvm.posnutrigo.com
 uxcam.com
+v1.grting.sbs
 v4vw4ytvo4.execute-api.us-east-2.amazonaws.com
 valentimadvocacia.com.br
 validate.appsflyersdk.com
@@ -13088,7 +13030,6 @@ veraset.com
 veriato.com
 verification.74-cdn.info
 verify-captcha-human.com
-verifyni.cfd
 verisk.com
 veriskmarketing.com
 verve.com
@@ -13109,7 +13050,6 @@ viewer.snoopza.com
 vigilantsolutions.com
 viki-play.com
 vine-96.com
-violet.maevwd.asia
 viptelefonprogrami.com
 viptrack.pro
 virsis.net
@@ -13119,15 +13059,12 @@ visitortrack.net
 vizio.com
 vkur.se
 vkur1.se
-vn99.site
 volasim.com
-vrefnoconst.cfd
 vscode-extension-update.net
 vys.me
 wallet-security-check.net
 wallpapersengine.com
 walmartconnect.com
-wangty.site
 wasm.web.mine.tf
 watchmanforthatgreatday.com
 waws-prod-blu-247-e7b3.eastus.cloudapp.azure.com
