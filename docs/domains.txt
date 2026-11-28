@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-11-28 00:52 UTC
-# Domains: 13209
+# Updated: 2026-11-28 14:47 UTC
+# Domains: 13207
 
 0--foodwarez.da.ru
 0--skitch--0.tt.omtrdc.net
@@ -10018,6 +10018,7 @@
 1topspy.com
 1winance.exchange
 247productions.nl
+251126.ngrok.app
 28296c.lux88.site
 2baserec2.guru
 2e7.420zm3.org
@@ -10196,7 +10197,6 @@ alter757.info
 altzserberin.info
 amazon-cz.eu
 ambiguouscommerce.com
-amd.okta.com
 americanemthulotr.cqhhxx.com
 amnestyreports.com
 amon.android-monitor.ru
@@ -10367,7 +10367,6 @@ api.leanplum.com
 api.lifecircle.app
 api.localytics.com
 api.lytics.com
-api.mail.tm
 api.medallia.com
 api.mixpanel.com
 api.mobilebackup.biz
@@ -10484,7 +10483,6 @@ app.launchdarkly.com
 app.link
 app.pendo.io
 app.posthog.com
-app.smartsheet.eu
 app.snoopza.com
 app.xdspy.app
 app.xyspy.com
@@ -10776,6 +10774,7 @@ circana.com
 cisco-appdynamics.com
 citas.sre.gob.mx.requisi.to
 citecivilization.com
+cjslakesidegrill.com
 claudecodedoc.squarespace.com
 cleanmymacos.org
 clear.thomsonreuters.com
@@ -10929,6 +10928,7 @@ cvspharmacy.com
 cyberdriftmatrix8.cyou
 cyberdriftmatrix9.cyou
 cyberprotector.online
+cyclenetixsecure.com
 cyprusnet.tk
 d-app-apk.com
 d.amazon-adsystem.com
@@ -10956,7 +10956,6 @@ d5bybeuh.com
 d8lmy5wyiokrq.cloudfront.net
 dageainiyoo3.top
 dahieenloo.com
-dai-ichi-life.co.jp
 daiichilife-group.com
 dainam.bot.cd
 damageconsider.com
@@ -11029,6 +11028,9 @@ deviceintelligence.io
 devices.nest.com
 devotionbelief.com
 dfwioeiofwr.info
+dhl-paketstatus.de
+di2ni31nio2.cc
+di2ni31nio2.shop
 diagnostics.apple.com
 digitalendpoint.com
 digitalenvoy.net
@@ -11109,7 +11111,6 @@ edigitalresearch.com
 edlnc255s2q.s3.amazonaws.com
 edvdafc.prozhe.vip
 eeresofeuae.com
-ehc24.com
 einformatiks.com
 elcore-api.azurewebsites.net
 electric-prime.com
@@ -11166,6 +11167,7 @@ eyezyapp.thd.cc
 f.appjiagu.com
 faceb00k-live.com
 factual.com
+factura-mbf.mrbasic.com
 fakeupdate.net
 fallaciousessential.net
 fast-mob.com
@@ -11248,7 +11250,6 @@ france-24.news
 freemobilespy.net
 freespyapp.com
 freewheel.tv
-ftb.pl
 ftp.info-taxi.info
 fudcomcheck.art
 fullstory.com
@@ -11260,12 +11261,14 @@ g.appjiagu.com
 g8f9d.com
 gamedb.shop
 gateway-ink.amazon.com
+gayhrd.top
 gcdsdk.appsflyer.com
 gelora.org
 gemscocl.com
 genderconference.org
 generator-qrcode.online
 get.snoopza.com
+getdigicore.com
 getfeedback.com
 getmspy.net
 getmycleanpc.com
@@ -11325,9 +11328,7 @@ h.online-metrix.net
 habu.com
 hadronid.net
 haqerra.com
-hashlib.new
 hdfdsi84j3h.top
-healthmetrics.com
 heap.com
 heapanalytics.com
 hellospy.com
@@ -11454,7 +11455,6 @@ ingest.sentry.io
 ingest.us.sentry.io
 ingest.us1.signalfx.com
 ingress.coralogix.com
-initiatedby.app
 inmarket.com
 inmobi.com
 inobram.com
@@ -11478,7 +11478,6 @@ intentdata.bombora.com
 intercom-clicks.com
 intercom.io
 interguard.com
-interior.gob.es
 inv-nets-eu.admixer.net
 inv.logger.mobi
 invitation-meeting.us.com
@@ -11523,6 +11522,7 @@ js.cookie-sync.xyz
 js.intercom.io
 js.tracookiepixel.xyz
 jsecoin.com
+jucai7.com
 jwxt.nefu.edu.cn
 jxpz.net
 kabar1217.com
@@ -11570,7 +11570,6 @@ labyrinthextravagance.org
 lai.windowss.help
 lanhd6549tdhse.top
 lareserva.shop
-lareservarelais.com
 lasvegasaces-jp.com
 laucass.forumactif.org
 launchdarkly.com
@@ -11608,11 +11607,11 @@ limefilescope.com
 link-flux.com
 linkedin-jobs.com
 linkedinns.net
-linkify.me
 linkmob.org
 links.iterable.com
 lioiamcount.com
 liokida.com
+listapai.jungleheart.com
 live3.eu.steerpath.net
 liveramp.com
 liveramp.net
@@ -11789,7 +11788,6 @@ minspy.com
 minstagram.net
 mintrack.vip
 mixpanel.com
-ml.muno.pl
 mlite-app.livekit.cloud
 mlite-app.thd.cc
 mlite-socket.thd.cc
@@ -11821,7 +11819,6 @@ monitor-ultra.com
 monstreamingespaces.com
 mooner.icu
 moooooooooooops.cv
-moreth.com
 motorolasolutions.com
 mparticle.com
 mpmetrics.kochava.com
@@ -11845,7 +11842,6 @@ mtpak.acoustic.com
 mtracker.fortess.net
 mtrtb.com
 multimedia-penetration-gba-perry.trycloudflare.com
-muno.pl
 mushroompalm.com
 mushub.cfd
 mxspy.com
@@ -12069,7 +12065,6 @@ penlink.com
 penslice.com
 peoplecloud.epsilon.com
 pepperdominate.com
-pepsico.okta.com
 perfectgrillrecipes.com
 permutive.app
 permutive.com
@@ -12341,6 +12336,7 @@ refugeeinternational.org
 refund-nts-hometax.kesug.com
 regdev-google.com
 regionconfig.amplitude.com
+registre-eu.org
 rehubcom.ag
 reimage.com
 relay1.trackview.net
@@ -12384,7 +12380,6 @@ rp.labrador.ua
 rp.liquidblue.com.ua
 rp.sharethrough.com
 rrspy.com
-rs-ny.rustdesk.com
 rs.fullstory.com
 rs.rudderstack.com
 rtax.criteo.com
@@ -12404,7 +12399,6 @@ rum.aliyuncs.com
 rum.browser-intake-datadoghq.com
 runaki-support.appspot.com
 ruthaiv.com
-rytmy.pl
 s-pushtan.digital
 s.adx.opera.com
 s.amazon-adsystem.com
@@ -12417,6 +12411,7 @@ s2.spylive360.com
 s2s.adjust.com
 s3.spylive360.com
 s3.thd.cc
+s7pypa5fecvqqjh65y4sxa56wqs5oh4apvc3kwyvrvac6wer7uiesuyd.onion
 s9gxw8.com
 sacrificeprincipal.net
 safaribrowserupdate.com
@@ -12718,10 +12713,12 @@ stream.launchdarkly.com
 stride25.com
 stroygeotrans.ru
 studio11-7e288.firebaseio.com
+studyineuropes.com
 stupendoussleet.com
 stupendoussnow.com
 stylebrakedown.com
 stylishblock.com
+sufactura-plf.ourhobby.com
 suggestqueries.google.com
 suggestutterly.com
 sumologic.com
@@ -13173,6 +13170,7 @@ x-mode.io
 x.pgv4.com
 x1panel.com
 xad.com
+xeytbzpszyenxghvjuoa.supabase.co
 xiaocong-zuida.com
 xibxw.com
 xinshuzx.com
